@@ -1,0 +1,84 @@
+Meatloaf:
+Quantifiers: 
+Ingredients: Meatloaf 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 small Spanish onion, cut into small dice 
+Quantifiers: 1 
+Ingredients: Spanish_onion cut 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+3 cloves garlic, minced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/2 cup whole milk 
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk 
+
+1 tablespoon Dijon mustard 
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon hot sauce, such as Tabasco 
+Quantifiers: 1 teaspoon as 
+Ingredients: hot_sauce Tabasco 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 pound ground chuck 
+Quantifiers: 1 pound ground 
+Ingredients: chuck 
+
+8 ounces ground pork 
+Quantifiers: 8 ounces ground 
+Ingredients: pork 
+
+8 ounces ground veal 
+Quantifiers: 8 ounces ground 
+Ingredients: veal 
+
+1 cup coarsely crushed saltine crackers (about 24) 
+Quantifiers: 1 cup 24 
+Ingredients: saltine crackers 
+
+1/3 cup minced fresh parsley 
+Quantifiers: 1/3 cup 
+Ingredients: parsley 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup barbecue sauce
+Quantifiers: 1/2 cup 
+Ingredients: barbecue_sauce 
+
+1/4 cup brown sugar 
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+1/4 cup apple cider vinegar 
+Quantifiers: 1/4 cup 
+Ingredients: apple cider_vinegar 
+
+2 tablespoons sriracha sauce
+Quantifiers: 2 tablespoons 
+Ingredients: sauce 
+

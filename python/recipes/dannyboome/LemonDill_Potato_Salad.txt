@@ -1,0 +1,32 @@
+3 pounds medium baby new potatoes, unpeeled, quartered
+Quantifiers: 3 pounds medium 
+Ingredients: potatoes 
+
+1 cup frozen green peas
+Quantifiers: 1 cup 
+Ingredients: green_peas 
+
+3/4 cup finely chopped red onion
+Quantifiers: 3/4 cup 
+Ingredients: red_onion 
+
+2 tablespoons freshly chopped fresh dill
+Quantifiers: 2 tablespoons 
+Ingredients: dill 
+
+2 tablespoons chopped fresh chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 tablespoons fresh lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+

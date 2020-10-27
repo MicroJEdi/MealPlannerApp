@@ -1,0 +1,36 @@
+Graham Cracker Crust:
+Quantifiers: 
+Ingredients: Graham_Cracker 
+
+2 cups graham cracker crumbs
+Quantifiers: 2 cups cracker_crumbs 
+Ingredients: graham_
+
+1/4 cup granulated sugar
+Quantifiers: 1/4 cup 
+Ingredients: granulated_sugar 
+
+7 tablespoons butter, melted
+Quantifiers: 7 tablespoons 
+Ingredients: butter 
+
+Lemonade Filling:
+Quantifiers: 
+Ingredients: Lemonade Filling 
+
+One 14-ounce can sweetened condensed milk, chilled
+Quantifiers: One can 
+Ingredients: condensed_milk 
+
+One 12-ounce container whipped topping, thawed
+Quantifiers: One container 
+Ingredients: 
+
+One 6-fluid-ounce can frozen lemonade concentrate, unthawed
+Quantifiers: One can 
+Ingredients: lemonade concentrate 
+
+1 teaspoon candied lemon peel, for garnish
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_peel 
+

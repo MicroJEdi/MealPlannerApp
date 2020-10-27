@@ -1,0 +1,44 @@
+4 large cloves garlic, unpeeled
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1/4 cup extra-virgin olive oil, plus more for drizzling
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/4 cup fresh lemon juice
+Quantifiers: 1/4 cup 
+Ingredients: lemon_juice 
+
+1/2 teaspoon sugar
+Quantifiers: 1/2 teaspoon 
+Ingredients: sugar 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1/4 cup grapeseed oil
+Quantifiers: 1/4 cup 
+Ingredients: oil 
+
+5 Granny Smith apples, julienned
+Quantifiers: 5 
+Ingredients: Granny_Smith apples 
+
+1/2 small head green cabbage, very thinly sliced (about 4 cups)
+Quantifiers: 1/2 head 4 cups 
+Ingredients: green cabbage 
+
+1/3 cup walnuts, toasted and chopped
+Quantifiers: 1/3 cup 
+Ingredients: walnuts 
+
+3 tablespoons chopped fresh parsley
+Quantifiers: 3 tablespoons 
+Ingredients: parsley 
+
+1 tablespoon black truffle oil
+Quantifiers: 1 tablespoon black 
+Ingredients: truffle oil 
+

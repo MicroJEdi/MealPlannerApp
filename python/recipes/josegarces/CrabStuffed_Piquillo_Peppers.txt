@@ -1,0 +1,72 @@
+1 tablespoon smoked paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1/2 cup vegetable oil
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+1 large egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1 tablespoon sherry vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: sherry vinegar 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+For the peppers:
+Quantifiers: 
+Ingredients: peppers 
+
+3 tablespoons mayonnaise
+Quantifiers: 3 tablespoons 
+Ingredients: mayonnaise 
+
+3 tablespoons creme fraiche
+Quantifiers: 3 tablespoons 
+Ingredients: 
+
+2 teaspoons dijon mustard
+Quantifiers: 2 teaspoons 
+Ingredients: mustard 
+
+1 teaspoon fresh lemon juice
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+1/4 cup grated manchego cheese
+Quantifiers: 1/4 cup 
+Ingredients: cheese 
+
+2 tablespoons finely chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+2 tablespoons finely chopped fresh chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+1 large egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+8 ounces jumbo lump crabmeat, picked through
+Quantifiers: 8 ounces 
+Ingredients: crabmeat 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 16-ounce jar piquillo peppers
+Quantifiers: 1 jar 
+Ingredients: peppers 
+

@@ -1,0 +1,60 @@
+10 slices bacon, finely chopped
+Quantifiers: 10 slices 
+Ingredients: bacon 
+
+2 medium onions, chopped (about 2 1/2 cups)
+Quantifiers: 2 medium 2 1/2 cups 
+Ingredients: onions 
+
+6 garlic cloves, pressed
+Quantifiers: 6 
+Ingredients: garlic_cloves 
+
+1 (14 1/2-ounce) can reduced-sodium chicken broth
+Quantifiers: 1 14 can 
+Ingredients: chicken_broth 
+
+1 1/2 cups canned chopped tomatoes
+Quantifiers: 1 1/2 cups 
+Ingredients: tomatoes 
+
+2 tablespoons ketchup
+Quantifiers: 2 tablespoons 
+Ingredients: ketchup 
+
+2 teaspoons Worcestershire sauce
+Quantifiers: 2 teaspoons 
+Ingredients: Worcestershire_sauce 
+
+1 tablespoon chili powder
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+4 (15 1/2-ounce) cans black beans, drained but not rinsed
+Quantifiers: 4 15 cans 
+Ingredients: black_beans 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 bunch cilantro
+Quantifiers: 1 
+Ingredients: cilantro 
+
+juice of 1/2 lime
+Quantifiers: 1/2 
+Ingredients: juice lime 
+
+Thinly sliced scallions, for garnish
+Quantifiers: 
+Ingredients: scallions 
+
+Sour cream, for garnish
+Quantifiers: 
+Ingredients: Sour_cream 
+
+Grated cheddar, for garnish
+Quantifiers: 
+Ingredients: cheddar 
+

@@ -1,0 +1,144 @@
+4 duck breasts, recipe follows
+Quantifiers: 4 duck breasts 
+Ingredients: 
+
+1 cup (8 ounces) duck leg confit, recipe follows
+Quantifiers: 1 cup 8 ounces duck leg 
+Ingredients: confit 
+
+4 ounces foie gras, recipe follows
+Quantifiers: 4 ounces 
+Ingredients: foie_gras 
+
+2 cups Horseradish Parsnip puree, recipe follows
+Quantifiers: 2 cups 
+Ingredients: Horseradish Parsnip puree 
+
+1 cup Huckleberry brandy sauce, recipe follows
+Quantifiers: 1 cup 
+Ingredients: Huckleberry brandy sauce 
+
+Parsnip strips and parsley sprigs for garnish
+Quantifiers: 
+Ingredients: Parsnip parsley 
+
+Parsnip strips and parsley sprigs for garnish 
+Quantifiers: 
+Ingredients: Parsnip parsley 
+
+4 duck breasts, skin on
+Quantifiers: 4 duck breasts skin 
+Ingredients: 
+
+1-ounce canola oil
+Quantifiers: 
+Ingredients: canola_oil 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Duck Confit:
+Quantifiers: Duck 
+Ingredients: Confit 
+
+1-ounce canola oil, plus 10 ounces
+Quantifiers: 10 ounces 
+Ingredients: canola_oil 
+
+3 duck legs, seasoned with salt and pepper on all sides
+Quantifiers: 3 duck legs 
+Ingredients: salt pepper sides 
+
+3 duck legs, seasoned with salt and pepper on all sides 
+Quantifiers: 3 duck legs 
+Ingredients: salt pepper sides 
+
+1 white onion, chopped
+Quantifiers: 1 
+Ingredients: white onion 
+
+4 garlic cloves, whole
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+1 celery stalk, chopped
+Quantifiers: 1 
+Ingredients: celery 
+
+5 thyme sprigs, whole
+Quantifiers: 5 
+Ingredients: thyme 
+
+Foie Gras:
+Quantifiers: 
+Ingredients: Foie_Gras 
+
+4 ounces foie gras, cut into 4 (1-ounce) portions
+Quantifiers: 4 ounces 4 portions 
+Ingredients: foie_gras cut 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Parsnip Puree:
+Quantifiers: 
+Ingredients: Parsnip Puree 
+
+3 Idaho potatoes, peeled and cut into even pieces
+Quantifiers: 3 even pieces 
+Ingredients: potatoes cut 
+
+6 parsnips, peeled and cut into even pieces
+Quantifiers: 6 even pieces 
+Ingredients: parsnips cut 
+
+Water, as needed
+Quantifiers: as 
+Ingredients: Water 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+2 to 4 ounces heavy whipping cream
+Quantifiers: 2 4 ounces 
+Ingredients: whipping_cream 
+
+2 tablespoons prepared horseradish
+Quantifiers: 2 tablespoons 
+Ingredients: horseradish 
+
+Huckleberry brandy sauce:
+Quantifiers: 
+Ingredients: Huckleberry brandy sauce 
+
+8 ounces huckleberries
+Quantifiers: 8 ounces 
+Ingredients: huckleberries 
+
+2 ounces brandy
+Quantifiers: 2 ounces 
+Ingredients: brandy 
+
+1-ounce butter
+Quantifiers: 
+Ingredients: butter 
+
+2 ounces sugar 
+Quantifiers: 2 ounces 
+Ingredients: sugar 
+
+4 ounces veal demi-glace (optional)
+Quantifiers: 4 ounces 
+Ingredients: veal 
+
+Lemon juice, to taste
+Quantifiers: taste 
+Ingredients: Lemon_juice 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

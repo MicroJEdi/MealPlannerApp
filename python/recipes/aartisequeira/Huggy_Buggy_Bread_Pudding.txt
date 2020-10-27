@@ -1,0 +1,52 @@
+3 tablespoons melted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 (14-ounce) can coconut milk (not low-fat)
+Quantifiers: 1 can 
+Ingredients: coconut_milk 
+
+3 cups whole milk
+Quantifiers: 3 cups 
+Ingredients: whole_milk 
+
+1/4 teaspoon ground cinnamon
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cinnamon 
+
+1/4 teaspoon ground cardamom
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cardamom 
+
+1/4 teaspoon ground ginger
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: ginger 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1 baguette, cut into 1-inch chunks (about 7 cups)
+Quantifiers: 1 chunks 7 cups 
+Ingredients: baguette cut 
+
+6 dried figs, soaked in hot water for at least 15 minutes, thinly sliced*
+Quantifiers: 6 in at 15_minutes 
+Ingredients: figs water 
+
+Handful roasted unsalted cashew nuts, whole or chopped
+Quantifiers: Handful 
+Ingredients: cashew_nuts 
+
+Vanilla ice cream, for serving
+Quantifiers: serving 
+Ingredients: Vanilla ice_cream 
+

@@ -1,0 +1,60 @@
+2 cans black beans, drained, about 30 ounces
+Quantifiers: 2 cans 30 ounces 
+Ingredients: black_beans 
+
+1 (15-ounce) can corn, drained
+Quantifiers: 1 can 
+Ingredients: corn 
+
+2 Roma tomatoes, diced
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1/4 cup diced red bell pepper
+Quantifiers: 1/4 cup 
+Ingredients: bell_pepper 
+
+1/4 cup diced red onion
+Quantifiers: 1/4 cup 
+Ingredients: red_onion 
+
+1/4 cup diced green onions
+Quantifiers: 1/4 cup 
+Ingredients: green_onions 
+
+1/4 cup diced pineapple
+Quantifiers: 1/4 cup 
+Ingredients: pineapple 
+
+1 tablespoon chopped cilantro leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: cilantro 
+
+1 jalapeno, seeded and minced
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+4 tablespoons sherry vinegar
+Quantifiers: 4 tablespoons 
+Ingredients: sherry vinegar 
+
+Juice of 1/2 lime
+Quantifiers: 1/2 
+Ingredients: Juice lime 
+
+3 tablespoons honey
+Quantifiers: 3 tablespoons 
+Ingredients: honey 
+
+1 tablespoons salt
+Quantifiers: 1 tablespoons 
+Ingredients: salt 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+Pinch ground cumin
+Quantifiers: Pinch ground 
+Ingredients: cumin 
+

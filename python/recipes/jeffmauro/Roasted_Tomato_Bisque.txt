@@ -1,0 +1,56 @@
+Two 28-ounce cans whole tomatoes, drained of their juices
+Quantifiers: Two cans 
+Ingredients: tomatoes juices 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 tablespoon light brown sugar
+Quantifiers: 1 tablespoon light 
+Ingredients: brown_sugar 
+
+4 carrots, peeled and chopped
+Quantifiers: 4 
+Ingredients: carrots 
+
+2 shallots, quartered
+Quantifiers: 2 
+Ingredients: shallots 
+
+Salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Salt black_pepper 
+
+3 tablespoons unsalted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1/2 teaspoon crushed red pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+2 tablespoons dry sherry
+Quantifiers: 2 tablespoons 
+Ingredients: sherry 
+
+One 28-ounce can crushed tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+1 to 2 cups chicken stock
+Quantifiers: 1 2 cups 
+Ingredients: chicken_stock 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+

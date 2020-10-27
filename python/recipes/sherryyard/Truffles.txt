@@ -1,0 +1,32 @@
+Truffle:
+Quantifiers: 
+Ingredients: Truffle 
+
+1 recipe Master Ganache, recipe follows, with the addition of:
+Quantifiers: 1 Master addition 
+Ingredients: 
+
+2 tablespoons (1/4 stick) unsalted butter, softened
+Quantifiers: 2 tablespoons 1/4 stick 
+Ingredients: butter 
+
+1 tablespoon light corn syrup
+Quantifiers: 1 tablespoon light 
+Ingredients: corn_syrup 
+
+2 tablespoons liqueur, such as Grand Marnier, kirsch, bourbon, or rum
+Quantifiers: 2 tablespoons as 
+Ingredients: liqueur Grand_Marnier kirsch bourbon rum 
+
+Coating:
+Quantifiers: 
+Ingredients: 
+
+2 cups sifted unsweetened cocoa powder
+Quantifiers: 2 cups 
+Ingredients: cocoa_powder 
+
+8 ounces bittersweet chocolate
+Quantifiers: 8 ounces 
+Ingredients: bittersweet_chocolate 
+

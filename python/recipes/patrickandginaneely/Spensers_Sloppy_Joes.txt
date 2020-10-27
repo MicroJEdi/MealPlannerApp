@@ -1,0 +1,52 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1 green bell pepper, chopped
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 red bell pepper, chopped
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 garlic cloves, chopped
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 pounds lean ground beef
+Quantifiers: 2 pounds 
+Ingredients: ground_beef 
+
+1 (8-ounce) can tomato sauce
+Quantifiers: 1 can 
+Ingredients: tomato_sauce 
+
+3 tablespoons tomato paste
+Quantifiers: 3 tablespoons 
+Ingredients: tomato_paste 
+
+1 cup barbecue sauce
+Quantifiers: 1 cup 
+Ingredients: barbecue_sauce 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon hot sauce (recommended: Tabasco)
+Quantifiers: 1 teaspoon 
+Ingredients: hot_sauce Tabasco 
+
+4 hamburger buns, split
+Quantifiers: 4 split 
+Ingredients: hamburger_buns 
+
+Barbecue sauce, for topping
+Quantifiers: 
+Ingredients: Barbecue_sauce 
+

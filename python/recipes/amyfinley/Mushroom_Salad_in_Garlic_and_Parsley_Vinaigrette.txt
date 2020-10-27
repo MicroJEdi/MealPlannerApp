@@ -1,0 +1,48 @@
+1 pound white button mushrooms, thinly sliced
+Quantifiers: 1 pound button 
+Ingredients: white mushrooms 
+
+Garlic and Parsley Vinaigrette, recipe follows
+Quantifiers: 
+Ingredients: Garlic Parsley Vinaigrette 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Vinaigrette:
+Quantifiers: 
+Ingredients: Vinaigrette 
+
+2 tablespoons finely chopped shallot (about 1 small)
+Quantifiers: 2 tablespoons 1 
+Ingredients: shallot 
+
+1 large clove garlic, finely chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 tablespoons freshly chopped parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+1 1/2 tablespoons country Dijon mustard
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: mustard 
+
+4 tablespoons red wine vinegar
+Quantifiers: 4 tablespoons 
+Ingredients: red_wine_vinegar 
+
+1/2 teaspoon coarse salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon freshly cracked black pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: black_pepper 
+
+5 tablespoons olive oil
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+

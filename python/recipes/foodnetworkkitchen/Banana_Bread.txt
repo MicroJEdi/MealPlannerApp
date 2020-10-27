@@ -1,0 +1,40 @@
+2 cups flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+4 very ripe bananas
+Quantifiers: 4 
+Ingredients: bananas 
+
+1 teaspoon vanilla
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla 
+
+1/2 cup vegetable oil
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+1 teaspoon cinnamon
+Quantifiers: 1 teaspoon 
+Ingredients: cinnamon 
+

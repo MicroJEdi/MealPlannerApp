@@ -1,0 +1,68 @@
+1 store-bought rotisserie chicken
+Quantifiers: 1 
+Ingredients: chicken 
+
+1/4 cup hot sauce (recommended: Frank's Red Hot)
+Quantifiers: 1/4 cup 
+Ingredients: hot_sauce Franks Red_Hot 
+
+1 teaspoon ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 3/4 cups sharp Cheddar
+Quantifiers: 1 3/4 cups sharp 
+Ingredients: Cheddar 
+
+1/4 cup freshly sliced scallions
+Quantifiers: 1/4 cup 
+Ingredients: scallions 
+
+1 cups all-purpose flour
+Quantifiers: 1 cups 
+Ingredients: flour 
+
+3 eggs, lightly beaten
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups panko bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Blue Cheese Dip:
+Quantifiers: 
+Ingredients: Blue_Cheese_Dip 
+
+1 1/2 cups mayonnaise
+Quantifiers: 1 1/2 cups 
+Ingredients: mayonnaise 
+
+1/2 cup packed blue cheese, broken up
+Quantifiers: 1/2 cup 
+Ingredients: blue_cheese 
+
+1/2 teaspoon hot sauce
+Quantifiers: 1/2 teaspoon 
+Ingredients: hot_sauce 
+
+2 teaspoons Worcestershire sauce
+Quantifiers: 2 teaspoons 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1 teaspoon chopped garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+

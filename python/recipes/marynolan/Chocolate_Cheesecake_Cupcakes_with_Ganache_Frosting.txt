@@ -1,0 +1,68 @@
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1/2 cup unsweetened cocoa powder
+Quantifiers: 1/2 cup 
+Ingredients: cocoa_powder 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+6 tablespoons butter, softened
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+3/4 cup sugar, plus 2 tablespoons
+Quantifiers: 3/4 cup 2 tablespoons 
+Ingredients: sugar 
+
+1 egg, at room temperature
+Quantifiers: 1 at room_temperature 
+Ingredients: egg 
+
+2/3 cup milk, at room temperature
+Quantifiers: 2/3 cup at room_temperature 
+Ingredients: milk 
+
+3 ounces cream cheese, softened
+Quantifiers: 3 ounces 
+Ingredients: cream_cheese 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+2 tablespoons mini semisweet chocolate chips
+Quantifiers: 2 tablespoons 
+Ingredients: chocolate chips 
+
+2 tablespoons chopped walnuts
+Quantifiers: 2 tablespoons 
+Ingredients: walnuts 
+
+Ganache frosting, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Ganache Frosting:
+Quantifiers: 
+Ingredients: 
+
+3/4 cup semisweet chocolate chips
+Quantifiers: 3/4 cup 
+Ingredients: chocolate chips 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+1/2 teaspoon instant espresso powder, optional
+Quantifiers: 1/2 teaspoon instant 
+Ingredients: espresso 
+

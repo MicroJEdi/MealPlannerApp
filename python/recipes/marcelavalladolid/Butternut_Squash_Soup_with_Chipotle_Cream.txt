@@ -1,0 +1,52 @@
+3 tablespoons olive oil, divided
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 medium butternut squash, halved lengthwise, seeds discarded, washed, and reserved
+Quantifiers: 1 medium 
+Ingredients: butternut_squash seeds 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2 stalks celery, chopped
+Quantifiers: 2 
+Ingredients: celery 
+
+2 carrots, chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+6 cups chicken broth, divided
+Quantifiers: 6 cups 
+Ingredients: chicken_broth 
+
+2 teaspoons minced canned chipotle chiles in adobo
+Quantifiers: 2 teaspoons in 
+Ingredients: chipotle chiles adobo 
+
+Chipotle Cream:
+Quantifiers: 
+Ingredients: Chipotle Cream 
+
+1 teaspoon minced canned chipotle chiles in adobo
+Quantifiers: 1 teaspoon in 
+Ingredients: chipotle chiles adobo 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

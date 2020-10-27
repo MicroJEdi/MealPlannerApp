@@ -1,0 +1,44 @@
+6 tablespoons extra-virgin olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+1 pound mild green peppers, such as cubanelles or Anaheims, stemmed, seeded and coarsely chopped
+Quantifiers: 1 pound as 
+Ingredients: green_peppers 
+
+1 tablespoon pul biber pepper (Aleppo pepper) 
+Quantifiers: 1 tablespoon pul 
+Ingredients: pepper pepper 
+
+1 large onion, coarsely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 pounds ground beef 
+Quantifiers: 2 pounds 
+Ingredients: ground_beef 
+
+3/4 cup canola oil, plus more for brushing
+Quantifiers: 3/4 cup 
+Ingredients: canola_oil 
+
+5 large eggs
+Quantifiers: 5 
+Ingredients: eggs 
+
+1 cup milk
+Quantifiers: 1 cup 
+Ingredients: milk 
+
+One 16-ounce package yufka dough
+Quantifiers: One package 
+Ingredients: dough 
+
+2 tablespoons nigella sativa (black cumin seeds)
+Quantifiers: 2 tablespoons black 
+Ingredients: cumin_seeds 
+

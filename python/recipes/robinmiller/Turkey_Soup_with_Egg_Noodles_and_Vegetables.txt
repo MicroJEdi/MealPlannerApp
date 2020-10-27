@@ -1,0 +1,56 @@
+2 teaspoons olive or vegetable oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive vegetable_oil 
+
+2 leeks, cleaned and chopped
+Quantifiers: 2 
+Ingredients: leeks 
+
+2 carrots, peeled and chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 stalk celery, chopped
+Quantifiers: 1 
+Ingredients: celery 
+
+3 to 4 cups leftover cooked turkey, shredded or cubed
+Quantifiers: 3 4 cups 
+Ingredients: turkey 
+
+2 to 3 bay leaves
+Quantifiers: 2 3 leaves 
+Ingredients: bay_leaves 
+
+2 teaspoons dried thyme
+Quantifiers: 2 teaspoons 
+Ingredients: thyme 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+8 cups reduced-sodium chicken broth
+Quantifiers: 8 cups 
+Ingredients: chicken_broth 
+
+6 ounces uncooked egg noodles
+Quantifiers: 6 ounces 
+Ingredients: egg_noodles 
+
+1 cup frozen green peas
+Quantifiers: 1 cup 
+Ingredients: green_peas 
+
+2 tablespoons chopped fresh parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+

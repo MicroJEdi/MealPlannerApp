@@ -1,0 +1,44 @@
+2 1/2 pounds fresh tomatoes (mix of fresh heirlooms, cherry, vine and plum tomatoes)
+Quantifiers: 2 1/2 pounds 
+Ingredients: tomatoes mix cherry plum tomatoes 
+
+6 cloves garlic, peeled
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+2 small yellow onions, sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+Vine cherry tomatoes for garnish, optional
+Quantifiers: 
+Ingredients: cherry tomatoes 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 quart chicken stock
+Quantifiers: 1 quart 
+Ingredients: chicken_stock 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1/2 cup chopped fresh basil leaves, optional
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+3/4 cup heavy cream, optional
+Quantifiers: 3/4 cup 
+Ingredients: heavy_cream 
+

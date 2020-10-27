@@ -1,0 +1,40 @@
+1/4 cup good olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+3 tablespoons minced garlic (9 cloves)
+Quantifiers: 3 tablespoons 9 
+Ingredients: garlic cloves 
+
+1/3 cup dry white wine
+Quantifiers: 1/3 cup 
+Ingredients: white_wine 
+
+1 tablespoon grated lemon zest (2 lemons)
+Quantifiers: 1 tablespoon 2 
+Ingredients: lemon lemons 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1 1/2 teaspoons dried oregano
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: oregano 
+
+1 teaspoon minced fresh thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 boneless chicken breasts, skin on (6 to 8 ounces each)
+Quantifiers: 4 breasts skin 6 8 ounces 
+Ingredients: chicken 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+

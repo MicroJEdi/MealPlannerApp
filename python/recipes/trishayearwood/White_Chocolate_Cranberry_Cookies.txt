@@ -1,0 +1,40 @@
+1/2 cup unsalted butter, softened
+Quantifiers: 1/2 cup 
+Ingredients: butter 
+
+1/2 cup packed light brown sugar
+Quantifiers: 1/2 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons baking soda
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: soda 
+
+1 cup dried cranberries, chopped
+Quantifiers: 1 cup 
+Ingredients: cranberries 
+
+3/4 cup white chocolate chips
+Quantifiers: 3/4 cup 
+Ingredients: white_chocolate chips 
+
+3/4 cup macadamia nuts, chopped
+Quantifiers: 3/4 cup 
+Ingredients: macadamia_nuts 
+

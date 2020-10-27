@@ -1,0 +1,60 @@
+4 ears fresh corn, unshucked
+Quantifiers: 4 
+Ingredients: ears corn 
+
+1 large jicama, peeled and thinly julienned
+Quantifiers: 1 
+Ingredients: 
+
+1 ripe mango, peeled and chopped into 1/2-inch pieces
+Quantifiers: 1 pieces 
+Ingredients: mango 
+
+1/2 red onion, thinly sliced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+2 tablespoons chopped cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+Citrus vinaigrette, recipe follows
+Quantifiers: 
+Ingredients: Citrus vinaigrette 
+
+Citrus Vinaigrette:
+Quantifiers: 
+Ingredients: Citrus Vinaigrette 
+
+2 tablespoons fresh lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+2 tablespoons fresh orange juice
+Quantifiers: 2 tablespoons 
+Ingredients: orange_juice 
+
+1 teaspoon freshly grated orange zest
+Quantifiers: 1 teaspoon 
+Ingredients: orange 
+
+2 teaspoons sugar
+Quantifiers: 2 teaspoons 
+Ingredients: sugar 
+
+Dash hot sauce
+Quantifiers: 
+Ingredients: hot_sauce 
+
+1 cup olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+Salt pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+2 tablespoons chopped cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+

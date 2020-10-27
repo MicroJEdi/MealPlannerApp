@@ -1,0 +1,40 @@
+Zest and juice of 1 lime
+Quantifiers: 1 
+Ingredients: juice lime 
+
+3 tablespoons extra-virgin olive oil 
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+4 cups cooked quinoa, cooled 
+Quantifiers: 4 cups 
+Ingredients: 
+
+2 cups green grapes, halved 
+Quantifiers: 2 cups 
+Ingredients: green grapes 
+
+1 1/2 cups diced cucumbers
+Quantifiers: 1 1/2 cups 
+Ingredients: cucumbers 
+
+1/2 cup fresh mint, roughly chopped 
+Quantifiers: 1/2 cup mint 
+Ingredients: 
+
+1/2 cup fresh parsley, roughly chopped 
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+
+4 scallions, white and light green parts, sliced 
+Quantifiers: 4 light 
+Ingredients: scallions white green 
+
+1 avocado, diced
+Quantifiers: 1 
+Ingredients: avocado 
+

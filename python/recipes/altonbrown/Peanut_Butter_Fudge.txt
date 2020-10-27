@@ -1,0 +1,16 @@
+8 ounces unsalted butter, plus more for greasing pan
+Quantifiers: 8 ounces pan 
+Ingredients: butter 
+
+1 cup smooth peanut butter
+Quantifiers: 1 cup 
+Ingredients: peanut_butter 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 pound powdered sugar
+Quantifiers: 1 pound 
+Ingredients: powdered_sugar 
+

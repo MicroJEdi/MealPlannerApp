@@ -1,0 +1,24 @@
+1 side fresh salmon, boned but skin on (about 3 pounds)
+Quantifiers: 1 skin 3 pounds 
+Ingredients: side salmon 
+
+For the marinade:
+Quantifiers: 
+Ingredients: marinade 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+3 tablespoons good soy sauce
+Quantifiers: 3 tablespoons 
+Ingredients: soy_sauce 
+
+6 tablespoons good olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+1/2 teaspoon minced garlic
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+

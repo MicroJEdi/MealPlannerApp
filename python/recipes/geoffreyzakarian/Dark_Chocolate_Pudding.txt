@@ -1,0 +1,32 @@
+12 ounces semisweet chocolate, chopped
+Quantifiers: 12 ounces 
+Ingredients: chocolate 
+
+1 1/2 cups heavy cream 
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+1 cup whole milk 
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+2/3 cup sugar 
+Quantifiers: 2/3 cup 
+Ingredients: sugar 
+
+2 teaspoons pure vanilla extract 
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+2 pinches of fine salt 
+Quantifiers: 2 pinches 
+Ingredients: salt 
+
+8 large egg yolks 
+Quantifiers: 8 
+Ingredients: egg_yolks 
+
+Whipped sour cream, for serving, optional
+Quantifiers: serving 
+Ingredients: sour_cream 
+

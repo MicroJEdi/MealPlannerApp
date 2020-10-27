@@ -1,0 +1,36 @@
+4 1/2 cups whole milk
+Quantifiers: 4 1/2 cups 
+Ingredients: whole_milk 
+
+1 cup sweetened condensed milk
+Quantifiers: 1 cup 
+Ingredients: condensed_milk 
+
+1 vanilla bean, split and scraped
+Quantifiers: 1 split 
+Ingredients: vanilla_bean 
+
+10 ounces bittersweet chocolate, chopped
+Quantifiers: 10 ounces 
+Ingredients: bittersweet_chocolate 
+
+5 tablespoons cornstarch
+Quantifiers: 5 tablespoons 
+Ingredients: 
+
+5 tablespoons cold water
+Quantifiers: 5 tablespoons cold 
+Ingredients: water 
+
+Mini chocolate biscotti, for garnish
+Quantifiers: 
+Ingredients: chocolate 
+
+Fresh raspberries, for garnish
+Quantifiers: 
+Ingredients: raspberries 
+
+Fresh mint leaves, for garnish
+Quantifiers: mint leaves 
+Ingredients: 
+

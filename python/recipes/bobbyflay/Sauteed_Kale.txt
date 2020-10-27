@@ -1,0 +1,24 @@
+1 1/2 pounds young kale, stems and leaves coarsely chopped
+Quantifiers: 1 1/2 pounds kale leaves 
+Ingredients: 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 cloves garlic, finely sliced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 cup vegetable stock or water
+Quantifiers: 1/2 cup 
+Ingredients: vegetable stock water 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+

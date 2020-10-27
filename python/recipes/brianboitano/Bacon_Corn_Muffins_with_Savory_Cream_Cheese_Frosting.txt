@@ -1,0 +1,64 @@
+For Muffins:
+Quantifiers: 
+Ingredients: Muffins 
+
+8 strips bacon
+Quantifiers: 8 
+Ingredients: bacon 
+
+3/4 cup all-purpose flour
+Quantifiers: 3/4 cup 
+Ingredients: flour 
+
+1/2 cup cornmeal
+Quantifiers: 1/2 cup 
+Ingredients: cornmeal 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+2 tablespoons brown sugar
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+3/4 cup milk
+Quantifiers: 3/4 cup 
+Ingredients: milk 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+3 tablespoons butter, melted
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 tablespoon reserved bacon fat
+Quantifiers: 1 tablespoon 
+Ingredients: bacon 
+
+For Frosting:
+Quantifiers: 
+Ingredients: 
+
+8 ounces cream cheese, softened
+Quantifiers: 8 ounces 
+Ingredients: cream_cheese 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+1 bunch chives, sliced
+Quantifiers: 1 
+Ingredients: chives 
+

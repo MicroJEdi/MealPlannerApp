@@ -1,0 +1,28 @@
+1 orange, thinly sliced with peel
+Quantifiers: 1 
+Ingredients: orange 
+
+1/2 onion, thinly sliced
+Quantifiers: 1/2 
+Ingredients: onion 
+
+4 garlic cloves, halved and smashed
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 1/4 pounds skirt steak
+Quantifiers: 2 1/4 pounds 
+Ingredients: steak 
+
+Kosher salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 cup light-colored beer (preferably lager style)
+Quantifiers: 1 cup style 
+Ingredients: beer lager 
+
+1/2 cup soy sauce
+Quantifiers: 1/2 cup 
+Ingredients: soy_sauce 
+

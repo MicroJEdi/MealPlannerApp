@@ -1,0 +1,56 @@
+1 1/4 pounds butternut squash
+Quantifiers: 1 1/4 pounds 
+Ingredients: butternut_squash 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 recipe Pecan Crust, recipe follows
+Quantifiers: 1 
+Ingredients: Pecan 
+
+1/4 cup Steen's 100 percent Pure Cane Syrup
+Quantifiers: 1/4 cup 100 Cane 
+Ingredients: Syrup 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+Pinch of salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+1 1/2 cups whole milk
+Quantifiers: 1 1/2 cups 
+Ingredients: whole_milk 
+
+1 cup Caramel Sauce
+Quantifiers: 1 cup 
+Ingredients: Caramel Sauce 
+
+Spiced Cream, recipe follows
+Quantifiers: 
+Ingredients: Cream 
+

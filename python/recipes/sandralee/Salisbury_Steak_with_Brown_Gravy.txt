@@ -1,0 +1,44 @@
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 1/2 pounds 80 percent lean ground beef
+Quantifiers: 1 1/2 pounds 80 
+Ingredients: ground_beef 
+
+1 cup fresh bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+
+1 tablespoon grill seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: seasoning 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 (8-ounce) package sliced baby portobello mushrooms
+Quantifiers: 1/2 package 
+Ingredients: mushrooms 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+2 (14-ounce) cans beef broth
+Quantifiers: 2 cans 
+Ingredients: beef_broth 
+

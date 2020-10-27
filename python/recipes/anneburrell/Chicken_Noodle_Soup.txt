@@ -1,0 +1,72 @@
+Extra-virgin olive oil, as needed
+Quantifiers: as 
+Ingredients: olive_oil 
+
+1 large onion, cut into 1/2-inch slices
+Quantifiers: 1 slices 
+Ingredients: onion cut 
+
+4 ribs celery, cut into 1/2-inch dice
+Quantifiers: 4 ribs 
+Ingredients: celery cut 
+
+3 carrots, cut into 1/2-inch dice
+Quantifiers: 3 
+Ingredients: carrots cut 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 teaspoons crushed red pepper flakes
+Quantifiers: 2 teaspoons 
+Ingredients: red_pepper 
+
+1 bunch thyme
+Quantifiers: 1 
+Ingredients: thyme 
+
+3 pounds bone-in chicken legs and thighs, skin and excess fat removed
+Quantifiers: 3 pounds chicken_legs thighs skin 
+Ingredients: 
+
+Water, as needed
+Quantifiers: as 
+Ingredients: Water 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 lemon, halved
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+2 grates fresh nutmeg
+Quantifiers: 2 
+Ingredients: nutmeg 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 cups small pasta, preferably small shells such as orecchiette, or orzo
+Quantifiers: 2 cups shells as 
+Ingredients: pasta orzo 
+
+1 (15-ounce) can white beans or chick peas
+Quantifiers: 1 can 
+Ingredients: white_beans peas 
+
+1 bunch cilantro, leaves coarsely chopped
+Quantifiers: 1 leaves 
+Ingredients: cilantro 
+

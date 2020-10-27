@@ -1,0 +1,40 @@
+1 (1/4-ounce) package or 2 teaspoons powdered gelatin
+Quantifiers: 1 package 2 teaspoons 
+Ingredients: gelatin 
+
+3 tablespoons cold water
+Quantifiers: 3 tablespoons cold 
+Ingredients: water 
+
+1 cup milk
+Quantifiers: 1 cup 
+Ingredients: milk 
+
+3 cups heavy cream, divided
+Quantifiers: 3 cups 
+Ingredients: heavy_cream 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1 pinch salt
+Quantifiers: 1 pinch 
+Ingredients: salt 
+
+2 tablespoons instant espresso powder
+Quantifiers: 2 tablespoons instant 
+Ingredients: espresso 
+
+1 vanilla bean, split and seeds scraped
+Quantifiers: 1 split 
+Ingredients: vanilla_bean seeds 
+
+2 tablespoons powdered sugar
+Quantifiers: 2 tablespoons 
+Ingredients: powdered_sugar 
+
+Ground cinnamon, for garnish
+Quantifiers: Ground 
+Ingredients: cinnamon 
+

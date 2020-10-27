@@ -1,0 +1,124 @@
+Jerk Ketchup
+Quantifiers: 
+Ingredients: Jerk Ketchup 
+
+1/2 cup ketchup
+Quantifiers: 1/2 cup 
+Ingredients: ketchup 
+
+1/2 teaspoon ground allspice 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: allspice 
+
+1/2 teaspoon cayenne 
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/2 teaspoon chile flakes 
+Quantifiers: 1/2 teaspoon 
+Ingredients: chile 
+
+1/2 teaspoon garlic powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon onion powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+1/2 teaspoon dried oregano 
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/2 teaspoon brown sugar 
+Quantifiers: 1/2 teaspoon 
+Ingredients: brown_sugar 
+
+1/2 teaspoon dried thyme
+Quantifiers: 1/2 teaspoon 
+Ingredients: thyme 
+
+1/2 lime, juiced
+Quantifiers: 1/2 
+Ingredients: lime 
+
+Beer Battered Onion Rings
+Quantifiers: Rings 
+Ingredients: Beer Onion 
+
+Canola oil, for frying
+Quantifiers: 
+Ingredients: Canola_oil 
+
+1 cup all-purpose flour 
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 12-ounce bottle dark beer 
+Quantifiers: 1 bottle dark 
+Ingredients: beer 
+
+1 large white onion
+Quantifiers: 1 
+Ingredients: white onion 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Caribbean-Style Burger
+Quantifiers: 
+Ingredients: Burger 
+
+4 to 8 ounces ground beef
+Quantifiers: 4 8 ounces 
+Ingredients: ground_beef 
+
+1 1/2 teaspoons ground allspice 
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: allspice 
+
+1 1/2 teaspoons cayenne 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: cayenne 
+
+1 1/2 teaspoons chile flakes 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: chile 
+
+1 1/2 teaspoons garlic powder 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: garlic 
+
+1 1/2 teaspoons onion powder 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: onion 
+
+1 1/2 teaspoons dried oregano 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: oregano 
+
+1 1/2 teaspoons brown sugar 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: brown_sugar 
+
+1 1/2 teaspoons dried thyme 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: thyme 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 to 4 hamburger buns
+Quantifiers: 2 4 
+Ingredients: hamburger_buns 
+

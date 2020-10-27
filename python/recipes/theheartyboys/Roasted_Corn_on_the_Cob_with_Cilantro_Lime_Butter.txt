@@ -1,0 +1,32 @@
+6 ears corn, shucked
+Quantifiers: 6 
+Ingredients: ears corn 
+
+Cilantro Lime Butter, recipe follows
+Quantifiers: 
+Ingredients: Cilantro Lime Butter 
+
+Cilantro Lime Butter
+Quantifiers: 
+Ingredients: Cilantro Lime Butter 
+
+2 sticks unsalted butter, at room temperature
+Quantifiers: 2 sticks at room_temperature 
+Ingredients: butter 
+
+1/4 cup chopped cilantro leaves 
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1 lime, zested and juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+3/4 teaspoon cayenne pepper
+Quantifiers: 3/4 teaspoon 
+Ingredients: cayenne_pepper 
+

@@ -1,0 +1,36 @@
+1 pound daikon
+Quantifiers: 1 pound 
+Ingredients: 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 (14 1/2-ounce) can plum tomatoes
+Quantifiers: 1 14 can 
+Ingredients: plum tomatoes 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 small onion, finely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1 1/2 to 2 teaspoons sugar
+Quantifiers: 1 1/2 2 teaspoons 
+Ingredients: sugar 
+
+1 tablespoon chopped fresh basil leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: basil 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

@@ -1,0 +1,36 @@
+3 cups rolled oats
+Quantifiers: 3 cups 
+Ingredients: rolled_oats 
+
+1 cup slivered almonds
+Quantifiers: 1 cup 
+Ingredients: almonds 
+
+1 cup cashews
+Quantifiers: 1 cup 
+Ingredients: cashews 
+
+3/4 cup shredded sweet coconut
+Quantifiers: 3/4 cup 
+Ingredients: sweet coconut 
+
+1/4 cup plus 2 tablespoons dark brown sugar
+Quantifiers: 1/4 cup 2 tablespoons dark 
+Ingredients: brown_sugar 
+
+1/4 cup plus 2 tablespoons maple syrup
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: maple_syrup 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+1 cup raisins
+Quantifiers: 1 cup 
+Ingredients: raisins 
+

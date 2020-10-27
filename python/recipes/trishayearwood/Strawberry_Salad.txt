@@ -1,0 +1,64 @@
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+1 package ramen noodles, crushed, flavor packet discarded
+Quantifiers: 1 package packet 
+Ingredients: noodles 
+
+1/4 cup sliced almonds
+Quantifiers: 1/4 cup 
+Ingredients: almonds 
+
+1/4 cup sunflower seeds
+Quantifiers: 1/4 cup 
+Ingredients: sunflower_seeds 
+
+1/4 cup (1/2 stick) butter, melted
+Quantifiers: 1/4 cup 1/2 stick 
+Ingredients: butter 
+
+1 head romaine lettuce, washed and dried 
+Quantifiers: 1 head lettuce 
+Ingredients: romaine_lettuce 
+
+One 5-ounce bag baby spinach
+Quantifiers: One bag 
+Ingredients: spinach 
+
+1 pint strawberries, hulled and thinly sliced 
+Quantifiers: 1 pint 
+Ingredients: strawberries 
+
+1 cup grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+Dressing:
+Quantifiers: 
+Ingredients: Dressing 
+
+3/4 cup sugar
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+1/2 cup red wine vinegar
+Quantifiers: 1/2 cup 
+Ingredients: red_wine_vinegar 
+
+3/4 cup vegetable oil
+Quantifiers: 3/4 cup 
+Ingredients: vegetable_oil 
+
+1/2 teaspoon paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoons salt
+Quantifiers: 1/2 teaspoons 
+Ingredients: salt 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+

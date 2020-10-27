@@ -1,0 +1,52 @@
+One 13.5-ounce andouille rope sausage
+Quantifiers: One 
+Ingredients: sausage 
+
+1 teaspoon olive oil 
+Quantifiers: 1 teaspoon 
+Ingredients: olive_oil 
+
+1 small onion, diced 
+Quantifiers: 1 
+Ingredients: onion 
+
+2 teaspoons minced garlic 
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+3 mini sweet peppers, seeded and diced 
+Quantifiers: 3 
+Ingredients: sweet_peppers 
+
+1 yellow squash, sliced into half-moons 
+Quantifiers: 1 
+Ingredients: yellow_squash 
+
+1 zucchini, sliced into half-moons 
+Quantifiers: 1 
+Ingredients: zucchini 
+
+Salt and pepper to taste 
+Quantifiers: taste 
+Ingredients: Salt pepper 
+
+1 1/2 cups white rice 
+Quantifiers: 1 1/2 cups 
+Ingredients: white_rice 
+
+4 1/2 cups vegetable stock 
+Quantifiers: 4 1/2 cups 
+Ingredients: vegetable stock 
+
+1/2 teaspoon saffron threads
+Quantifiers: 1/2 teaspoon threads 
+Ingredients: saffron 
+
+1 tomato, diced 
+Quantifiers: 1 
+Ingredients: tomato 
+
+1 tablespoon minced fresh parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+

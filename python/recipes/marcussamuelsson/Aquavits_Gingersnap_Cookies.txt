@@ -1,0 +1,52 @@
+1/2 cup light brown sugar
+Quantifiers: 1/2 cup light 
+Ingredients: brown_sugar 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+2 sticks unsalted butter
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/3 cup molasses
+Quantifiers: 1/3 cup 
+Ingredients: molasses 
+
+2 teaspoons powdered ginger
+Quantifiers: 2 teaspoons 
+Ingredients: powdered_ginger 
+
+1/2 teaspoon powdered cardamom
+Quantifiers: 1/2 teaspoon 
+Ingredients: cardamom 
+
+1/2 teaspoon powdered cloves
+Quantifiers: 1/2 teaspoon 
+Ingredients: cloves 
+
+2 teaspoons baking soda
+Quantifiers: 2 teaspoons 
+Ingredients: soda 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon white pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: white_pepper 
+
+2 1/4 cups flour
+Quantifiers: 2 1/4 cups 
+Ingredients: flour 
+
+1 cup coarsely chopped candied orange peel
+Quantifiers: 1 cup 
+Ingredients: orange_peel 
+

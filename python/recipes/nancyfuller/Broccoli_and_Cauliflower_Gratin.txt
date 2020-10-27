@@ -1,0 +1,32 @@
+1/2 stick (4 tablespoons) unsalted butter, plus extra at room temperature for greasing the baking dish
+Quantifiers: 1/2 stick 4 tablespoons at room_temperature dish 
+Ingredients: butter 
+
+1 head broccoli, cut into florets 
+Quantifiers: 1 head 
+Ingredients: broccoli cut 
+
+1 head cauliflower, cut into florets 
+Quantifiers: 1 head 
+Ingredients: cauliflower cut 
+
+1/4 cup all-purpose flour 
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+2 cups half-and-half 
+Quantifiers: 2 cups 
+Ingredients: half-and-half 
+
+2 cups shredded sharp white Cheddar, divided 
+Quantifiers: 2 cups sharp 
+Ingredients: white Cheddar 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/2 cup dry breadcrumbs
+Quantifiers: 1/2 cup breadcrumbs 
+Ingredients: 
+

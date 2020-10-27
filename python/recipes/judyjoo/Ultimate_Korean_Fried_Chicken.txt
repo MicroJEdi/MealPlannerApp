@@ -1,0 +1,176 @@
+Pickled Radish Cubes:
+Quantifiers: Cubes 
+Ingredients: Radish 
+
+1/2 cup (113 grams) rice vinegar
+Quantifiers: 1/2 cup grams 
+Ingredients: rice vinegar 
+
+1/2 cup (113 grams) water 
+Quantifiers: 1/2 cup grams 
+Ingredients: water 
+
+1/2 cup (113 grams) superfine sugar or caster sugar 
+Quantifiers: 1/2 cup grams 
+Ingredients: sugar caster_sugar 
+
+1 teaspoon kosher salt or sea salt 
+Quantifiers: 1 teaspoon sea 
+Ingredients: kosher salt salt 
+
+1 pound (about 500 grams) daikon radish, cut into 1/2-inch cubes 
+Quantifiers: 1 pound 500 grams cubes 
+Ingredients: radish cut 
+
+Pre-Coating:
+Quantifiers: 
+Ingredients: 
+
+1/4 cup (32 grams) cornstarch or corn flour
+Quantifiers: 1/4 cup grams 
+Ingredients: corn flour 
+
+2 1/2 teaspoons kosher salt or sea salt 
+Quantifiers: 2 1/2 teaspoons sea 
+Ingredients: kosher salt salt 
+
+1/2 teaspoon baking powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: baking_powder 
+
+10 grinds black pepper 
+Quantifiers: 10 
+Ingredients: black_pepper 
+
+2 chicken drumsticks, 2 thighs and 4 wings with tips (bone in, skin on)
+Quantifiers: 2 chicken_drumsticks 2 thighs 4 wings in skin 
+Ingredients: 
+
+2 chicken drumsticks, 2 thighs and 4 wings with tips (bone in, skin on) 
+Quantifiers: 2 chicken_drumsticks 2 thighs 4 wings in skin 
+Ingredients: 
+
+Gochujang Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+80 grams dark brown sugar
+Quantifiers: 80 grams dark 
+Ingredients: brown_sugar 
+
+70 grams Korean chile paste (gochujang) 
+Quantifiers: 70 grams 
+Ingredients: chile paste 
+
+30 grams soy sauce 
+Quantifiers: 30 grams 
+Ingredients: soy_sauce 
+
+15 grams rice vinegar 
+Quantifiers: 15 grams 
+Ingredients: rice vinegar 
+
+14 grams sesame oil 
+Quantifiers: 14 grams 
+Ingredients: sesame_oil 
+
+1 teaspoon grated ginger
+Quantifiers: 1 teaspoon 
+Ingredients: ginger 
+
+3 cloves garlic, grated 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+Sweet Soy Sauce:
+Quantifiers: 
+Ingredients: Sweet Soy_Sauce 
+
+250 grams soy sauce
+Quantifiers: grams 
+Ingredients: soy_sauce 
+
+100 grams dark brown sugar 
+Quantifiers: 100 grams dark 
+Ingredients: brown_sugar 
+
+60 grams mirin 
+Quantifiers: 60 grams 
+Ingredients: 
+
+30 grams rice vinegar 
+Quantifiers: 30 grams 
+Ingredients: rice vinegar 
+
+6 grams sesame oil 
+Quantifiers: 6 grams 
+Ingredients: sesame_oil 
+
+1 teaspoon grated ginger
+Quantifiers: 1 teaspoon 
+Ingredients: ginger 
+
+1/2 teaspoon Korean chile flakes (gochugaru)
+Quantifiers: 1/2 teaspoon 
+Ingredients: chile 
+
+2 cloves garlic, grated 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 1/2 tablespoons cornstarch or corn flour
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: corn flour 
+
+Batter:
+Quantifiers: 
+Ingredients: Batter 
+
+Oil, for frying
+Quantifiers: 
+Ingredients: Oil 
+
+1/2 cup (70 grams) cornstarch or corn flour 
+Quantifiers: 1/2 cup 70 grams 
+Ingredients: corn flour 
+
+1/4 cup (34 grams) fine matzo meal 
+Quantifiers: 1/4 cup grams 
+Ingredients: matzo_meal 
+
+1/4 cup (35 grams) all-purpose flour 
+Quantifiers: 1/4 cup grams 
+Ingredients: flour 
+
+2 tablespoons Korean chile flakes (gochugaru) 
+Quantifiers: 2 tablespoons 
+Ingredients: chile 
+
+1 tablespoon kosher salt or sea salt 
+Quantifiers: 1 tablespoon sea 
+Ingredients: kosher salt salt 
+
+2 1/2 teaspoons garlic granules 
+Quantifiers: 2 1/2 teaspoons 
+Ingredients: garlic 
+
+2 1/2 teaspoons onion granules 
+Quantifiers: 2 1/2 teaspoons 
+Ingredients: onion 
+
+1/4 teaspoon baking powder 
+Quantifiers: 1/4 teaspoon 
+Ingredients: baking_powder 
+
+1 cup (237 grams) water 
+Quantifiers: 1 cup grams 
+Ingredients: water 
+
+1/3 cup (75 grams) vodka 
+Quantifiers: 1/3 cup grams 
+Ingredients: vodka 
+
+2 tablespoons Korean chile paste (gochujang)
+Quantifiers: 2 tablespoons 
+Ingredients: chile paste 
+

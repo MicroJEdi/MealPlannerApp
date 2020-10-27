@@ -1,0 +1,56 @@
+Ready-made mini pastry shells
+Quantifiers: shells 
+Ingredients: pastry 
+
+Lemon curd, recipe follows
+Quantifiers: 
+Ingredients: Lemon_curd 
+
+Meringue, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Meyer Lemon Curd:
+Quantifiers: 
+Ingredients: Lemon_Curd 
+
+4 egg yolks (pasteurized)
+Quantifiers: 4 
+Ingredients: egg_yolks 
+
+4 whole eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+6 1/2 ounces granulated sugar
+Quantifiers: 6 1/2 ounces 
+Ingredients: granulated_sugar 
+
+1 cup Meyer lemon juice
+Quantifiers: 1 cup 
+Ingredients: lemon_juice 
+
+3 Meyer lemons, zested
+Quantifiers: 3 
+Ingredients: lemons 
+
+1 sheet gelatin
+Quantifiers: 1 sheet 
+Ingredients: gelatin 
+
+6 ounces butter, cut into cubes
+Quantifiers: 6 ounces cubes 
+Ingredients: butter cut 
+
+Meringue:
+Quantifiers: 
+Ingredients: 
+
+1 part egg white
+Quantifiers: 1 
+Ingredients: egg_white 
+
+1 1/2 parts sugar
+Quantifiers: 1 1/2 
+Ingredients: sugar 
+

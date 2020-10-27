@@ -1,0 +1,48 @@
+Canola spray, for spraying baking dish
+Quantifiers: spray spraying dish 
+Ingredients: Canola 
+
+2 eggs, lightly beaten 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup shredded sharp Cheddar
+Quantifiers: 1 cup sharp 
+Ingredients: Cheddar 
+
+1 cup whipped cream cheese 
+Quantifiers: 1 cup 
+Ingredients: cream_cheese 
+
+1 cup heavy cream 
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1/2 cup breadcrumbs 
+Quantifiers: 1/2 cup breadcrumbs 
+Ingredients: 
+
+2 tablespoons honey 
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 tablespoon chopped fresh marjoram 
+Quantifiers: 1 tablespoon 
+Ingredients: marjoram 
+
+2 shallots, chopped 
+Quantifiers: 2 
+Ingredients: shallots 
+
+4 cups fresh corn kernels or two 8-ounce bags frozen corn kernels, thawed
+Quantifiers: 4 cups two bags 
+Ingredients: corn kernels corn kernels 
+
+4 tablespoons unsalted butter, melted 
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

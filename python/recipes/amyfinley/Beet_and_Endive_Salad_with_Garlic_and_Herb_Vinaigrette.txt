@@ -1,0 +1,64 @@
+3 to 4 small-sized red beets, greens trimmed
+Quantifiers: 3 4 
+Ingredients: beets greens 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Salt, for seasoning
+Quantifiers: 
+Ingredients: Salt seasoning 
+
+4 large or 6 small heads Belgian endive, cored
+Quantifiers: 4 6 heads 
+Ingredients: Belgian_endive 
+
+Garlic and Herb Vinaigrette, recipe follows
+Quantifiers: 
+Ingredients: Garlic Herb Vinaigrette 
+
+Garlic and Herb Vinaigrette:
+Quantifiers: 
+Ingredients: Garlic Herb Vinaigrette 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+
+Salt, for seasoning
+Quantifiers: 
+Ingredients: Salt seasoning 
+
+Pepper, for seasoning
+Quantifiers: 
+Ingredients: Pepper seasoning 
+
+1 small shallot, finely chopped
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 clove garlic, finely chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon chopped fresh chives
+Quantifiers: 1 tablespoon 
+Ingredients: chives 
+
+2 teaspoons chopped fresh tarragon leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: tarragon 
+
+1 tablespoon chopped fresh parsley leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: parsley 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+

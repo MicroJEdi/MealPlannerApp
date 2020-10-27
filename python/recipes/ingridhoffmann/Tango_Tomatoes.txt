@@ -1,0 +1,48 @@
+6 large firm tomatoes
+Quantifiers: 6 
+Ingredients: tomatoes 
+
+8 ounces uncooked chorizo (or spicy Italian sausage)
+Quantifiers: 8 ounces 
+Ingredients: chorizo sausage 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 medium white onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: white onion 
+
+2 ribs celery, finely chopped
+Quantifiers: 2 ribs 
+Ingredients: celery 
+
+1 poblano (or green bell) pepper, finely chopped
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+2 cloves garlic, finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+
+3 tablespoons chopped cilantro leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: cilantro 
+
+1/2 cup seasoned dry bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+1 cup grated pepper jack cheese
+Quantifiers: 1 cup jack 
+Ingredients: pepper cheese 
+
+1/4 cup grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+

@@ -1,0 +1,36 @@
+2 links Mexican chorizo, casings removed
+Quantifiers: 2 links 
+Ingredients: chorizo 
+
+1/2 pound smoked gouda, shredded
+Quantifiers: 1/2 pound 
+Ingredients: gouda 
+
+1/4 cup finely chopped red onions
+Quantifiers: 1/4 cup 
+Ingredients: red_onions 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 cup cream cheese
+Quantifiers: 1/2 cup 
+Ingredients: cream_cheese 
+
+3 tablespoons sour cream
+Quantifiers: 3 tablespoons 
+Ingredients: sour_cream 
+
+1 tablespoon hot sauce (recommended: Frank's Red Hot)
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce Franks Red_Hot 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+12 large jalapeno peppers, stemmed, seeded and halved
+Quantifiers: 12 
+Ingredients: jalapeno_peppers 
+

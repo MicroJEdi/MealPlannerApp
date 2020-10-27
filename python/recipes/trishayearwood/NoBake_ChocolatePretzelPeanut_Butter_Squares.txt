@@ -1,0 +1,20 @@
+1 1/2 sticks (12 tablespoons) butter, melted
+Quantifiers: 1 1/2 sticks 12 tablespoons 
+Ingredients: butter 
+
+2 cups pretzel rods, crushed into crumbs 
+Quantifiers: 2 cups rods crumbs 
+Ingredients: pretzel 
+
+1 1/2 cups confectioners' sugar 
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+1 cup plus 1/4 cup smooth peanut butter 
+Quantifiers: 1 cup 1/4 cup 
+Ingredients: peanut_butter 
+
+1 1/2 cups milk chocolate chips
+Quantifiers: 1 1/2 cups 
+Ingredients: milk_chocolate chips 
+

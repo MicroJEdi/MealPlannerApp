@@ -1,0 +1,40 @@
+2 tablespoons chaat masala
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+2 tablespoons cumin seeds, toasted and ground 
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin_seeds 
+
+1 tablespoon red chili powder
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1 tablespoon dried mint
+Quantifiers: 1 tablespoon mint 
+Ingredients: 
+
+1 cup buttermilk
+Quantifiers: 1 cup 
+Ingredients: buttermilk 
+
+1 tablespoon tandoori masala
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+2 large yellow onions, peeled, cut into 1/8-inch-thick rings
+Quantifiers: 2 rings 
+Ingredients: onions cut 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

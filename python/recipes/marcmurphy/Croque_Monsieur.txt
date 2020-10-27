@@ -1,0 +1,44 @@
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon all-purpose flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1/8 teaspoon grated nutmeg
+Quantifiers: 1/8 teaspoon 
+Ingredients: nutmeg 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1/4 cup grated Gruyere cheese (about 1 ounce)
+Quantifiers: 1/4 cup 1 ounce 
+Ingredients: Gruyere cheese 
+
+For the croque monsieur:
+Quantifiers: 
+Ingredients: 
+
+4 slices country white bread
+Quantifiers: 4 slices 
+Ingredients: white_bread 
+
+12 thin slices Black Forest ham or other lean ham (about 8 ounces)
+Quantifiers: 12 slices Black 8 ounces 
+Ingredients: ham ham 
+
+2 cups coarsely grated Gruyere cheese (about 8 ounces)
+Quantifiers: 2 cups 8 ounces 
+Ingredients: Gruyere cheese 
+
+Freshly ground pepper
+Quantifiers: ground 
+Ingredients: pepper 
+

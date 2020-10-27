@@ -1,0 +1,56 @@
+1 pound rotini pasta (3/4 of a 16-ounce box)
+Quantifiers: 1 pound 3/4 a box 
+Ingredients: pasta 
+
+1/2 cup evaporated milk
+Quantifiers: 1/2 cup 
+Ingredients: evaporated_milk 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 cup crumbled feta cheese or queso blanco
+Quantifiers: 1 cup 
+Ingredients: cheese 
+
+1/2 cup fresh cilantro leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 cup finely diced ham
+Quantifiers: 1 cup 
+Ingredients: ham 
+
+1 orange bell pepper, seeded, ribbed, and chopped
+Quantifiers: 1 
+Ingredients: orange bell_pepper 
+
+1 red bell pepper, seeded, ribbed, and chopped
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 cup frozen peas
+Quantifiers: 1 cup 
+Ingredients: peas 
+
+1/2 small red onion, thinly sliced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+1/2 cup peeled and chopped jicama
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1/2 cup pimento stuffed olives
+Quantifiers: 1/2 cup 
+Ingredients: pimento olives 
+

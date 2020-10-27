@@ -1,0 +1,68 @@
+Adobo Ketchup:
+Quantifiers: 
+Ingredients: Adobo Ketchup 
+
+2 1/2 tablespoons Hungarian paprika
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: paprika 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 teaspoons medium heat chili powder
+Quantifiers: 1 teaspoons medium heat 
+Ingredients: chili_powder 
+
+1/4 teaspoons cayenne pepper
+Quantifiers: 1/4 teaspoons 
+Ingredients: cayenne_pepper 
+
+2 cups ketchup
+Quantifiers: 2 cups 
+Ingredients: ketchup 
+
+Burgers:
+Quantifiers: 
+Ingredients: Burgers 
+
+1 cup shredded white Cheddar
+Quantifiers: 1 cup 
+Ingredients: white Cheddar 
+
+1 cup diced red onion
+Quantifiers: 1 cup 
+Ingredients: red_onion 
+
+1 1/2 pounds lean ground beef
+Quantifiers: 1 1/2 pounds 
+Ingredients: ground_beef 
+
+3/4 teaspoons black pepper
+Quantifiers: 3/4 teaspoons 
+Ingredients: black_pepper 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon granulated garlic
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon Mexican oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/4 teaspoon ground cumin
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cumin 
+
+1 egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+4 buns
+Quantifiers: 4 
+Ingredients: buns 
+

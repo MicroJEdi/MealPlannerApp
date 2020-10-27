@@ -1,0 +1,140 @@
+Cake:
+Quantifiers: 
+Ingredients: Cake 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2/3 cup unsweetened cocoa powder
+Quantifiers: 2/3 cup 
+Ingredients: cocoa_powder 
+
+1 1/2 teaspoons baking soda
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: soda 
+
+1/2 teaspoon sea salt
+Quantifiers: 1/2 teaspoon sea 
+Ingredients: salt 
+
+2 sticks (1 cup) unsalted butter, softened
+Quantifiers: 2 sticks 1 cup 
+Ingredients: butter 
+
+1 cup packed dark brown sugar
+Quantifiers: 1 cup dark 
+Ingredients: brown_sugar 
+
+3/4 cup granulated sugar
+Quantifiers: 3/4 cup 
+Ingredients: granulated_sugar 
+
+4 large eggs, at room temperature for 30 minutes
+Quantifiers: 4 at room_temperature 30_minutes 
+Ingredients: eggs 
+
+1/3 cup semisweet chocolate, melted and cooled
+Quantifiers: 1/3 cup 
+Ingredients: chocolate 
+
+1 1/2 teaspoons vanilla
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vanilla 
+
+1 1/2 cups well-shaken buttermilk (or 1 cup milk plus 1 tablespoon lemon juice)
+Quantifiers: 1 1/2 cups 1 cup 1 tablespoon 
+Ingredients: buttermilk milk lemon_juice 
+
+Frosting:
+Quantifiers: 
+Ingredients: 
+
+5 sticks (2 1/2 cups) butter, cut into tablespoon pieces and softened
+Quantifiers: 5 sticks 2 1/2 cups tablespoon pieces 
+Ingredients: butter cut 
+
+1 teaspoon fine sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+5 cups confectioners' sugar
+Quantifiers: 5 cups 
+Ingredients: sugar 
+
+2 1/2 cups milk chocolate, melted and cooled
+Quantifiers: 2 1/2 cups 
+Ingredients: milk_chocolate 
+
+1/2 cup unsweetened chocolate, melted and cooled
+Quantifiers: 1/2 cup 
+Ingredients: chocolate 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+Decorations:
+Quantifiers: 
+Ingredients: 
+
+1/2 (9-ounce) box chocolate wafer cookies
+Quantifiers: 1/2 box 
+Ingredients: chocolate wafer cookies 
+
+1 tube black icing
+Quantifiers: 1 tube black 
+Ingredients: 
+
+1 bag chocolate sandwich cookies (recommended: Pepperidge Farm Milano cookies)
+Quantifiers: 1 bag 
+Ingredients: chocolate sandwich cookies cookies 
+
+Chocolate Tree, recipe follows
+Quantifiers: 
+Ingredients: Chocolate 
+
+Candy rocks
+Quantifiers: 
+Ingredients: Candy rocks 
+
+Candy pumpkins
+Quantifiers: 
+Ingredients: Candy pumpkins 
+
+Candy bones, recipe follows
+Quantifiers: bones 
+Ingredients: Candy 
+
+White cotton candy
+Quantifiers: 
+Ingredients: White cotton_candy 
+
+Candy Bones:
+Quantifiers: Bones 
+Ingredients: Candy 
+
+18 pretzel sticks and rods of various sizes
+Quantifiers: 18 sticks rods 
+Ingredients: pretzel 
+
+36 mini-marshmallows (about 1/2 cup)
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1 cup white chocolate chips
+Quantifiers: 1 cup 
+Ingredients: white_chocolate chips 
+
+2 tablespoons butter, melted
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Chocolate Tree:
+Quantifiers: 
+Ingredients: Chocolate 
+
+1 cup chocolate chips, melted
+Quantifiers: 1 cup 
+Ingredients: chocolate chips 
+

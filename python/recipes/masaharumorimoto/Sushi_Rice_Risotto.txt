@@ -1,0 +1,68 @@
+1 1/2 cups cooked short-grain white rice
+Quantifiers: 1 1/2 cups 
+Ingredients: white_rice 
+
+2 1/2 tablespoons sushi vinegar, recipe follows
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: sushi vinegar 
+
+3 cups Dashi, recipe follows
+Quantifiers: 3 cups 
+Ingredients: 
+
+1 teaspoon light-colored soy sauce
+Quantifiers: 1 teaspoon 
+Ingredients: soy_sauce 
+
+2 eggs, beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 teaspoons grated fresh wasabi (* Chef's Note)
+Quantifiers: 2 teaspoons Note 
+Ingredients: wasabi 
+
+1 tablespoon shredded nori (kizami nori)
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+3 or 4 sprigs mitsuba leaves, minced, or chopped scallions or chives, for garnish
+Quantifiers: 3 4 leaves 
+Ingredients: scallions chives 
+
+Sushi Vinegar:
+Quantifiers: 
+Ingredients: Sushi Vinegar 
+
+1/2 cup sake-mash vinegar (akazu), or regular white wine vinegar
+Quantifiers: 1/2 cup 
+Ingredients: vinegar white_wine_vinegar 
+
+1/2 cup rice vinegar
+Quantifiers: 1/2 cup 
+Ingredients: rice vinegar 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1/4 cup salt
+Quantifiers: 1/4 cup 
+Ingredients: salt 
+
+Dashi:
+Quantifiers: 
+Ingredients: 
+
+1 piece dashi kombu, 4 by 6-inches
+Quantifiers: 1 piece 4 
+Ingredients: 
+
+4 cups filtered spring water
+Quantifiers: 4 cups 
+Ingredients: spring_water 
+
+1/2 cup loosely packed bonito flakes
+Quantifiers: 1/2 cup 
+Ingredients: bonito 
+

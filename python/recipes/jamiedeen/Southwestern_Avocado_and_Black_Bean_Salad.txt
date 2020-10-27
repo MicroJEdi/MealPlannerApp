@@ -1,0 +1,44 @@
+1/2 cup freshly chopped cilantro leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons freshly squeezed lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+2 or 3 dashes hot sauce (recommended: Tabasco)
+Quantifiers: 2 3 
+Ingredients: hot_sauce Tabasco 
+
+4 cups chopped romaine lettuce
+Quantifiers: 4 cups lettuce 
+Ingredients: romaine_lettuce 
+
+2 avocados, peeled and diced
+Quantifiers: 2 
+Ingredients: avocados 
+
+2 cups fresh or frozen corn kernels, thawed and drained
+Quantifiers: 2 cups 
+Ingredients: corn kernels 
+
+2 (15-ounce) cans black beans, rinsed and drained
+Quantifiers: 2 cans 
+Ingredients: black_beans 
+
+1 cup chopped cherry tomatoes
+Quantifiers: 1 cup 
+Ingredients: cherry tomatoes 
+
+About 3/4 cup (3-ounces) grated pepper jack cheese
+Quantifiers: 3/4 cup jack 
+Ingredients: pepper cheese 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

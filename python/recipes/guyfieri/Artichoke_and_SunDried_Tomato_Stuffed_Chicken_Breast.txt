@@ -1,0 +1,48 @@
+3 tablespoons olive oil, divided
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1/2 cup chopped red onion
+Quantifiers: 1/2 cup 
+Ingredients: red_onion 
+
+3/4 cup chopped marinated artichoke hearts
+Quantifiers: 3/4 cup 
+Ingredients: artichoke_hearts 
+
+1/2 cup chopped marinated sun-dried tomatoes
+Quantifiers: 1/2 cup 
+Ingredients: tomatoes 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon fresh cracked black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1/2 cup white wine, divided
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+3 tablespoons butter, divided
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1/4 cup grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+
+1/2 tablespoon finely chopped Italian parsley leaves
+Quantifiers: 1/2 tablespoon leaves 
+Ingredients: parsley 
+
+4 boneless, skinless chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+

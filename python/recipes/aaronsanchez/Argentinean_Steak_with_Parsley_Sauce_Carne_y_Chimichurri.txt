@@ -1,0 +1,40 @@
+1/4 cup distilled white vinegar
+Quantifiers: 1/4 cup 
+Ingredients: white vinegar 
+
+2 jalapenos, roughly chopped
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+4 cloves garlic
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+4 bay leaves
+Quantifiers: 4 leaves 
+Ingredients: bay_leaves 
+
+1/2 cup freshly chopped Italian parsley
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+
+1/2 cup freshly chopped cilantro
+Quantifiers: 1/2 cup 
+Ingredients: cilantro 
+
+1/2 cup freshly chopped oregano
+Quantifiers: 1/2 cup 
+Ingredients: oregano 
+
+1/3 cup extra-virgin olive oil
+Quantifiers: 1/3 cup 
+Ingredients: olive_oil 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 (1 1/2 to 2-pound) flank steak
+Quantifiers: 1 1 1/2 
+Ingredients: flank_steak 
+

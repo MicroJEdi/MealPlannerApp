@@ -1,0 +1,44 @@
+4 good-quality organic Italian sausages
+Quantifiers: 4 
+Ingredients: sausages 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+4 slices thickly cut pancetta, chopped
+Quantifiers: 4 slices 
+Ingredients: cut 
+
+455g/1 pound dried linguine
+Quantifiers: pound 
+Ingredients: linguine 
+
+4 large egg yolks, preferably organic
+Quantifiers: 4 
+Ingredients: egg_yolks 
+
+100ml/3 1/2 fluid ounces double cream
+Quantifiers: 1/2 fluid_ounces 
+Ingredients: double_cream 
+
+100g/3 1/2 ounces freshly grated Parmesan
+Quantifiers: 1/2 ounces 
+Ingredients: Parmesan 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+Sprig fresh flat-leaf parsley, chopped
+Quantifiers: 
+Ingredients: parsley 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+

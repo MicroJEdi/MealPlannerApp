@@ -1,0 +1,84 @@
+1 tablespoon extra-virgin olive oil, 1 turn of the pan
+Quantifiers: 1 tablespoon 1 turn pan 
+Ingredients: olive_oil 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 fresh bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 ribs celery with greens, finely chopped (save time and purchase celery already washed, trimmed and cut into sticks, this makes chopping fast work)
+Quantifiers: 2 ribs time sticks 
+Ingredients: celery greens celery cut 
+
+1 medium yellow onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+2 teaspoons poultry seasoning or 2 teaspoons ground thyme
+Quantifiers: 2 teaspoons 2 teaspoons ground 
+Ingredients: poultry seasoning thyme 
+
+2 teaspoons hot sauce, or to taste
+Quantifiers: 2 teaspoons taste 
+Ingredients: hot_sauce 
+
+6 cups chicken stock
+Quantifiers: 6 cups 
+Ingredients: chicken_stock 
+
+1 (28-ounce) can cooked pumpkin puree
+Quantifiers: 1 can 
+Ingredients: pumpkin puree 
+
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+1/2 teaspoon freshly grated nutmeg
+Quantifiers: 1/2 teaspoon 
+Ingredients: nutmeg 
+
+Relish:
+Quantifiers: 
+Ingredients: Relish 
+
+1 crisp apple, such as McIntosh or Granny Smith, finely chopped
+Quantifiers: 1 as 
+Ingredients: crisp apple McIntosh Granny_Smith 
+
+1/4 red onion, finely chopped
+Quantifiers: 1/4 
+Ingredients: red_onion 
+
+2 tablespoons lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1/2 cup dried sweetened cranberries, chopped
+Quantifiers: 1/2 cup 
+Ingredients: cranberries 
+
+1 teaspoon chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+2 teaspoons honey
+Quantifiers: 2 teaspoons 
+Ingredients: honey 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+

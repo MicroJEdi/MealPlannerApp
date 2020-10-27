@@ -1,0 +1,76 @@
+2 tablespoons light brown sugar
+Quantifiers: 2 tablespoons light 
+Ingredients: brown_sugar 
+
+1 tablespoon dry mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 teaspoon smoked paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon garlic salt
+Quantifiers: 1 teaspoon 
+Ingredients: garlic_salt 
+
+2 racks baby back pork ribs (4 pounds)
+Quantifiers: 2 back ribs 4 pounds 
+Ingredients: racks pork 
+
+Jamie's BBQ Sauce, recipe follows
+Quantifiers: 
+Ingredients: Sauce 
+
+Jamie's BBQ Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+1 tablespoon canola oil
+Quantifiers: 1 tablespoon 
+Ingredients: canola_oil 
+
+2 tablespoons finely chopped onion
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 cups apple cider vinegar
+Quantifiers: 2 cups 
+Ingredients: apple cider_vinegar 
+
+1 1/2 cups ketchup
+Quantifiers: 1 1/2 cups 
+Ingredients: ketchup 
+
+3/4 cup light brown sugar
+Quantifiers: 3/4 cup light 
+Ingredients: brown_sugar 
+
+3 tablespoons Dijon mustard
+Quantifiers: 3 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+2 teaspoons chili powder
+Quantifiers: 2 teaspoons 
+Ingredients: chili_powder 
+
+1 teaspoon cayenne pepper
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

@@ -1,0 +1,32 @@
+6 ears corn, in their husks
+Quantifiers: 6 in 
+Ingredients: ears corn 
+
+1 cup unsalted butter, at room temperature
+Quantifiers: 1 cup at room_temperature 
+Ingredients: butter 
+
+1 tablespoon chili powder
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1 teaspoon cayenne pepper
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne_pepper 
+
+Juice of 3 limes
+Quantifiers: 3 
+Ingredients: Juice limes 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 cup cotija cheese or feta cheese
+Quantifiers: 1 cup 
+Ingredients: cheese cheese 
+

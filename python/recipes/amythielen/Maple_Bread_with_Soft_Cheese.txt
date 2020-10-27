@@ -1,0 +1,24 @@
+1/2 cup maple syrup
+Quantifiers: 1/2 cup 
+Ingredients: maple_syrup 
+
+3 tablespoons butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+Salt 
+Quantifiers: 
+Ingredients: Salt 
+
+8 thin slices sourdough bread
+Quantifiers: 8 slices 
+Ingredients: sourdough_bread 
+
+Oil, for oiling plate
+Quantifiers: plate 
+Ingredients: Oil 
+
+1 small disk washed-rind cheese, such as Camembert
+Quantifiers: 1 disk as 
+Ingredients: cheese Camembert 
+

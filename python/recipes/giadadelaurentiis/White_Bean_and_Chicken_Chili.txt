@@ -1,0 +1,72 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 large onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+4 garlic cloves, minced
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 pounds ground chicken
+Quantifiers: 2 pounds ground 
+Ingredients: chicken 
+
+1 teaspoon salt, plus more for seasoning
+Quantifiers: 1 teaspoon 
+Ingredients: salt seasoning 
+
+2 tablespoons ground cumin
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin 
+
+1 tablespoon fennel seeds
+Quantifiers: 1 tablespoon 
+Ingredients: fennel_seeds 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+2 teaspoons chili powder
+Quantifiers: 2 teaspoons 
+Ingredients: chili_powder 
+
+3 tablespoons flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+2 (15-ounce cans) cannellini or other white beans, rinsed and drained
+Quantifiers: 2 cans 
+Ingredients: white_beans 
+
+1 bunch (about 1 pound) Swiss chard, stems removed, leaves chopped into 1-inch pieces
+Quantifiers: 1 1 pound leaves pieces 
+Ingredients: Swiss_chard 
+
+11/2 cups frozen corn, thawed
+Quantifiers: 11/2 cups 
+Ingredients: corn 
+
+4 cups low-sodium chicken stock
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+1/4 teaspoon crushed red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+Freshly ground black pepper for seasoning
+Quantifiers: ground 
+Ingredients: black_pepper seasoning 
+
+1/2 cup grated Parmesan cheese
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan cheese 
+
+1/4 cup chopped fresh flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+

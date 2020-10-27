@@ -1,0 +1,32 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1 1/2 cups plus 2 tablespoons sugar
+Quantifiers: 1 1/2 cups 2 tablespoons 
+Ingredients: sugar 
+
+3/4 cup (1 1/2 sticks) butter, melted
+Quantifiers: 3/4 cup 1 1/2 sticks 
+Ingredients: butter 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 teaspoon almond extract
+Quantifiers: 1 teaspoon 
+Ingredients: almond_extract 
+
+1/2 cup sliced almonds with skins
+Quantifiers: 1/2 cup skins 
+Ingredients: almonds 
+

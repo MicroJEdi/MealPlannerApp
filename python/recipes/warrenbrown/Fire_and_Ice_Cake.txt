@@ -1,0 +1,28 @@
+Wooden skewers, optional
+Quantifiers: skewers 
+Ingredients: 
+
+3 roasted habanero peppers
+Quantifiers: 3 
+Ingredients: peppers 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+Vanilla ice cream, softened
+Quantifiers: 
+Ingredients: Vanilla ice_cream 
+
+Baked chocolate cake, sliced horizontally in 3 layers
+Quantifiers: in 3 
+Ingredients: chocolate_cake 
+
+Lime sorbet
+Quantifiers: 
+Ingredients: Lime sorbet 
+
+Powdered sugar, whipped cream or sprinkles, for garnish
+Quantifiers: 
+Ingredients: Powdered_sugar cream sprinkles 
+

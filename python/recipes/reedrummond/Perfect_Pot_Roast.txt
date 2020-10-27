@@ -1,0 +1,36 @@
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+One 3- to 5-pound chuck roast 
+Quantifiers: One 
+Ingredients: chuck roast 
+
+2 or 3 tablespoons olive oil
+Quantifiers: 2 3 tablespoons 
+Ingredients: olive_oil 
+
+2 whole onions, peeled and halved
+Quantifiers: 2 
+Ingredients: onions 
+
+6 to 8 whole carrots, unpeeled, cut into 2-inch pieces
+Quantifiers: 6 8 pieces 
+Ingredients: carrots cut 
+
+1 cup red wine, optional
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+3 cups beef broth
+Quantifiers: 3 cups 
+Ingredients: beef_broth 
+
+2 or 3 sprigs fresh rosemary
+Quantifiers: 2 3 
+Ingredients: rosemary 
+
+2 or 3 sprigs fresh thyme
+Quantifiers: 2 3 
+Ingredients: thyme 
+

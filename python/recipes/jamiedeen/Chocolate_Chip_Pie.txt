@@ -1,0 +1,64 @@
+Pie:
+Quantifiers: 
+Ingredients: Pie 
+
+2 3/4 cups all-purpose flour
+Quantifiers: 2 3/4 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: salt 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1 1/4 teaspoons baking powder
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: baking_powder 
+
+1 cup (2-sticks) unsalted butter, softened
+Quantifiers: 1 cup 
+Ingredients: butter 
+
+1 1/2 cups packed light brown sugar
+Quantifiers: 1 1/2 cups light 
+Ingredients: brown_sugar 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+3 cups semisweet chocolate chips
+Quantifiers: 3 cups 
+Ingredients: chocolate chips 
+
+2 cups chopped walnuts, optional
+Quantifiers: 2 cups 
+Ingredients: walnuts 
+
+Whipped cream:
+Quantifiers: 
+Ingredients: cream 
+
+2 pints (4-cups) heavy cream
+Quantifiers: 2 pints 
+Ingredients: heavy_cream 
+
+1/4 cup confectioners' sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1/4 cup miniature semisweet chocolate chips
+Quantifiers: 1/4 cup 
+Ingredients: chocolate chips 
+

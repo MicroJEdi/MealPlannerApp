@@ -1,0 +1,68 @@
+For the pastry:
+Quantifiers: 
+Ingredients: pastry 
+
+2 large egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+1 heaping teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 tablespoons cold water
+Quantifiers: 2 tablespoons cold 
+Ingredients: water 
+
+1 2/3 cups all-purpose flour
+Quantifiers: 1 2/3 cups 
+Ingredients: flour 
+
+2 tablespoons vegetable shortening, teaspooned out
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable shortening 
+
+7 tablespoons cold, unsalted butter, diced
+Quantifiers: 7 tablespoons cold 
+Ingredients: butter 
+
+2 4-cup popover pans
+Quantifiers: 2 pans 
+Ingredients: popover 
+
+For the filling:
+Quantifiers: 
+Ingredients: filling 
+
+2 large potatoes (boiling, not baking)
+Quantifiers: 2 
+Ingredients: potatoes 
+
+Scant 1/2 cup finely chopped green onions (about 6)
+Quantifiers: 1/2 cup 6 
+Ingredients: green_onions 
+
+4-5 ounces sharp Cheddar: 1/3 cup grated, 1/4 cup diced
+Quantifiers: ounces sharp 1/3 cup 1/4 cup 
+Ingredients: Cheddar 
+
+2 tablespoons grated parmesan
+Quantifiers: 2 tablespoons 
+Ingredients: parmesan 
+
+1/4 cup Red Leicester cheese, grated
+Quantifiers: 1/4 cup 
+Ingredients: cheese 
+
+2 tablespoons chopped parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+4 tablespoons creme fraiche to bind
+Quantifiers: 4 tablespoons 
+Ingredients: 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

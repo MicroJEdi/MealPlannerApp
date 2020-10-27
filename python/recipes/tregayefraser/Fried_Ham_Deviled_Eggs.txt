@@ -1,0 +1,36 @@
+12 large eggs
+Quantifiers: 12 
+Ingredients: eggs 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+7 slices deli ham (about 4 ounces)
+Quantifiers: 7 slices 4 ounces 
+Ingredients: ham 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1/4 cup relish
+Quantifiers: 1/4 cup 
+Ingredients: relish 
+
+2 tablespoons Sriracha
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1/2 cup diced roasted red peppers
+Quantifiers: 1/2 cup 
+Ingredients: red_peppers 
+
+Microgreens, for garnish
+Quantifiers: 
+Ingredients: 
+

@@ -1,0 +1,40 @@
+3 Haas avocados, halved, seeded and peeled
+Quantifiers: 3 
+Ingredients: avocados 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/2 medium onion, diced
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+1/2 jalapeno pepper, seeded and minced
+Quantifiers: 1/2 
+Ingredients: jalapeno_pepper 
+
+2 Roma tomatoes, seeded and diced
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1 tablespoon chopped cilantro
+Quantifiers: 1 tablespoon 
+Ingredients: cilantro 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+

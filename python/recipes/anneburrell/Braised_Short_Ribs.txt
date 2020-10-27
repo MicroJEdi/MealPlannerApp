@@ -1,0 +1,48 @@
+6 bone-in short ribs (about 5 3/4 pounds)
+Quantifiers: 6 ribs 5 3/4 pounds 
+Ingredients: short_ribs 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+1 large Spanish onion, cut into 1/2-inch pieces
+Quantifiers: 1 pieces 
+Ingredients: Spanish_onion cut 
+
+2 ribs celery, cut into 1/2-inch pieces
+Quantifiers: 2 ribs pieces 
+Ingredients: celery cut 
+
+2 carrots, peeled, cut in 1/2 lengthwise, then cut into 1/2-inch pieces
+Quantifiers: 2 in 1/2 then pieces 
+Ingredients: carrots cut cut 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 1/2 cups tomato paste
+Quantifiers: 1 1/2 cups 
+Ingredients: tomato_paste 
+
+2 to 3 cups hearty red wine
+Quantifiers: 2 3 cups 
+Ingredients: red_wine 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+1 bunch fresh thyme, tied with kitchen string
+Quantifiers: 1 string 
+Ingredients: thyme 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+

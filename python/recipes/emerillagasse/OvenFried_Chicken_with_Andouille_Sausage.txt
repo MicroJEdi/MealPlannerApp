@@ -1,0 +1,68 @@
+CHICKEN:
+Quantifiers: 
+Ingredients: CHICKEN 
+
+2 ounces andouille sausage, finely chopped
+Quantifiers: 2 ounces 
+Ingredients: sausage 
+
+1 cup crisp rice cereal (not flakes)
+Quantifiers: 1 cup 
+Ingredients: crisp rice cereal 
+
+1/4 cup freshly grated Parmesan cheese
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan cheese 
+
+2 teaspoons sweet paprika
+Quantifiers: 2 teaspoons 
+Ingredients: sweet paprika 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1/8 teaspoon freshly ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+3 large cloves garlic, finely minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+4 (5-ounce) boneless, skinless chicken breast halves
+Quantifiers: 4 breast halves 
+Ingredients: chicken 
+
+SAUCE:
+Quantifiers: 
+Ingredients: SAUCE 
+
+1/2 cup nonfat plain yogurt
+Quantifiers: 1/2 cup 
+Ingredients: yogurt 
+
+1 tablespoon minced fresh parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+2 teaspoons fresh lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/8 teaspoon salt
+Quantifiers: 1/8 teaspoon 
+Ingredients: salt 
+

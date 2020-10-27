@@ -1,0 +1,32 @@
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: cider_vinegar 
+
+1/4 cup freshly chopped cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Kosher or fine sea salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: Kosher salt black_pepper 
+
+1 (15.5-ounce) can black beans, drained and rinsed
+Quantifiers: 1 can 
+Ingredients: black_beans 
+
+1/2 mango, peeled, flesh removed from the pit and cut into 1/2-inch dice (1 generous cup)
+Quantifiers: 1/2 pit 1 cup 
+Ingredients: mango cut 
+
+1/2 small jicama (about 1/2 pound), peeled, and cut into 1/2-inch dice (about 2 cup; see Note)
+Quantifiers: 1/2 1/2 pound 2 cup Note 
+Ingredients: cut 
+
+1/2 small red onion, cut in 1/2, then into thin slivers (about 1/4 cup)
+Quantifiers: 1/2 in 1/2 then 1/4 cup 
+Ingredients: red_onion cut 
+

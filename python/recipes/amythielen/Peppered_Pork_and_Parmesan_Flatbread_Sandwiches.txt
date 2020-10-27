@@ -1,0 +1,100 @@
+Flatbread:
+Quantifiers: 
+Ingredients: Flatbread 
+
+3/4 teaspoon active dry yeast
+Quantifiers: 3/4 teaspoon 
+Ingredients: yeast 
+
+Pinch of sugar 
+Quantifiers: Pinch 
+Ingredients: sugar 
+
+3 tablespoons extra-virgin olive oil, plus more for oiling
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 1/2 teaspoons salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: salt 
+
+3 1/4 cups bread flour 
+Quantifiers: 3 1/4 cups 
+Ingredients: bread flour 
+
+Peppered Pork Loin:
+Quantifiers: 
+Ingredients: Pork_Loin 
+
+1/2 teaspoon sugar
+Quantifiers: 1/2 teaspoon 
+Ingredients: sugar 
+
+Fine sea salt 
+Quantifiers: sea 
+Ingredients: salt 
+
+One 3 1/2-pound pork loin roast, fat cap left on 
+Quantifiers: One 3 cap 
+Ingredients: pork_loin roast 
+
+3 tablespoons black peppercorns 
+Quantifiers: 3 tablespoons black 
+Ingredients: peppercorns 
+
+5 tablespoons butter 
+Quantifiers: 5 tablespoons 
+Ingredients: butter 
+
+6 cloves garlic, finely grated 
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+3 tablespoons apple cider vinegar 
+Quantifiers: 3 tablespoons 
+Ingredients: apple cider_vinegar 
+
+2 tablespoons chopped fresh thyme 
+Quantifiers: 2 tablespoons 
+Ingredients: thyme 
+
+2 tablespoons canola oil 
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+Doctored Aioli:
+Quantifiers: 
+Ingredients: Aioli 
+
+1 cup mayonnaise, such as Kraft Homestyle
+Quantifiers: 1 cup as 
+Ingredients: mayonnaise 
+
+6 tablespoons extra-virgin olive oil 
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+Pinch of salt 
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 clove garlic, finely grated 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Zest and juice of 1 lemon (2 tablespoons juice)
+Quantifiers: 1 2 tablespoons 
+Ingredients: juice lemon juice 
+
+3 ounces Parmesan, shaved thinly 
+Quantifiers: 3 ounces 
+Ingredients: Parmesan 
+
+2 cups arugula
+Quantifiers: 2 cups 
+Ingredients: 
+

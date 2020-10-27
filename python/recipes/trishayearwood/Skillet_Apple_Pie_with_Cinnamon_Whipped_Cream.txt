@@ -1,0 +1,40 @@
+Skillet Apple Pie:
+Quantifiers: Skillet 
+Ingredients: Apple_Pie 
+
+1/2 cup (1 stick) unsalted butter
+Quantifiers: 1/2 cup 1 stick 
+Ingredients: butter 
+
+1 cup light brown sugar 
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+2 refrigerated rolled pie crusts, such as Pillsbury 
+Quantifiers: 2 as 
+Ingredients: pie_crusts 
+
+One 21-ounce can apple pie filling 
+Quantifiers: One can 
+Ingredients: apple_pie filling 
+
+2 tablespoons cinnamon sugar 
+Quantifiers: 2 tablespoons 
+Ingredients: cinnamon sugar 
+
+Cinnamon Whipped Cream:
+Quantifiers: 
+Ingredients: Cinnamon Cream 
+
+2 cups whipping cream, chilled
+Quantifiers: 2 cups 
+Ingredients: whipping_cream 
+
+1 teaspoon ground cinnamon 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+4 tablespoons sugar
+Quantifiers: 4 tablespoons 
+Ingredients: sugar 
+

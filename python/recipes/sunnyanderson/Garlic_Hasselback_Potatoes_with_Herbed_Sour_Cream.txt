@@ -1,0 +1,44 @@
+16 ounces red new potatoes
+Quantifiers: 16 ounces 
+Ingredients: potatoes 
+
+3 to 5 garlic cloves, thinly sliced
+Quantifiers: 3 5 
+Ingredients: garlic_cloves 
+
+4 tablespoons unsalted butter, melted
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Herbed Sour Cream, recipe follows
+Quantifiers: 
+Ingredients: Sour_Cream 
+
+Herbed Sour Cream:
+Quantifiers: 
+Ingredients: Sour_Cream 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1 tablespoon finely chopped fresh parsley leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: parsley 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

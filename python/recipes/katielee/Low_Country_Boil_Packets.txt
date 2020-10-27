@@ -1,0 +1,40 @@
+8 shell-on jumbo shrimp, deveined
+Quantifiers: 8 
+Ingredients: shrimp 
+
+2 teaspoons seafood seasoning, such as Old Bay 
+Quantifiers: 2 teaspoons as 
+Ingredients: seafood seasoning 
+
+6 small red skin potatoes, cut into 1/4-inch slices 
+Quantifiers: 6 skin slices 
+Ingredients: potatoes cut 
+
+2 links andouille sausage (about 8 ounces), cut into 1/4-inch slices
+Quantifiers: 2 links 8 ounces slices 
+Ingredients: sausage cut 
+
+16 littleneck clams, scrubbed 
+Quantifiers: 16 clams 
+Ingredients: littleneck_clams 
+
+2 ears corn, cut into 1-inch wheels 
+Quantifiers: 2 wheels 
+Ingredients: ears corn cut 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1 lemon, sliced into 8 rounds 
+Quantifiers: 1 8 rounds 
+Ingredients: lemon 
+
+2 scallions, white and green parts, thinly sliced
+Quantifiers: 2 
+Ingredients: scallions white green 
+
+Grilled crusty bread, for serving
+Quantifiers: serving 
+Ingredients: bread 
+

@@ -1,0 +1,44 @@
+6 slices bacon, chopped
+Quantifiers: 6 slices 
+Ingredients: bacon 
+
+2 medium yellow onions, chopped 
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+2 cloves garlic, minced 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+3 tablespoons flour 
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 cups chicken broth 
+Quantifiers: 4 cups 
+Ingredients: chicken_broth 
+
+1 cup heavy cream 
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+3 pounds russet potatoes, chopped 
+Quantifiers: 3 pounds 
+Ingredients: potatoes 
+
+1 cup sour cream 
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+3 cups shredded cheddar
+Quantifiers: 3 cups 
+Ingredients: cheddar 
+
+4 scallions, sliced, for garnish
+Quantifiers: 4 
+Ingredients: scallions 
+

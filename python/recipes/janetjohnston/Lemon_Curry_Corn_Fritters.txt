@@ -1,0 +1,80 @@
+Curry paste:
+Quantifiers: 
+Ingredients: Curry paste 
+
+3 tablespoons mild yellow curry powder
+Quantifiers: 3 tablespoons 
+Ingredients: curry_powder 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+Corn mixture:
+Quantifiers: 
+Ingredients: Corn mixture 
+
+1 (16-ounce) bag frozen whole corn kernels, thawed
+Quantifiers: 1 bag 
+Ingredients: corn kernels 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 shallot, diced
+Quantifiers: 1 
+Ingredients: shallot 
+
+8 slices pancetta, diced
+Quantifiers: 8 slices 
+Ingredients: 
+
+Fritters:
+Quantifiers: 
+Ingredients: Fritters 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+4 scallions, cut into 1/8-inch rounds
+Quantifiers: 4 rounds 
+Ingredients: scallions cut 
+
+Vegetable oil, for shallow frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+

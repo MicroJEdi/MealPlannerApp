@@ -1,0 +1,108 @@
+2 tablespoons onion powder
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 tablespoons ground ginger
+Quantifiers: 2 tablespoons ground 
+Ingredients: ginger 
+
+2 tablespoons ground coriander
+Quantifiers: 2 tablespoons ground 
+Ingredients: coriander 
+
+1 tablespoon ground cumin
+Quantifiers: 1 tablespoon ground 
+Ingredients: cumin 
+
+1 tablespoon ground cayenne
+Quantifiers: 1 tablespoon ground 
+Ingredients: cayenne 
+
+1 tablespoon ground turmeric
+Quantifiers: 1 tablespoon ground 
+Ingredients: turmeric 
+
+1 tablespoon ground white pepper
+Quantifiers: 1 tablespoon ground 
+Ingredients: white_pepper 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+3 (8-ounce) boneless skinless chicken breasts
+Quantifiers: 3 breasts 
+Ingredients: chicken 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+4 pita breads, warmed on the grill
+Quantifiers: 4 
+Ingredients: pita breads 
+
+Tomato Jam, recipe follows
+Quantifiers: 
+Ingredients: Tomato Jam 
+
+Herbed Yogurt, recipe follows
+Quantifiers: 
+Ingredients: Yogurt 
+
+Grilled Tomato Jam:
+Quantifiers: 
+Ingredients: Tomato Jam 
+
+5 plum tomatoes
+Quantifiers: 5 
+Ingredients: plum tomatoes 
+
+1 serrano chile
+Quantifiers: 1 
+Ingredients: chile 
+
+2 tablespoons vegetable oil, plus more for grilling
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+1 small Spanish onion, chopped
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+3 tablespoons balsamic vinegar
+Quantifiers: 3 tablespoons 
+Ingredients: vinegar 
+
+Pinch saffron
+Quantifiers: Pinch 
+Ingredients: saffron 
+
+Herbed Yogurt:
+Quantifiers: 
+Ingredients: Yogurt 
+
+1 cup Greek yogurt
+Quantifiers: 1 cup 
+Ingredients: yogurt 
+
+1/4 cup chopped fresh mint leaves
+Quantifiers: 1/4 cup mint leaves 
+Ingredients: 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+

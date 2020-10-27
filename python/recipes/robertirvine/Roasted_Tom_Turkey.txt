@@ -1,0 +1,48 @@
+1 (24-pound) fresh tom turkey
+Quantifiers: 1 
+Ingredients: turkey 
+
+3 tablespoons freshly chopped tarragon leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: tarragon 
+
+3 tablespoons freshly chopped thyme leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: thyme 
+
+3 tablespoons freshly chopped parsley leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: parsley 
+
+3 tablespoons freshly chopped sage leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: sage 
+
+1 cup (2 sticks or 1/2 pound) butter, softened
+Quantifiers: 1 cup 2 sticks 1/2 pound 
+Ingredients: butter 
+
+2 onions, peeled, roughly chopped
+Quantifiers: 2 
+Ingredients: onions 
+
+1 bunch celery, well scrubbed and roughly chopped
+Quantifiers: 1 well 
+Ingredients: celery 
+
+2 apples, skin-on, stems and seeds removed, roughly chopped
+Quantifiers: 2 
+Ingredients: apples seeds 
+
+2 oranges, skin-on, but rinsed, roughly chopped
+Quantifiers: 2 
+Ingredients: oranges 
+
+2 carrots, roughly chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

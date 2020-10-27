@@ -1,0 +1,36 @@
+1 teaspoon chopped garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon chopped ginger
+Quantifiers: 1 teaspoon 
+Ingredients: ginger 
+
+1/2 cup soy sauce
+Quantifiers: 1/2 cup 
+Ingredients: soy_sauce 
+
+1/4 cup fresh lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+2 tablespoons chopped cilantro
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+1 pound sashimi quality yellowfin tuna
+Quantifiers: 1 pound 
+Ingredients: sashimi yellowfin_tuna 
+
+1/2 teaspoon aji amarillo*
+Quantifiers: 1/2 teaspoon 
+Ingredients: 
+
+1/2 rocoto pepper puree*
+Quantifiers: 1/2 
+Ingredients: pepper puree 
+
+*available in Latin American specialty stores
+Quantifiers: in 
+Ingredients: 
+

@@ -1,0 +1,60 @@
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1/2 cup porter beer
+Quantifiers: 1/2 cup 
+Ingredients: porter beer 
+
+1 teaspoon English mustard powder
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+2 or 3 dashes hot sauce, such as Tabasco
+Quantifiers: 2 3 as 
+Ingredients: hot_sauce Tabasco 
+
+2 or 3 dashes Worcestershire sauce
+Quantifiers: 2 3 
+Ingredients: Worcestershire_sauce 
+
+5 ounces sharpest Cheddar available, grated (about 2 cups)
+Quantifiers: 5 ounces 2 cups 
+Ingredients: Cheddar 
+
+5 ounces Stilton, crumbled (about 2 cups depending on how finely it's crumbled)
+Quantifiers: 5 ounces 2 cups 
+Ingredients: Stilton 
+
+Salt and freshly grated black pepper
+Quantifiers: 
+Ingredients: Salt black_pepper 
+
+Long thin slices of French baguette cut on a bias
+Quantifiers: slices a 
+Ingredients: baguette cut 
+
+Extra-virgin olive oil, for brushing
+Quantifiers: 
+Ingredients: olive_oil 
+
+Cloves of garlic, halved
+Quantifiers: 
+Ingredients: Cloves garlic 
+
+Thin slices tomato and diced tomatoes, for garnish
+Quantifiers: slices 
+Ingredients: tomato tomatoes 
+
+Crumbled bacon
+Quantifiers: 
+Ingredients: bacon 
+
+Chopped fresh chives
+Quantifiers: 
+Ingredients: chives 
+

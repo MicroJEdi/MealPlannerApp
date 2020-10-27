@@ -1,0 +1,56 @@
+1 refrigerated, rolled store-bought pie crust
+Quantifiers: 1 
+Ingredients: pie_crust 
+
+2 cups peeled, cooked and pureed sweet potatoes, cooled 
+Quantifiers: 2 cups 
+Ingredients: sweet potatoes 
+
+1/2 cup plus 3 tablespoons granulated sugar 
+Quantifiers: 1/2 cup 3 tablespoons 
+Ingredients: granulated_sugar 
+
+1/2 cup dark brown sugar 
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+1/2 stick (4 tablespoons) butter, melted
+Quantifiers: 1/2 stick 4 tablespoons 
+Ingredients: butter 
+
+1/4 cup dark rum, such as Appleton Estate
+Quantifiers: 1/4 cup dark as 
+Ingredients: rum 
+
+1 teaspoon vanilla extract 
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1/4 teaspoon ground cinnamon 
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cinnamon 
+
+1/4 teaspoon minced fresh ginger 
+Quantifiers: 1/4 teaspoon 
+Ingredients: ginger 
+
+Pinch salt 
+Quantifiers: Pinch 
+Ingredients: salt 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup coconut milk 
+Quantifiers: 1 cup 
+Ingredients: coconut_milk 
+
+1 cup heavy whipping cream, chilled
+Quantifiers: 1 cup 
+Ingredients: whipping_cream 
+
+1/4 teaspoon orange zest
+Quantifiers: 1/4 teaspoon 
+Ingredients: orange 
+

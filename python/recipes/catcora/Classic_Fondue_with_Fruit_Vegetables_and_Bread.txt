@@ -1,0 +1,40 @@
+1 garlic clove
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+1 1/2 cups dry white wine
+Quantifiers: 1 1/2 cups 
+Ingredients: white_wine 
+
+1 pound Gruyere, grated
+Quantifiers: 1 pound 
+Ingredients: Gruyere 
+
+1 tablespoon cornstarch
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+1 scratch fresh nutmeg
+Quantifiers: 1 scratch 
+Ingredients: nutmeg 
+
+1 teaspoon sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+1/2 teaspoon black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+
+1/2 pound assorted fruit, cleaned
+Quantifiers: 1/2 pound 
+Ingredients: fruit 
+
+1/2 pound assorted vegetables, cleaned
+Quantifiers: 1/2 pound 
+Ingredients: vegetables 
+
+1/2 loaf baguette, cut in cubes
+Quantifiers: 1/2 in cubes 
+Ingredients: loaf baguette cut 
+

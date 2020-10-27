@@ -1,0 +1,88 @@
+8 tablespoons vegetable oil
+Quantifiers: 8 tablespoons 
+Ingredients: vegetable_oil 
+
+3 pounds boneless pork loin, cut into 2-inch cubes
+Quantifiers: 3 pounds cubes 
+Ingredients: pork_loin cut 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 Spanish onion, cut into 1-inch dice
+Quantifiers: 1 
+Ingredients: Spanish_onion cut 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 red bell peppers, seeded and cut into 1-inch dice
+Quantifiers: 2 
+Ingredients: bell_peppers cut 
+
+3 jalapeno peppers, seeded and minced
+Quantifiers: 3 
+Ingredients: jalapeno_peppers 
+
+2 tablespoons light brown sugar
+Quantifiers: 2 tablespoons light 
+Ingredients: brown_sugar 
+
+2 tablespoons chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+2 tablespoons ground cumin
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin 
+
+2 teaspoons cayenne pepper
+Quantifiers: 2 teaspoons 
+Ingredients: cayenne_pepper 
+
+3 tablespoons cilantro, chopped
+Quantifiers: 3 tablespoons 
+Ingredients: cilantro 
+
+3 (15-ounce) cans diced tomatoes, with juice
+Quantifiers: 3 cans 
+Ingredients: tomatoes juice 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+1/2 cup prepared black coffee
+Quantifiers: 1/2 cup black 
+Ingredients: coffee 
+
+1/2 cup bourbon
+Quantifiers: 1/2 cup 
+Ingredients: bourbon 
+
+2 (15-ounce) cans black beans, drained
+Quantifiers: 2 cans 
+Ingredients: black_beans 
+
+2 (15-ounce) cans kidney beans, drained
+Quantifiers: 2 cans 
+Ingredients: kidney_beans 
+
+1 cup sour cream, for serving
+Quantifiers: 1 cup serving 
+Ingredients: sour_cream 
+
+1 small can sliced or chopped jalapenos, for serving
+Quantifiers: 1 can serving 
+Ingredients: jalapenos 
+
+2 cups shredded cheddar, for serving
+Quantifiers: 2 cups serving 
+Ingredients: cheddar 
+

@@ -1,0 +1,64 @@
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 pound lasagna sheets
+Quantifiers: 1 pound sheets 
+Ingredients: lasagna 
+
+8 ounces sliced pepperoni (about 2 cups)
+Quantifiers: 8 ounces 2 cups 
+Ingredients: pepperoni 
+
+4 cups Tomato Sauce, recipe follows
+Quantifiers: 4 cups 
+Ingredients: Tomato_Sauce 
+
+1 pound ricotta
+Quantifiers: 1 pound 
+Ingredients: ricotta 
+
+1 pound shredded mozzarella
+Quantifiers: 1 pound 
+Ingredients: mozzarella 
+
+2 pounds bulk Italian sausage, cooked
+Quantifiers: 2 pounds bulk 
+Ingredients: sausage 
+
+3/4 cup grated Parmesan
+Quantifiers: 3/4 cup 
+Ingredients: Parmesan 
+
+Tomato Sauce:
+Quantifiers: 
+Ingredients: Tomato_Sauce 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 yellow onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+5 medium cloves garlic, minced
+Quantifiers: 5 medium 
+Ingredients: cloves garlic 
+
+Two 28-ounce cans crushed tomatoes
+Quantifiers: Two cans 
+Ingredients: tomatoes 
+
+2 tablespoons thinly sliced fresh basil
+Quantifiers: 2 tablespoons 
+Ingredients: basil 
+
+1 tablespoon minced fresh oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

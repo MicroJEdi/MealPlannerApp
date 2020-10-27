@@ -1,0 +1,8 @@
+8 ounces bittersweet chocolate
+Quantifiers: 8 ounces 
+Ingredients: bittersweet_chocolate 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+

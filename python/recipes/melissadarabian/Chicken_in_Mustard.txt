@@ -1,0 +1,84 @@
+1 1/2 to 2 pounds chicken thighs, skin removed
+Quantifiers: 1 1/2 2 pounds thighs skin 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons extra-virgin olive oil, divided
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1/4 pound white button mushrooms, quartered
+Quantifiers: 1/4 pound button 
+Ingredients: white mushrooms 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 tomato, chopped
+Quantifiers: 1 
+Ingredients: tomato 
+
+1 tablespoon flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1 teaspoon dried tarragon
+Quantifiers: 1 teaspoon 
+Ingredients: tarragon 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 cup chicken stock, plus more if needed
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1/4 cup Dijon mustard
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 tablespoons sour cream
+Quantifiers: 2 tablespoons 
+Ingredients: sour_cream 
+
+Super Buttered Noodles, recipe follows
+Quantifiers: 
+Ingredients: Noodles 
+
+Super Buttered Noodles:
+Quantifiers: 
+Ingredients: Noodles 
+
+2 chicken bouillon cubes
+Quantifiers: 2 cubes 
+Ingredients: chicken bouillon_cubes 
+
+1 pound egg noodles
+Quantifiers: 1 pound 
+Ingredients: egg_noodles 
+
+3 tablespoons butter, softened
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 tablespoon sour cream
+Quantifiers: 1 tablespoon 
+Ingredients: sour_cream 
+
+Chopped fresh parsley, for garnish
+Quantifiers: 
+Ingredients: parsley 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

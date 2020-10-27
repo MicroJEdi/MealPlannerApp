@@ -1,0 +1,64 @@
+1 green bell pepper
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 red bell pepper
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 yellow bell pepper
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1/2 pound ground beef
+Quantifiers: 1/2 pound 
+Ingredients: ground_beef 
+
+1/2 pound ground turkey
+Quantifiers: 1/2 pound ground 
+Ingredients: turkey 
+
+2 slices white bread, cut into cubes
+Quantifiers: 2 slices cubes 
+Ingredients: white_bread cut 
+
+1 (28-ounce) can crushed tomatoes with basil
+Quantifiers: 1 can 
+Ingredients: tomatoes basil 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1 small onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 tablespoon chopped sage leaves, plus 6 to 8 whole leaves, for frying
+Quantifiers: 1 tablespoon leaves 6 8 leaves 
+Ingredients: sage 
+
+A few dashes Worcestershire sauce
+Quantifiers: A 
+Ingredients: Worcestershire_sauce 
+
+A few dashes hot sauce
+Quantifiers: A 
+Ingredients: hot_sauce 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 tablespoon oil
+Quantifiers: 1 tablespoon 
+Ingredients: oil 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+

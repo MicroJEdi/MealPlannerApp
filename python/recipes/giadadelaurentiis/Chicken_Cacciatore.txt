@@ -1,0 +1,60 @@
+4 chicken thighs
+Quantifiers: 4 thighs 
+Ingredients: chicken 
+
+2 chicken breasts with skin and backbone, halved crosswise
+Quantifiers: 2 breasts skin backbone 
+Ingredients: chicken 
+
+2 teaspoons salt, plus more to taste
+Quantifiers: 2 teaspoons taste 
+Ingredients: salt 
+
+1 teaspoon freshly ground black pepper, plus more to taste
+Quantifiers: 1 teaspoon ground taste 
+Ingredients: black_pepper 
+
+1/2 cup all purpose flour, for dredging
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 large red bell pepper, chopped
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+3 garlic cloves, finely chopped
+Quantifiers: 3 
+Ingredients: garlic_cloves 
+
+3/4 cup dry white wine
+Quantifiers: 3/4 cup 
+Ingredients: white_wine 
+
+1 ( 28-ounce) can diced tomatoes with juice
+Quantifiers: 1 can 
+Ingredients: tomatoes juice 
+
+3/4 cup reduced-sodium chicken broth
+Quantifiers: 3/4 cup 
+Ingredients: chicken_broth 
+
+3 tablespoons drained capers
+Quantifiers: 3 tablespoons 
+Ingredients: capers 
+
+1 1/2 teaspoons dried oregano leaves
+Quantifiers: 1 1/2 teaspoons leaves 
+Ingredients: oregano 
+
+1/4 cup coarsely chopped fresh basil leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: basil 
+

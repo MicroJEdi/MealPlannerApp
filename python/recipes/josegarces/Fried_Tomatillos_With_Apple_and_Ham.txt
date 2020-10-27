@@ -1,0 +1,92 @@
+For the topping:
+Quantifiers: 
+Ingredients: 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/4 cup finely chopped good-quality ham
+Quantifiers: 1/4 cup 
+Ingredients: ham 
+
+1/2 Gala apple, cut into matchsticks
+Quantifiers: 1/2 matchsticks 
+Ingredients: apple cut 
+
+2 tablespoons apple cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: apple cider_vinegar 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+1 tablespoon finely chopped shallot
+Quantifiers: 1 tablespoon 
+Ingredients: shallot 
+
+1 tablespoon finely chopped fresh parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+1 tablespoon finely chopped fresh chives
+Quantifiers: 1 tablespoon 
+Ingredients: chives 
+
+1 teaspoon finely chopped fresh rosemary
+Quantifiers: 1 teaspoon 
+Ingredients: rosemary 
+
+1 teaspoon finely chopped fresh thyme
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+For the tomatillos:
+Quantifiers: 
+Ingredients: tomatillos 
+
+4 medium tomatillos, husked, rinsed and cut into wedges
+Quantifiers: 4 medium 
+Ingredients: tomatillos cut wedges 
+
+1 cup buttermilk
+Quantifiers: 1 cup 
+Ingredients: buttermilk 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+1/2 cup fine yellow cornmeal
+Quantifiers: 1/2 cup 
+Ingredients: cornmeal 
+
+1 1/2 teaspoons mustard powder
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: mustard 
+
+1 1/2 teaspoons onion powder
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: onion 
+
+1 1/2 teaspoons garlic powder
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: garlic 
+
+1 1/2 teaspoons ground turmeric
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: turmeric 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Jalapeno-Cilantro Aioli, for serving (see below)
+Quantifiers: serving 
+Ingredients: Aioli 
+

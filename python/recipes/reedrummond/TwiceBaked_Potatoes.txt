@@ -1,0 +1,40 @@
+8 baking potatoes, washed
+Quantifiers: 8 
+Ingredients: potatoes 
+
+3 tablespoons canola oil
+Quantifiers: 3 tablespoons 
+Ingredients: canola_oil 
+
+2 sticks salted butter
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+1 cup bacon bits (fry your own!)
+Quantifiers: 1 cup bits 
+Ingredients: bacon 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+1 cup Cheddar or Jack cheese (or a mix of both), plus more for topping
+Quantifiers: 1 cup Jack a 
+Ingredients: Cheddar cheese mix 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+2 teaspoons seasoned salt
+Quantifiers: 2 teaspoons 
+Ingredients: seasoned_salt 
+
+3 green onions, sliced
+Quantifiers: 3 
+Ingredients: green_onions 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

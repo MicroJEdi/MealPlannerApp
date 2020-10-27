@@ -1,0 +1,60 @@
+2/3 cup panko breadcrumbs
+Quantifiers: 2/3 cup breadcrumbs 
+Ingredients: 
+
+1/2 cup milk 
+Quantifiers: 1/2 cup 
+Ingredients: milk 
+
+1/4 cup chopped fresh cilantro 
+Quantifiers: 1/4 cup 
+Ingredients: cilantro 
+
+1/4 cup ketchup 
+Quantifiers: 1/4 cup 
+Ingredients: ketchup 
+
+2 tablespoons barbecue sauce 
+Quantifiers: 2 tablespoons 
+Ingredients: barbecue_sauce 
+
+2 tablespoons Dijon mustard 
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon chili powder
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+4 cloves garlic, minced 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+4 green onions, thinly sliced 
+Quantifiers: 4 
+Ingredients: green_onions 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 small Spanish onion, diced 
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+1 small red bell pepper, diced 
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 pounds ground beef
+Quantifiers: 2 pounds 
+Ingredients: ground_beef 
+

@@ -1,0 +1,24 @@
+2 cups cranberry juice
+Quantifiers: 2 cups 
+Ingredients: cranberry_juice 
+
+1 (6-ounce) bag sweetened dried cranberries
+Quantifiers: 1 bag 
+Ingredients: cranberries 
+
+1 cinnamon stick, broken in half
+Quantifiers: 1 stick in half 
+Ingredients: cinnamon 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+2 Gala apples, peeled, cored and diced
+Quantifiers: 2 
+Ingredients: apples 
+
+2 teaspoons corn starch
+Quantifiers: 2 teaspoons 
+Ingredients: corn 
+

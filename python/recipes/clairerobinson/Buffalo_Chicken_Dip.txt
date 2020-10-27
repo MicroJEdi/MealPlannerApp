@@ -1,0 +1,24 @@
+8 ounces cream cheese
+Quantifiers: 8 ounces 
+Ingredients: cream_cheese 
+
+1/2 cup finely chopped celery
+Quantifiers: 1/2 cup 
+Ingredients: celery 
+
+1/2 cup hot sauce (recommended: Frank's)
+Quantifiers: 1/2 cup 
+Ingredients: hot_sauce Franks 
+
+1 rotisserie chicken, shredded
+Quantifiers: 1 
+Ingredients: chicken 
+
+1 cup crumbled blue cheese
+Quantifiers: 1 cup 
+Ingredients: blue_cheese 
+
+Crackers, bread or carrot sticks, for serving
+Quantifiers: sticks serving 
+Ingredients: Crackers bread carrot_sticks 
+

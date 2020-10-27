@@ -1,0 +1,60 @@
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+2 tablespoons butter, softened
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+8 eggs
+Quantifiers: 8 
+Ingredients: eggs 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/4 cup cream
+Quantifiers: 1/4 cup 
+Ingredients: cream 
+
+1/4 cup freshly grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+
+1 1/2 ounces prosciutto (about 4 slices), cut in 1/4-inch strips
+Quantifiers: 1 1/2 ounces 4 slices in 
+Ingredients: prosciutto cut 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 small onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+1 red pepper, seeds and ribs removed, cut in 1/4-inch strips
+Quantifiers: 1 ribs in 
+Ingredients: red_pepper seeds cut 
+
+1 green pepper, seeds and ribs removed, cut in 1/4-inch strips
+Quantifiers: 1 ribs in 
+Ingredients: green_pepper seeds cut 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 (14 1/2-ounces) can diced, peeled tomatoes, drained
+Quantifiers: 1 14 can 
+Ingredients: tomatoes 
+
+1/2 teaspoon red pepper flakes, optional
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 tablespoon chopped fresh basil leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: basil 
+

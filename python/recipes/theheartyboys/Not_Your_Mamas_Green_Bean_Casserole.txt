@@ -1,0 +1,64 @@
+6 tablespoons butter
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+2 shallots, finely chopped (about 3 tablespoons)
+Quantifiers: 2 3 tablespoons 
+Ingredients: shallots 
+
+8 ounces portobello mushrooms, sliced
+Quantifiers: 8 ounces 
+Ingredients: mushrooms 
+
+8 ounces white mushrooms, sliced
+Quantifiers: 8 ounces 
+Ingredients: white mushrooms 
+
+2 sprigs fresh thyme
+Quantifiers: 2 
+Ingredients: thyme 
+
+1 tablespoon chopped fresh sage leaves, or 1 teaspoon dried sage
+Quantifiers: 1 tablespoon leaves 1 teaspoon 
+Ingredients: sage sage 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+3/4 cup sherry
+Quantifiers: 3/4 cup 
+Ingredients: sherry 
+
+3/4 cup heavy cream
+Quantifiers: 3/4 cup 
+Ingredients: heavy_cream 
+
+2 pounds fresh green beans, trimmed
+Quantifiers: 2 pounds 
+Ingredients: green_beans 
+
+Frizzled leeks, recipe follows
+Quantifiers: 
+Ingredients: leeks 
+
+Frizzled Leeks:
+Quantifiers: 
+Ingredients: Leeks 
+
+Vegetable oil, for deep frying
+Quantifiers: deep 
+Ingredients: Vegetable_oil 
+
+1 leek
+Quantifiers: 1 
+Ingredients: leek 
+
+Superfine flour, for dredging (recommended: Wondra Flour)
+Quantifiers: 
+Ingredients: flour Flour 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

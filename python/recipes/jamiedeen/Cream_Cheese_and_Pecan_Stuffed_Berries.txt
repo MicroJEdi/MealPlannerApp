@@ -1,0 +1,20 @@
+20 whole large strawberries, hulled
+Quantifiers: 20 
+Ingredients: strawberries 
+
+8 ounces cream cheese, softened
+Quantifiers: 8 ounces 
+Ingredients: cream_cheese 
+
+1/4 cup confectioners' powdered sugar
+Quantifiers: 1/4 cup 
+Ingredients: powdered_sugar 
+
+1/4 teaspoon vanilla or almond extract
+Quantifiers: 1/4 teaspoon 
+Ingredients: vanilla almond_extract 
+
+2/3 cup chopped pecans
+Quantifiers: 2/3 cup 
+Ingredients: pecans 
+

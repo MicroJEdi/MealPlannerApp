@@ -1,0 +1,36 @@
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons baking soda
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: soda 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+4 overripe bananas
+Quantifiers: 4 
+Ingredients: bananas 
+
+1 cup brown sugar
+Quantifiers: 1 cup 
+Ingredients: brown_sugar 
+
+3/4 cup (1 1/2 sticks) unsalted butter, melted and cooled
+Quantifiers: 3/4 cup 1 1/2 sticks 
+Ingredients: butter 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup pecans, chopped
+Quantifiers: 1/2 cup 
+Ingredients: pecans 
+

@@ -1,0 +1,44 @@
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 (2 to 3 pound) chicken, cut into 8 pieces
+Quantifiers: 1 2 3 pound 8 pieces 
+Ingredients: chicken cut 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 onions, roughly chopped
+Quantifiers: 2 
+Ingredients: onions 
+
+3 cloves garlic, minced, plus 2 cloves, whole
+Quantifiers: 3 2 
+Ingredients: cloves garlic cloves 
+
+4 ounces dry white wine
+Quantifiers: 4 ounces 
+Ingredients: white_wine 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+6 ounces tomato paste
+Quantifiers: 6 ounces 
+Ingredients: tomato_paste 
+
+1 cup mizithra
+Quantifiers: 1 cup 
+Ingredients: 
+
+Serving suggestion: Cooked rice or cooked orzo.
+Quantifiers: Serving suggestion 
+Ingredients: rice orzo 
+

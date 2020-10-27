@@ -1,0 +1,48 @@
+4 skinless, boneless, chicken breasts (about 11/2 pounds)
+Quantifiers: 4 breasts 11/2 pounds 
+Ingredients: chicken 
+
+All-purpose flour, for dredging
+Quantifiers: 
+Ingredients: flour 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/2 lemon, with rind, cut in thin rounds
+Quantifiers: 1/2 in rounds 
+Ingredients: lemon cut 
+
+1/2 cup dry white wine, such as Pinot Grigio
+Quantifiers: 1/2 cup as 
+Ingredients: white_wine 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/4 cup chopped flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+

@@ -1,0 +1,76 @@
+4 chicken cutlets, 4 to 5 ounces each
+Quantifiers: 4 cutlets 4 5 ounces 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 large eggs  
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 cups panko breadcrumbs 
+Quantifiers: 2 cups breadcrumbs 
+Ingredients: 
+
+1/4 cup grated Parmesan, plus Parmesan shavings, for serving
+Quantifiers: 1/4 cup serving 
+Ingredients: Parmesan Parmesan 
+
+2 teaspoons Italian seasoning 
+Quantifiers: 2 teaspoons 
+Ingredients: seasoning 
+
+1/2 teaspoon dried basil 
+Quantifiers: 1/2 teaspoon 
+Ingredients: basil 
+
+Canola oil, for frying
+Quantifiers: 
+Ingredients: Canola_oil 
+
+Spicy Arugula, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Lemon wedges, for serving
+Quantifiers: serving 
+Ingredients: Lemon wedges 
+
+Spicy Arugula:
+Quantifiers: 
+Ingredients: 
+
+1 1/2 tablespoons freshly-squeezed lemon juice (about 1/2 lemon)
+Quantifiers: 1 1/2 tablespoons 1/2 
+Ingredients: lemon_juice lemon 
+
+1 tablespoon chopped shallots
+Quantifiers: 1 tablespoon 
+Ingredients: shallots 
+
+Heaping 1/2 teaspoon Dijon mustard 
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup extra-virgin olive oil 
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+4 ounces arugula
+Quantifiers: 4 ounces 
+Ingredients: 
+

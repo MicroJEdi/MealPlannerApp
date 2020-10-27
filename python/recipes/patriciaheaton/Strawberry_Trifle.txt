@@ -1,0 +1,68 @@
+Strawberries:
+Quantifiers: 
+Ingredients: Strawberries 
+
+2 teaspoons unflavored gelatin
+Quantifiers: 2 teaspoons 
+Ingredients: gelatin 
+
+1 pound frozen strawberries, thawed 
+Quantifiers: 1 pound 
+Ingredients: strawberries 
+
+1/4 cup sugar 
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+Custard:
+Quantifiers: 
+Ingredients: Custard 
+
+2 1/2 cups whole milk
+Quantifiers: 2 1/2 cups 
+Ingredients: whole_milk 
+
+1/2 cup sugar 
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1/4 cup cornstarch 
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+Pinch kosher salt 
+Quantifiers: Pinch 
+Ingredients: kosher salt 
+
+2 tablespoons unsalted butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 tablespoon vanilla extract 
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+Assembly:
+Quantifiers: Assembly 
+Ingredients: 
+
+About three-quarters of a 14-ounce angel food cake, cut into 1/2-inch cubes
+Quantifiers: three-quarters a cubes 
+Ingredients: food cake cut 
+
+3/4 cup heavy cream 
+Quantifiers: 3/4 cup 
+Ingredients: heavy_cream 
+
+1 tablespoon confectioner's sugar 
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+1 teaspoon orange extract or 2 tablespoons cream sherry 
+Quantifiers: 1 teaspoon 2 tablespoons 
+Ingredients: orange cream sherry 
+
+Mint sprigs, for garnish
+Quantifiers: Mint 
+Ingredients: 
+

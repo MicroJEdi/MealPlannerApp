@@ -1,0 +1,48 @@
+1 tablespoon extra-virgin olive oil, 1 turn of the pan
+Quantifiers: 1 tablespoon 1 turn pan 
+Ingredients: olive_oil 
+
+1 1/4 pounds ground beef sirloin
+Quantifiers: 1 1/4 pounds 
+Ingredients: ground_beef sirloin 
+
+1/4 cup brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+2 teaspoons to 1 tablespoon steak seasoning blend, such as McCormick brand Montreal Seasoning
+Quantifiers: 2 teaspoons 1 tablespoon as brand 
+Ingredients: steak seasoning Seasoning 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 small red bell pepper, chopped
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 tablespoon red wine vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: red_wine_vinegar 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+2 cups tomato sauce
+Quantifiers: 2 cups 
+Ingredients: tomato_sauce 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+4 crusty rolls, split, toasted, and lightly buttered
+Quantifiers: 4 rolls split 
+Ingredients: 
+
+Garnish: sliced ripe tomatoes, pickles, Deviled Potato Salad
+Quantifiers: 
+Ingredients: tomatoes pickles Potato_Salad 
+

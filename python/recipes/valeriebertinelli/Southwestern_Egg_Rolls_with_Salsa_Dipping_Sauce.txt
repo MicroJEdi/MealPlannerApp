@@ -1,0 +1,88 @@
+Egg Rolls:
+Quantifiers: Rolls 
+Ingredients: Egg_Rolls 
+
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 1/2 cups shredded Mexican blend cheese 
+Quantifiers: 2 1/2 cups 
+Ingredients: cheese 
+
+2 cups frozen corn, thawed 
+Quantifiers: 2 cups 
+Ingredients: corn 
+
+One 15-ounce can black beans, rinsed and drained 
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 10-ounce package frozen chopped spinach, thawed and squeezed dry 
+Quantifiers: One package 
+Ingredients: spinach 
+
+One 4-ounce can diced green chiles, drained 
+Quantifiers: One can 
+Ingredients: green chiles 
+
+4 scallions, chopped 
+Quantifiers: 4 
+Ingredients: scallions 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon chili powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: chili_powder 
+
+1/4 teaspoon cayenne pepper 
+Quantifiers: 1/4 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 1/2 teaspoons kosher salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+One 16-ounce package egg roll wrappers 
+Quantifiers: One package roll 
+Ingredients: egg_roll 
+
+1 egg, slightly beaten 
+Quantifiers: 1 
+Ingredients: egg 
+
+Salsa:
+Quantifiers: 
+Ingredients: Salsa 
+
+5 plum tomatoes, quartered
+Quantifiers: 5 
+Ingredients: plum tomatoes 
+
+1 small clove garlic, minced 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 jalapeno, seeded and finely chopped 
+Quantifiers: 1/2 
+Ingredients: jalapeno 
+
+3 scallions, white and light green parts only, finely chopped 
+Quantifiers: 3 light 
+Ingredients: scallions white green 
+
+1 cup loosely packed cilantro leaves and stems, finely chopped 
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+Juice of 1/2 lime 
+Quantifiers: 1/2 
+Ingredients: Juice lime 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+

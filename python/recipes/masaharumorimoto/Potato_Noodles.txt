@@ -1,0 +1,8 @@
+Potatoes
+Quantifiers: 
+Ingredients: Potatoes 
+
+Peanut oil
+Quantifiers: 
+Ingredients: Peanut_oil 
+

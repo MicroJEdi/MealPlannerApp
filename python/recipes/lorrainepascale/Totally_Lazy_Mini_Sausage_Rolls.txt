@@ -1,0 +1,24 @@
+1lb 2oz/500g homemade or store-bought puff pastry
+Quantifiers: 
+Ingredients: puff pastry 
+
+All-purpose flour, for dusting
+Quantifiers: 
+Ingredients: flour 
+
+1 egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+8 uncooked breakfast-sized herby sausages (the best you can find), cut in half crosswise
+Quantifiers: 8 can in half 
+Ingredients: sausages cut 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Small handful of thyme leaves
+Quantifiers: handful leaves 
+Ingredients: thyme 
+

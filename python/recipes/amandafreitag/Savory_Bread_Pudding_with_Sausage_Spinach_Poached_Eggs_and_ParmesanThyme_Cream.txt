@@ -1,0 +1,96 @@
+Parmesan-Thyme Cream:
+Quantifiers: 
+Ingredients: Cream 
+
+3 cups heavy cream
+Quantifiers: 3 cups 
+Ingredients: heavy_cream 
+
+1 bay leaf 
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 cloves garlic, smashed 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 cup grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+2 tablespoons chopped fresh thyme
+Quantifiers: 2 tablespoons 
+Ingredients: thyme 
+
+1 teaspoon salt 
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+Savory Bread Pudding:
+Quantifiers: 
+Ingredients: Savory Bread Pudding 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 cup small-diced onions
+Quantifiers: 1 cup 
+Ingredients: onions 
+
+1 cup small-diced celery
+Quantifiers: 1 cup 
+Ingredients: celery 
+
+3 cloves garlic, minced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 tablespoon chopped fresh thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+
+2 cups whole milk 
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+6 large eggs, beaten 
+Quantifiers: 6 
+Ingredients: eggs 
+
+2 teaspoons salt 
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+4 cups cubed day-old white bread
+Quantifiers: 4 cups 
+Ingredients: white_bread 
+
+2 tablespoons unsalted butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+For Serving:
+Quantifiers: Serving 
+Ingredients: 
+
+4 sausage patties, cooked
+Quantifiers: 4 
+Ingredients: sausage patties 
+
+1 cup spinach 
+Quantifiers: 1 cup 
+Ingredients: spinach 
+
+8 eggs, poached
+Quantifiers: 8 
+Ingredients: eggs 
+

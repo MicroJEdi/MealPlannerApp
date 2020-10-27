@@ -1,0 +1,48 @@
+8 ounces (2 sticks) unsalted butter
+Quantifiers: 8 ounces 2 sticks 
+Ingredients: butter 
+
+3/4 cup granulated sugar
+Quantifiers: 3/4 cup 
+Ingredients: granulated_sugar 
+
+3/4 cup firmly-packed light brown sugar
+Quantifiers: 3/4 cup light 
+Ingredients: brown_sugar 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+2 cups all-purpose flour (scooped and leveled)
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+4 ounces chopped walnuts, pecans, or almonds (about 1 cup)
+Quantifiers: 4 ounces 1 cup 
+Ingredients: walnuts pecans almonds 
+
+5 ounces bittersweet chocolate, roughly chopped to pieces
+Quantifiers: 5 ounces pieces 
+Ingredients: bittersweet_chocolate 
+
+5 ounces milk chocolate, roughly chopped to pieces
+Quantifiers: 5 ounces pieces 
+Ingredients: milk_chocolate 
+
+5 ounces white chocolate, roughly chopped to pieces
+Quantifiers: 5 ounces pieces 
+Ingredients: white_chocolate 
+

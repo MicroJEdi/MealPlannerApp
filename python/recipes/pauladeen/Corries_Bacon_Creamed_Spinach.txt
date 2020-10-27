@@ -1,0 +1,20 @@
+3 slices bacon
+Quantifiers: 3 slices 
+Ingredients: bacon 
+
+1/2 cup finely chopped yellow onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+12-ounce bag baby spinach
+Quantifiers: bag 
+Ingredients: spinach 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

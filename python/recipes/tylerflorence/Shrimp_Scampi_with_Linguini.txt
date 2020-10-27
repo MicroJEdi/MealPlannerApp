@@ -1,0 +1,44 @@
+1 pound linguini
+Quantifiers: 1 pound 
+Ingredients: linguini 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+4 tablespoons extra virgin olive oil, plus more for drizzling
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1 large shallot, finely diced
+Quantifiers: 1 
+Ingredients: shallot 
+
+5 cloves garlic, sliced
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+Pinch red pepper flakes, optional
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+20 large shrimp, about 1 pound, peeled and deveined, tail on
+Quantifiers: 20 1 pound tail 
+Ingredients: shrimp 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/4 cup finely chopped parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+

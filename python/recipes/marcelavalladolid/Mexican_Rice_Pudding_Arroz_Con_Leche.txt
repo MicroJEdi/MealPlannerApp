@@ -1,0 +1,32 @@
+7 cups water
+Quantifiers: 7 cups 
+Ingredients: water 
+
+1 cup long-grain white rice
+Quantifiers: 1 cup 
+Ingredients: white_rice 
+
+One 4-inch cinnamon stick
+Quantifiers: One stick 
+Ingredients: cinnamon 
+
+One 12-ounce can evaporated milk
+Quantifiers: One can 
+Ingredients: evaporated_milk 
+
+One 14-ounce can condensed milk
+Quantifiers: One can 
+Ingredients: condensed_milk 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+3/4 cup golden raisins
+Quantifiers: 3/4 cup 
+Ingredients: raisins 
+
+Ground cinnamon, for dusting
+Quantifiers: Ground 
+Ingredients: cinnamon 
+

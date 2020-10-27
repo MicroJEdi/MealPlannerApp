@@ -1,0 +1,16 @@
+1 (8-ounce) log fresh goat cheese, chilled
+Quantifiers: 1 log 
+Ingredients: goat_cheese 
+
+1 cup pistachio nuts, finely chopped
+Quantifiers: 1 cup 
+Ingredients: pistachio_nuts 
+
+20 sun-dried tomatoes packed in oil
+Quantifiers: 20 in 
+Ingredients: tomatoes oil 
+
+1/2 bunch fresh basil leaves
+Quantifiers: 1/2 leaves 
+Ingredients: basil 
+

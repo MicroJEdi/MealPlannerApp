@@ -1,0 +1,40 @@
+Guacamole:
+Quantifiers: 
+Ingredients: Guacamole 
+
+4 firm, ripe avocados, halved, pitted, and peeled
+Quantifiers: 4 
+Ingredients: avocados 
+
+1/2 medium white onion, minced (about 4 tablespoons)
+Quantifiers: 1/2 medium 4 tablespoons 
+Ingredients: white onion 
+
+3 tablespoons chopped fresh cilantro leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: cilantro 
+
+1 medium lime, freshly squeezed (about 2 tablespoons)
+Quantifiers: 1 medium 2 tablespoons 
+Ingredients: lime 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Chips:
+Quantifiers: 
+Ingredients: Chips 
+
+12 fresh corn tortillas
+Quantifiers: 12 
+Ingredients: corn tortillas 
+
+1/2 cup vegetable oil
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

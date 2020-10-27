@@ -1,0 +1,64 @@
+Crust:
+Quantifiers: 
+Ingredients: 
+
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1 1/2 cups fine graham cracker crumbs
+Quantifiers: 1 1/2 cups cracker_crumbs 
+Ingredients: graham_
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1/4 cup (1/2 stick) butter, melted
+Quantifiers: 1/4 cup 1/2 stick 
+Ingredients: butter 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+32 ounces (Four 8-ounce packages) cream cheese
+Quantifiers: ounces Four packages 
+Ingredients: cream_cheese 
+
+2 cups sour cream
+Quantifiers: 2 cups 
+Ingredients: sour_cream 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 1/4 cups sugar
+Quantifiers: 1 1/4 cups 
+Ingredients: sugar 
+
+2 1/2 tablespoons cornstarch
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+Strawberry Sauce:
+Quantifiers: 
+Ingredients: Strawberry Sauce 
+
+1 to 1 1/4 cups halved fresh strawberries
+Quantifiers: 1 1 1/4 cups 
+Ingredients: strawberries 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1 lime, zested
+Quantifiers: 1 
+Ingredients: lime 
+

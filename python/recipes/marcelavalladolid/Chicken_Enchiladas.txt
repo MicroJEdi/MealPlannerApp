@@ -1,0 +1,48 @@
+9 tomatillos, husked and rinsed
+Quantifiers: 9 
+Ingredients: tomatillos 
+
+1/2 medium white onion
+Quantifiers: 1/2 medium 
+Ingredients: white onion 
+
+1 serrano chile
+Quantifiers: 1 
+Ingredients: chile 
+
+1 yellow chile (guero)
+Quantifiers: 1 
+Ingredients: chile 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 cup fresh cilantro leaves, loosely packed
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+6 (6-inch) corn tortillas
+Quantifiers: 6 
+Ingredients: corn tortillas 
+
+2 store-bought rotisserie chicken breasts, skinned and shredded (to yield 1 1/2 cups)
+Quantifiers: 2 breasts yield 1 1/2 cups 
+Ingredients: chicken 
+
+1/2 cup Mexican crema or sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1 cup shredded Monterey Jack cheese
+Quantifiers: 1 cup Jack 
+Ingredients: cheese 
+

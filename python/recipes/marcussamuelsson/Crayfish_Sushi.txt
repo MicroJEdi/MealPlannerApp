@@ -1,0 +1,28 @@
+2 cups boiled potatoes (fingerling)
+Quantifiers: 2 cups 
+Ingredients: potatoes 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon wasabi
+Quantifiers: 1/2 teaspoon 
+Ingredients: wasabi 
+
+1 teaspoon rice wine vinegar
+Quantifiers: 1 teaspoon 
+Ingredients: rice wine_vinegar 
+
+1 teaspoon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 tablespoon mustard oil
+Quantifiers: 1 tablespoon 
+Ingredients: mustard oil 
+
+1/2 cup crayfish tails
+Quantifiers: 1/2 cup tails 
+Ingredients: crayfish 
+

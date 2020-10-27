@@ -1,0 +1,44 @@
+2 medium red beets
+Quantifiers: 2 medium 
+Ingredients: beets 
+
+3 tablespoons olive oil 
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 medium sweet potatoes
+Quantifiers: 2 medium 
+Ingredients: sweet potatoes 
+
+2 medium russet potatoes
+Quantifiers: 2 medium 
+Ingredients: potatoes 
+
+8 frozen breaded fish fillets, such as Gorton's
+Quantifiers: 8 fish_fillets as 
+Ingredients: fillets 
+
+1/2 cup vegan or regular mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1 tablespoon sweet relish
+Quantifiers: 1 tablespoon 
+Ingredients: sweet relish 
+
+1 teaspoon yellow mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 teaspoon lemon juice, plus lemon wedges, for serving
+Quantifiers: 1 teaspoon serving 
+Ingredients: lemon_juice lemon wedges 
+
+Chopped fresh parsley, for serving
+Quantifiers: serving 
+Ingredients: parsley 
+

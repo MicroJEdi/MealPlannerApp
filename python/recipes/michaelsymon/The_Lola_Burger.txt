@@ -1,0 +1,136 @@
+8 slices bacon
+Quantifiers: 8 slices 
+Ingredients: bacon 
+
+24 ounces ground beef, 75 percent lean*
+Quantifiers: 24 ounces 
+Ingredients: ground_beef 
+
+Kosher salt and cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+4 thin slices Cheddar
+Quantifiers: 4 slices 
+Ingredients: Cheddar 
+
+4 English muffins, split
+Quantifiers: 4 split 
+Ingredients: English_muffins 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 dill pickle, thinly sliced
+Quantifiers: 1 
+Ingredients: dill_pickle 
+
+1/2 cup Pickled Red Onions, recipe follows
+Quantifiers: 1/2 cup 
+Ingredients: Red_Onions 
+
+4 teaspoons Spicy Ketchup, recipe follows
+Quantifiers: 4 teaspoons 
+Ingredients: Ketchup 
+
+Pickled Red Onions:
+Quantifiers: 
+Ingredients: Red_Onions 
+
+2 pounds red onions, sliced
+Quantifiers: 2 pounds 
+Ingredients: red_onions 
+
+White wine vinegar
+Quantifiers: 
+Ingredients: White_wine_vinegar 
+
+Sugar
+Quantifiers: 
+Ingredients: Sugar 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 teaspoons mustard seeds
+Quantifiers: 2 teaspoons 
+Ingredients: mustard_seeds 
+
+1 tablespoon crushed red pepper flakes
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+2 tablespoons coriander seeds
+Quantifiers: 2 tablespoons 
+Ingredients: coriander_seeds 
+
+2 tablespoons black peppercorns
+Quantifiers: 2 tablespoons black 
+Ingredients: peppercorns 
+
+4 garlic cloves
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+Spicy Ketchup:
+Quantifiers: 
+Ingredients: Ketchup 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 small yellow onion, minced
+Quantifiers: 1 
+Ingredients: onion 
+
+3 garlic cloves, chopped
+Quantifiers: 3 
+Ingredients: garlic_cloves 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+5 Fresno chiles, seeded and minced
+Quantifiers: 5 
+Ingredients: chiles 
+
+1 ancho chile, seeded and minced
+Quantifiers: 1 
+Ingredients: chile 
+
+1/4 teaspoon crushed red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+2 tablespoons dark brown sugar
+Quantifiers: 2 tablespoons dark 
+Ingredients: brown_sugar 
+
+1 tablespoon cumin seeds
+Quantifiers: 1 tablespoon 
+Ingredients: cumin_seeds 
+
+1 cinnamon stick
+Quantifiers: 1 stick 
+Ingredients: cinnamon 
+
+1 (6-ounce) can tomato paste
+Quantifiers: 1 can 
+Ingredients: tomato_paste 
+
+2 tablespoons cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: cider_vinegar 
+
+3 cups water
+Quantifiers: 3 cups 
+Ingredients: water 
+

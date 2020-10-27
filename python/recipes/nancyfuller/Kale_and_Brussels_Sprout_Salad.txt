@@ -1,0 +1,44 @@
+3 cups Brussels sprouts
+Quantifiers: 3 cups 
+Ingredients: Brussels_sprouts 
+
+1 large bunch Tuscan kale, center stems discarded 
+Quantifiers: 1 kale 
+Ingredients: center 
+
+1 small clove garlic
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 small shallot
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 cup finely grated pecorino 
+Quantifiers: 1 cup 
+Ingredients: 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/2 cup toasted pine nuts 
+Quantifiers: 1/2 cup 
+Ingredients: pine_nuts 
+
+2 tablespoons Dijon mustard 
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+3 lemons, zested and juiced
+Quantifiers: 3 
+Ingredients: lemons 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

@@ -1,0 +1,20 @@
+1 cup natural peanut butter
+Quantifiers: 1 cup 
+Ingredients: peanut_butter 
+
+ 1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+ 1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+ 1 large egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+ Coarse sea salt, for sprinkling
+Quantifiers: sea sprinkling 
+Ingredients: salt 
+

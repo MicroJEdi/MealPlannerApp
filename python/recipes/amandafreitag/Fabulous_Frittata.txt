@@ -1,0 +1,32 @@
+1 cup cottage cheese
+Quantifiers: 1 cup 
+Ingredients: cottage_cheese 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+8 eggs, beaten
+Quantifiers: 8 
+Ingredients: eggs 
+
+1/2 roasted red bell pepper, sliced 
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+2 medium red potatoes, par-cooked and sliced 
+Quantifiers: 2 medium 
+Ingredients: potatoes 
+
+1 cup baby spinach
+Quantifiers: 1 cup 
+Ingredients: spinach 
+
+1 tablespoon chopped chives
+Quantifiers: 1 tablespoon 
+Ingredients: chives 
+

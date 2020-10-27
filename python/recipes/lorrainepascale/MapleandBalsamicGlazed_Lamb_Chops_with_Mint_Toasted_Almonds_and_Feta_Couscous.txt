@@ -1,0 +1,80 @@
+Lamb:
+Quantifiers: 
+Ingredients: Lamb 
+
+Vegetable oil, for cooking
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Large handful of fresh thyme sprigs
+Quantifiers: handful 
+Ingredients: thyme 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+8 lamb chops or 8 lamb cutlets
+Quantifiers: 8 8 cutlets 
+Ingredients: lamb_chops lamb 
+
+1 bunch spring onions
+Quantifiers: 1 
+Ingredients: spring_onions 
+
+2 ounces sliced almonds
+Quantifiers: 2 ounces 
+Ingredients: almonds 
+
+Couscous:
+Quantifiers: 
+Ingredients: Couscous 
+
+11 ounces couscous
+Quantifiers: 11 ounces 
+Ingredients: couscous 
+
+7 ounces good feta cheese
+Quantifiers: 7 ounces 
+Ingredients: cheese 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Extra-virgin olive oil, for drizzling
+Quantifiers: 
+Ingredients: olive_oil 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+2 tablespoons maple syrup
+Quantifiers: 2 tablespoons 
+Ingredients: maple_syrup 
+
+1 tablespoon balsamic vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: vinegar 
+
+1 ounce butter
+Quantifiers: 1 ounce 
+Ingredients: butter 
+
+To serve:
+Quantifiers: 
+Ingredients: 
+
+Small handful of fresh mint leaves
+Quantifiers: handful mint leaves 
+Ingredients: 
+
+Handful of pomegranate seeds, optional
+Quantifiers: Handful 
+Ingredients: pomegranate seeds 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

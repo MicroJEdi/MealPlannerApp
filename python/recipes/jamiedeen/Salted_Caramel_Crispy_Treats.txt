@@ -1,0 +1,32 @@
+Nonstick spray
+Quantifiers: spray 
+Ingredients: 
+
+6 cups crispy rice cereal (about half a 12-ounce box), such as Rice Crispies
+Quantifiers: 6 cups half a box as 
+Ingredients: rice cereal Rice 
+
+1 stick unsalted butter, cut into pieces 
+Quantifiers: 1 stick pieces 
+Ingredients: butter cut 
+
+1/2 cup dark brown sugar 
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+1/4 cup heavy whipping cream 
+Quantifiers: 1/4 cup 
+Ingredients: whipping_cream 
+
+1 tablespoon light corn syrup 
+Quantifiers: 1 tablespoon light 
+Ingredients: corn_syrup 
+
+1 teaspoon flaky sea salt, such as Maldon, plus more for sprinkling 
+Quantifiers: 1 teaspoon sea as sprinkling 
+Ingredients: salt 
+
+One 10-ounce bag mini marshmallows
+Quantifiers: One bag 
+Ingredients: marshmallows 
+

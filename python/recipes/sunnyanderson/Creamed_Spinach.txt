@@ -1,0 +1,44 @@
+4 tablespoons unsalted butter, plus more for pan
+Quantifiers: 4 tablespoons pan 
+Ingredients: butter 
+
+1/2 red onion, chopped
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 teaspoons red chili flakes
+Quantifiers: 2 teaspoons 
+Ingredients: chili 
+
+1 3/4 cups heavy cream
+Quantifiers: 1 3/4 cups 
+Ingredients: heavy_cream 
+
+1 cup shredded Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+1 teaspoon ground nutmeg
+Quantifiers: 1 teaspoon ground 
+Ingredients: nutmeg 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+2 (10-ounce) packages frozen chopped spinach, thawed and squeezed dry
+Quantifiers: 2 packages 
+Ingredients: spinach 
+
+1/2 cup packaged fried onions (recommended: French's)
+Quantifiers: 1/2 cup 
+Ingredients: onions 
+

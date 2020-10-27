@@ -1,0 +1,72 @@
+Salmon:
+Quantifiers: 
+Ingredients: Salmon 
+
+Unsalted butter, softened, as needed
+Quantifiers: as 
+Ingredients: butter 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Six 6-ounce skinless salmon fillets, preferably wild 
+Quantifiers: Six 
+Ingredients: salmon fillets 
+
+3 tablespoons prepared pesto 
+Quantifiers: 3 tablespoons 
+Ingredients: pesto 
+
+2 tablespoons Dijon mustard 
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 teaspoon fresh lemon juice 
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+1 English cucumber, peeled
+Quantifiers: 1 
+Ingredients: cucumber 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup finely diced pitted Medjool dates (about 6)
+Quantifiers: 1/4 cup dates 6 
+Ingredients: 
+
+2 green apples, cored and cut into 1/4-inch dice 
+Quantifiers: 2 
+Ingredients: green apples cut 
+
+1/2 cup toasted pine nuts 
+Quantifiers: 1/2 cup 
+Ingredients: pine_nuts 
+
+3 tablespoons extra-virgin olive oil 
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons chopped fresh mint 
+Quantifiers: 2 tablespoons mint 
+Ingredients: 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+

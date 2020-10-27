@@ -1,0 +1,52 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 1/2 cups all-purpose flour
+Quantifiers: 2 1/2 cups 
+Ingredients: flour 
+
+3/4 cup natural cocoa powder
+Quantifiers: 3/4 cup 
+Ingredients: cocoa_powder 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+2 sticks (1 cup) plus 2 tablespoons butter, softened
+Quantifiers: 2 sticks 1 cup 2 tablespoons 
+Ingredients: butter 
+
+1 cup granulated sugar
+Quantifiers: 1 cup 
+Ingredients: granulated_sugar 
+
+1 cup lightly packed light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+2 extra-large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 teaspoon peppermint extract
+Quantifiers: 1 teaspoon 
+Ingredients: peppermint 
+
+1 cup chocolate chips
+Quantifiers: 1 cup 
+Ingredients: chocolate chips 
+
+1 cup mint chips (or chopped Andes Chocolate Mints)
+Quantifiers: 1 cup mint Mints 
+Ingredients: chips Chocolate 
+

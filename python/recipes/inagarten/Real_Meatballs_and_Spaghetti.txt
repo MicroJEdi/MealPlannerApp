@@ -1,0 +1,104 @@
+For the meatballs:
+Quantifiers: 
+Ingredients: meatballs 
+
+1/2 pound ground veal
+Quantifiers: 1/2 pound ground 
+Ingredients: veal 
+
+1/2 pound ground pork
+Quantifiers: 1/2 pound ground 
+Ingredients: pork 
+
+1 pound ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1 cup fresh white bread crumbs (4 slices, crusts removed)
+Quantifiers: 1 cup crumbs 4 slices 
+Ingredients: white_bread 
+
+1/4 cup seasoned dry bread crumbs
+Quantifiers: 1/4 cup crumbs 
+Ingredients: bread 
+
+2 tablespoons chopped fresh flat-leaf parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1/2 cup freshly grated Parmesan cheese
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan cheese 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/4 teaspoon ground nutmeg
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: nutmeg 
+
+1 extra-large egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+For the sauce:
+Quantifiers: 
+Ingredients: sauce 
+
+1 tablespoon good olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 cup chopped yellow onion (1 onion)
+Quantifiers: 1 cup 1 
+Ingredients: onion onion 
+
+1 1/2 teaspoons minced garlic
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: garlic 
+
+1/2 cup good red wine, such as Chianti
+Quantifiers: 1/2 cup as 
+Ingredients: red_wine Chianti 
+
+1 (28-ounce) can crushed tomatoes, or plum tomatoes in puree, chopped
+Quantifiers: 1 can in 
+Ingredients: tomatoes plum tomatoes puree 
+
+1 tablespoon chopped fresh flat-leaf parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+For serving:
+Quantifiers: serving 
+Ingredients: 
+
+1 1/2 pounds spaghetti, cooked according to package directions
+Quantifiers: 1 1/2 pounds package 
+Ingredients: spaghetti 
+
+Freshly grated Parmesan
+Quantifiers: 
+Ingredients: Parmesan 
+

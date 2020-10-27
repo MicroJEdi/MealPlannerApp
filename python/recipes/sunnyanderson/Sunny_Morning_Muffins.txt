@@ -1,0 +1,52 @@
+1 cup strawberries, chopped
+Quantifiers: 1 cup 
+Ingredients: strawberries 
+
+1 cup sugar, plus 2 tablespoons
+Quantifiers: 1 cup 2 tablespoons 
+Ingredients: sugar 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+Pinch ground cinnamon
+Quantifiers: Pinch ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/4 teaspoon ground nutmeg
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: nutmeg 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 ripe banana, mashed
+Quantifiers: 1 
+Ingredients: banana 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/2 pint blueberries
+Quantifiers: 1/2 pint 
+Ingredients: blueberries 
+
+1 cup chopped walnuts
+Quantifiers: 1 cup 
+Ingredients: walnuts 
+

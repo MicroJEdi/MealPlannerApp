@@ -1,0 +1,88 @@
+For the cake:
+Quantifiers: 
+Ingredients: cake 
+
+7 ounces butter, softened, plus more for greasing
+Quantifiers: 7 ounces 
+Ingredients: butter 
+
+1 1/2 cups packed light brown sugar
+Quantifiers: 1 1/2 cups light 
+Ingredients: brown_sugar 
+
+Seeds from 1 vanilla pod or 1/2 teaspoon vanilla extract
+Quantifiers: 1 1/2 teaspoon 
+Ingredients: Seeds pod vanilla_extract 
+
+5 large eggs, lightly beaten
+Quantifiers: 5 
+Ingredients: eggs 
+
+1 1/2 cups self-rising flour
+Quantifiers: 1 1/2 cups 
+Ingredients: self-rising_flour 
+
+For the sugar syrup:
+Quantifiers: 
+Ingredients: sugar_syrup 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+3/4 cup water
+Quantifiers: 3/4 cup 
+Ingredients: water 
+
+For the buttercream:
+Quantifiers: 
+Ingredients: 
+
+3 1/2 sticks or 28 tablespoons unsalted butter, softened
+Quantifiers: 3 1/2 sticks 28 tablespoons 
+Ingredients: butter 
+
+Seeds from 1/2 vanilla pod or 1/4 teaspoon vanilla extract
+Quantifiers: 1/2 1/4 teaspoon 
+Ingredients: Seeds pod vanilla_extract 
+
+7 cups powdered sugar
+Quantifiers: 7 cups 
+Ingredients: powdered_sugar 
+
+For the graffiti:
+Quantifiers: 
+Ingredients: 
+
+1 1/4 cups sugar
+Quantifiers: 1 1/4 cups 
+Ingredients: sugar 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+1/2 cup liquid glucose, available in specialty baking stores
+Quantifiers: 1/2 cup in 
+Ingredients: 
+
+Food coloring
+Quantifiers: 
+Ingredients: Food_coloring 
+
+1/4 teaspoon vanilla extract
+Quantifiers: 1/4 teaspoon 
+Ingredients: vanilla_extract 
+
+To decorate:
+Quantifiers: 
+Ingredients: 
+
+Chocolate shavings, optional
+Quantifiers: 
+Ingredients: Chocolate 
+
+Berries, optional
+Quantifiers: 
+Ingredients: Berries 
+

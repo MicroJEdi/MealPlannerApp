@@ -1,0 +1,68 @@
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 large zucchini, finely diced
+Quantifiers: 1 
+Ingredients: zucchini 
+
+1 red bell pepper, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 yellow pepper, finely diced
+Quantifiers: 1 
+Ingredients: pepper 
+
+5 cloves garlic, smashed to a paste with coarse salt
+Quantifiers: 5 a 
+Ingredients: cloves garlic paste salt 
+
+1/2 teaspoon red pepper flakes, divided
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 large eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon finely chopped fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+1/4 cup chopped fresh parsley leaves, plus more for garnish
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1/2 pound ground pork
+Quantifiers: 1/2 pound ground 
+Ingredients: pork 
+
+1/2 pound ground veal
+Quantifiers: 1/2 pound ground 
+Ingredients: veal 
+
+1 pound ground beef chuck
+Quantifiers: 1 pound 
+Ingredients: ground_beef chuck 
+
+1 cup panko (Japanese) bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+
+1/2 cup freshly grated Romano or Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1 cup ketchup, divided
+Quantifiers: 1 cup 
+Ingredients: ketchup 
+
+1/4 cup plus 2 tablespoons balsamic vinegar
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: vinegar 
+

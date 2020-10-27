@@ -1,0 +1,44 @@
+Caramel:
+Quantifiers: 
+Ingredients: Caramel 
+
+1 1/2 cups sugar
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+1 tablespoon lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+Cheesecake Base:
+Quantifiers: Base 
+Ingredients: Cheesecake 
+
+1 pound 8 ounces cream cheese, room temperature
+Quantifiers: 1 pound 8 ounces room_temperature 
+Ingredients: cream_cheese 
+
+1 1/4 cups sugar
+Quantifiers: 1 1/4 cups 
+Ingredients: sugar 
+
+1 vanilla bean, split and scraped
+Quantifiers: 1 split 
+Ingredients: vanilla_bean 
+
+1 tablespoon orange zest
+Quantifiers: 1 tablespoon 
+Ingredients: orange 
+
+6 eggs
+Quantifiers: 6 
+Ingredients: eggs 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+

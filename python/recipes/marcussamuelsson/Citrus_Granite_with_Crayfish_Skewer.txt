@@ -1,0 +1,52 @@
+CITRUS GRANITE:
+Quantifiers: 
+Ingredients: CITRUS 
+
+1 lemon grass
+Quantifiers: 1 
+Ingredients: lemon grass 
+
+1 piece ginger, 1 inch piece
+Quantifiers: 1 piece 1 inch piece 
+Ingredients: ginger 
+
+3 bags orange tea
+Quantifiers: 3 bags 
+Ingredients: orange tea 
+
+1/2 liter water
+Quantifiers: 1/2 liter 
+Ingredients: water 
+
+4 black peppercorns
+Quantifiers: 4 black 
+Ingredients: peppercorns 
+
+1 teaspoon hot sauce
+Quantifiers: 1 teaspoon 
+Ingredients: hot_sauce 
+
+2 tablespoons Skane Aquavit
+Quantifiers: 2 tablespoons 
+Ingredients: Aquavit 
+
+CRAYFISH SKEWER:
+Quantifiers: SKEWER 
+Ingredients: CRAYFISH 
+
+6 skewers
+Quantifiers: 6 skewers 
+Ingredients: 
+
+1 boiled potato sliced into thin pieces
+Quantifiers: 1 pieces 
+Ingredients: potato 
+
+1/2 cup cooked crayfish tails
+Quantifiers: 1/2 cup tails 
+Ingredients: crayfish 
+
+12 small pieces of sharp cheddar cheese
+Quantifiers: 12 pieces sharp 
+Ingredients: cheddar_cheese 
+

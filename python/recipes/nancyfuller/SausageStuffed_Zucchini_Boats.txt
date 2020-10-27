@@ -1,0 +1,48 @@
+4 medium zucchini, cut in half lengthwise
+Quantifiers: 4 medium in half 
+Ingredients: zucchini cut 
+
+1 tablespoon olive oil 
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+8 ounces sweet loose Italian sausage 
+Quantifiers: 8 ounces 
+Ingredients: sweet sausage 
+
+8 ounces hot loose Italian sausage 
+Quantifiers: 8 ounces 
+Ingredients: sausage 
+
+1 clove garlic, minced 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 small onion, chopped 
+Quantifiers: 1 
+Ingredients: onion 
+
+2 medium vine-ripened tomatoes, chopped 
+Quantifiers: 2 medium 
+Ingredients: tomatoes 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup Parmesan, finely grated 
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1/2 cup mozzarella, shaved 
+Quantifiers: 1/2 cup 
+Ingredients: mozzarella 
+
+1/4 cup breadcrumbs 
+Quantifiers: 1/4 cup breadcrumbs 
+Ingredients: 
+
+2 tablespoons chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+

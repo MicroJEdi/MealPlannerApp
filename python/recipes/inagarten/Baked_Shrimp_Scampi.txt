@@ -1,0 +1,60 @@
+2 pounds (12 to 15 per pound) shrimp in the shell
+Quantifiers: 2 pounds 12 15 pound in shell 
+Ingredients: shrimp 
+
+3 tablespoons good olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons dry white wine
+Quantifiers: 2 tablespoons 
+Ingredients: white_wine 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+12 tablespoons (1 1/2 sticks) unsalted butter, at room temperature
+Quantifiers: 12 tablespoons 1 1/2 sticks at room_temperature 
+Ingredients: butter 
+
+4 teaspoons minced garlic (4 cloves)
+Quantifiers: 4 teaspoons 4 
+Ingredients: garlic cloves 
+
+1/4 cup minced shallots
+Quantifiers: 1/4 cup 
+Ingredients: shallots 
+
+3 tablespoons minced fresh parsley leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: parsley 
+
+1 teaspoon minced fresh rosemary leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: rosemary 
+
+1/4 teaspoon crushed red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+1 teaspoon grated lemon zest
+Quantifiers: 1 teaspoon 
+Ingredients: lemon 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1 extra-large egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+2/3 cup panko (Japanese dried bread flakes)
+Quantifiers: 2/3 cup 
+Ingredients: bread 
+
+Lemon wedges, for serving
+Quantifiers: serving 
+Ingredients: Lemon wedges 
+

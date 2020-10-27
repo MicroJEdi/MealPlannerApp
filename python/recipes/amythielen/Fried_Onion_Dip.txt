@@ -1,0 +1,44 @@
+4 tablespoons (1/2 stick) salted butter
+Quantifiers: 4 tablespoons 1/2 stick 
+Ingredients: butter 
+
+1 medium sweet onion, cut into 1/2-inch-thick rings 
+Quantifiers: 1 medium rings 
+Ingredients: sweet onion cut 
+
+Fine sea salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+Fine sea salt and freshly ground black pepper 
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+1 teaspoon honey 
+Quantifiers: 1 teaspoon 
+Ingredients: honey 
+
+3 cloves garlic, chopped 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/4 cup dry vermouth or dry white wine 
+Quantifiers: 1/4 cup 
+Ingredients: dry_vermouth white_wine 
+
+3/4 cup sour cream 
+Quantifiers: 3/4 cup 
+Ingredients: sour_cream 
+
+1/4 cup (2 ounces) cream cheese, at room temperature 
+Quantifiers: 1/4 cup 2 ounces at room_temperature 
+Ingredients: cream_cheese 
+
+1 tablespoon finely chopped fresh chives, plus more for garnish 
+Quantifiers: 1 tablespoon 
+Ingredients: chives 
+
+Dash of cayenne pepper
+Quantifiers: 
+Ingredients: cayenne_pepper 
+

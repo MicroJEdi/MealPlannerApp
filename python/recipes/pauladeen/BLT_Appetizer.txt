@@ -1,0 +1,24 @@
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+Iceberg lettuce, shredded
+Quantifiers: lettuce 
+Ingredients: Iceberg_lettuce 
+
+2 large vine-ripe tomatoes, chopped
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1 pound lean bacon, cooked crisp and crumbled
+Quantifiers: 1 pound 
+Ingredients: bacon crisp 
+
+Sea salt bagel chips
+Quantifiers: Sea 
+Ingredients: salt bagel chips 
+

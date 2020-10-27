@@ -1,0 +1,24 @@
+8 ounces confectioners' sugar
+Quantifiers: 8 ounces 
+Ingredients: sugar 
+
+4 ounces almond meal
+Quantifiers: 4 ounces 
+Ingredients: almond meal 
+
+1/2 cup egg whites
+Quantifiers: 1/2 cup 
+Ingredients: egg_whites 
+
+Pinch cream of tartar
+Quantifiers: Pinch 
+Ingredients: cream 
+
+1 1/2 ounces granulated sugar
+Quantifiers: 1 1/2 ounces 
+Ingredients: granulated_sugar 
+
+5 drops red food color, or desired color
+Quantifiers: 5 drops 
+Ingredients: food_color 
+

@@ -1,0 +1,24 @@
+Ganache:
+Quantifiers: 
+Ingredients: 
+
+8 ounces good dark chocolate, chopped (not below 60 percent cocoa, recommended: Valrhona)
+Quantifiers: 8 ounces 60 
+Ingredients: dark_chocolate cocoa 
+
+8 ounces heavy cream, scalded
+Quantifiers: 8 ounces 
+Ingredients: heavy_cream 
+
+Meringue:
+Quantifiers: 
+Ingredients: 
+
+1 part egg white
+Quantifiers: 1 
+Ingredients: egg_white 
+
+1 1/2 parts sugar
+Quantifiers: 1 1/2 
+Ingredients: sugar 
+

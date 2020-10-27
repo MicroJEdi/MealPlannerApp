@@ -1,0 +1,36 @@
+4 beefsteak tomatoes, halved
+Quantifiers: 4 
+Ingredients: beefsteak tomatoes 
+
+1 small Spanish onion, halved
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+4 tomatillos, husked and rinsed
+Quantifiers: 4 
+Ingredients: tomatillos 
+
+1 jalapeno pepper, stemmed
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+
+1 dried chile de arbol, stemmed
+Quantifiers: 1 
+Ingredients: chile 
+
+1 canned chipotle chile in adobo sauce
+Quantifiers: 1 in 
+Ingredients: chipotle chile adobo sauce 
+
+1 clove garlic, crushed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 tablespoons chopped fresh cilantro
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

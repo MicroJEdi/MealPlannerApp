@@ -1,0 +1,32 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1 to 1 1/2 pounds flank steak, sliced into 1 1/2-inch wide strips
+Quantifiers: 1 1 1/2 pounds 1 
+Ingredients: flank_steak 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 large red onion, quartered and thinly sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 large tomato, coarsely chopped
+Quantifiers: 1 
+Ingredients: tomato 
+
+1 garlic clove, finely minced
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+1 teaspoon soy sauce
+Quantifiers: 1 teaspoon 
+Ingredients: soy_sauce 
+
+1 tablespoon red wine vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: red_wine_vinegar 
+

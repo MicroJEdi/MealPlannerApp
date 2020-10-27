@@ -1,0 +1,80 @@
+3 carrots, peeled and cut into 1/2-inch dice
+Quantifiers: 3 
+Ingredients: carrots cut 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+3 celery ribs, cut into 1/2-inch dice
+Quantifiers: 3 ribs 
+Ingredients: celery cut 
+
+4 lamb shanks (each about 1 1/4 pounds; 1 shank is a portion)
+Quantifiers: 4 1 1/4 pounds 1 a portion 
+Ingredients: lamb shanks shank 
+
+4 cloves garlic
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 (12-ounce) can tomato paste
+Quantifiers: 1 can 
+Ingredients: tomato_paste 
+
+1 large Spanish onion or 2 small yellow onions, cut into 1-inch dice
+Quantifiers: 1 2 
+Ingredients: Spanish_onion onions cut 
+
+2 cups hearty red wine
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+2 tablespoons finely chopped rosemary leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: rosemary 
+
+10 to 12 thyme branches tied together in a bundle
+Quantifiers: 10 12 in a bundle 
+Ingredients: thyme 
+
+3 to 4 cups water
+Quantifiers: 3 4 cups 
+Ingredients: water 
+
+4 bay leaves
+Quantifiers: 4 leaves 
+Ingredients: bay_leaves 
+
+Gremolata, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Gremolata:
+Quantifiers: 
+Ingredients: 
+
+1 orange, zested
+Quantifiers: 1 
+Ingredients: orange 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/4 cup finely chopped parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1 small garlic clove, minced
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+2 tablespoons freshly grated horseradish
+Quantifiers: 2 tablespoons 
+Ingredients: horseradish 
+

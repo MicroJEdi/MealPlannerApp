@@ -1,0 +1,124 @@
+Balsamic Reduction:
+Quantifiers: 
+Ingredients: 
+
+1 cup balsamic vinegar
+Quantifiers: 1 cup 
+Ingredients: vinegar 
+
+1 tablespoon brown sugar
+Quantifiers: 1 tablespoon 
+Ingredients: brown_sugar 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Filet Mignon:
+Quantifiers: 
+Ingredients: Filet_Mignon 
+
+1 1/2 pounds asparagus
+Quantifiers: 1 1/2 pounds 
+Ingredients: asparagus 
+
+1 1/4 pounds filet mignon, cut into 6 equal portions
+Quantifiers: 1 1/4 pounds 6 portions 
+Ingredients: filet_mignon cut 
+
+3 tablespoons canola oil
+Quantifiers: 3 tablespoons 
+Ingredients: canola_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+3 cloves garlic, smashed
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+5 sprigs fresh thyme
+Quantifiers: 5 
+Ingredients: thyme 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Sea Bass:
+Quantifiers: 
+Ingredients: Sea_Bass 
+
+1 head cauliflower, florets and stems cut into large pieces
+Quantifiers: 1 head pieces 
+Ingredients: cauliflower cut 
+
+1 Fuji apple, peeled, cored and sliced
+Quantifiers: 1 
+Ingredients: Fuji apple 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 1/2 cups vegetable stock or broth
+Quantifiers: 1 1/2 cups 
+Ingredients: vegetable stock broth 
+
+Canola oil
+Quantifiers: 
+Ingredients: Canola_oil 
+
+1 1/2 pounds sea bass fillet, cut into 6 equal portions
+Quantifiers: 1 1/2 pounds 6 portions 
+Ingredients: sea_bass fillet cut 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Leek Beurre Blanc Sauce:
+Quantifiers: 
+Ingredients: Leek Blanc Sauce 
+
+1 large leek
+Quantifiers: 1 
+Ingredients: leek 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 1/2 cups white wine
+Quantifiers: 1 1/2 cups 
+Ingredients: white_wine 
+
+1 cup vegetable stock or broth
+Quantifiers: 1 cup 
+Ingredients: vegetable stock broth 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+Salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

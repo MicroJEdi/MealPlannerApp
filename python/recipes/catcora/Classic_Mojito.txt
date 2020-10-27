@@ -1,0 +1,28 @@
+4 tablespoons cane sugar, plus more to rim glass
+Quantifiers: 4 tablespoons glass 
+Ingredients: cane_sugar 
+
+4 cups ice 
+Quantifiers: 4 cups 
+Ingredients: ice 
+
+6 ounces light rum 
+Quantifiers: 6 ounces light 
+Ingredients: rum 
+
+10 to 12 mint sprigs 
+Quantifiers: 10 12 mint 
+Ingredients: 
+
+6 tablespoons fresh lime juice 
+Quantifiers: 6 tablespoons 
+Ingredients: lime_juice 
+
+Club soda 
+Quantifiers: 
+Ingredients: Club_soda 
+
+4 slices lime
+Quantifiers: 4 slices 
+Ingredients: lime 
+

@@ -1,0 +1,72 @@
+5 medium apples, peeled, cored and sliced into 1/8-inch-thick slices (about 4 cups)
+Quantifiers: 5 medium slices 4 cups 
+Ingredients: apples 
+
+1/2 cup plus 3 tablespoons lightly packed dark brown sugar 
+Quantifiers: 1/2 cup 3 tablespoons dark 
+Ingredients: brown_sugar 
+
+2 tablespoons cornstarch 
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+1 tablespoon fresh lemon juice 
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+2 teaspoons ground cinnamon 
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+1/4 cup old-fashioned rolled oats 
+Quantifiers: 1/4 cup 
+Ingredients: rolled_oats 
+
+3 tablespoons unsalted butter, melted 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 tablespoons all-purpose flour 
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1/4 teaspoon kosher salt 
+Quantifiers: 1/4 teaspoon 
+Ingredients: kosher salt 
+
+One 9-inch piecrust, store-bought or homemade, such as Butter Pie Crust, rolled to an 11- to 12-inch diameter, recipe follows
+Quantifiers: One as 
+Ingredients: Butter Pie_Crust 
+
+1 egg, lightly beaten 
+Quantifiers: 1 
+Ingredients: egg 
+
+1 tablespoon raw (turbinado) sugar 
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+Butter Pie Crust
+Quantifiers: 
+Ingredients: Butter Pie_Crust 
+
+1 3/4 cups all-purpose flour, plus more for dusting
+Quantifiers: 1 3/4 cups 
+Ingredients: flour 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+12 tablespoons (1 1/2 sticks) unsalted butter, diced and chilled
+Quantifiers: 12 tablespoons 1 1/2 sticks 
+Ingredients: butter 
+
+4 teaspoons apple cider vinegar or white vinegar
+Quantifiers: 4 teaspoons 
+Ingredients: apple cider_vinegar white 
+

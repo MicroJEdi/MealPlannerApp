@@ -1,0 +1,72 @@
+4 cups diced poached chicken, recipe follows
+Quantifiers: 4 cups 
+Ingredients: chicken 
+
+1 stalk celery, cut into 1/4-inch dice
+Quantifiers: 1 
+Ingredients: celery cut 
+
+4 scallions, trimmed and thinly sliced or 1/4 cup sweet onion cut into 1/4-inch dice
+Quantifiers: 4 1/4 cup 
+Ingredients: scallions sweet onion cut 
+
+1 1/2 teaspoons finely chopped fresh tarragon or fresh dill
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: tarragon dill 
+
+2 tablespoons finely chopped parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1 cup prepared or homemade mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 teaspoons strained freshly squeezed lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+1 teaspoon Dijon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+POACHED CHICKEN FOR SALADS
+Quantifiers: 
+Ingredients: CHICKEN SALADS 
+
+10 sprigs parsley
+Quantifiers: 10 
+Ingredients: parsley 
+
+2 sprigs fresh thyme
+Quantifiers: 2 
+Ingredients: thyme 
+
+1 small onion, halved
+Quantifiers: 1 
+Ingredients: onion 
+
+1 small carrot, halved
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 stalk celery, halved
+Quantifiers: 1 
+Ingredients: celery 
+
+3 pounds chicken breasts halves, on the bone and fat trimmed
+Quantifiers: 3 pounds breasts halves 
+Ingredients: chicken 
+
+5 to 6 cups chicken broth, homemade or low-sodium canned
+Quantifiers: 5 6 cups 
+Ingredients: chicken_broth 
+

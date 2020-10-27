@@ -1,0 +1,52 @@
+Blackening Spice:
+Quantifiers: 
+Ingredients: Spice 
+
+3 tablespoons smoked paprika
+Quantifiers: 3 tablespoons 
+Ingredients: paprika 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 teaspoon ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon cayenne pepper
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 teaspoon dried ground thyme
+Quantifiers: 1 teaspoon ground 
+Ingredients: thyme 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+For Fish:
+Quantifiers: 
+Ingredients: Fish 
+
+4 tilapia fillets
+Quantifiers: 4 
+Ingredients: fillets 
+
+2 tablespoons grapeseed oil
+Quantifiers: 2 tablespoons 
+Ingredients: oil 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+

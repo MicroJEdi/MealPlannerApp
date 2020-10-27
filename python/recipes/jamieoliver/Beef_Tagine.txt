@@ -1,0 +1,64 @@
+1 level tablespoon ras el hanout spice mix*
+Quantifiers: 1 level tablespoon 
+Ingredients: spice mix 
+
+1 level tablespoon ground cumin
+Quantifiers: 1 level tablespoon ground 
+Ingredients: cumin 
+
+1 level tablespoon ground cinnamon
+Quantifiers: 1 level tablespoon ground 
+Ingredients: cinnamon 
+
+1 level tablespoon ground ginger
+Quantifiers: 1 level tablespoon ground 
+Ingredients: ginger 
+
+1 level tablespoon sweet paprika
+Quantifiers: 1 level tablespoon 
+Ingredients: sweet paprika 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+1 1/3 pounds/600 g stewing beef 
+Quantifiers: 1 1/3 g 
+Ingredients: beef 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1 onion, peeled and finely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+A small bunch of fresh coriander (cilantro), leaves picked and stalks reserved 
+Quantifiers: A leaves 
+Ingredients: coriander cilantro 
+
+1 (14-ounce/400 g) tin (can) chickpeas, drained
+Quantifiers: 1 g tin_can 
+Ingredients: chickpeas 
+
+1 (14-ounce/400 g) tin (can) chopped tomatoes
+Quantifiers: 1 g tin_can 
+Ingredients: tomatoes 
+
+3 1/2 cups/800 ml vegetable stock, preferably organic
+Quantifiers: 3 1/2 ml 
+Ingredients: vegetable stock 
+
+1 small squash (approximately 1 3/4 pounds/800 g), deseeded and cut into 2-inch/5 cm chunks 
+Quantifiers: 1 1 3/4 g cm chunks 
+Ingredients: squash cut 
+
+3 1/2 ounces/100 g prunes, stoned and roughly torn
+Quantifiers: 3 1/2 g 
+Ingredients: prunes 
+
+2 tablespoons flaked almonds, toasted
+Quantifiers: 2 tablespoons 
+Ingredients: almonds 
+

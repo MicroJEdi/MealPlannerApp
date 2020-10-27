@@ -1,0 +1,44 @@
+4 cups water
+Quantifiers: 4 cups 
+Ingredients: water 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 cup stone-ground grits
+Quantifiers: 1 cup 
+Ingredients: grits 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 cups shredded sharp cheddar cheese
+Quantifiers: 2 cups sharp 
+Ingredients: cheddar_cheese 
+
+1 pound shrimp, peeled and deveined
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+6 slices bacon, chopped
+Quantifiers: 6 slices 
+Ingredients: bacon 
+
+4 teaspoons lemon juice
+Quantifiers: 4 teaspoons 
+Ingredients: lemon_juice 
+
+2 tablespoons chopped parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1 cup thinly sliced scallions
+Quantifiers: 1 cup 
+Ingredients: scallions 
+
+1 large clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+

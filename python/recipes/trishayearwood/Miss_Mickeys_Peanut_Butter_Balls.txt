@@ -1,0 +1,20 @@
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1/2 cup dark corn syrup
+Quantifiers: 1/2 cup dark 
+Ingredients: corn_syrup 
+
+1/2 cup white corn syrup
+Quantifiers: 1/2 cup 
+Ingredients: white corn_syrup 
+
+2 cups crunchy peanut butter
+Quantifiers: 2 cups 
+Ingredients: peanut_butter 
+
+4 cups rice cereal
+Quantifiers: 4 cups 
+Ingredients: rice cereal 
+

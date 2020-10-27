@@ -1,0 +1,32 @@
+1 1/2 pounds ground buffalo
+Quantifiers: 1 1/2 pounds ground 
+Ingredients: buffalo 
+
+1/2 pound ground chuck
+Quantifiers: 1/2 pound ground 
+Ingredients: chuck 
+
+1 medium onion, finely chopped, about 1 cup
+Quantifiers: 1 medium 1 cup 
+Ingredients: onion 
+
+3 tablespoons sun-dried tomato paste
+Quantifiers: 3 tablespoons 
+Ingredients: tomato_paste 
+
+1/4 teaspoon liquid smoke
+Quantifiers: 1/4 teaspoon 
+Ingredients: 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 hamburger buns, for serving
+Quantifiers: 4 serving 
+Ingredients: hamburger_buns 
+

@@ -1,0 +1,48 @@
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1/2 cup finely diced yellow onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+1 clove garlic, minced 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 cup 1/2-inch pieces andouille sausage
+Quantifiers: 1 cup pieces 
+Ingredients: sausage 
+
+5 tablespoons all-purpose flour 
+Quantifiers: 5 tablespoons 
+Ingredients: flour 
+
+1 cup chicken stock 
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1/2 cup brewed coffee 
+Quantifiers: 1/2 cup 
+Ingredients: coffee 
+
+1 tablespoon paprika 
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/4 cup cream 
+Quantifiers: 1/4 cup 
+Ingredients: cream 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

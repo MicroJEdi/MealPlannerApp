@@ -1,0 +1,40 @@
+2 pounds goat cheese
+Quantifiers: 2 pounds 
+Ingredients: goat_cheese 
+
+14 dried Mission figs (1 cup), sliced
+Quantifiers: 14 1 cup 
+Ingredients: figs 
+
+1/4 cup dry sherry
+Quantifiers: 1/4 cup 
+Ingredients: sherry 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 large Spanish onions, thinly sliced
+Quantifiers: 2 
+Ingredients: Spanish_onions 
+
+10 garlic cloves, crushed
+Quantifiers: 10 
+Ingredients: garlic_cloves 
+
+3 rosemary sprigs
+Quantifiers: 3 
+Ingredients: rosemary 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 sliced baguettes, for dipping
+Quantifiers: 2 
+Ingredients: baguettes 
+

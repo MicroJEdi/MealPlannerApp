@@ -1,0 +1,60 @@
+Savory Short Pastry:
+Quantifiers: Short 
+Ingredients: Savory Pastry 
+
+1 cup/4 1/2oz/125g all-purpose flour
+Quantifiers: 1 
+Ingredients: flour 
+
+1 cup plus 1 tbsp/4 1/2oz/125g cake flour
+Quantifiers: 1 cup 1 
+Ingredients: cake flour 
+
+9 tbsp/4 1/2oz/125g cold butter, cubed
+Quantifiers: 9 cold 
+Ingredients: butter 
+
+2 egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+Large pinch of salt
+Quantifiers: pinch 
+Ingredients: salt 
+
+1 to 4 tbsp water, if needed
+Quantifiers: 1 4 
+Ingredients: water 
+
+Sweet Short Pastry:
+Quantifiers: Short 
+Ingredients: Sweet Pastry 
+
+1 cup/4 1/2oz/125g all-purpose flour
+Quantifiers: 1 
+Ingredients: flour 
+
+1 cup plus 1 tbsp/4 1/2oz/125g cake flour
+Quantifiers: 1 cup 1 
+Ingredients: cake flour 
+
+9 tbsp/4 1/2oz/125g cold butter, cubed
+Quantifiers: 9 cold 
+Ingredients: butter 
+
+2 egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+2 tbsp superfine sugar
+Quantifiers: 2 
+Ingredients: sugar 
+
+Large pinch of salt
+Quantifiers: pinch 
+Ingredients: salt 
+
+1 to 4 tbsp light cream or milk, if needed
+Quantifiers: 1 4 
+Ingredients: light_cream milk 
+

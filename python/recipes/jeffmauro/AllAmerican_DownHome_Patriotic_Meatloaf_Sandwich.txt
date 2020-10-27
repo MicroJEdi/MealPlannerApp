@@ -1,0 +1,100 @@
+Meatloaf:
+Quantifiers: 
+Ingredients: Meatloaf 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 small Spanish onion, minced
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 cup coarsely crushed soda crackers, such as Nabisco Saltine Crackers (about 24 crackers)
+Quantifiers: 1 cup as 24 
+Ingredients: soda_crackers Saltine Crackers 
+
+1/2 cup whole milk
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon hot sauce
+Quantifiers: 1 teaspoon 
+Ingredients: hot_sauce 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+Freshly cracked black pepper
+Quantifiers: 
+Ingredients: black_pepper 
+
+1 pound ground beef chuck
+Quantifiers: 1 pound 
+Ingredients: ground_beef chuck 
+
+8 ounces ground pork
+Quantifiers: 8 ounces ground 
+Ingredients: pork 
+
+8 ounces ground veal
+Quantifiers: 8 ounces ground 
+Ingredients: veal 
+
+1/3 cup chopped fresh parsley
+Quantifiers: 1/3 cup 
+Ingredients: parsley 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup ketchup
+Quantifiers: 1/2 cup 
+Ingredients: ketchup 
+
+4 tablespoons brown sugar
+Quantifiers: 4 tablespoons 
+Ingredients: brown_sugar 
+
+4 tablespoons apple cider vinegar
+Quantifiers: 4 tablespoons 
+Ingredients: apple cider_vinegar 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+4 slices sharp Cheddar
+Quantifiers: 4 slices sharp 
+Ingredients: Cheddar 
+
+4 potato rolls, buttered and toasted
+Quantifiers: 4 rolls 
+Ingredients: potato 
+
+Bread and butter pickles (3 to 5 per sandwich)
+Quantifiers: 3 5 
+Ingredients: Bread butter pickles sandwich 
+
+1 can crispy onions, such as French's French Fried Onions
+Quantifiers: 1 can as 
+Ingredients: onions Onions 
+

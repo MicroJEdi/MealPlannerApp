@@ -1,0 +1,100 @@
+Biscuits:
+Quantifiers: 
+Ingredients: Biscuits 
+
+1/2 pound plus 1 ounce cold small-cubed butter
+Quantifiers: 1/2 pound 1 ounce cold 
+Ingredients: butter 
+
+4 ounces sugar
+Quantifiers: 4 ounces 
+Ingredients: sugar 
+
+1/8 cup plus 1/2 teaspoon baking powder
+Quantifiers: 1/8 cup 1/2 teaspoon 
+Ingredients: baking_powder 
+
+1/2 tablespoon salt
+Quantifiers: 1/2 tablespoon 
+Ingredients: salt 
+
+1 1/2 pounds plus 1 1/2 ounces all-purpose flour
+Quantifiers: 1 1/2 pounds 1 1/2 ounces 
+Ingredients: flour 
+
+1/2 cup fresh tarragon leaves, chopped
+Quantifiers: 1/2 cup leaves 
+Ingredients: tarragon 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 1/8 cup buttermilk
+Quantifiers: 1 1/8 cup 
+Ingredients: buttermilk 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+Rabbit:
+Quantifiers: 
+Ingredients: Rabbit 
+
+2 whole rabbits (2 1/2 to 3 pounds each)
+Quantifiers: 2 2 1/2 3 pounds 
+Ingredients: rabbits 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 shallots, cut into medium dice
+Quantifiers: 2 medium 
+Ingredients: shallots cut 
+
+10 baby carrots, halved
+Quantifiers: 10 
+Ingredients: carrots 
+
+2 large sprigs rosemary
+Quantifiers: 2 
+Ingredients: rosemary 
+
+1/2 head spring garlic
+Quantifiers: 1/2 head spring 
+Ingredients: garlic 
+
+Crushed red pepper
+Quantifiers: 
+Ingredients: red_pepper 
+
+1 1/2 quarts chicken stock, hot
+Quantifiers: 1 1/2 quarts 
+Ingredients: chicken_stock 
+
+1 cup white wine
+Quantifiers: 1 cup 
+Ingredients: white_wine 
+
+8 morels (or other seasonal mushrooms), quartered
+Quantifiers: 8 
+Ingredients: mushrooms 
+
+1/2 cups fresh peas
+Quantifiers: 1/2 cups 
+Ingredients: peas 
+
+2 sprigs fresh tarragon, leaves chopped
+Quantifiers: 2 leaves 
+Ingredients: tarragon 
+

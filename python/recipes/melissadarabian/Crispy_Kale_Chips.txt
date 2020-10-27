@@ -1,0 +1,12 @@
+1 head kale, washed and thoroughly dried
+Quantifiers: 1 head kale 
+Ingredients: 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Sea salt, for sprinkling
+Quantifiers: Sea sprinkling 
+Ingredients: salt 
+

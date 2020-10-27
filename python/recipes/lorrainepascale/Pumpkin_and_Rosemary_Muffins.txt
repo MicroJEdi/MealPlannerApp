@@ -1,0 +1,60 @@
+Vegetable oil or oil spray, for oiling
+Quantifiers: spray 
+Ingredients: Vegetable_oil 
+
+2/3 cup/3 1/4oz/90g all-purpose flour
+Quantifiers: 2/3 
+Ingredients: flour 
+
+2/3 cup/3 1/4oz/90g cake flour
+Quantifiers: 2/3 
+Ingredients: cake flour 
+
+1 cup/4 1/2oz/130g whole wheat flour
+Quantifiers: 1 
+Ingredients: wheat_flour 
+
+2 1/8 tsp baking powder
+Quantifiers: 2 1/8 
+Ingredients: baking_powder 
+
+1/2tsp baking soda
+Quantifiers: 
+Ingredients: soda 
+
+Good pinch of salt
+Quantifiers: pinch 
+Ingredients: salt 
+
+3 sprigs of fresh rosemary, very finely chopped
+Quantifiers: 3 
+Ingredients: rosemary 
+
+1 3/4 cups/8 1/2oz /240g cooked pumpkin (about 1 small wedge), cut into 1/4 in (5mm) dice. Ready-cubed, uncooked squash is available in the supermarket
+Quantifiers: 1 3/4 1 1/4 in in 
+Ingredients: pumpkin wedge cut squash 
+
+2 eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+scant 1/2 cup/4floz/100ml plain yogurt
+Quantifiers: 1/2 
+Ingredients: yogurt 
+
+1 generous cup/10floz/275ml milk
+Quantifiers: 1 
+Ingredients: milk 
+
+3 big squidges of honey
+Quantifiers: 3 
+Ingredients: honey 
+
+1/4cup/21/2floz/60ml vegetable oil
+Quantifiers: 
+Ingredients: vegetable_oil 
+
+Handful of pumpkin
+Quantifiers: Handful 
+Ingredients: pumpkin 
+

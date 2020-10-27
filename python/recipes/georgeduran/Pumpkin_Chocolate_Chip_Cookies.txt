@@ -1,0 +1,60 @@
+1 cup (2 sticks) unsalted butter, softened
+Quantifiers: 1 cup 2 sticks 
+Ingredients: butter 
+
+1 cup white sugar
+Quantifiers: 1 cup 
+Ingredients: white sugar 
+
+1 cup light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 cup canned pumpkin puree
+Quantifiers: 1 cup 
+Ingredients: pumpkin puree 
+
+3 cups all-purpose flour
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+2 teaspoons baking soda
+Quantifiers: 2 teaspoons 
+Ingredients: soda 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon ground ginger
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1/4 teaspoon ground nutmeg
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: nutmeg 
+
+1/4 teaspoon ground cloves
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cloves 
+
+2 cups (12-ounce bag) milk chocolate chips, not semisweet
+Quantifiers: 2 cups bag 
+Ingredients: milk_chocolate chips 
+
+Nonstick cooking spray or parchment paper
+Quantifiers: spray paper 
+Ingredients: 
+

@@ -1,0 +1,36 @@
+4 ounces (about 3 to 4 slices) smoky bacon, cut into small dice
+Quantifiers: 4 ounces 3 4 slices 
+Ingredients: bacon cut 
+
+Salt, for pasta water 
+Quantifiers: 
+Ingredients: Salt pasta water 
+
+1/2 pound pasta, such as fusilli 
+Quantifiers: 1/2 pound as 
+Ingredients: pasta 
+
+2 tablespoons butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 ounces American cheese, shredded (about 3/4 cup) 
+Quantifiers: 2 ounces 3/4 cup 
+Ingredients: American_cheese 
+
+2 ounces aged cheddar, shredded (about 3/4 cup) 
+Quantifiers: 2 ounces 3/4 cup 
+Ingredients: cheddar 
+
+2 to 3 tablespoons milk 
+Quantifiers: 2 3 tablespoons 
+Ingredients: milk 
+
+1/2 teaspoon ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 to 2 tablespoons chopped fresh parsley, optional
+Quantifiers: 1 2 tablespoons 
+Ingredients: parsley 
+

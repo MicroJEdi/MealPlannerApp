@@ -1,0 +1,44 @@
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/2 medium onion, chopped 
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+1 clove garlic, finely chopped 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 teaspoon fresh thyme leaves, chopped 
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+One 28-ounce can crushed tomatoes 
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 15-ounce can diced fire-roasted tomatoes 
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+1 1/2 cups chicken stock 
+Quantifiers: 1 1/2 cups 
+Ingredients: chicken_stock 
+
+1/4 cup heavy cream 
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+Pinch of freshly grated nutmeg 
+Quantifiers: Pinch 
+Ingredients: nutmeg 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoon finely chopped fresh chives
+Quantifiers: 2 tablespoon 
+Ingredients: chives 
+

@@ -1,0 +1,32 @@
+2 1/2 tablespoons paprika
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: paprika 
+
+2 tablespoons salt
+Quantifiers: 2 tablespoons 
+Ingredients: salt 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 tablespoon black pepper
+Quantifiers: 1 tablespoon 
+Ingredients: black_pepper 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 tablespoon cayenne pepper
+Quantifiers: 1 tablespoon 
+Ingredients: cayenne_pepper 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1 tablespoon dried thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+

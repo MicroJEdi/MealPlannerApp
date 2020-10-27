@@ -1,0 +1,36 @@
+4 cups diced cooked chicken
+Quantifiers: 4 cups 
+Ingredients: chicken 
+
+1 rib minced celery
+Quantifiers: 1 rib 
+Ingredients: celery 
+
+1/4 cup chopped fresh basil leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: basil 
+
+1/4 cup slivered almonds
+Quantifiers: 1/4 cup 
+Ingredients: almonds 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1 1/2 teaspoons fresh lemon juice
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: lemon_juice 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+

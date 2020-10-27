@@ -1,0 +1,36 @@
+4 boneless, skinless chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+1/4 pound blue cheese
+Quantifiers: 1/4 pound 
+Ingredients: blue_cheese 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 stick unsalted butter
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+2 tablespoons hot sauce (recommended: Frank's Hot Sauce)
+Quantifiers: 2 tablespoons 
+Ingredients: hot_sauce Franks Hot_Sauce 
+
+2 tablespoons white vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white vinegar 
+
+Celery, sliced thin, to serve
+Quantifiers: 
+Ingredients: Celery 
+

@@ -1,0 +1,80 @@
+Corncob stock:
+Quantifiers: 
+Ingredients: stock 
+
+5 shucked ears corn (kernels removed and reserved*)
+Quantifiers: 5 
+Ingredients: ears corn kernels 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 onion peeled and quartered
+Quantifiers: 1/2 
+Ingredients: onion 
+
+1 tablespoon whole coriander seed
+Quantifiers: 1 tablespoon 
+Ingredients: coriander_seed 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 quarts water
+Quantifiers: 2 quarts 
+Ingredients: water 
+
+Corn saute:
+Quantifiers: 
+Ingredients: Corn saute 
+
+1 teaspoon extra-virgin olive oil
+Quantifiers: 1 teaspoon 
+Ingredients: olive_oil 
+
+1/4 pound thick-cut bacon cut into lardoons
+Quantifiers: 1/4 pound 
+Ingredients: bacon cut 
+
+1 cup diced yellow onion
+Quantifiers: 1 cup 
+Ingredients: onion 
+
+1 clove garlic minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+*Reserved corn kernels
+Quantifiers: 
+Ingredients: corn kernels 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 cups reserved corncob stock
+Quantifiers: 2 cups 
+Ingredients: stock 
+
+1/2 cup creme fraiche
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1/2 cup freshly chopped cilantro leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+1 lime, zested
+Quantifiers: 1 
+Ingredients: lime 
+

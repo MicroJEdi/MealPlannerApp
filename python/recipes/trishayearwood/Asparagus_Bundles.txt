@@ -1,0 +1,28 @@
+2 pounds fresh asparagus, ends trimmed
+Quantifiers: 2 pounds ends 
+Ingredients: asparagus 
+
+12 slices bacon
+Quantifiers: 12 slices 
+Ingredients: bacon 
+
+1/2 cup light brown sugar
+Quantifiers: 1/2 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup (1 stick) butter
+Quantifiers: 1/2 cup 1 stick 
+Ingredients: butter 
+
+1 tablespoon soy sauce
+Quantifiers: 1 tablespoon 
+Ingredients: soy_sauce 
+
+1/2 teaspoon garlic salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic_salt 
+
+1/4 teaspoon freshly ground pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: pepper 
+

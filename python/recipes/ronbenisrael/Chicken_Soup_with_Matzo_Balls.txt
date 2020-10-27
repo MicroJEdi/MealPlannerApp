@@ -1,0 +1,100 @@
+Pressure Cooker Chicken Stock:
+Quantifiers: Pressure_Cooker 
+Ingredients: Chicken_Stock 
+
+5 pounds chicken bones with some meat on them (backs, necks, wings, etc.)
+Quantifiers: 5 pounds bones backs wings 
+Ingredients: chicken meat necks 
+
+10 cloves garlic, whole
+Quantifiers: 10 
+Ingredients: cloves garlic 
+
+6 celery stalks with leaves on, cut into pieces
+Quantifiers: 6 leaves pieces 
+Ingredients: celery cut 
+
+4 carrots, large dice
+Quantifiers: 4 
+Ingredients: carrots 
+
+4 medium onions, quartered
+Quantifiers: 4 medium 
+Ingredients: onions 
+
+1 bunch fresh parsley
+Quantifiers: 1 
+Ingredients: parsley 
+
+4 teaspoons sea salt
+Quantifiers: 4 teaspoons sea 
+Ingredients: salt 
+
+2 teaspoons whole peppercorn
+Quantifiers: 2 teaspoons 
+Ingredients: peppercorn 
+
+4 cloves
+Quantifiers: 4 
+Ingredients: cloves 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+Matzo Balls:
+Quantifiers: Balls 
+Ingredients: Matzo_Balls 
+
+1/4 cup seltzer
+Quantifiers: 1/4 cup 
+Ingredients: seltzer 
+
+2 tablespoons schmaltz, at room temperature
+Quantifiers: 2 tablespoons at room_temperature 
+Ingredients: 
+
+1 1/2 teaspoons sea salt
+Quantifiers: 1 1/2 teaspoons sea 
+Ingredients: salt 
+
+Pinch ground pepper
+Quantifiers: Pinch ground 
+Ingredients: pepper 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1 cup matzo meal
+Quantifiers: 1 cup 
+Ingredients: matzo_meal 
+
+Garnishes:
+Quantifiers: 
+Ingredients: 
+
+Carrot, sliced on the bias
+Quantifiers: 
+Ingredients: Carrot 
+
+Celery, sliced on the bias
+Quantifiers: 
+Ingredients: Celery 
+
+Fresh dill, plucked
+Quantifiers: 
+Ingredients: dill 
+
+Cooked chicken pieces, shredded
+Quantifiers: pieces 
+Ingredients: chicken 
+
+Fresh lemon juice
+Quantifiers: 
+Ingredients: lemon_juice 
+

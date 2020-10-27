@@ -1,0 +1,56 @@
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 red pepper, chopped
+Quantifiers: 1 
+Ingredients: red_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 store bought roasted chicken
+Quantifiers: 1 
+Ingredients: chicken 
+
+1 (28-ounce) can crushed tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+2 tablespoons Creole seasoning
+Quantifiers: 2 tablespoons 
+Ingredients: seasoning 
+
+3/4 cup chopped green olives
+Quantifiers: 3/4 cup 
+Ingredients: green_olives 
+
+6 dashes hot sauce
+Quantifiers: 6 
+Ingredients: hot_sauce 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+For the dough:
+Quantifiers: 
+Ingredients: dough 
+
+2 1/2 cups arepa flour (pre-cooked corn flour), available at Latin and larger super markets
+Quantifiers: 2 1/2 cups at 
+Ingredients: flour corn flour 
+
+2 cups warm water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+

@@ -1,0 +1,44 @@
+1 sweet onion, cut into wedges
+Quantifiers: 1 
+Ingredients: sweet onion cut wedges 
+
+1 medium zucchini, sliced in 1/2 lengthwise
+Quantifiers: 1 medium in 1/2 
+Ingredients: zucchini 
+
+1 red bell pepper, cheeks removed
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1/2 pound button mushrooms, stemmed
+Quantifiers: 1/2 pound button 
+Ingredients: mushrooms 
+
+2 1/2 tablespoons olive oil, divided
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 pint grape tomatoes, washed and dried
+Quantifiers: 1/2 pint 
+Ingredients: grape tomatoes 
+
+2 sweet or hot Italian sausages, thinly sliced or casings removed
+Quantifiers: 2 
+Ingredients: sweet sausages 
+
+1/4 cup white wine
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+12 ounces whole-grain penne, cooked according to package instructions, 1/2 cup pasta water reserved
+Quantifiers: 12 ounces package 1/2 cup 
+Ingredients: penne pasta water 
+
+Freshly grated Parmesan, for garnish
+Quantifiers: 
+Ingredients: Parmesan 
+

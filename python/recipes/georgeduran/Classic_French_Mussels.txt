@@ -1,0 +1,40 @@
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 shallots, finely chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+4 garlic cloves, finely chopped
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 pounds mussels, cleaned
+Quantifiers: 2 pounds 
+Ingredients: mussels 
+
+1 cup dry white wine
+Quantifiers: 1 cup 
+Ingredients: white_wine 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+4 tablespoons unsalted butter, cut into pieces
+Quantifiers: 4 tablespoons pieces 
+Ingredients: butter cut 
+
+1/2 bunch fresh parsley, chopped
+Quantifiers: 1/2 
+Ingredients: parsley 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Crusty bread, to serve
+Quantifiers: 
+Ingredients: bread 
+

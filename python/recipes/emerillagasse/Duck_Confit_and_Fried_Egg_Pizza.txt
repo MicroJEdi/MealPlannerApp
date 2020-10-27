@@ -1,0 +1,44 @@
+1/3 cup plus 1 teaspoon extra-virgin olive oil
+Quantifiers: 1/3 cup 1 teaspoon 
+Ingredients: olive_oil 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 pound pizza dough
+Quantifiers: 1 pound 
+Ingredients: pizza dough 
+
+All-purpose flour, for dusting
+Quantifiers: 
+Ingredients: flour 
+
+Cornmeal, for dusting
+Quantifiers: 
+Ingredients: Cornmeal 
+
+4 ounces shredded duck confit
+Quantifiers: 4 ounces duck 
+Ingredients: confit 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1 1/2 cups baby arugula
+Quantifiers: 1 1/2 cups 
+Ingredients: 
+
+1/4 cup grated parmesan cheese
+Quantifiers: 1/4 cup 
+Ingredients: parmesan cheese 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+Truffle oil, for drizzling (optional)
+Quantifiers: 
+Ingredients: Truffle oil 
+

@@ -1,0 +1,132 @@
+Anita's Remoulade:
+Quantifiers: 
+Ingredients: 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 tablespoons chopped fresh parsley 
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1 tablespoon lemon juice 
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1 tablespoon Creole Mustard, recipe follows
+Quantifiers: 1 tablespoon 
+Ingredients: Mustard 
+
+2 teaspoons minced garlic 
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+1 teaspoon Creole seasoning
+Quantifiers: 1 teaspoon 
+Ingredients: seasoning 
+
+1 teaspoon hot paprika 
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon tomato paste 
+Quantifiers: 1 teaspoon 
+Ingredients: tomato_paste 
+
+2 stalks celery, finely diced 
+Quantifiers: 2 
+Ingredients: celery 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Oyster Po'Boys:
+Quantifiers: 
+Ingredients: Oyster 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 cup cornmeal 
+Quantifiers: 1 cup 
+Ingredients: cornmeal 
+
+1 tablespoon Creole seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: seasoning 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon salt 
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 cups shucked oysters, drained (about 20 oysters)
+Quantifiers: 2 cups 20 
+Ingredients: oysters oysters 
+
+Vegetable oil, for frying 
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+2 hoagie rolls, split
+Quantifiers: 2 rolls split 
+Ingredients: hoagie 
+
+1 cup shredded lettuce 
+Quantifiers: 1 cup lettuce 
+Ingredients: 
+
+1 beefsteak tomato, sliced 
+Quantifiers: 1 
+Ingredients: beefsteak_tomato 
+
+Creole Mustard:
+Quantifiers: 
+Ingredients: Mustard 
+
+1 cup distilled white vinegar
+Quantifiers: 1 cup 
+Ingredients: white vinegar 
+
+1/2 cup whole yellow mustard seeds
+Quantifiers: 1/2 cup 
+Ingredients: mustard_seeds 
+
+4 cloves garlic, chopped 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2/3 cup whole-grain Dijon mustard 
+Quantifiers: 2/3 cup 
+Ingredients: mustard 
+
+1/4 cup honey 
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1/4 cup Dijon mustard 
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 tablespoons prepared horseradish 
+Quantifiers: 2 tablespoons 
+Ingredients: horseradish 
+
+2 tablespoons brown sugar 
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+2 teaspoons kosher salt 
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+Pinch cayenne
+Quantifiers: Pinch 
+Ingredients: cayenne 
+

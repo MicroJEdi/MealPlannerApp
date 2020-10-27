@@ -1,0 +1,56 @@
+1 pound bowtie pasta
+Quantifiers: 1 pound 
+Ingredients: bowtie_pasta 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 cup frozen edamame (out of the pods)
+Quantifiers: 1 cup 
+Ingredients: pods 
+
+2 carrots, sliced into 1/2-inch chunks
+Quantifiers: 2 chunks 
+Ingredients: carrots 
+
+One 12-ounce broccoli crown, cut into bite-size florets
+Quantifiers: One crown 
+Ingredients: broccoli cut 
+
+1 cup shredded part-skim mozzarella
+Quantifiers: 1 cup 
+Ingredients: mozzarella 
+
+1 cup grape tomatoes, halved (preferably yellow and red)
+Quantifiers: 1 cup 
+Ingredients: grape tomatoes 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+
+1/3 cup mayonnaise
+Quantifiers: 1/3 cup 
+Ingredients: mayonnaise 
+
+1 teaspoon sugar
+Quantifiers: 1 teaspoon 
+Ingredients: sugar 
+
+1 large clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+3 green onions, thinly sliced
+Quantifiers: 3 
+Ingredients: green_onions 
+

@@ -1,0 +1,28 @@
+6 eggs
+Quantifiers: 6 
+Ingredients: eggs 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1 teaspoon white vinegar
+Quantifiers: 1 teaspoon 
+Ingredients: white vinegar 
+
+1 teaspoon yellow mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1/8 teaspoon salt
+Quantifiers: 1/8 teaspoon 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Smoked Spanish paprika, for garnish
+Quantifiers: 
+Ingredients: Spanish_paprika 
+

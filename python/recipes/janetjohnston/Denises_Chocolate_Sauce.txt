@@ -1,0 +1,36 @@
+1 cup dry red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+2 tablespoons mulling spices
+Quantifiers: 2 tablespoons 
+Ingredients: spices 
+
+1 teaspoon minced orange peel
+Quantifiers: 1 teaspoon 
+Ingredients: orange_peel 
+
+1/2 cup Dutch cocoa powder
+Quantifiers: 1/2 cup 
+Ingredients: cocoa_powder 
+
+1/2 cup light corn syrup
+Quantifiers: 1/2 cup light 
+Ingredients: corn_syrup 
+
+1-ounce semisweet chocolate, chopped
+Quantifiers: 
+Ingredients: chocolate 
+
+Mint, for garnish
+Quantifiers: Mint 
+Ingredients: 
+
+Serving suggestion: Vanilla Bean Ice Cream
+Quantifiers: Serving suggestion 
+Ingredients: Vanilla_Bean Ice_Cream 
+

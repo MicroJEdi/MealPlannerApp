@@ -1,0 +1,48 @@
+2 tablespoons kosher salt
+Quantifiers: 2 tablespoons 
+Ingredients: kosher salt 
+
+16 ounces spaghetti pasta
+Quantifiers: 16 ounces 
+Ingredients: spaghetti pasta 
+
+1 pound thick-cut bacon or pancetta, chopped
+Quantifiers: 1 pound 
+Ingredients: bacon 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 cup red onion, diced
+Quantifiers: 1 cup 
+Ingredients: red_onion 
+
+1 teaspoon red chili flakes
+Quantifiers: 1 teaspoon 
+Ingredients: chili 
+
+3 tablespoons garlic, minced
+Quantifiers: 3 tablespoons 
+Ingredients: garlic 
+
+2 cups Roma tomatoes, diced
+Quantifiers: 2 cups 
+Ingredients: tomatoes 
+
+1/4 cup red wine
+Quantifiers: 1/4 cup 
+Ingredients: red_wine 
+
+4 tablespoons basil, chiffonade
+Quantifiers: 4 tablespoons 
+Ingredients: basil 
+
+1/4 cup freshly grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

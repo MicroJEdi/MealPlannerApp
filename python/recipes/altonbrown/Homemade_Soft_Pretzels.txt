@@ -1,0 +1,44 @@
+1 1/2 cups warm (110 to 115 degrees F) water
+Quantifiers: 1 1/2 cups degrees F 
+Ingredients: water 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1 package active dry yeast
+Quantifiers: 1 package 
+Ingredients: yeast 
+
+22 ounces all-purpose flour, approximately 4 1/2 cups
+Quantifiers: 22 ounces 4 1/2 cups 
+Ingredients: flour 
+
+2 ounces unsalted butter, melted
+Quantifiers: 2 ounces 
+Ingredients: butter 
+
+Vegetable oil, for pan
+Quantifiers: pan 
+Ingredients: Vegetable_oil 
+
+10 cups water
+Quantifiers: 10 cups 
+Ingredients: water 
+
+2/3 cup baking soda
+Quantifiers: 2/3 cup 
+Ingredients: soda 
+
+1 large egg yolk beaten with 1 tablespoon water
+Quantifiers: 1 1 tablespoon 
+Ingredients: egg_yolk water 
+
+Pretzel salt
+Quantifiers: 
+Ingredients: Pretzel salt 
+

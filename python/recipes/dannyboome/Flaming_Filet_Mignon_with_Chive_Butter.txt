@@ -1,0 +1,36 @@
+For the butter:
+Quantifiers: 
+Ingredients: butter 
+
+1 stick butter, softened
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+
+1 bunch chives, left whole
+Quantifiers: 1 
+Ingredients: chives 
+
+For the steaks:
+Quantifiers: 
+Ingredients: steaks 
+
+4 (8-ounce) filet mignon steaks
+Quantifiers: 4 
+Ingredients: filet_mignon steaks 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 ounces brandy
+Quantifiers: 2 ounces 
+Ingredients: brandy 
+

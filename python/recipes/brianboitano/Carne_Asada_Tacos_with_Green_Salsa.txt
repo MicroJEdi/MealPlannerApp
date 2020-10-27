@@ -1,0 +1,104 @@
+Carne Asada:
+Quantifiers: 
+Ingredients: 
+
+2 cups vegetable stock or broth
+Quantifiers: 2 cups 
+Ingredients: vegetable stock broth 
+
+1 (28-ounce) can diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+2 chipotle peppers
+Quantifiers: 2 
+Ingredients: chipotle peppers 
+
+1 yellow onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+4 cloves garlic, chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+4 pounds beef round roast
+Quantifiers: 4 pounds round 
+Ingredients: beef roast 
+
+2 tablespoons ground cumin
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin 
+
+2 tablespoons chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+2 teaspoons freshly cracked black pepper
+Quantifiers: 2 teaspoons 
+Ingredients: black_pepper 
+
+Green Salsa:
+Quantifiers: 
+Ingredients: Green Salsa 
+
+2 poblano peppers
+Quantifiers: 2 
+Ingredients: peppers 
+
+4 tomatillos, chopped
+Quantifiers: 4 
+Ingredients: tomatillos 
+
+2 avocados, halved, pitted and flesh diced
+Quantifiers: 2 
+Ingredients: avocados 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1/4 bunch cilantro, leaves chopped
+Quantifiers: 1/4 leaves 
+Ingredients: cilantro 
+
+1 tablespoon white vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar 
+
+Pinch salt and freshly cracked black pepper, plus more for seasoning
+Quantifiers: Pinch 
+Ingredients: salt black_pepper seasoning 
+
+Tacos:
+Quantifiers: 
+Ingredients: Tacos 
+
+3 cups canola oil
+Quantifiers: 3 cups 
+Ingredients: canola_oil 
+
+24 corn tortillas
+Quantifiers: 24 
+Ingredients: corn tortillas 
+
+24 small flour tortillas
+Quantifiers: 24 
+Ingredients: flour tortillas 
+
+1 small head green cabbage, shredded
+Quantifiers: 1 head 
+Ingredients: green cabbage 
+
+2 cups crumbled queso fresco
+Quantifiers: 2 cups 
+Ingredients: 
+

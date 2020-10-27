@@ -1,0 +1,80 @@
+1 tablespoon good olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+8 ounces dry cured center cut applewood smoked bacon, diced
+Quantifiers: 8 ounces 
+Ingredients: center cut applewood bacon 
+
+2 1/2 pounds chuck beef cut into 1-inch cubes
+Quantifiers: 2 1/2 pounds cubes 
+Ingredients: chuck beef cut 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 pound carrots, sliced diagonally into 1-inch chunks
+Quantifiers: 1 pound chunks 
+Ingredients: carrots 
+
+2 yellow onions, sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+2 teaspoons chopped garlic (2 cloves)
+Quantifiers: 2 teaspoons 2 
+Ingredients: garlic cloves 
+
+1/2 cup Cognac
+Quantifiers: 1/2 cup 
+Ingredients: Cognac 
+
+1 (750 ml.) bottle good dry red wine such as Cote du Rhone or Pinot Noir
+Quantifiers: 1 ml bottle as 
+Ingredients: red_wine Pinot_Noir 
+
+1 can (2 cups) beef broth
+Quantifiers: 1 can 2 cups 
+Ingredients: beef_broth 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+1 teaspoon fresh thyme leaves (1/2 teaspoon dried)
+Quantifiers: 1 teaspoon leaves 1/2 teaspoon 
+Ingredients: thyme 
+
+4 tablespoons unsalted butter at room temperature, divided
+Quantifiers: 4 tablespoons at room_temperature 
+Ingredients: butter 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 pound frozen whole onions
+Quantifiers: 1 pound 
+Ingredients: onions 
+
+1 pound fresh mushrooms stems discarded, caps thickly sliced
+Quantifiers: 1 pound caps 
+Ingredients: mushrooms 
+
+For serving:
+Quantifiers: serving 
+Ingredients: 
+
+Country bread or Sour Dough, toasted or grilled and rubbed with garlic clove
+Quantifiers: 
+Ingredients: bread Sour Dough garlic_clove 
+
+1/2 cup chopped fresh parsley, optional
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+

@@ -1,0 +1,32 @@
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1/4 cup water
+Quantifiers: 1/4 cup 
+Ingredients: water 
+
+1 recipe Master Ganache, recipe follows, using 2 cups cream instead of 1
+Quantifiers: 1 Master 2 cups 1 
+Ingredients: cream 
+
+1/4 cup creme fraiche
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+2 tablespoons Tia Maria
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+Master Ganache:
+Quantifiers: Master 
+Ingredients: 
+
+8 ounces bittersweet chocolate
+Quantifiers: 8 ounces 
+Ingredients: bittersweet_chocolate 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+

@@ -1,0 +1,84 @@
+Marinated Tomatoes:
+Quantifiers: 
+Ingredients: Tomatoes 
+
+2 beefsteak tomatoes, sliced paper-thin
+Quantifiers: 2 
+Ingredients: beefsteak tomatoes 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 teaspoon red wine vinegar
+Quantifiers: 1 teaspoon 
+Ingredients: red_wine_vinegar 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+Pinch chili flakes
+Quantifiers: Pinch 
+Ingredients: chili 
+
+1 clove garlic, smashed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 sprig fresh thyme, leaves picked
+Quantifiers: 1 leaves 
+Ingredients: thyme 
+
+Grilled Onions:
+Quantifiers: 
+Ingredients: Onions 
+
+1 Vidalia onion, peeled, sliced 1/8-inch thick
+Quantifiers: 1 
+Ingredients: Vidalia_onion 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Hot Dogs:
+Quantifiers: 
+Ingredients: Hot_Dogs 
+
+6 all-natural beef hot dogs
+Quantifiers: 6 
+Ingredients: beef hot_dogs 
+
+6 potato hot dog buns
+Quantifiers: 6 
+Ingredients: potato hot_dog buns 
+
+4 ounces gorgonzola cheese, cut into small cubes
+Quantifiers: 4 ounces cubes 
+Ingredients: gorgonzola cheese cut 
+
+1 head frisee lettuce, dark green leaves discarded, light leaves separated and washed in ice water
+Quantifiers: 1 head lettuce dark leaves light leaves in 
+Ingredients: green ice_water 
+
+1 head frisee lettuce, dark green leaves discarded, light leaves separated and washed in ice water 
+Quantifiers: 1 head lettuce dark leaves light leaves in 
+Ingredients: green ice_water 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Sea salt
+Quantifiers: Sea 
+Ingredients: salt 
+

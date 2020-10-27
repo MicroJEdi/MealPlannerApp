@@ -1,0 +1,24 @@
+1 bone-in prime rib (6 to 7 pounds)
+Quantifiers: 1 prime rib 6 7 pounds 
+Ingredients: 
+
+8 cloves garlic, thinly sliced
+Quantifiers: 8 
+Ingredients: cloves garlic 
+
+Salt and coarsely ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 cups red wine
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+4 cups beef stock
+Quantifiers: 4 cups 
+Ingredients: beef_stock 
+
+1 tablespoon chopped fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+

@@ -1,0 +1,36 @@
+One 10-inch round cake layer (of any type) or 3-inch circles cut out of a cake layer
+Quantifiers: One round circles a 
+Ingredients: cake cut cake 
+
+Liquor of choice or cooled coffee, for sprinkling, optional
+Quantifiers: sprinkling 
+Ingredients: Liquor coffee 
+
+2 1/2 pints ice cream, gelato, sorbet or a combination of types and flavors as desired, softened
+Quantifiers: 2 1/2 pints a as 
+Ingredients: ice_cream sorbet 
+
+2 1/2 pints ice cream, gelato, sorbet or a combination of types and flavors as desired, softened 
+Quantifiers: 2 1/2 pints a as 
+Ingredients: ice_cream sorbet 
+
+Swiss Meringue, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Swiss Meringue:
+Quantifiers: 
+Ingredients: 
+
+9 large egg whites, at room temperature
+Quantifiers: 9 at room_temperature 
+Ingredients: egg_whites 
+
+1 1/2 cups sugar
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+

@@ -1,0 +1,32 @@
+12 large chicken thighs (about 4 pounds; see Note)
+Quantifiers: 12 thighs 4 pounds Note 
+Ingredients: chicken 
+
+Fine sea or kosher salt
+Quantifiers: sea 
+Ingredients: kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+10 cloves garlic, sliced
+Quantifiers: 10 
+Ingredients: cloves garlic 
+
+2 teaspoons chopped fresh thyme leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: thyme 
+
+1/2 cup dry sherry
+Quantifiers: 1/2 cup 
+Ingredients: sherry 
+
+1/2 cup chicken broth, homemade or canned
+Quantifiers: 1/2 cup 
+Ingredients: chicken_broth 
+

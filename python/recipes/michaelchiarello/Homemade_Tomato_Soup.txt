@@ -1,0 +1,48 @@
+1 (14-ounce) can chopped tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+3/4 cup extra virgin olive oil
+Quantifiers: 3/4 cup 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 stalk celery, diced
+Quantifiers: 1 
+Ingredients: celery 
+
+1 small carrot, diced
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 yellow onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/4 cup chopped fresh basil leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: basil 
+
+1/2 cup heavy cream, optional
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+

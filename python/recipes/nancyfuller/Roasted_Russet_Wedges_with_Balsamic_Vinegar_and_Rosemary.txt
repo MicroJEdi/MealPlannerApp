@@ -1,0 +1,28 @@
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/2 cup balsamic vinegar 
+Quantifiers: 1/2 cup 
+Ingredients: vinegar 
+
+1 tablespoon salt
+Quantifiers: 1 tablespoon 
+Ingredients: salt 
+
+2 teaspoons chopped fresh rosemary 
+Quantifiers: 2 teaspoons 
+Ingredients: rosemary 
+
+Freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+3 large russet potatoes, scrubbed clean and cut into thick wedges 
+Quantifiers: 3 
+Ingredients: potatoes cut wedges 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+

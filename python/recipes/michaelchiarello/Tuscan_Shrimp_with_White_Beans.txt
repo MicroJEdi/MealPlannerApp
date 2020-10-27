@@ -1,0 +1,44 @@
+3 cups canned Cannelloni white beans
+Quantifiers: 3 cups 
+Ingredients: Cannelloni white_beans 
+
+1/4 cup plus 2 tablespoons extra-virgin olive oil
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: olive_oil 
+
+16 large shrimp, peeled (tail left on) and deveined
+Quantifiers: 16 tail 
+Ingredients: shrimp 
+
+4 cloves garlic, sliced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 small serrano chile, thinly sliced or 1/2 teaspoon chili flakes
+Quantifiers: 1 1/2 teaspoon 
+Ingredients: chile chili 
+
+1 cup peeled, seeded and diced fresh tomato, canned or fresh
+Quantifiers: 1 cup 
+Ingredients: tomato 
+
+1 cup whole basil leaves
+Quantifiers: 1 cup leaves 
+Ingredients: basil 
+
+1 tablespoon lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons Italian flat-leaf parsley, chopped
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Best-quality extra-virgin olive oil, for drizzling
+Quantifiers: 
+Ingredients: olive_oil 
+

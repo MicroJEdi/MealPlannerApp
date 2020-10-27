@@ -1,0 +1,36 @@
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+2 shallots, peeled and finely chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Couple sprigs fresh thyme or marjoram, leaves picked
+Quantifiers: Couple leaves 
+Ingredients: thyme marjoram 
+
+1 1/2 to 2 ounces/ 50 ml cider
+Quantifiers: 1 1/2 2 50 ml 
+Ingredients: cider 
+
+14 ounces/ 400 g Cheddar cheese
+Quantifiers: 14 g 
+Ingredients: Cheddar_cheese 
+
+14 ounces/ 400 g Gruyere cheese
+Quantifiers: 14 g 
+Ingredients: Gruyere cheese 
+
+5 1/2 ounces/ 150 g blue cheese
+Quantifiers: 5 1/2 g 
+Ingredients: blue_cheese 
+
+2 tablespoons creme fraiche
+Quantifiers: 2 tablespoons 
+Ingredients: 
+

@@ -1,0 +1,36 @@
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+3/4 cup pancetta, cut into 1/4-inch dice
+Quantifiers: 3/4 cup 
+Ingredients: cut 
+
+1 pound spaghetti
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+8 large eggs
+Quantifiers: 8 
+Ingredients: eggs 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1/2 cup grated pecorino
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 scallions, cut on a severe bias
+Quantifiers: 4 a 
+Ingredients: scallions cut 
+

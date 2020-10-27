@@ -1,0 +1,64 @@
+1/2 stick unsalted butter
+Quantifiers: 1/2 stick 
+Ingredients: butter 
+
+1/2 cup mushrooms, finely chopped
+Quantifiers: 1/2 cup 
+Ingredients: mushrooms 
+
+2 cloves garlic, finely chopped 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 shallot, finely chopped
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 bottle white wine 
+Quantifiers: 1 bottle 
+Ingredients: white_wine 
+
+1/2 lemon, zested and juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1/2 lemon, zested and juiced 
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+2 summer squash
+Quantifiers: 2 
+Ingredients: summer_squash 
+
+2 zucchini
+Quantifiers: 2 
+Ingredients: zucchini 
+
+Olive oil 
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Red chile flakes 
+Quantifiers: 
+Ingredients: chile 
+
+2 teaspoons grated Parmesan
+Quantifiers: 2 teaspoons 
+Ingredients: Parmesan 
+
+Cherry tomatoes 
+Quantifiers: 
+Ingredients: Cherry tomatoes 
+
+1 bunch parsley, finely chopped
+Quantifiers: 1 
+Ingredients: parsley 
+

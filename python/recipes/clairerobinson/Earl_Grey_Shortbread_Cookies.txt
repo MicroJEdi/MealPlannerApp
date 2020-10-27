@@ -1,0 +1,24 @@
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 tablespoons loose Earl Grey tea leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: tea_leaves 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+3/4 cup confectioners' sugar
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 cup (2 sticks) butter, room temperature
+Quantifiers: 1 cup 2 sticks room_temperature 
+Ingredients: butter 
+

@@ -1,0 +1,52 @@
+Canola oil, for deep-frying
+Quantifiers: 
+Ingredients: Canola_oil 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+4 salt-packed anchovy fillets, rinsed, filleted and minced
+Quantifiers: 4 
+Ingredients: anchovy fillets 
+
+1 serrano chile, seeded and minced
+Quantifiers: 1 
+Ingredients: chile 
+
+1/4 cup red wine vinegar
+Quantifiers: 1/4 cup 
+Ingredients: red_wine_vinegar 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 scallions, white and green parts, thinly sliced on the bias
+Quantifiers: 2 
+Ingredients: scallions white green 
+
+1/2 cup walnut pieces, toasted and coarsely chopped
+Quantifiers: 1/2 cup pieces 
+Ingredients: walnut 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 pound Brussels sprouts, trimmed and quartered lengthwise
+Quantifiers: 1 pound 
+Ingredients: Brussels_sprouts 
+
+2 cups loosely packed flat-leaf parsley leaves
+Quantifiers: 2 cups leaves 
+Ingredients: parsley 
+
+2 tablespoons salt-packed capers, rinsed and patted dry
+Quantifiers: 2 tablespoons 
+Ingredients: capers 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

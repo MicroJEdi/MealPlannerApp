@@ -1,0 +1,32 @@
+1 tablespoon paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 1/2 teaspoons dark brown sugar
+Quantifiers: 1 1/2 teaspoons dark 
+Ingredients: brown_sugar 
+
+1 1/2 teaspoons finely grated orange zest
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: orange 
+
+1 1/4 teaspoons salt
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: salt 
+
+3/4 teaspoon ground cumin
+Quantifiers: 3/4 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/4 teaspoon cayenne pepper, to taste
+Quantifiers: 1/4 teaspoon taste 
+Ingredients: cayenne_pepper 
+
+4 pounds baby back ribs, cut into 2-rib portions
+Quantifiers: 4 pounds back ribs portions 
+Ingredients: cut 
+

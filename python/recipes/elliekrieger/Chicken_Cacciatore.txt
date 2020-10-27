@@ -1,0 +1,44 @@
+4 skinless chicken breast halves on the bone, about 2 pounds
+Quantifiers: 4 breast halves 2 pounds 
+Ingredients: chicken 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+1 medium onion, thinly sliced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 red bell pepper, thinly sliced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1/2 pound white mushrooms, thinly sliced
+Quantifiers: 1/2 pound 
+Ingredients: white mushrooms 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 (14 1/2-ounce) can whole tomatoes in juice, chopped and juice reserved
+Quantifiers: 1 14 can in 
+Ingredients: tomatoes juice juice 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/8 teaspoon red pepper flakes or more to taste
+Quantifiers: 1/8 teaspoon taste 
+Ingredients: red_pepper 
+

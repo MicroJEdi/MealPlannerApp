@@ -1,0 +1,44 @@
+1/2 cup canola oil, divided
+Quantifiers: 1/2 cup 
+Ingredients: canola_oil 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+1 tablespoon chili powder, divided
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+Salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Salt black_pepper 
+
+6 ears corn, shucked
+Quantifiers: 6 
+Ingredients: ears corn 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 yellow bell pepper, cored and diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 medium red onion, diced
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+1 (15-ounce) can black beans, rinsed and drained
+Quantifiers: 1 can 
+Ingredients: black_beans 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+

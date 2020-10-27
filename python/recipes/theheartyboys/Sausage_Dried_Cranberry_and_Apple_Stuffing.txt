@@ -1,0 +1,56 @@
+1 pound mild bulk breakfast sausage
+Quantifiers: 1 pound bulk 
+Ingredients: breakfast sausage 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+3 cups sliced leeks, white and pale-green parts only, cleaned well (about 2 large leeks)
+Quantifiers: 3 cups well 2 
+Ingredients: leeks white leeks 
+
+2 Granny Smith apples, cored and chopped
+Quantifiers: 2 
+Ingredients: Granny_Smith apples 
+
+1 cup chopped celery with leaves
+Quantifiers: 1 cup leaves 
+Ingredients: celery 
+
+1 tablespoon poultry seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: poultry seasoning 
+
+1 cup dried cranberries, rehydrated in boiling water for 15 minutes and drained
+Quantifiers: 1 cup in 15_minutes 
+Ingredients: cranberries water 
+
+1 tablespoon chopped fresh sage leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: sage 
+
+2 teaspoons chopped fresh rosemary
+Quantifiers: 2 teaspoons 
+Ingredients: rosemary 
+
+6 cups boxed bread cubes (croutons)
+Quantifiers: 6 cups cubes 
+Ingredients: bread croutons 
+
+1/3 cup chopped fresh parsley leaves
+Quantifiers: 1/3 cup leaves 
+Ingredients: parsley 
+
+2 to 3 cups chicken stock
+Quantifiers: 2 3 cups 
+Ingredients: chicken_stock 
+
+1 tablespoon salt
+Quantifiers: 1 tablespoon 
+Ingredients: salt 
+
+2 teaspoons ground black pepper
+Quantifiers: 2 teaspoons ground 
+Ingredients: black_pepper 
+

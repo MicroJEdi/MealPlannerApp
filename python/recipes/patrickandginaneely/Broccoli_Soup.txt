@@ -1,0 +1,56 @@
+4 tablespoons butter, room temperature
+Quantifiers: 4 tablespoons room_temperature 
+Ingredients: butter 
+
+1 1/2 pounds fresh broccoli
+Quantifiers: 1 1/2 pounds 
+Ingredients: broccoli 
+
+1 large onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 carrot, chopped
+Quantifiers: 1 
+Ingredients: carrot 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+4 cups low-sodium chicken broth
+Quantifiers: 4 cups 
+Ingredients: chicken_broth 
+
+1/2 cup cream
+Quantifiers: 1/2 cup 
+Ingredients: cream 
+
+Homemade Croutons, recipe follows
+Quantifiers: 
+Ingredients: Croutons 
+
+Homemade Croutons:
+Quantifiers: 
+Ingredients: Croutons 
+
+Day old French bread
+Quantifiers: Day 
+Ingredients: French_bread 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/4 teaspoon red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+

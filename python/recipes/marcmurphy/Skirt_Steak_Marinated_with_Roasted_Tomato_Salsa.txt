@@ -1,0 +1,76 @@
+Roasted Tomato Salsa:
+Quantifiers: 
+Ingredients: Tomato Salsa 
+
+2 medium tomatoes (about 1 pound), cut into thick wedges
+Quantifiers: 2 medium 1 pound 
+Ingredients: tomatoes cut wedges 
+
+1/2 large red onion, cut into thick wedges 
+Quantifiers: 1/2 
+Ingredients: red_onion cut wedges 
+
+1 small or 1/2 large jalapeno 
+Quantifiers: 1 1/2 
+Ingredients: jalapeno 
+
+1 small clove garlic, unpeeled 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 cup packed fresh cilantro leaves 
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+1/2 tablespoon chopped canned chipotles in adobo (with some of the sauce), plus more to taste 
+Quantifiers: 1/2 tablespoon in taste 
+Ingredients: chipotles adobo sauce 
+
+1/4 teaspoon kosher salt 
+Quantifiers: 1/4 teaspoon 
+Ingredients: kosher salt 
+
+1/4 cup canola or other neutral oil 
+Quantifiers: 1/4 cup 
+Ingredients: canola oil 
+
+Skirt Steak:
+Quantifiers: 
+Ingredients: Steak 
+
+1 1/2 pounds skirt steak
+Quantifiers: 1 1/2 pounds 
+Ingredients: steak 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Grilled Romaine:
+Quantifiers: 
+Ingredients: Romaine 
+
+2 large (or 4 small) heads romaine lettuce, halved lengthwise and cores left intact
+Quantifiers: 2 4 heads lettuce cores 
+Ingredients: romaine_lettuce 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup fresh lemon juice (from about 2 lemons)
+Quantifiers: 1/4 cup 2 
+Ingredients: lemon_juice lemons 
+

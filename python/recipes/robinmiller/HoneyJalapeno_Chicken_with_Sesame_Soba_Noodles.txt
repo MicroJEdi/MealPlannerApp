@@ -1,0 +1,52 @@
+12 ounces soba noodles
+Quantifiers: 12 ounces 
+Ingredients: noodles 
+
+1 jalapeno, seeds removed
+Quantifiers: 1 
+Ingredients: jalapeno seeds 
+
+1/3 cup honey
+Quantifiers: 1/3 cup 
+Ingredients: honey 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 to 3 tablespoons water
+Quantifiers: 2 3 tablespoons 
+Ingredients: water 
+
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+1/2 rotisserie chicken, shredded or sliced
+Quantifiers: 1/2 
+Ingredients: chicken 
+
+3 tablespoons soy sauce
+Quantifiers: 3 tablespoons 
+Ingredients: soy_sauce 
+
+2 teaspoons sesame oil
+Quantifiers: 2 teaspoons 
+Ingredients: sesame_oil 
+
+1/4 cup chopped scallions, green part only
+Quantifiers: 1/4 cup 
+Ingredients: scallions green 
+
+2 tablespoons pickled ginger, minced
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+

@@ -1,0 +1,20 @@
+1 (3-pound) boneless rib roast, at room temperature (see note)
+Quantifiers: 1 at room_temperature note 
+Ingredients: rib_roast 
+
+8 slivers fresh ginger
+Quantifiers: 8 
+Ingredients: ginger 
+
+Coarse salt and ground pepper
+Quantifiers: ground 
+Ingredients: salt pepper 
+
+1 1/2 cups beef stock
+Quantifiers: 1 1/2 cups 
+Ingredients: beef_stock 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+

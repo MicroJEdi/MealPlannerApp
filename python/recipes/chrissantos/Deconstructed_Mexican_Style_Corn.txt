@@ -1,0 +1,44 @@
+Chipotle Salt: 
+Quantifiers: 
+Ingredients: Chipotle Salt 
+
+5 tablespoons chipotle powder
+Quantifiers: 5 tablespoons 
+Ingredients: chipotle 
+
+3 tablespoons kosher salt
+Quantifiers: 3 tablespoons 
+Ingredients: kosher salt 
+
+Corn:
+Quantifiers: 
+Ingredients: Corn 
+
+6 ears corn
+Quantifiers: 6 
+Ingredients: ears corn 
+
+1/2 red onion, minced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+3/4 cup crumbled cotija cheese
+Quantifiers: 3/4 cup 
+Ingredients: cheese 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+2 tablespoons roughly chopped fresh cilantro
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+Zest of 2 limes
+Quantifiers: 2 
+Ingredients: limes 
+

@@ -1,0 +1,60 @@
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 small zucchini, finely diced
+Quantifiers: 1 
+Ingredients: zucchini 
+
+1 red bell pepper, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 yellow bell pepper, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+5 cloves garlic, smashed to a paste with coarse salt
+Quantifiers: 5 a 
+Ingredients: cloves garlic paste salt 
+
+1/2 teaspoon red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 large egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1 tablespoon finely chopped fresh thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+
+1/4 cup chopped fresh parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1 1/2 pounds ground turkey (90 percent lean)
+Quantifiers: 1 1/2 pounds ground 90 
+Ingredients: turkey 
+
+1 cup panko (coarse Japanese breadcrumbs)
+Quantifiers: 1 cup breadcrumbs 
+Ingredients: 
+
+1/2 cup freshly grated Romano or Parmesan cheese
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan cheese 
+
+3/4 cup ketchup
+Quantifiers: 3/4 cup 
+Ingredients: ketchup 
+
+1/4 cup plus 2 tablespoons balsamic vinegar
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: vinegar 
+

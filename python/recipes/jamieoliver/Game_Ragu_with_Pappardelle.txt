@@ -1,0 +1,76 @@
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1 red onion, peeled and finely chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+2 carrots, peeled and chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+1/2 rutabaga, peeled and diced
+Quantifiers: 1/2 
+Ingredients: rutabaga 
+
+Sprig fresh rosemary, leaves picked and chopped
+Quantifiers: leaves 
+Ingredients: rosemary 
+
+Small bunch fresh thyme, leaves picked
+Quantifiers: leaves 
+Ingredients: thyme 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 rabbit or hare, boned and cut into 1/2-inch dice
+Quantifiers: 1 
+Ingredients: rabbit hare cut 
+
+11 ounces venison haunch, cut into 1/2-inch dice
+Quantifiers: 11 ounces 
+Ingredients: venison cut 
+
+1 tablespoon all-purpose flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1 large wine glass white wine
+Quantifiers: 1 glass 
+Ingredients: wine white_wine 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+1 pint good-quality chicken or vegetable stock
+Quantifiers: 1 pint 
+Ingredients: chicken vegetable stock 
+
+1 pound pappardelle
+Quantifiers: 1 pound 
+Ingredients: 
+
+Knob of butter
+Quantifiers: 
+Ingredients: butter 
+
+3 ounces freshly grated Parmesan
+Quantifiers: 3 ounces 
+Ingredients: Parmesan 
+
+1 orange, zested, divided
+Quantifiers: 1 
+Ingredients: orange 
+
+Bunch fresh flat-leaf parsley
+Quantifiers: 
+Ingredients: parsley 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+

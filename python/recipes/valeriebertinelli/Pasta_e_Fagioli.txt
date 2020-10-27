@@ -1,0 +1,48 @@
+1/2 yellow onion, finely chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+1 rib celery with leaves, finely chopped
+Quantifiers: 1 rib leaves 
+Ingredients: celery 
+
+1 carrot, finely chopped
+Quantifiers: 1 
+Ingredients: carrot 
+
+2 tablespoons extra-virgin olive oil, plus additional for drizzling
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 plum tomatoes, diced, juices reserved
+Quantifiers: 2 
+Ingredients: plum tomatoes juices 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+1 sprig rosemary
+Quantifiers: 1 
+Ingredients: rosemary 
+
+4 cups reduced-sodium chicken broth
+Quantifiers: 4 cups 
+Ingredients: chicken_broth 
+
+1 cup ditalini, elbows or tripolini pasta
+Quantifiers: 1 cup 
+Ingredients: pasta 
+
+One 15.5-ounce can cannellini beans or kidney beans, rinsed and drained
+Quantifiers: One can 
+Ingredients: beans kidney_beans 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Grated Parmigiano-Reggiano cheese, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: cheese 
+

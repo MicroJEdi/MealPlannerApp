@@ -1,0 +1,24 @@
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 pounds baby turnips with greens, turnips quartered and greens chopped 
+Quantifiers: 2 pounds 
+Ingredients: turnips greens turnips greens 
+
+2 pounds baby turnips with greens, turnips quartered and greens chopped
+Quantifiers: 2 pounds 
+Ingredients: turnips greens turnips greens 
+
+1 cup chicken stock 
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+2 tablespoons cider vinegar 
+Quantifiers: 2 tablespoons 
+Ingredients: cider_vinegar 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

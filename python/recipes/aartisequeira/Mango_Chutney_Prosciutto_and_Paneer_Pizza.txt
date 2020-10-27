@@ -1,0 +1,56 @@
+1/2 cup tomato paste
+Quantifiers: 1/2 cup 
+Ingredients: tomato_paste 
+
+2 tablespoons sweet mango chutney (recommended: Patak's Sweet Mango Chutney)
+Quantifiers: 2 tablespoons 
+Ingredients: sweet mango chutney Sweet Mango Chutney 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup shredded mozzarella cheese
+Quantifiers: 1/2 cup 
+Ingredients: mozzarella cheese 
+
+1/2 cup crumbled paneer cheese*
+Quantifiers: 1/2 cup 
+Ingredients: cheese 
+
+1/4 teaspoon red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1 large green onion, finely chopped
+Quantifiers: 1 
+Ingredients: green_onion 
+
+1/8 teaspoon ground cumin
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: cumin 
+
+A glug extra-virgin olive oil
+Quantifiers: A 
+Ingredients: olive_oil 
+
+4 frozen naan bread (recommended: Trader Joe's)*
+Quantifiers: 4 
+Ingredients: naan bread 
+
+4 slices prosciutto, torn
+Quantifiers: 4 slices 
+Ingredients: prosciutto 
+

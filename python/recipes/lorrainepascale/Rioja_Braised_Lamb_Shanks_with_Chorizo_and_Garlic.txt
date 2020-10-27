@@ -1,0 +1,64 @@
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+4 lamb shanks
+Quantifiers: 4 
+Ingredients: lamb shanks 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 1/2 cups Rioja or 1 1/2 cups good quality beef stock
+Quantifiers: 1 1/2 cups 1 1/2 cups 
+Ingredients: Rioja beef_stock 
+
+1 cup good quality balsamic vinegar
+Quantifiers: 1 cup 
+Ingredients: vinegar 
+
+1 bulb garlic, cut in half horizontally
+Quantifiers: 1 bulb in half 
+Ingredients: garlic cut 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 teaspoon paprika, or to taste
+Quantifiers: 1 teaspoon taste 
+Ingredients: paprika 
+
+1/2 teaspoon whole black peppercorns
+Quantifiers: 1/2 teaspoon black 
+Ingredients: peppercorns 
+
+4 sprigs fresh rosemary
+Quantifiers: 4 
+Ingredients: rosemary 
+
+1 1/4 cups good quality beef stock
+Quantifiers: 1 1/4 cups 
+Ingredients: beef_stock 
+
+One 4-ounce piece chorizo
+Quantifiers: One piece 
+Ingredients: chorizo 
+
+1 large red onion, cut into wedges
+Quantifiers: 1 
+Ingredients: red_onion cut wedges 
+
+2 carrots, chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+

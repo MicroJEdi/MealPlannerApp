@@ -1,0 +1,40 @@
+2 pounds green cabbage
+Quantifiers: 2 pounds 
+Ingredients: green cabbage 
+
+4 carrots
+Quantifiers: 4 
+Ingredients: carrots 
+
+1 medium yellow onion
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1/4 cup mustard
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 teaspoons apple cider vinegar
+Quantifiers: 2 teaspoons 
+Ingredients: apple cider_vinegar 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

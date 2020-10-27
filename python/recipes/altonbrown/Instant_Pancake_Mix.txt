@@ -1,0 +1,48 @@
+6 cups all-purpose flour
+Quantifiers: 6 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons baking soda (check expiration date first)
+Quantifiers: 1 1/2 teaspoons expiration date first 
+Ingredients: soda 
+
+3 teaspoons baking powder
+Quantifiers: 3 teaspoons 
+Ingredients: baking_powder 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+"INSTANT" PANCAKES:
+Quantifiers: INSTANT 
+Ingredients: PANCAKES 
+
+2 eggs, separated
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 cups buttermilk
+Quantifiers: 2 cups 
+Ingredients: buttermilk 
+
+4 tablespoons melted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 cups "Instant" Pancake Mix, recipe above
+Quantifiers: 2 cups Instant 
+Ingredients: Pancake Mix 
+
+1 stick butter, for greasing the pan
+Quantifiers: 1 stick pan 
+Ingredients: butter 
+
+2 cups fresh fruit such as blueberries, if desired
+Quantifiers: 2 cups as 
+Ingredients: fruit blueberries 
+

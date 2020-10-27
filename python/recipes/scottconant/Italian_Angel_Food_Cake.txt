@@ -1,0 +1,28 @@
+1 3/4 cup granulated sugar
+Quantifiers: 1 3/4 cup 
+Ingredients: granulated_sugar 
+
+1 cup cake flour
+Quantifiers: 1 cup 
+Ingredients: cake flour 
+
+2 teaspoons "Lievito Pane Degli Angeli" (Italian brand of leavening agent plus flavoring for baked goods)
+Quantifiers: 2 teaspoons brand 
+Ingredients: leavening flavoring baked_goods 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+12 egg whites, at room temperature
+Quantifiers: 12 at room_temperature 
+Ingredients: egg_whites 
+
+1 teaspoon cream of tartar
+Quantifiers: 1 teaspoon 
+Ingredients: cream 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+

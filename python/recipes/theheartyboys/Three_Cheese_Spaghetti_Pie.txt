@@ -1,0 +1,64 @@
+3/4 pound spaghetti
+Quantifiers: 3/4 pound 
+Ingredients: spaghetti 
+
+9 tablespoons olive oil
+Quantifiers: 9 tablespoons 
+Ingredients: olive_oil 
+
+5 garlic cloves coarsely chopped
+Quantifiers: 5 
+Ingredients: garlic_cloves 
+
+1 small onion, thinly sliced
+Quantifiers: 1 
+Ingredients: onion 
+
+16 cherry tomatoes, halved
+Quantifiers: 16 
+Ingredients: cherry tomatoes 
+
+16 kalamata olives, pitted and halved
+Quantifiers: 16 
+Ingredients: olives 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 teaspoon red pepper flakes, optional
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+6 fresh basil leaves, chopped
+Quantifiers: 6 leaves 
+Ingredients: basil 
+
+4 ounces fontina, grated
+Quantifiers: 4 ounces 
+Ingredients: 
+
+8 ounces feta, crumbled
+Quantifiers: 8 ounces 
+Ingredients: 
+
+8 ounces Parmesan, shredded
+Quantifiers: 8 ounces 
+Ingredients: Parmesan 
+
+Fresh basil leaves, for garnish
+Quantifiers: leaves 
+Ingredients: basil 
+

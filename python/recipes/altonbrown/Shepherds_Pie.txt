@@ -1,0 +1,92 @@
+For the potatoes:
+Quantifiers: 
+Ingredients: potatoes 
+
+1 1/2 pounds russet potatoes
+Quantifiers: 1 1/2 pounds 
+Ingredients: potatoes 
+
+1/4 cup half-and-half
+Quantifiers: 1/4 cup 
+Ingredients: half-and-half 
+
+2 ounces unsalted butter
+Quantifiers: 2 ounces 
+Ingredients: butter 
+
+3/4 teaspoon kosher salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: kosher salt 
+
+1/4 teaspoon freshly ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+1 egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+For the meat filling:
+Quantifiers: 
+Ingredients: meat filling 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1 cup chopped onion
+Quantifiers: 1 cup 
+Ingredients: onion 
+
+2 carrots, peeled and diced small
+Quantifiers: 2 
+Ingredients: carrots 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 1/2 pounds ground lamb
+Quantifiers: 1 1/2 pounds ground 
+Ingredients: lamb 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 teaspoons tomato paste
+Quantifiers: 2 teaspoons 
+Ingredients: tomato_paste 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1 teaspoon Worcestershire sauce
+Quantifiers: 1 teaspoon 
+Ingredients: Worcestershire_sauce 
+
+2 teaspoons freshly chopped rosemary leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: rosemary 
+
+1 teaspoon freshly chopped thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+1/2 cup fresh or frozen corn kernels
+Quantifiers: 1/2 cup 
+Ingredients: corn kernels 
+
+1/2 cup fresh or frozen English peas
+Quantifiers: 1/2 cup 
+Ingredients: peas 
+

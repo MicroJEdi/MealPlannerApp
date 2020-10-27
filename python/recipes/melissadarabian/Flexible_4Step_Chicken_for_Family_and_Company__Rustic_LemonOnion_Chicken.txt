@@ -1,0 +1,64 @@
+4 boneless, skinless chicken breast halves, sliced in half crossways (butterflied, cut all the way through)
+Quantifiers: 4 breast halves in half 
+Ingredients: chicken cut 
+
+1 teaspoon dried thyme, plus 1 small bunch fresh thyme, leaves chopped
+Quantifiers: 1 teaspoon 1 leaves 
+Ingredients: thyme thyme 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+1 red onion, thinly sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1/4 cup white wine, optional
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+3 lemons, juiced
+Quantifiers: 3 
+Ingredients: lemons 
+
+1 to 2 tablespoons butter
+Quantifiers: 1 2 tablespoons 
+Ingredients: butter 
+
+Spinach "bed", recipe follows
+Quantifiers: bed 
+Ingredients: Spinach 
+
+1 bag pre-washed fresh spinach
+Quantifiers: 1 bag 
+Ingredients: spinach 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

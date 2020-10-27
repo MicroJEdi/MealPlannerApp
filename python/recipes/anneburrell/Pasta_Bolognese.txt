@@ -1,0 +1,60 @@
+1 large onion or 2 small, cut into 1-inch dice
+Quantifiers: 1 2 
+Ingredients: onion cut 
+
+2 large carrots, cut into 1/2-inch dice
+Quantifiers: 2 
+Ingredients: carrots cut 
+
+3 ribs celery, cut into 1-inch dice
+Quantifiers: 3 ribs 
+Ingredients: celery cut 
+
+4 cloves garlic
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+Extra-virgin olive oil, for the pan
+Quantifiers: pan 
+Ingredients: olive_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+3 pounds ground chuck, brisket or round or combination
+Quantifiers: 3 pounds ground round 
+Ingredients: chuck brisket 
+
+2 cups tomato paste
+Quantifiers: 2 cups 
+Ingredients: tomato_paste 
+
+3 cups hearty red wine
+Quantifiers: 3 cups 
+Ingredients: red_wine 
+
+Water
+Quantifiers: 
+Ingredients: Water 
+
+3 bay leaves
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+1 bunch thyme, tied in a bundle
+Quantifiers: 1 in a bundle 
+Ingredients: thyme 
+
+1 pound spaghetti
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+1/2 cup grated Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+High quality extra-virgin olive oil, for finishing
+Quantifiers: High 
+Ingredients: olive_oil 
+

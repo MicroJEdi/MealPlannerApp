@@ -1,0 +1,28 @@
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+1/2 cup finely grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon whole-grain mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 teaspoon ground mustard
+Quantifiers: 1 teaspoon ground 
+Ingredients: mustard 
+
+Pinch kosher salt and freshly ground black pepper
+Quantifiers: Pinch ground 
+Ingredients: kosher salt black_pepper 
+

@@ -1,0 +1,36 @@
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1/4 teaspoon ground nutmeg
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: nutmeg 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1/4 cup milk
+Quantifiers: 1/4 cup 
+Ingredients: milk 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+8 slices challah, brioche, or white bread
+Quantifiers: 8 slices 
+Ingredients: challah brioche white_bread 
+
+1/2 cup maple syrup, warmed
+Quantifiers: 1/2 cup 
+Ingredients: maple_syrup 
+

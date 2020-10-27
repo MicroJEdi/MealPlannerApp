@@ -1,0 +1,64 @@
+4 skinless chicken breast halves, with ribs
+Quantifiers: 4 breast halves ribs 
+Ingredients: chicken 
+
+2 skinless chicken thighs, with bones
+Quantifiers: 2 thighs bones 
+Ingredients: chicken 
+
+1/2 teaspoon salt, plus 1 teaspoon
+Quantifiers: 1/2 teaspoon 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper, plus 1 teaspoon
+Quantifiers: 1/2 teaspoon ground 1 teaspoon 
+Ingredients: black_pepper 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 red bell pepper, sliced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 yellow bell pepper, sliced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+3 ounces prosciutto, chopped
+Quantifiers: 3 ounces 
+Ingredients: prosciutto 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 (15-ounce) can diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 tablespoon fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+1 teaspoon fresh oregano leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: oregano 
+
+1/2 cup chicken stock
+Quantifiers: 1/2 cup 
+Ingredients: chicken_stock 
+
+2 tablespoons capers
+Quantifiers: 2 tablespoons 
+Ingredients: capers 
+
+1/4 cup chopped fresh flat-leaf parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+

@@ -1,0 +1,32 @@
+4 shallots, sliced in thin rings
+Quantifiers: 4 in rings 
+Ingredients: shallots 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+1 cup beef broth
+Quantifiers: 1 cup 
+Ingredients: beef_broth 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 (1 1/2 pound) piece flank steak
+Quantifiers: 1 1 1/2 pound piece 
+Ingredients: flank_steak 
+
+1 tablespoon cold butter, in small chunks
+Quantifiers: 1 tablespoon cold in chunks 
+Ingredients: butter 
+
+Special Equipment: A grill or grill pan
+Quantifiers: Equipment A pan 
+Ingredients: Special 
+

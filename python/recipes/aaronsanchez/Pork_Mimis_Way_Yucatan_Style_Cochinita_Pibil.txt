@@ -1,0 +1,24 @@
+1 cup fresh sour orange juice
+Quantifiers: 1 cup 
+Ingredients: sour_orange_juice 
+
+1 tablespoon white vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar 
+
+2 tablespoons achiote paste
+Quantifiers: 2 tablespoons 
+Ingredients: paste 
+
+2 tablespoons chopped garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+3 pounds pork (use 2 thick shoulder steaks cut into large pieces with a few short ribs or pork butt)
+Quantifiers: 3 pounds 2 pieces a ribs butt 
+Ingredients: pork shoulder steaks cut short_ribs pork 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

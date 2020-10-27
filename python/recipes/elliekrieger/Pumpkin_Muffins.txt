@@ -1,0 +1,68 @@
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 cup whole-grain pastry flour
+Quantifiers: 1 cup 
+Ingredients: pastry flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon ground ginger
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1/4 teaspoon ground cloves
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cloves 
+
+1/8 teaspoon ground nutmeg
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: nutmeg 
+
+3/4 cup packed dark brown sugar
+Quantifiers: 3/4 cup dark 
+Ingredients: brown_sugar 
+
+3 tablespoons unsulphered molasses
+Quantifiers: 3 tablespoons 
+Ingredients: molasses 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup canned pumpkin
+Quantifiers: 1 cup 
+Ingredients: pumpkin 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+3/4 cup lowfat buttermilk
+Quantifiers: 3/4 cup 
+Ingredients: buttermilk 
+
+1/4 cup raw, unsalted pumpkin seeds
+Quantifiers: 1/4 cup 
+Ingredients: pumpkin_seeds 
+

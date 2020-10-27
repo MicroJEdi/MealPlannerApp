@@ -1,0 +1,36 @@
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+2 tablespoons apple jelly or peach preserves
+Quantifiers: 2 tablespoons 
+Ingredients: apple_jelly peach preserves 
+
+2 tablespoons chopped fresh chives or scallions
+Quantifiers: 2 tablespoons 
+Ingredients: chives scallions 
+
+3/4 pound leftover roast ham, cut into chunks (about 1 1/2 cups)
+Quantifiers: 3/4 pound chunks 1 1/2 cups 
+Ingredients: roast ham cut 
+
+3/4 cup diced celery, plus 1/4 cup chopped celery leaves
+Quantifiers: 3/4 cup 1/4 cup leaves 
+Ingredients: celery celery 
+
+1/2 cup chopped toasted pecans
+Quantifiers: 1/2 cup 
+Ingredients: pecans 
+
+8 slices raisin-nut bread, lightly toasted
+Quantifiers: 8 slices 
+Ingredients: bread 
+
+8 to 12 slices havarti cheese (preferably caraway-flavored)
+Quantifiers: 8 12 slices 
+Ingredients: cheese 
+
+8 Boston lettuce leaves
+Quantifiers: 8 lettuce leaves 
+Ingredients: Boston_lettuce 
+

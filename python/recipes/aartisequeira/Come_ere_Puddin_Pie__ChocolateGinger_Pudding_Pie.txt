@@ -1,0 +1,64 @@
+Crust:
+Quantifiers: 
+Ingredients: 
+
+15 chocolate wafer cookies
+Quantifiers: 15 
+Ingredients: chocolate wafer cookies 
+
+15 gingersnaps
+Quantifiers: 15 
+Ingredients: gingersnaps 
+
+3/4 stick unsalted butter, melted
+Quantifiers: 3/4 stick 
+Ingredients: butter 
+
+Generous pinch salt
+Quantifiers: pinch 
+Ingredients: salt 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+3 yolks
+Quantifiers: 3 
+Ingredients: yolks 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1/4 cup cornstarch
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+5 ounces bittersweet chocolate, chopped
+Quantifiers: 5 ounces 
+Ingredients: bittersweet_chocolate 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+2 tablespoons chopped candied ginger
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+2 tablespoons powdered sugar
+Quantifiers: 2 tablespoons 
+Ingredients: powdered_sugar 
+

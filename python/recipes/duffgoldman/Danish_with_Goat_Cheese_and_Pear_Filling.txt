@@ -1,0 +1,96 @@
+Pastry:
+Quantifiers: 
+Ingredients: Pastry 
+
+1 cup (2 sticks) unsalted butter, softened
+Quantifiers: 1 cup 2 sticks 
+Ingredients: butter 
+
+1/3 cup plus 3 1/2 cups all-purpose flour, plus more for dusting
+Quantifiers: 1/3 cup 3 1/2 cups 
+Ingredients: flour 
+
+Two .24-ounce packages active dry yeast
+Quantifiers: Two packages 
+Ingredients: yeast 
+
+1 1/4 cups milk
+Quantifiers: 1 1/4 cups 
+Ingredients: milk 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+1 1/4 pounds goat cheese
+Quantifiers: 1 1/4 pounds 
+Ingredients: goat_cheese 
+
+8 ounces cream cheese
+Quantifiers: 8 ounces 
+Ingredients: cream_cheese 
+
+1/3 cup sugar
+Quantifiers: 1/3 cup 
+Ingredients: sugar 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 large egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+3 pears
+Quantifiers: 3 
+Ingredients: pears 
+
+1/4 cup brandy
+Quantifiers: 1/4 cup 
+Ingredients: brandy 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 teaspoons ground cinnamon
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+1 teaspoon ground nutmeg
+Quantifiers: 1 teaspoon ground 
+Ingredients: nutmeg 
+
+1/2 teaspoon ground cloves
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cloves 
+
+Egg Wash:
+Quantifiers: 
+Ingredients: Egg 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+2 tablespoons milk
+Quantifiers: 2 tablespoons 
+Ingredients: milk 
+

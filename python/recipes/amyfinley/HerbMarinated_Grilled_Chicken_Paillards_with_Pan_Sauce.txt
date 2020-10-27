@@ -1,0 +1,52 @@
+4 boneless, skinless chicken breasts, tenders removed and trimmed of any cartilage
+Quantifiers: 4 breasts tenders 
+Ingredients: chicken 
+
+1 lemon, zested and juiced, 1 tablespoon juice reserved
+Quantifiers: 1 1 tablespoon 
+Ingredients: lemon juice 
+
+1/4 cup plus 2 tablespoons olive oil
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: olive_oil 
+
+1 small shallot, finely chopped
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 clove garlic, finely chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+3 tablespoons chopped fresh chives
+Quantifiers: 3 tablespoons 
+Ingredients: chives 
+
+3 tablespoons chopped fresh tarragon leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: tarragon 
+
+3 tablespoons chopped fresh parsley leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: parsley 
+
+Salt, for seasoning
+Quantifiers: 
+Ingredients: Salt seasoning 
+
+Pepper, for seasoning
+Quantifiers: 
+Ingredients: Pepper seasoning 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1 tablespoon cold butter
+Quantifiers: 1 tablespoon cold 
+Ingredients: butter 
+

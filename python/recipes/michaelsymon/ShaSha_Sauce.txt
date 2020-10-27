@@ -1,0 +1,24 @@
+12 hot banana peppers from a jar, tops removed, chopped
+Quantifiers: 12 a jar 
+Ingredients: banana peppers 
+
+4 cloves garlic
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 cup yellow mustard
+Quantifiers: 1 cup 
+Ingredients: mustard 
+
+1 cup white wine vinegar
+Quantifiers: 1 cup 
+Ingredients: white_wine_vinegar 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+

@@ -1,0 +1,28 @@
+1 cup shredded, sweetened coconut flakes
+Quantifiers: 1 cup 
+Ingredients: coconut 
+
+1/2 cup panko bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+2 tablespoons curry powder
+Quantifiers: 2 tablespoons 
+Ingredients: curry_powder 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+2 egg whites
+Quantifiers: 2 
+Ingredients: egg_whites 
+
+1 pound shrimp, peeled and deveined
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+Lime wedges, for garnish
+Quantifiers: 
+Ingredients: Lime wedges 
+

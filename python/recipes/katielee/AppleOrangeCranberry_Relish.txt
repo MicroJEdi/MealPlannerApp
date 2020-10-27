@@ -1,0 +1,28 @@
+1 orange
+Quantifiers: 1 
+Ingredients: orange 
+
+1 medium apple (a sweeter variety such as Gala or Fuji)
+Quantifiers: 1 medium a as 
+Ingredients: apple Fuji 
+
+3 cups fresh cranberries 
+Quantifiers: 3 cups 
+Ingredients: cranberries 
+
+1 celery stalk, cut into 1-inch pieces 
+Quantifiers: 1 pieces 
+Ingredients: celery cut 
+
+1/2 cup shelled walnuts 
+Quantifiers: 1/2 cup 
+Ingredients: walnuts 
+
+3/4 cup sugar 
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+1 tablespoon orange liqueur
+Quantifiers: 1 tablespoon 
+Ingredients: orange_liqueur 
+

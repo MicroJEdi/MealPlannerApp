@@ -1,0 +1,56 @@
+4 slices whole-wheat bread (1-ounce each)
+Quantifiers: 4 slices 
+Ingredients: bread 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+4 teaspoons paprika
+Quantifiers: 4 teaspoons 
+Ingredients: paprika 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+
+2 egg whites
+Quantifiers: 2 
+Ingredients: egg_whites 
+
+1/2 cup skim milk
+Quantifiers: 1/2 cup 
+Ingredients: skim_milk 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+4 (6 ounce) skinless boneless chicken breast halves, pounded to 1/2-inch thickness
+Quantifiers: 4 6 ounce breast halves 
+Ingredients: chicken 
+
+Olive oil cooking spray
+Quantifiers: spray 
+Ingredients: Olive_oil 
+
+1 jar good-quality marinara sauce (about 3 1/2 cups)
+Quantifiers: 1 jar 3 1/2 cups 
+Ingredients: marinara sauce 
+
+3/4 cup (3 ounces) shredded part-skim mozzarella cheese
+Quantifiers: 3/4 cup 3 ounces 
+Ingredients: mozzarella cheese 
+
+2 tablespoons (1/2-ounce) shredded Parmesan
+Quantifiers: 2 tablespoons 
+Ingredients: Parmesan 
+

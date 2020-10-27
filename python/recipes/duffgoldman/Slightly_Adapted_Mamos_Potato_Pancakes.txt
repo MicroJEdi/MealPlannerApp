@@ -1,0 +1,28 @@
+5 large or 6 small firm Yukon gold potatoes (about 2 1/4 pounds)
+Quantifiers: 5 6 2 1/4 pounds 
+Ingredients: potatoes 
+
+1 large onion, halved
+Quantifiers: 1 
+Ingredients: onion 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+2 tablespoons all-purpose flour or matzo meal
+Quantifiers: 2 tablespoons 
+Ingredients: flour matzo_meal 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+Vegetable or canola oil, for frying
+Quantifiers: 
+Ingredients: Vegetable canola_oil 
+
+Applesauce or other toppings, for serving
+Quantifiers: serving 
+Ingredients: Applesauce 
+

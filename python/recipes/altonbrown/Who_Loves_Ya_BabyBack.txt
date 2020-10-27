@@ -1,0 +1,68 @@
+2 whole slabs pork baby back ribs
+Quantifiers: 2 back ribs 
+Ingredients: pork 
+
+Dry Rub:
+Quantifiers: 
+Ingredients: 
+
+8 tablespoons light brown sugar, tightly packed
+Quantifiers: 8 tablespoons light 
+Ingredients: brown_sugar 
+
+3 tablespoons kosher salt
+Quantifiers: 3 tablespoons 
+Ingredients: kosher salt 
+
+1 tablespoon chili powder
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1/2 teaspoon ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon jalapeno seasoning
+Quantifiers: 1/2 teaspoon 
+Ingredients: jalapeno seasoning 
+
+1/2 teaspoon Old Bay Seasoning
+Quantifiers: 1/2 teaspoon 
+Ingredients: Seasoning 
+
+1/2 teaspoon rubbed thyme
+Quantifiers: 1/2 teaspoon 
+Ingredients: thyme 
+
+1/2 teaspoon onion powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+Braising Liquid:
+Quantifiers: 
+Ingredients: 
+
+1 cup white wine
+Quantifiers: 1 cup 
+Ingredients: white_wine 
+
+2 tablespoons white wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white_wine_vinegar 
+
+2 tablespoons Worcestershire sauce
+Quantifiers: 2 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+

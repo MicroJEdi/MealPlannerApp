@@ -1,0 +1,32 @@
+3 tablespoons unsalted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 1/2 teaspoons freshly squeezed lemon juice
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: lemon_juice 
+
+1 large garlic clove, finely chopped
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+1/4 teaspoon salt, plus additional for seasoning
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt seasoning 
+
+1/4 teaspoon freshly ground black pepper, plus additional for seasoning
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper seasoning 
+
+1 1/2 tablespoons chopped fresh basil leaves
+Quantifiers: 1 1/2 tablespoons leaves 
+Ingredients: basil 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+4 (6 to 8-ounce) mahi mahi fillets
+Quantifiers: 4 6 
+Ingredients: fillets 
+

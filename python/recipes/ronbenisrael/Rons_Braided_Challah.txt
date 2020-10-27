@@ -1,0 +1,60 @@
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+1 3/4 teaspoons active dry yeast
+Quantifiers: 1 3/4 teaspoons 
+Ingredients: yeast 
+
+1 cup minus 2 tablespoons water (warm but not boiling)
+Quantifiers: 1 cup 2 tablespoons 
+Ingredients: water 
+
+2 cups bread flour (scoop and sweep method, un-sifted), plus more for dusting
+Quantifiers: 2 cups scoop sweep 
+Ingredients: bread flour 
+
+2 cups semolina flour (scoop and sweep method, un-sifted)
+Quantifiers: 2 cups scoop sweep 
+Ingredients: semolina flour 
+
+1 1/2 teaspoons sea salt
+Quantifiers: 1 1/2 teaspoons sea 
+Ingredients: salt 
+
+1/4 cup olive oil, plus more to drizzle
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 1/2 tablespoons honey
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: honey 
+
+2 large egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+1 large whole egg
+Quantifiers: 1 
+Ingredients: egg 
+
+3/4 cup raisins, optional
+Quantifiers: 3/4 cup 
+Ingredients: raisins 
+
+Egg Wash:
+Quantifiers: 
+Ingredients: Egg 
+
+1 yolk
+Quantifiers: 1 
+Ingredients: yolk 
+
+1 tablespoon cream or milk
+Quantifiers: 1 tablespoon 
+Ingredients: cream milk 
+
+Sesame seeds, for sprinkling, optional
+Quantifiers: sprinkling 
+Ingredients: Sesame_seeds 
+

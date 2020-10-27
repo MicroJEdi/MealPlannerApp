@@ -1,0 +1,52 @@
+Blackberry Soup:
+Quantifiers: 
+Ingredients: Blackberry Soup 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+Juice from 1/2 lemon
+Quantifiers: 1/2 
+Ingredients: Juice lemon 
+
+3 cups blackberries
+Quantifiers: 3 cups 
+Ingredients: blackberries 
+
+3 mint leaves
+Quantifiers: 3 mint leaves 
+Ingredients: 
+
+1/4 cup Champagne or sparkling wine
+Quantifiers: 1/4 cup 
+Ingredients: Champagne sparkling_wine 
+
+Sour Cream Sorbet:
+Quantifiers: 
+Ingredients: Sour_Cream Sorbet 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+1/2 tablespoon corn syrup
+Quantifiers: 1/2 tablespoon 
+Ingredients: corn_syrup 
+
+Juice from 1 lime
+Quantifiers: 1 
+Ingredients: Juice lime 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+

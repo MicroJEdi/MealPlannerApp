@@ -1,0 +1,36 @@
+3/4 pound small red-skinned potatoes, halved, or quartered if large
+Quantifiers: 3/4 pound 
+Ingredients: potatoes 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 sprigs fresh rosemary, plus 1 tablespoon leaves
+Quantifiers: 2 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1 clove garlic, smashed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Pinch of red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+Juice of 2 lemons (squeezed halves reserved)
+Quantifiers: 2 halves 
+Ingredients: Juice lemons 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+4 skin-on, bone-in chicken breasts (6 to 8 ounces each)
+Quantifiers: 4 breasts 6 8 ounces 
+Ingredients: chicken 
+
+10 ounces cremini mushrooms, halved
+Quantifiers: 10 ounces 
+Ingredients: mushrooms 
+

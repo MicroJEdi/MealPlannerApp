@@ -1,0 +1,44 @@
+1 pound unsalted butter
+Quantifiers: 1 pound 
+Ingredients: butter 
+
+1 pound plus 12 ounces semisweet chocolate chips
+Quantifiers: 1 pound 12 ounces 
+Ingredients: chocolate chips 
+
+6 ounces unsweetened chocolate
+Quantifiers: 6 ounces 
+Ingredients: chocolate 
+
+6 extra-large eggs
+Quantifiers: 6 
+Ingredients: eggs 
+
+3 tablespoons instant coffee granules
+Quantifiers: 3 tablespoons 
+Ingredients: instant_coffee 
+
+2 tablespoons pure vanilla extract
+Quantifiers: 2 tablespoons 
+Ingredients: vanilla_extract 
+
+2 1/4 cups sugar
+Quantifiers: 2 1/4 cups 
+Ingredients: sugar 
+
+1 1/4 cups all-purpose flour
+Quantifiers: 1 1/4 cups 
+Ingredients: flour 
+
+1 tablespoon baking powder
+Quantifiers: 1 tablespoon 
+Ingredients: baking_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+3 cups chopped walnuts
+Quantifiers: 3 cups 
+Ingredients: walnuts 
+

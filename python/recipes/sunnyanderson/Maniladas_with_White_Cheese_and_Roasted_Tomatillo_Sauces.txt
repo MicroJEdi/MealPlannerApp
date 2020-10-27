@@ -1,0 +1,92 @@
+1 (8-ounce) package manicotti shells
+Quantifiers: 1 package shells 
+Ingredients: manicotti 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 Vidalia onion, chopped
+Quantifiers: 1 
+Ingredients: Vidalia_onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 rotisserie chicken, shredded
+Quantifiers: 1 
+Ingredients: chicken 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 Roma tomatoes, seeded and diced
+Quantifiers: 4 
+Ingredients: tomatoes 
+
+3 tablespoons chopped cilantro leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: cilantro 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+For the Tomatillo sauce:
+Quantifiers: 
+Ingredients: Tomatillo sauce 
+
+1 pound tomatillos, quartered
+Quantifiers: 1 pound 
+Ingredients: tomatillos 
+
+1 small red onion, quartered
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 jalapeno, halved
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+2 garlic cloves
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+For the cheese sauce:
+Quantifiers: 
+Ingredients: cheese_sauce 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+2 cups heavy cream, room temperature
+Quantifiers: 2 cups room_temperature 
+Ingredients: heavy_cream 
+
+2 cups grated fontina cheese
+Quantifiers: 2 cups 
+Ingredients: cheese 
+
+1/4 teaspoon grated nutmeg
+Quantifiers: 1/4 teaspoon 
+Ingredients: nutmeg 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

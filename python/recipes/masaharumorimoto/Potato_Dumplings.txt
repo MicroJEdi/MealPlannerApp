@@ -1,0 +1,28 @@
+3 potatoes
+Quantifiers: 3 
+Ingredients: potatoes 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Cornstarch
+Quantifiers: 
+Ingredients: 
+
+Onions, chopped
+Quantifiers: 
+Ingredients: Onions 
+
+1 pound ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+Salt and pepper, to taste
+Quantifiers: taste 
+Ingredients: Salt pepper 
+
+2 to 3 egg yolks
+Quantifiers: 2 3 
+Ingredients: egg_yolks 
+

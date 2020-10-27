@@ -1,0 +1,36 @@
+1 pound sweet potatoes, peeled and cut into 1/2-inch pieces
+Quantifiers: 1 pound pieces 
+Ingredients: sweet potatoes cut 
+
+1 star fruit, sliced
+Quantifiers: 1 
+Ingredients: star_fruit 
+
+1 to 3 jalapenos or other green chile peppers (depending on desired heat), finely chopped with seeds
+Quantifiers: 1 3 heat 
+Ingredients: jalapenos green chile peppers seeds 
+
+Juice of 1/2 lemon
+Quantifiers: 1/2 
+Ingredients: Juice lemon 
+
+1 teaspoon chaat masala spice mix
+Quantifiers: 1 teaspoon 
+Ingredients: spice mix 
+
+1/2 teaspoon roasted ground cumin (or 1 teaspoon cumin seeds, toasted and ground)
+Quantifiers: 1/2 teaspoon ground 1 teaspoon ground 
+Ingredients: cumin_seeds 
+
+1/2 teaspoon chili powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: chili_powder 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Tamarind and/or mint-cilantro chutney, chopped fresh cilantro and pomegranate seeds, for topping
+Quantifiers: 
+Ingredients: Tamarind chutney cilantro pomegranate seeds 
+

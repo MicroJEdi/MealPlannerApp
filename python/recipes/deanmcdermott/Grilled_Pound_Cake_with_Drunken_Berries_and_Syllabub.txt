@@ -1,0 +1,96 @@
+Pound Cake:
+Quantifiers: 
+Ingredients: Pound_Cake 
+
+1 cup butter, plus more for the pan
+Quantifiers: 1 cup pan 
+Ingredients: butter 
+
+2 cups granulated sugar
+Quantifiers: 2 cups 
+Ingredients: granulated_sugar 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+6 eggs
+Quantifiers: 6 
+Ingredients: eggs 
+
+2 cups all-purpose flour, plus more for the pan
+Quantifiers: 2 cups pan 
+Ingredients: flour 
+
+Syllabub:
+Quantifiers: Syllabub 
+Ingredients: 
+
+1 1/2 cups heavy cream
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1/4 cup sherry
+Quantifiers: 1/4 cup 
+Ingredients: sherry 
+
+1 tablespoon brandy
+Quantifiers: 1 tablespoon 
+Ingredients: brandy 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+Zest from half a lemon
+Quantifiers: half a 
+Ingredients: lemon 
+
+Berries:
+Quantifiers: 
+Ingredients: Berries 
+
+1 cup blueberries
+Quantifiers: 1 cup 
+Ingredients: blueberries 
+
+1 cup raspberries
+Quantifiers: 1 cup 
+Ingredients: raspberries 
+
+1 cup strawberries
+Quantifiers: 1 cup 
+Ingredients: strawberries 
+
+1 1/2 cups red wine
+Quantifiers: 1 1/2 cups 
+Ingredients: red_wine 
+
+1/4 cup granulated sugar
+Quantifiers: 1/4 cup 
+Ingredients: granulated_sugar 
+
+To serve:
+Quantifiers: 
+Ingredients: 
+
+1/4 cup brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+1/4 cup melted butter
+Quantifiers: 1/4 cup 
+Ingredients: butter 
+
+Zest from half a lemon
+Quantifiers: half a 
+Ingredients: lemon 
+
+Fresh mint leaves, finely chopped
+Quantifiers: mint leaves 
+Ingredients: 
+

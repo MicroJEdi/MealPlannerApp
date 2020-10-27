@@ -1,0 +1,40 @@
+One 15- to 18-pound turkey (neck and giblets removed)
+Quantifiers: One 
+Ingredients: turkey neck giblets 
+
+Two 1-ounce packets ranch seasoning 
+Quantifiers: Two packets 
+Ingredients: seasoning 
+
+10 tablespoons (1 1/4 sticks) unsalted butter, softened 
+Quantifiers: 10 tablespoons 1 1/4 sticks 
+Ingredients: butter 
+
+3 carrots, cut into thirds 
+Quantifiers: 3 thirds 
+Ingredients: carrots cut 
+
+3 stalks celery, cut into thirds 
+Quantifiers: 3 thirds 
+Ingredients: celery cut 
+
+1 medium onion, cut into 8 wedges 
+Quantifiers: 1 medium 8 
+Ingredients: onion cut wedges 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons maple syrup 
+Quantifiers: 2 tablespoons 
+Ingredients: maple_syrup 
+
+4 cups low-sodium chicken stock 
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+

@@ -1,0 +1,36 @@
+1 1/4 cups unbleached all-purpose flour
+Quantifiers: 1 1/4 cups 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon fine salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+2 large eggs, at room temperature
+Quantifiers: 2 at room_temperature 
+Ingredients: eggs 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup unsalted butter, at room temperature, plus more for preparing the pan
+Quantifiers: 1/2 cup at room_temperature pan 
+Ingredients: butter 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+3 very ripe bananas, peeled, and mashed with a fork (about 1 cup)
+Quantifiers: 3 a fork 1 cup 
+Ingredients: bananas 
+
+1/2 cup toasted walnut pieces
+Quantifiers: 1/2 cup pieces 
+Ingredients: walnut 
+

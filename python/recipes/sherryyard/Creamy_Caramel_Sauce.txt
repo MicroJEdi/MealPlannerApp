@@ -1,0 +1,28 @@
+1/4 cup water
+Quantifiers: 1/4 cup 
+Ingredients: water 
+
+1 cup plus 1 tablespoon sugar
+Quantifiers: 1 cup 1 tablespoon 
+Ingredients: sugar 
+
+2 tablespoons light corn syrup
+Quantifiers: 2 tablespoons light 
+Ingredients: corn_syrup 
+
+1/2 cup heavy cream, warmed to 100 degrees F
+Quantifiers: 1/2 cup 100 degrees F 
+Ingredients: heavy_cream 
+
+1/4 cup creme fraiche
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+1/2 teaspoon fresh lemon juice
+Quantifiers: 1/2 teaspoon 
+Ingredients: lemon_juice 
+
+Pinch salt (less than 1/8 teaspoon)
+Quantifiers: Pinch 1/8 teaspoon 
+Ingredients: salt 
+

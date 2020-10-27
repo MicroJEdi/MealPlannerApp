@@ -1,0 +1,80 @@
+6 boneless, skinless chicken breasts
+Quantifiers: 6 breasts 
+Ingredients: chicken 
+
+1 pound crimini mushrooms
+Quantifiers: 1 pound 
+Ingredients: mushrooms 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+6 ounces softened goat cheese
+Quantifiers: 6 ounces 
+Ingredients: goat_cheese 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 recipe Mushroom Wine Sauce, recipe follows
+Quantifiers: 1 
+Ingredients: Mushroom Wine_Sauce 
+
+1 recipe Sauteed Fingerling Potatoes, recipe follows
+Quantifiers: 1 
+Ingredients: Potatoes 
+
+1/4 cup freshly chopped parsley leaves, for garnish
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+Mushroom Wine Sauce:
+Quantifiers: 
+Ingredients: Mushroom Wine_Sauce 
+
+1 1/2 cups dried shiitake mushrooms
+Quantifiers: 1 1/2 cups 
+Ingredients: mushrooms 
+
+1/4 cup chicken stock
+Quantifiers: 1/4 cup 
+Ingredients: chicken_stock 
+
+1/4 cup white wine
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+1 tablespoon butter, cold
+Quantifiers: 1 tablespoon cold 
+Ingredients: butter 
+
+2 cups boiling water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Sauteed Fingerling Potatoes:
+Quantifiers: 
+Ingredients: Potatoes 
+
+1 1/2 pounds fingerling potatoes
+Quantifiers: 1 1/2 pounds 
+Ingredients: potatoes 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+

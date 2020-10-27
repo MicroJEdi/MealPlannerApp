@@ -1,0 +1,20 @@
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+3 russet potatoes, peeled, and cut into 1/2-inch cubes
+Quantifiers: 3 cubes 
+Ingredients: potatoes cut 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+

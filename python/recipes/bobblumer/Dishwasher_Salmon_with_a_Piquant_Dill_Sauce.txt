@@ -1,0 +1,72 @@
+Dishwasher Salmon
+Quantifiers: 
+Ingredients: Salmon 
+
+4 (6-ounce) salmon fillets
+Quantifiers: 4 
+Ingredients: salmon fillets 
+
+4 tablespoons freshly squeezed lemon juice
+Quantifiers: 4 tablespoons 
+Ingredients: lemon_juice 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+Heavy-duty aluminum foil
+Quantifiers: foil 
+Ingredients: 
+
+Piquant Dill Sauce, recipe follows
+Quantifiers: 
+Ingredients: Dill Sauce 
+
+Piquant Dill Sauce:
+Quantifiers: 
+Ingredients: Dill Sauce 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 leeks, white part only, finely chopped, then thoroughly washed
+Quantifiers: 2 then 
+Ingredients: leeks white 
+
+1 jalapeno chile, seeds and membranes removed, finely diced
+Quantifiers: 1 
+Ingredients: jalapeno chile seeds 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1 cup vegetable or chicken stock
+Quantifiers: 1 cup 
+Ingredients: vegetable chicken_stock 
+
+1 1/2 cups lightly packed fresh dill, stems removed before measuring
+Quantifiers: 1 1/2 cups measuring 
+Ingredients: dill 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/4 cup sour cream
+Quantifiers: 1/4 cup 
+Ingredients: sour_cream 
+

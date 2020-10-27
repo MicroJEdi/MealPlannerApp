@@ -1,0 +1,68 @@
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 pound orzo pasta
+Quantifiers: 1/2 pound 
+Ingredients: orzo pasta 
+
+2 tablespoons extra-virgin olive oil, 2 turns of the pan
+Quantifiers: 2 tablespoons 2 turns pan 
+Ingredients: olive_oil 
+
+4 boneless, skinless chicken breasts, 6 ounces
+Quantifiers: 4 breasts 6 ounces 
+Ingredients: chicken 
+
+Pepper
+Quantifiers: 
+Ingredients: Pepper 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+12 cremini or baby portobello mushrooms, sliced
+Quantifiers: 12 
+Ingredients: mushrooms 
+
+12 shiitake mushrooms, stems removed and sliced
+Quantifiers: 12 
+Ingredients: mushrooms 
+
+12 white mushrooms, sliced
+Quantifiers: 12 
+Ingredients: white mushrooms 
+
+2 large cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon thyme leaves, a couple of sprigs, chopped
+Quantifiers: 1 tablespoon leaves a couple 
+Ingredients: thyme 
+
+2 large shallots, thinly sliced
+Quantifiers: 2 
+Ingredients: shallots 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1 1/2 cups chicken stock
+Quantifiers: 1 1/2 cups 
+Ingredients: chicken_stock 
+
+1 tablespoon balsamic vinegar, eyeball it
+Quantifiers: 1 tablespoon 
+Ingredients: vinegar 
+
+3 tablespoons heavy cream or half-and-half, a couple turns of the pan
+Quantifiers: 3 tablespoons a couple turns pan 
+Ingredients: heavy_cream half-and-half 
+
+1/4 cup chopped flat-leaf parsley, a generous handful
+Quantifiers: 1/4 cup a handful 
+Ingredients: parsley 
+

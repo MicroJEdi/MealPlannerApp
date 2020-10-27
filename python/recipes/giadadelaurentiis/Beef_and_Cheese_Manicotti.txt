@@ -1,0 +1,48 @@
+4 teaspoons olive oil
+Quantifiers: 4 teaspoons 
+Ingredients: olive_oil 
+
+1 medium onion, coarsely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 pound ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+14 (8-ounce package) manicotti
+Quantifiers: 14 package 
+Ingredients: manicotti 
+
+1 (15-ounce) container whole-milk ricotta
+Quantifiers: 1 container 
+Ingredients: ricotta 
+
+3 cups shredded mozzarella
+Quantifiers: 3 cups 
+Ingredients: mozzarella 
+
+1 cup grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+2 tablespoons chopped fresh Italian parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+3 cups marinara sauce
+Quantifiers: 3 cups 
+Ingredients: marinara sauce 
+
+2 tablespoons butter, cut into pieces
+Quantifiers: 2 tablespoons pieces 
+Ingredients: butter cut 
+

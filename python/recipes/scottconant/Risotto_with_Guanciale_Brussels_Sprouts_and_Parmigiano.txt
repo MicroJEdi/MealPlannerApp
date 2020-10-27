@@ -1,0 +1,92 @@
+2 1/2 tablespoons extra-virgin olive oil
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: olive_oil 
+
+8 Brussels sprouts, quartered (about 2 cups) 
+Quantifiers: 8 2 cups 
+Ingredients: Brussels_sprouts 
+
+2 ounces guanciale, julienned
+Quantifiers: 2 ounces 
+Ingredients: 
+
+3 tablespoons brunoise shallots
+Quantifiers: 3 tablespoons 
+Ingredients: shallots 
+
+1 1/2 teaspoons brunoise garlic
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: garlic 
+
+1 1/2 teaspoons fresh thyme leaves, chopped 
+Quantifiers: 1 1/2 teaspoons leaves 
+Ingredients: thyme 
+
+Crushed red pepper flakes 
+Quantifiers: 
+Ingredients: red_pepper 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 1/2 cups vialone nano rice 
+Quantifiers: 1 1/2 cups 
+Ingredients: rice 
+
+1/2 cup dry white wine 
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+6 to 8 cups Capon Mushroom Stock, recipe follows
+Quantifiers: 6 8 cups 
+Ingredients: Capon Mushroom Stock 
+
+2 tablespoons cold butter 
+Quantifiers: 2 tablespoons cold 
+Ingredients: butter 
+
+1/2 cup grated Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+2 tablespoons chopped chives 
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+White Capon Stock:
+Quantifiers: 
+Ingredients: White Capon Stock 
+
+5 pounds capon bones
+Quantifiers: 5 pounds bones 
+Ingredients: capon 
+
+6 stalks celery, halved
+Quantifiers: 6 
+Ingredients: celery 
+
+4 medium Spanish onions, quartered 
+Quantifiers: 4 medium 
+Ingredients: Spanish_onions 
+
+3 medium carrots, halved
+Quantifiers: 3 medium 
+Ingredients: carrots 
+
+2 heads garlic 
+Quantifiers: 2 heads 
+Ingredients: garlic 
+
+1/4 bunch fresh rosemary (about 6 stems)
+Quantifiers: 1/4 6 
+Ingredients: rosemary 
+
+1/4 bunch fresh thyme (about 6 stems)
+Quantifiers: 1/4 6 
+Ingredients: thyme 
+
+1 cup dried porcini mushrooms
+Quantifiers: 1 cup 
+Ingredients: mushrooms 
+

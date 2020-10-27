@@ -1,0 +1,44 @@
+3 tablespoons oil
+Quantifiers: 3 tablespoons 
+Ingredients: oil 
+
+1 large onion, diced (about 2 1/2 cups)
+Quantifiers: 1 2 1/2 cups 
+Ingredients: onion 
+
+2 (9-inch) refrigerated, unbaked pie crusts (a 15-ounce package)
+Quantifiers: 2 a package 
+Ingredients: pie_crusts 
+
+3/4 pound smoked ham, diced
+Quantifiers: 3/4 pound 
+Ingredients: ham 
+
+1 (10-ounce) package frozen chopped spinach, thawed and drained
+Quantifiers: 1 package 
+Ingredients: spinach 
+
+1 1/2 cups freshly grated Parmesan
+Quantifiers: 1 1/2 cups 
+Ingredients: Parmesan 
+
+1 cup ricotta cheese
+Quantifiers: 1 cup 
+Ingredients: ricotta cheese 
+
+4 eggs, plus 1 yolk, slightly beaten
+Quantifiers: 4 1 
+Ingredients: eggs yolk 
+
+1/4 teaspoon kosher salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: kosher salt 
+
+1/4 teaspoon freshly cracked pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: pepper 
+
+1 egg white, lightly beaten
+Quantifiers: 1 
+Ingredients: egg_white 
+

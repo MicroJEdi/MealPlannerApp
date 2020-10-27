@@ -1,0 +1,48 @@
+Four 5-ounce burger patties using 80/20 beef blend
+Quantifiers: Four 80/20 
+Ingredients: burger patties beef 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+8 slices Swiss cheese 
+Quantifiers: 8 slices 
+Ingredients: Swiss_cheese 
+
+4 slices Cheddar
+Quantifiers: 4 slices 
+Ingredients: Cheddar 
+
+8 slices seedless rye bread 
+Quantifiers: 8 slices 
+Ingredients: rye_bread 
+
+1 cup Caramelized Onions, recipe follows, or your favorite recipe
+Quantifiers: 1 cup 
+Ingredients: Onions 
+
+8 ounces (2 sticks) unsalted butter 
+Quantifiers: 8 ounces 2 sticks 
+Ingredients: butter 
+
+Caramelized Onions:
+Quantifiers: 
+Ingredients: Onions 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+Pinch of Sugar
+Quantifiers: Pinch 
+Ingredients: Sugar 
+
+2 large onions, thinly sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+Salt and Pepper
+Quantifiers: 
+Ingredients: Salt Pepper 
+

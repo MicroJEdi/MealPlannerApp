@@ -1,0 +1,28 @@
+1/2 teaspoon pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: pepper 
+
+1/2 cup (1 stick) butter, melted
+Quantifiers: 1/2 cup 1 stick 
+Ingredients: butter 
+
+3 cups cooked, shredded chicken
+Quantifiers: 3 cups 
+Ingredients: chicken 
+
+2 cups chicken broth
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+One 10-ounce can cream of chicken soup
+Quantifiers: One can 
+Ingredients: cream chicken_soup 
+
+1 cup self-rising flour
+Quantifiers: 1 cup 
+Ingredients: self-rising_flour 
+
+1 cup buttermilk, well shaken
+Quantifiers: 1 cup well 
+Ingredients: buttermilk 
+

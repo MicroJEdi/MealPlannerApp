@@ -1,0 +1,52 @@
+Classic Cream Cheese Dough: 
+Quantifiers: 
+Ingredients: Cream_Cheese Dough 
+
+8 ounces (2 sticks) unsalted butter, at room temperature
+Quantifiers: 8 ounces 2 sticks at room_temperature 
+Ingredients: butter 
+
+8 ounces cream cheese, at room temperature
+Quantifiers: 8 ounces at room_temperature 
+Ingredients: cream_cheese 
+
+2 cups all-purpose flour (measured and sifted)
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1 teaspoon cinnamon
+Quantifiers: 1 teaspoon 
+Ingredients: cinnamon 
+
+3/4 cup unsalted roasted almonds
+Quantifiers: 3/4 cup 
+Ingredients: almonds 
+
+3/4 cup raisins
+Quantifiers: 3/4 cup 
+Ingredients: raisins 
+
+1/2 cup seedless raspberry preserves or jam (Sour cherry preserve is also great!)
+Quantifiers: 1/2 cup 
+Ingredients: raspberry preserves jam Sour_cherry preserve 
+
+All-purpose flour, for dusting
+Quantifiers: 
+Ingredients: flour 
+
+3 tablespoons melted unsalted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 egg, lightly beaten with 1 tablespoon of milk or cream
+Quantifiers: 1 1 tablespoon 
+Ingredients: egg milk cream 
+

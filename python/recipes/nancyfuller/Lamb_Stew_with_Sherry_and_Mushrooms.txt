@@ -1,0 +1,68 @@
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+4 slices center-cut bacon 
+Quantifiers: 4 slices 
+Ingredients: bacon 
+
+2 pounds lamb stew meat 
+Quantifiers: 2 pounds 
+Ingredients: lamb stew_meat 
+
+4 cups mushrooms, quartered 
+Quantifiers: 4 cups 
+Ingredients: mushrooms 
+
+6 large carrots, roughly chopped 
+Quantifiers: 6 
+Ingredients: carrots 
+
+5 cloves garlic, smashed 
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+2 Vidalia onions, roughly chopped 
+Quantifiers: 2 
+Ingredients: Vidalia_onions 
+
+1/4 cup all-purpose flour 
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+4 cups beef stock 
+Quantifiers: 4 cups 
+Ingredients: beef_stock 
+
+1/2 cup sherry 
+Quantifiers: 1/2 cup 
+Ingredients: sherry 
+
+3 bay leaves 
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 cup heavy cream 
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+3 tablespoons chopped fresh parsley 
+Quantifiers: 3 tablespoons 
+Ingredients: parsley 
+
+3 tablespoons fresh tarragon leaves 
+Quantifiers: 3 tablespoons leaves 
+Ingredients: tarragon 
+
+1 bag petit frozen peas 
+Quantifiers: 1 bag 
+Ingredients: peas 
+
+Buttered noodles, for serving
+Quantifiers: serving 
+Ingredients: noodles 
+

@@ -1,0 +1,52 @@
+Cooking spray, for the baking dish
+Quantifiers: spray dish 
+Ingredients: 
+
+4 cups cubed challah bread
+Quantifiers: 4 cups 
+Ingredients: challah bread 
+
+4 cups cubed cornbread
+Quantifiers: 4 cups 
+Ingredients: cornbread 
+
+1 stick unsalted butter
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+2 onions, diced
+Quantifiers: 2 
+Ingredients: onions 
+
+6 cloves garlic, sliced
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+4 stalks celery, diced
+Quantifiers: 4 
+Ingredients: celery 
+
+1/3 cup fresh sage leaves, chopped
+Quantifiers: 1/3 cup leaves 
+Ingredients: sage 
+
+1/2 cup fresh parsley leaves, chopped
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+
+2 1/4 cups low-sodium chicken broth
+Quantifiers: 2 1/4 cups 
+Ingredients: chicken_broth 
+
+Kosher salt and freshly ground pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+

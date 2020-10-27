@@ -1,0 +1,16 @@
+1 slice of your favorite kind of bread
+Quantifiers: 1 slice 
+Ingredients: bread 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

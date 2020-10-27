@@ -1,0 +1,68 @@
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+1 1/2 pounds skinless boneless chicken breast
+Quantifiers: 1 1/2 pounds breast 
+Ingredients: chicken 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+2 teaspoons cumin powder
+Quantifiers: 2 teaspoons 
+Ingredients: cumin 
+
+2 teaspoons garlic powder
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+1 teaspoon Mexican Spice Blend
+Quantifiers: 1 teaspoon 
+Ingredients: Spice 
+
+1 red onion, chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 cup frozen corn, thawed
+Quantifiers: 1 cup 
+Ingredients: corn 
+
+5 canned whole green chiles, seeded and coarsely chopped
+Quantifiers: 5 
+Ingredients: green chiles 
+
+4 canned chipotle chiles, seeded and minced
+Quantifiers: 4 
+Ingredients: chipotle chiles 
+
+1 (28-ounce) can stewed tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1/2 teaspoon all-purpose flour
+Quantifiers: 1/2 teaspoon 
+Ingredients: flour 
+
+16 corn tortillas
+Quantifiers: 16 
+Ingredients: corn tortillas 
+
+1 1/2 cups enchilada sauce, canned
+Quantifiers: 1 1/2 cups 
+Ingredients: enchilada sauce 
+
+1 cup shredded Cheddar and Jack cheeses
+Quantifiers: 1 cup Jack 
+Ingredients: Cheddar cheeses 
+
+Garnish: chopped cilantro leaves, chopped scallions, sour cream, chopped tomatoes
+Quantifiers: leaves 
+Ingredients: cilantro scallions sour_cream tomatoes 
+

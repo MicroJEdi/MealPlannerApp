@@ -1,0 +1,44 @@
+1 medium head cauliflower, stem removed
+Quantifiers: 1 medium head 
+Ingredients: cauliflower 
+
+3 teaspoons canola oil
+Quantifiers: 3 teaspoons 
+Ingredients: canola_oil 
+
+2 large eggs, lightly beaten 
+Quantifiers: 2 
+Ingredients: eggs 
+
+3 cloves garlic, minced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+One 1-inch piece fresh ginger, peeled and grated 
+Quantifiers: One piece 
+Ingredients: ginger 
+
+1 cup frozen mixed peas and carrots, thawed 
+Quantifiers: 1 cup 
+Ingredients: peas carrots 
+
+1/4 cup thinly sliced scallions
+Quantifiers: 1/4 cup 
+Ingredients: scallions 
+
+1/4 cup plus 2 tablespoons low-sodium soy sauce, plus more for serving, optional
+Quantifiers: 1/4 cup 2 tablespoons serving 
+Ingredients: soy_sauce 
+
+2 tablespoons sesame oil 
+Quantifiers: 2 tablespoons 
+Ingredients: sesame_oil 
+
+2 cooked chicken breasts, diced (I used a rotisserie chicken) 
+Quantifiers: 2 breasts I a 
+Ingredients: chicken chicken 
+
+Hot sauce, for serving, optional
+Quantifiers: serving 
+Ingredients: Hot_sauce 
+

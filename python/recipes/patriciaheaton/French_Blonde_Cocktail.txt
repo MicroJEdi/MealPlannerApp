@@ -1,0 +1,20 @@
+4 ounces grapefruit juice
+Quantifiers: 4 ounces 
+Ingredients: grapefruit_juice 
+
+2 ounces vodka 
+Quantifiers: 2 ounces 
+Ingredients: vodka 
+
+2 ounces elderflower liqueur 
+Quantifiers: 2 ounces 
+Ingredients: liqueur 
+
+2 teaspoons lemon juice (about 1/2 lemon), plus 2 thin lemon slices, for garnish
+Quantifiers: 2 teaspoons 1/2 2 slices 
+Ingredients: lemon_juice lemon lemon 
+
+2 dashes lemon bitters
+Quantifiers: 2 
+Ingredients: lemon bitters 
+

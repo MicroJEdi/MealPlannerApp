@@ -1,0 +1,48 @@
+2 pounds beef chuck for stew, cut into 1-inch cubes
+Quantifiers: 2 pounds cubes 
+Ingredients: beef chuck stew cut 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+4 medium carrots, peeled, halved and cut into 1-inch chunks
+Quantifiers: 4 medium chunks 
+Ingredients: carrots cut 
+
+3 small onions, diced
+Quantifiers: 3 
+Ingredients: onions 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 (14 1/2-ounce) cans reduced-sodium beef or chicken broth
+Quantifiers: 2 14 cans 
+Ingredients: beef chicken_broth 
+
+2 cups dry red wine
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+1 cup canned crushed tomatoes
+Quantifiers: 1 cup 
+Ingredients: tomatoes 
+
+3 sprigs fresh rosemary
+Quantifiers: 3 
+Ingredients: rosemary 
+
+2 medium russet or Yukon gold potatoes, peeled and cut into 1-inch chunks
+Quantifiers: 2 medium chunks 
+Ingredients: potatoes cut 
+
+2 handfuls green beans, ends trimmed
+Quantifiers: 2 handfuls ends 
+Ingredients: green_beans 
+

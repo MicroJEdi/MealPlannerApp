@@ -1,0 +1,84 @@
+1 pound spaghetti
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+Salt, for pasta water
+Quantifiers: 
+Ingredients: Salt pasta water 
+
+Meatballs:
+Quantifiers: 
+Ingredients: Meatballs 
+
+1 1/4 pounds ground sirloin
+Quantifiers: 1 1/4 pounds ground 
+Ingredients: sirloin 
+
+2 teaspoons Worcestershire sauce, eyeball it
+Quantifiers: 2 teaspoons 
+Ingredients: Worcestershire_sauce 
+
+1 egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 cup Italian bread crumbs, a couple of handfuls
+Quantifiers: 1/2 cup crumbs a couple handfuls 
+Ingredients: Italian_bread 
+
+1/4 cup grated Parmesan, Parmigiano-Reggiano or Romano cheese
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan cheese 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 tablespoons extra-virgin olive oil, 2 turns of the pan
+Quantifiers: 2 tablespoons 2 turns pan 
+Ingredients: olive_oil 
+
+1/2 teaspoon crushed red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+4 cloves garlic, crushed or chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 small onion, finely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 cup beef stock, available on soup aisle in market in small paper boxes
+Quantifiers: 1 cup in in paper boxes 
+Ingredients: beef_stock soup 
+
+1 (28-ounce) can crushed tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+A handful chopped flat-leaf parsley
+Quantifiers: A handful 
+Ingredients: parsley 
+
+10 leaves fresh basil leaves, torn or thinly sliced
+Quantifiers: 10 leaves leaves 
+Ingredients: basil 
+
+Grated cheese, such as Parmigiano-Reggiano or Romano, for passing at table
+Quantifiers: as at table 
+Ingredients: Grated_cheese 
+
+Crusty bread or garlic bread, for passing at the table
+Quantifiers: at table 
+Ingredients: bread garlic_bread 
+

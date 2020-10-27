@@ -1,0 +1,96 @@
+Beef:
+Quantifiers: 
+Ingredients: Beef 
+
+3 pounds boneless beef chuck, cut into 1-inch pieces
+Quantifiers: 3 pounds pieces 
+Ingredients: beef chuck cut 
+
+1 bottle dry red wine, preferably Burgundy or Cotes du Rhone
+Quantifiers: 1 bottle 
+Ingredients: red_wine Burgundy 
+
+1/4 cup coarsely ground black pepper
+Quantifiers: 1/4 cup ground 
+Ingredients: black_pepper 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+1/4 pound applewood smoked thick-sliced bacon, cut crosswise into 1/4-inch slices
+Quantifiers: 1/4 pound slices 
+Ingredients: applewood bacon cut 
+
+1/2 cup sherry wine, preferably Manzanilla
+Quantifiers: 1/2 cup 
+Ingredients: sherry wine Manzanilla 
+
+Bouquet Garni:
+Quantifiers: 
+Ingredients: 
+
+One 4-inch piece celery
+Quantifiers: One piece 
+Ingredients: celery 
+
+4 fresh parsley stems
+Quantifiers: 4 
+Ingredients: parsley 
+
+4 fresh thyme sprigs
+Quantifiers: 4 
+Ingredients: thyme 
+
+2 dried bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+Stew:
+Quantifiers: 
+Ingredients: Stew 
+
+5 tablespoons unsalted butter
+Quantifiers: 5 tablespoons 
+Ingredients: butter 
+
+3 cloves garlic, finely chopped
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+2 carrots, cut into 1/4-inch slices
+Quantifiers: 2 slices 
+Ingredients: carrots cut 
+
+2 onions, finely chopped
+Quantifiers: 2 
+Ingredients: onions 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+1 pound pearl onions
+Quantifiers: 1 pound 
+Ingredients: onions 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 pound cremini mushrooms, quartered
+Quantifiers: 1 pound 
+Ingredients: mushrooms 
+
+1/4 cup chopped fresh parsley, for garnish
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+Accompaniment: 2 pounds roasted fingerling potatoes
+Quantifiers: 2 pounds 
+Ingredients: potatoes 
+

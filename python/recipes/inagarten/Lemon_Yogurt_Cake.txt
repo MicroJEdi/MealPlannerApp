@@ -1,0 +1,52 @@
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1 cup plain whole-milk yogurt
+Quantifiers: 1 cup 
+Ingredients: yogurt 
+
+1 1/3 cups sugar, divided
+Quantifiers: 1 1/3 cups 
+Ingredients: sugar 
+
+3 extra-large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 teaspoons grated lemon zest (2 lemons)
+Quantifiers: 2 teaspoons 2 
+Ingredients: lemon lemons 
+
+1/2 teaspoon pure vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup vegetable oil
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+1/3 cup freshly squeezed lemon juice
+Quantifiers: 1/3 cup 
+Ingredients: lemon_juice 
+
+For the glaze:
+Quantifiers: 
+Ingredients: 
+
+1 cup confectioners' sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+

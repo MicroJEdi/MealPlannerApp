@@ -1,0 +1,36 @@
+One 4-pound chuck roast
+Quantifiers: One 
+Ingredients: chuck roast 
+
+Salt and black pepper
+Quantifiers: 
+Ingredients: Salt black_pepper 
+
+3 tablespoons butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 tablespoons canola oil 
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+2 cups beef broth 
+Quantifiers: 2 cups 
+Ingredients: beef_broth 
+
+2 tablespoons minced fresh rosemary 
+Quantifiers: 2 tablespoons 
+Ingredients: rosemary 
+
+One 16-ounce jar pepperoncini, juice and all 
+Quantifiers: One jar 
+Ingredients: juice 
+
+2 yellow onions, sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+10 to 12 toasted, buttered deli rolls
+Quantifiers: 10 12 rolls 
+Ingredients: 
+

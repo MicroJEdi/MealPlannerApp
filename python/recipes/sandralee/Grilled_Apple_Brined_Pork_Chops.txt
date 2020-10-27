@@ -1,0 +1,28 @@
+2 cups apple juice
+Quantifiers: 2 cups 
+Ingredients: apple_juice 
+
+1 tablespoon coarsely ground black pepper
+Quantifiers: 1 tablespoon ground 
+Ingredients: black_pepper 
+
+1/4 cup salt
+Quantifiers: 1/4 cup 
+Ingredients: salt 
+
+1/4 cup light brown sugar
+Quantifiers: 1/4 cup light 
+Ingredients: brown_sugar 
+
+1 teaspoon red pepper flakes
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+5 rib end pork chops, about 1 1/2 pounds
+Quantifiers: 5 rib end 1 1/2 pounds 
+Ingredients: pork chops 
+
+1 tablespoon grill seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: seasoning 
+

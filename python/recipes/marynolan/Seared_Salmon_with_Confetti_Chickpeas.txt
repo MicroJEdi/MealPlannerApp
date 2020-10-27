@@ -1,0 +1,64 @@
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 cup diced onion
+Quantifiers: 1 cup 
+Ingredients: onion 
+
+1/2 teaspoon dried red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 small red bell pepper, diced (about 1 cup)
+Quantifiers: 1 1 cup 
+Ingredients: bell_pepper 
+
+2 medium carrots, diced (about 1 cup)
+Quantifiers: 2 medium 1 cup 
+Ingredients: carrots 
+
+1/2 pound yellow zucchini, diced
+Quantifiers: 1/2 pound 
+Ingredients: zucchini 
+
+1/2 pound green zucchini, diced
+Quantifiers: 1/2 pound 
+Ingredients: green zucchini 
+
+2 (15 1/2-ounce) cans chickpeas
+Quantifiers: 2 15 cans 
+Ingredients: chickpeas 
+
+2 cups reduced-sodium chicken broth
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 1/2 teaspoons kosher salt, plus more for seasoning
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt seasoning 
+
+2 sprigs rosemary, plus 6 sprigs for garnish
+Quantifiers: 2 6 
+Ingredients: rosemary 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+Canola oil, for searing
+Quantifiers: 
+Ingredients: Canola_oil 
+
+6 (6-ounce) pieces center-cut salmon fillets
+Quantifiers: 6 pieces 
+Ingredients: salmon fillets 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

@@ -1,0 +1,112 @@
+Chili:
+Quantifiers: 
+Ingredients: Chili 
+
+Coconut oil, for browning the meat
+Quantifiers: 
+Ingredients: Coconut_oil meat 
+
+8 ounces ground pork 
+Quantifiers: 8 ounces ground 
+Ingredients: pork 
+
+8 ounces ground beef 
+Quantifiers: 8 ounces 
+Ingredients: ground_beef 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 habanero pepper, seeded and chopped
+Quantifiers: 1 
+Ingredients: pepper 
+
+1/2 onion, chopped 
+Quantifiers: 1/2 
+Ingredients: onion 
+
+2 teaspoons chile powder 
+Quantifiers: 2 teaspoons 
+Ingredients: chile 
+
+1 teaspoon cumin 
+Quantifiers: 1 teaspoon 
+Ingredients: cumin 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon onion powder 
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon allspice
+Quantifiers: 1 teaspoon 
+Ingredients: allspice 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+One 28-ounce can crushed tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+Splash Worcestershire sauce 
+Quantifiers: Splash 
+Ingredients: Worcestershire_sauce 
+
+1 cup beef stock
+Quantifiers: 1 cup 
+Ingredients: beef_stock 
+
+1 bunch fresh cilantro, chopped
+Quantifiers: 1 
+Ingredients: cilantro 
+
+2 mangoes, chopped
+Quantifiers: 2 
+Ingredients: mangoes 
+
+Muffins:
+Quantifiers: 
+Ingredients: Muffins 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 cup cornmeal 
+Quantifiers: 1 cup 
+Ingredients: cornmeal 
+
+1/4 cup sugar 
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+2 teaspoons baking powder 
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+Pinch of kosher salt 
+Quantifiers: Pinch 
+Ingredients: kosher salt 
+
+2 sticks (8 ounces) unsalted butter, melted
+Quantifiers: 2 sticks 8 ounces 
+Ingredients: butter 
+
+3/4 cup whole milk 
+Quantifiers: 3/4 cup 
+Ingredients: whole_milk 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 jalapeno pepper, seeded and chopped
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+

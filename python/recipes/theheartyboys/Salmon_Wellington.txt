@@ -1,0 +1,68 @@
+6 tablespoons butter
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+3 leeks, washed and sliced
+Quantifiers: 3 
+Ingredients: leeks 
+
+1 red onion, finely sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+2 tablespoons dried tarragon
+Quantifiers: 2 tablespoons 
+Ingredients: tarragon 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+2 puff pastry sheets, thawed
+Quantifiers: 2 sheets 
+Ingredients: puff pastry 
+
+Flour, for dusting surface
+Quantifiers: surface 
+Ingredients: Flour 
+
+1 egg plus 2 teaspoons water, for egg wash
+Quantifiers: 1 2 teaspoons 
+Ingredients: egg water egg 
+
+1 (3-pound) salmon fillet, skin removed
+Quantifiers: 1 skin 
+Ingredients: salmon fillet 
+
+Dijon Whipped Cream, recipe follows
+Quantifiers: 
+Ingredients: Cream 
+
+Dijon Whipped Cream:
+Quantifiers: 
+Ingredients: Cream 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon white pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: white_pepper 
+

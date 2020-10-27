@@ -1,0 +1,108 @@
+Caper Lemon Tartar Sauce:
+Quantifiers: 
+Ingredients: Caper Lemon Tartar_Sauce 
+
+1 cup mayo
+Quantifiers: 1 cup 
+Ingredients: mayo 
+
+2 tablespoons capers, drained and chopped
+Quantifiers: 2 tablespoons 
+Ingredients: capers 
+
+2 tablespoons pickle relish
+Quantifiers: 2 tablespoons 
+Ingredients: pickle_relish 
+
+1 tablespoon fresh lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1 1/2 teaspoons white wine vinegar
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: white_wine_vinegar 
+
+1/2 teaspoon Worcestershire sauce
+Quantifiers: 1/2 teaspoon 
+Ingredients: Worcestershire_sauce 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Fennel Slaw:
+Quantifiers: 
+Ingredients: Fennel Slaw 
+
+1 1/2 cups red cabbage, sliced thin
+Quantifiers: 1 1/2 cups 
+Ingredients: red_cabbage 
+
+1/4 cup fresh parsley leaves, chopped
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1 medium bulb fennel, trimmed and thinly sliced, save fronds for garnish
+Quantifiers: 1 medium bulb 
+Ingredients: fennel 
+
+2 tablespoons fresh lemon juice (from about 1 lemon)
+Quantifiers: 2 tablespoons 1 
+Ingredients: lemon_juice lemon 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Fish:
+Quantifiers: 
+Ingredients: Fish 
+
+6 cups peanut oil, for frying
+Quantifiers: 6 cups 
+Ingredients: peanut_oil 
+
+2 cups plus 1/2 cup flour
+Quantifiers: 2 cups 1/2 cup 
+Ingredients: flour 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1/4 teaspoon table salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: table_salt 
+
+One 12-ounce bottle good beer (Irish stout preferred)
+Quantifiers: One bottle 
+Ingredients: beer Irish stout 
+
+1 egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1 pound cod fillet, cut into pieces the length of the buns
+Quantifiers: 1 pound pieces 
+Ingredients: cod fillet cut buns 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+8 parker house rolls, buttered and griddled until toasted
+Quantifiers: 8 rolls 
+Ingredients: 
+

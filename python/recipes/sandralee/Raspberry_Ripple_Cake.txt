@@ -1,0 +1,60 @@
+Cake:
+Quantifiers: 
+Ingredients: Cake 
+
+1 (18.25-ounce) white cake mix
+Quantifiers: 1 
+Ingredients: white_cake_mix 
+
+1 1/4 cups white cranberry juice
+Quantifiers: 1 1/4 cups 
+Ingredients: white cranberry_juice 
+
+1/3 cup vegetable oil
+Quantifiers: 1/3 cup 
+Ingredients: vegetable_oil 
+
+3 egg whites
+Quantifiers: 3 
+Ingredients: egg_whites 
+
+6 tablespoons red raspberry preserves
+Quantifiers: 6 tablespoons 
+Ingredients: raspberry preserves 
+
+1/8 teaspoon red food color
+Quantifiers: 1/8 teaspoon 
+Ingredients: food_color 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup red raspberry preserves
+Quantifiers: 1/2 cup 
+Ingredients: raspberry preserves 
+
+1 tablespoon white cranberry juice
+Quantifiers: 1 tablespoon 
+Ingredients: white cranberry_juice 
+
+1/2 teaspoon raspberry extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: raspberry 
+
+Icing:
+Quantifiers: 
+Ingredients: 
+
+5 tablespoons heavy cream
+Quantifiers: 5 tablespoons 
+Ingredients: heavy_cream 
+
+1 cup powdered sugar, sifted
+Quantifiers: 1 cup 
+Ingredients: powdered_sugar 
+
+1/8 teaspoon raspberry extract
+Quantifiers: 1/8 teaspoon 
+Ingredients: raspberry 
+

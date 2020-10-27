@@ -1,0 +1,116 @@
+1/4 recipe Alton Brown's Meatloaf, recipe follows
+Quantifiers: 1/4 
+Ingredients: Meatloaf 
+
+1 tablespoon balsamic vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: vinegar 
+
+3 tablespoons grated Parmesan
+Quantifiers: 3 tablespoons 
+Ingredients: Parmesan 
+
+1/2 teaspoon dry oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+Fresh Pasta Dough, recipe follows
+Quantifiers: 
+Ingredients: Pasta Dough 
+
+1 egg mixed with 1 teaspoon water (eggwash)
+Quantifiers: 1 1 teaspoon 
+Ingredients: egg water 
+
+For the browned butter for 10 raviolis:
+Quantifiers: 10 
+Ingredients: butter raviolis 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 tablespoon sliced sage
+Quantifiers: 1 tablespoon 
+Ingredients: sage 
+
+Good Eats Meatloaf:
+Quantifiers: 
+Ingredients: Eats Meatloaf 
+
+6 ounces garlic-flavored croutons
+Quantifiers: 6 ounces 
+Ingredients: croutons 
+
+1/2 teaspoon ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 teaspoon chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+1 teaspoon dried thyme
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+1/2 onion, roughly chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+1 carrot, peeled and broken
+Quantifiers: 1 
+Ingredients: carrot 
+
+3 whole cloves garlic
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/2 red bell pepper
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+18 ounces ground sirloin
+Quantifiers: 18 ounces ground 
+Ingredients: sirloin 
+
+18 ounces ground chuck
+Quantifiers: 18 ounces ground 
+Ingredients: chuck 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Fresh Pasta:
+Quantifiers: 
+Ingredients: Pasta 
+
+3 cups all-purpose flour
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+1 teaspoon olive oil
+Quantifiers: 1 teaspoon 
+Ingredients: olive_oil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+

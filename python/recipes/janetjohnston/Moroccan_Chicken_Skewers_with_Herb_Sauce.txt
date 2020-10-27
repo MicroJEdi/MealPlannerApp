@@ -1,0 +1,72 @@
+For the chicken:
+Quantifiers: 
+Ingredients: chicken 
+
+1 tablespoon Hungarian paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 1/2 teaspoons ground cumin
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: cumin 
+
+1/2 teaspoon ground ginger
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1 1/2 teaspoons sugar
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: sugar 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+3 boneless, skinless chicken breasts, cut into 1-inch cubes
+Quantifiers: 3 breasts cubes 
+Ingredients: chicken cut 
+
+5 (8-inch) wooden skewers, soaked 1 hour
+Quantifiers: 5 skewers 1 hour 
+Ingredients: 
+
+For the Herb Sauce:
+Quantifiers: 
+Ingredients: Herb Sauce 
+
+1/4 cup cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1/2 cup mint leaves
+Quantifiers: 1/2 cup mint leaves 
+Ingredients: 
+
+1/4 teaspoon ground cumin
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cumin 
+
+1/2 tablespoon ground ginger
+Quantifiers: 1/2 tablespoon ground 
+Ingredients: ginger 
+
+1/2 tablespoon kosher salt
+Quantifiers: 1/2 tablespoon 
+Ingredients: kosher salt 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1 1/2 teaspoons honey
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: honey 
+
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+

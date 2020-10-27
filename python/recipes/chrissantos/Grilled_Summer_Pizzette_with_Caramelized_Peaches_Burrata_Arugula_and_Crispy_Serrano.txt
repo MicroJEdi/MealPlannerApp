@@ -1,0 +1,44 @@
+1 to 2 tablespoons vegetable oil
+Quantifiers: 1 2 tablespoons 
+Ingredients: vegetable_oil 
+
+8 ounces thinly sliced serrano ham
+Quantifiers: 8 ounces 
+Ingredients: ham 
+
+2 pounds frozen pizza dough, thawed
+Quantifiers: 2 pounds 
+Ingredients: pizza dough 
+
+All-purpose flour, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: flour 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+6 peaches, thinly sliced on a mandolin slicer
+Quantifiers: 6 a mandolin slicer 
+Ingredients: peaches 
+
+1 teaspoon light brown sugar
+Quantifiers: 1 teaspoon light 
+Ingredients: brown_sugar 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+5 ounces baby arugula, washed (about 6 cups) 
+Quantifiers: 5 ounces 6 cups 
+Ingredients: 
+
+2 pounds burrata cheese
+Quantifiers: 2 pounds 
+Ingredients: cheese 
+

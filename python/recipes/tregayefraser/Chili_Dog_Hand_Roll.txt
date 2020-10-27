@@ -1,0 +1,112 @@
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+4 links ground chorizo sausage
+Quantifiers: 4 links ground 
+Ingredients: chorizo sausage 
+
+1 tablespoon oil
+Quantifiers: 1 tablespoon 
+Ingredients: oil 
+
+4 beef hot dogs, cut into 1/2-inch slices
+Quantifiers: 4 slices 
+Ingredients: beef hot_dogs cut 
+
+4 pork hot dogs, cut into 1/2-inch slices
+Quantifiers: 4 slices 
+Ingredients: pork hot_dogs cut 
+
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves fresh garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 cup tomato sauce
+Quantifiers: 1/2 cup 
+Ingredients: tomato_sauce 
+
+2 tablespoons ground cumin
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+3 cups cooked rice
+Quantifiers: 3 cups 
+Ingredients: rice 
+
+2 cups chicken stock
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+One 15.5-ounce can black beans, rinsed and drained
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 15.5-ounce can kidney beans, rinsed and drained
+Quantifiers: One can 
+Ingredients: kidney_beans 
+
+1 cup shredded Monterey Jack cheese
+Quantifiers: 1 cup Jack 
+Ingredients: cheese 
+
+4 large (burrito-size) flour tortillas, grilled
+Quantifiers: 4 
+Ingredients: flour tortillas 
+
+Bacon Sour Cream:
+Quantifiers: 
+Ingredients: Bacon Sour_Cream 
+
+4 dollops sour cream
+Quantifiers: 4 dollops 
+Ingredients: sour_cream 
+
+Crumbled bacon, for topping
+Quantifiers: 
+Ingredients: bacon 
+
+4 pinches minced fresh cilantro
+Quantifiers: 4 pinches 
+Ingredients: cilantro 
+
+Heavy Cream Liquid:
+Quantifiers: 
+Ingredients: Heavy_Cream 
+
+1/2 cup milk
+Quantifiers: 1/2 cup 
+Ingredients: milk 
+
+6 eggs, beaten
+Quantifiers: 6 
+Ingredients: eggs 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+2 cooked lobster tails, removed from their shells and chopped
+Quantifiers: 2 tails shells 
+Ingredients: lobster_tails 
+
+Microgreens, for serving
+Quantifiers: serving 
+Ingredients: 
+

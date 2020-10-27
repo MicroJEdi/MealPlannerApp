@@ -1,0 +1,32 @@
+Olive oil cooking spray, for the bread tops and foil
+Quantifiers: spray foil 
+Ingredients: Olive_oil bread 
+
+1 loaf focaccia bread
+Quantifiers: 1 
+Ingredients: loaf bread 
+
+1 1/3 cups shredded Cheddar
+Quantifiers: 1 1/3 cups 
+Ingredients: Cheddar 
+
+1 1/3 cups shredded rotisserie chicken 
+Quantifiers: 1 1/3 cups 
+Ingredients: chicken 
+
+1 1/3 cups chopped cooked asparagus
+Quantifiers: 1 1/3 cups 
+Ingredients: asparagus 
+
+1 1/3 cups roasted potatoes, chopped into bite-size pieces if large
+Quantifiers: 1 1/3 cups pieces 
+Ingredients: potatoes 
+
+1 1/3 cups shredded mozzarella 
+Quantifiers: 1 1/3 cups 
+Ingredients: mozzarella 
+
+4 slices smoked Gouda
+Quantifiers: 4 slices 
+Ingredients: Gouda 
+

@@ -1,0 +1,96 @@
+1 rack of lamb with 8 bones (about 2 pounds), excess fat trimmed
+Quantifiers: 1 8 bones 2 pounds 
+Ingredients: rack lamb 
+
+1 tablespoons plus 1/2 teaspoon Emeril's Creole Seasoning, recipe follows
+Quantifiers: 1 tablespoons 1/2 teaspoon 
+Ingredients: Seasoning 
+
+3/4 cup plain breadcrumbs 
+Quantifiers: 3/4 cup breadcrumbs 
+Ingredients: 
+
+2 teaspoons chopped fresh rosemary 
+Quantifiers: 2 teaspoons 
+Ingredients: rosemary 
+
+1/4 cup extra-virgin olive oil 
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/4 cup Creole or other whole-grain mustard 
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+Apple-Mint Puree, recipe follows, for serving
+Quantifiers: serving 
+Ingredients: Puree 
+
+4 sprigs fresh mint, for garnish, optional 
+Quantifiers: 4 mint 
+Ingredients: 
+
+Emeril's Creole Seasoning:
+Quantifiers: 
+Ingredients: Seasoning 
+
+5 tablespoons sweet paprika
+Quantifiers: 5 tablespoons 
+Ingredients: sweet paprika 
+
+1/4 cup salt
+Quantifiers: 1/4 cup 
+Ingredients: salt 
+
+1/4 cup garlic powder
+Quantifiers: 1/4 cup 
+Ingredients: garlic 
+
+2 tablespoons freshly ground black pepper
+Quantifiers: 2 tablespoons ground 
+Ingredients: black_pepper 
+
+2 tablespoons onion powder
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 tablespoons cayenne pepper
+Quantifiers: 2 tablespoons 
+Ingredients: cayenne_pepper 
+
+2 tablespoons dried oregano
+Quantifiers: 2 tablespoons 
+Ingredients: oregano 
+
+2 tablespoons dried thyme
+Quantifiers: 2 tablespoons 
+Ingredients: thyme 
+
+Apple-Mint Puree:
+Quantifiers: 
+Ingredients: Puree 
+
+2 medium Pink Lady, Gala, or Fuji apples
+Quantifiers: 2 medium 
+Ingredients: Pink_Lady Fuji apples 
+
+2 cups apple cider
+Quantifiers: 2 cups 
+Ingredients: apple cider 
+
+1/4 cup chopped onion
+Quantifiers: 1/4 cup 
+Ingredients: onion 
+
+3 teaspoons cider vinegar
+Quantifiers: 3 teaspoons 
+Ingredients: cider_vinegar 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 tablespoons chopped fresh mint
+Quantifiers: 2 tablespoons mint 
+Ingredients: 
+

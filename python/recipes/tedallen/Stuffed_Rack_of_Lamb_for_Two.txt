@@ -1,0 +1,56 @@
+For the Marinade:
+Quantifiers: 
+Ingredients: Marinade 
+
+1/2 lemon
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon freshly chopped rosemary leaves, plus sprigs for garnish
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon fresh cracked pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: pepper 
+
+For the stuffing:
+Quantifiers: 
+Ingredients: stuffing 
+
+1/2 cup crumbled feta cheese
+Quantifiers: 1/2 cup 
+Ingredients: cheese 
+
+1/4 cup sun-dried tomatoes packed in oil, chopped
+Quantifiers: 1/4 cup in 
+Ingredients: tomatoes oil 
+
+1/4 cup kalamata olives, pitted and coarsely chopped
+Quantifiers: 1/4 cup 
+Ingredients: olives 
+
+2 tablespoons chopped flat-leaf parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1/2 teaspoon freshly cracked pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: pepper 
+
+1 rack of lamb (about 8 chops)
+Quantifiers: 1 8 
+Ingredients: rack lamb chops 
+

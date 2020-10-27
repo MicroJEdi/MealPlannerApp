@@ -1,0 +1,24 @@
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 1/4 cups milk
+Quantifiers: 1 1/4 cups 
+Ingredients: milk 
+
+3 eggs, beaten
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 tablespoons chopped fresh thyme leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: thyme 
+
+1/4 cup reserved pan fat from Sunday Roast Beef*
+Quantifiers: 1/4 cup pan Sunday 
+Ingredients: Roast_Beef 
+

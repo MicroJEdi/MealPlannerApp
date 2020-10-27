@@ -1,0 +1,68 @@
+Marinated Cherry Tomatoes:
+Quantifiers: 
+Ingredients: Cherry Tomatoes 
+
+2 teaspoons coriander seeds
+Quantifiers: 2 teaspoons 
+Ingredients: coriander_seeds 
+
+2 cups heirloom cherry tomatoes
+Quantifiers: 2 cups 
+Ingredients: cherry tomatoes 
+
+1/4 red onion, thinly sliced
+Quantifiers: 1/4 
+Ingredients: red_onion 
+
+5 tablespoons extra-virgin olive oil
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons fresh ginger juice
+Quantifiers: 2 tablespoons 
+Ingredients: ginger juice 
+
+2 tablespoons fresh basil leaves, thinly sliced
+Quantifiers: 2 tablespoons leaves 
+Ingredients: basil 
+
+1 tablespoon fresh mint leaves, thinly sliced
+Quantifiers: 1 tablespoon mint leaves 
+Ingredients: 
+
+1 tablespoon sherry vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: sherry vinegar 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+3 tablespoons extra virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+5 fresh basil leaves, torn
+Quantifiers: 5 leaves 
+Ingredients: basil 
+
+1 clove garlic, sliced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 boneless, skinless chicken breasts
+Quantifiers: 2 breasts 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

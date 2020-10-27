@@ -1,0 +1,52 @@
+1 pound mixed ground beef and sausage, browned and drained
+Quantifiers: 1 pound 
+Ingredients: ground_beef sausage 
+
+1 medium onion, diced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 green bell pepper diced
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+2 cups chopped celery
+Quantifiers: 2 cups 
+Ingredients: celery 
+
+2 (28-ounce) cans diced tomatoes
+Quantifiers: 2 cans 
+Ingredients: tomatoes 
+
+1 (28-ounce) can whole, peeled tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+Ground cumin
+Quantifiers: Ground 
+Ingredients: cumin 
+
+Chili powder
+Quantifiers: 
+Ingredients: Chili_powder 
+
+1 (14 1/2-ounce) can pinto beans, drained and rinsed
+Quantifiers: 1 14 can 
+Ingredients: pinto_beans 
+
+1 (14 1/2-ounce) can black beans, drained and rinsed
+Quantifiers: 1 14 can 
+Ingredients: black_beans 
+
+1 (14 1/2-ounce) can kidney beans, drained and rinsed
+Quantifiers: 1 14 can 
+Ingredients: kidney_beans 
+
+1 package chili seasoning mix
+Quantifiers: 1 package 
+Ingredients: chili seasoning mix 
+
+Shredded cheddar, sour cream, chopped green onions, for garnish
+Quantifiers: 
+Ingredients: cheddar sour_cream green_onions 
+

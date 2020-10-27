@@ -1,0 +1,64 @@
+2 pounds tilapia fillets, finely diced* see Cook's Note
+Quantifiers: 2 pounds Note 
+Ingredients: fillets 
+
+1 cup lime juice (about 8 large limes)
+Quantifiers: 1 cup 8 
+Ingredients: lime_juice limes 
+
+1/2 cup seeded chopped tomato
+Quantifiers: 1/2 cup 
+Ingredients: tomato 
+
+1/2 cucumber, peeled, seeded and finely diced
+Quantifiers: 1/2 
+Ingredients: cucumber 
+
+1/2 cup finely chopped onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/2 cup clam-tomato juice (recommended: Clamato), optional
+Quantifiers: 1/2 cup 
+Ingredients: juice 
+
+1 tablespoon bottled hot sauce (recommended: Huichol), optional
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+1 serrano chile, optional
+Quantifiers: 1 
+Ingredients: chile 
+
+Grilled Tostadas, recipe follows, or 6 purchased tostadas
+Quantifiers: 6 
+Ingredients: Tostadas tostadas 
+
+Mayonnaise, for spreading
+Quantifiers: 
+Ingredients: Mayonnaise 
+
+1 avocado, halved, pitted, peeled, and thinly sliced
+Quantifiers: 1 
+Ingredients: avocado 
+
+1 lime, cut into wedges
+Quantifiers: 1 
+Ingredients: lime cut wedges 
+
+Grilled Tostadas:
+Quantifiers: 
+Ingredients: Tostadas 
+
+6 corn tortillas
+Quantifiers: 6 
+Ingredients: corn tortillas 
+

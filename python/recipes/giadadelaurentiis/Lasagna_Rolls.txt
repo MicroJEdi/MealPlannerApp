@@ -1,0 +1,76 @@
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+4 teaspoons all-purpose flour
+Quantifiers: 4 teaspoons 
+Ingredients: flour 
+
+1 1/4 cups whole milk
+Quantifiers: 1 1/4 cups 
+Ingredients: whole_milk 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1/8 teaspoon ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+Pinch ground nutmeg
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+Lasagna:
+Quantifiers: 
+Ingredients: Lasagna 
+
+1 (15-ounce) container whole milk ricotta cheese
+Quantifiers: 1 container 
+Ingredients: whole_milk ricotta cheese 
+
+1 (10-ounce) package frozen chopped spinach, thawed, squeezed dry
+Quantifiers: 1 package 
+Ingredients: spinach 
+
+1 cup plus 2 tablespoons grated Parmesan
+Quantifiers: 1 cup 2 tablespoons 
+Ingredients: Parmesan 
+
+3 ounces thinly sliced prosciutto, chopped
+Quantifiers: 3 ounces 
+Ingredients: prosciutto 
+
+1 large egg, beaten to blend
+Quantifiers: 1 
+Ingredients: egg 
+
+3/4 teaspoon salt, plus more for salting water
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt water 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 to 2 tablespoons olive oil
+Quantifiers: 1 2 tablespoons 
+Ingredients: olive_oil 
+
+12 uncooked lasagna noodles
+Quantifiers: 12 
+Ingredients: lasagna noodles 
+
+2 cups marinara sauce
+Quantifiers: 2 cups 
+Ingredients: marinara sauce 
+
+1 cup shredded mozzarella (about 4 ounces)
+Quantifiers: 1 cup 4 ounces 
+Ingredients: mozzarella 
+

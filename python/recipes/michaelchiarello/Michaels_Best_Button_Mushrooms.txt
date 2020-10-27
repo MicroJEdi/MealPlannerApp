@@ -1,0 +1,36 @@
+6 tablespoons extra-virgin olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+1 1/2 pounds whole small button mushrooms, wiped clean
+Quantifiers: 1 1/2 pounds button 
+Ingredients: mushrooms 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+Gray sea salt
+Quantifiers: Gray sea 
+Ingredients: salt 
+
+1 tablespoon minced garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 1/2 teaspoons fresh thyme leaves, chopped
+Quantifiers: 1 1/2 teaspoons leaves 
+Ingredients: thyme 
+
+2 tablespoons lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 tablespoon chopped parsley leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: parsley 
+

@@ -1,0 +1,40 @@
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+1/2 cup cream
+Quantifiers: 1/2 cup 
+Ingredients: cream 
+
+2 tablespoons unsweetened cocoa powder
+Quantifiers: 2 tablespoons 
+Ingredients: cocoa_powder 
+
+1 recipe Master Ganache, recipe follows, using 2 cups cream instead of 1
+Quantifiers: 1 Master 2 cups 1 
+Ingredients: cream 
+
+1/2 teaspoon Tia Maria or vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+Whipped cream, for serving
+Quantifiers: serving 
+Ingredients: cream 
+
+Chocolate shavings, for serving
+Quantifiers: serving 
+Ingredients: Chocolate 
+
+Master Ganache:
+Quantifiers: Master 
+Ingredients: 
+
+8 ounces bittersweet chocolate
+Quantifiers: 8 ounces 
+Ingredients: bittersweet_chocolate 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+

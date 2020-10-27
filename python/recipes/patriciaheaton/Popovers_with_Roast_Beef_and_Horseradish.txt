@@ -1,0 +1,60 @@
+Popovers:
+Quantifiers: 
+Ingredients: Popovers 
+
+4 tablespoons unsalted butter, softened
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 large eggs, room temperature 
+Quantifiers: 2 room_temperature 
+Ingredients: eggs 
+
+1 cup whole milk, room temperature 
+Quantifiers: 1 cup room_temperature 
+Ingredients: whole_milk 
+
+1 teaspoon kosher salt 
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon sugar 
+Quantifiers: 1/2 teaspoon 
+Ingredients: sugar 
+
+1 cup all-purpose flour 
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+Sandwiches:
+Quantifiers: 
+Ingredients: Sandwiches 
+
+1/4 cup prepared horseradish
+Quantifiers: 1/4 cup 
+Ingredients: horseradish 
+
+1/4 cup sour cream 
+Quantifiers: 1/4 cup 
+Ingredients: sour_cream 
+
+2 tablespoons chopped fresh chives 
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+8 ounces sliced roast beef 
+Quantifiers: 8 ounces 
+Ingredients: roast_beef 
+
+Finishing salt, to top
+Quantifiers: 
+Ingredients: salt 
+

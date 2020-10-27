@@ -1,0 +1,36 @@
+1/2 cup freshly squeezed lemon juice
+Quantifiers: 1/2 cup 
+Ingredients: lemon_juice 
+
+Zest of 1 lemon (about 2 teaspoons) 
+Quantifiers: 1 2 teaspoons 
+Ingredients: lemon 
+
+3 large eggs 
+Quantifiers: 3 
+Ingredients: eggs 
+
+2/3 cup sugar 
+Quantifiers: 2/3 cup 
+Ingredients: sugar 
+
+1/4 teaspoon sea salt 
+Quantifiers: 1/4 teaspoon sea 
+Ingredients: salt 
+
+6 tablespoons butter 
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+One 9-inch tart shell, homemade or store-bought, baked
+Quantifiers: One shell 
+Ingredients: tart 
+
+Dollop whipped creme fraiche
+Quantifiers: Dollop 
+Ingredients: 
+
+Dollop whipped cream
+Quantifiers: Dollop 
+Ingredients: cream 
+

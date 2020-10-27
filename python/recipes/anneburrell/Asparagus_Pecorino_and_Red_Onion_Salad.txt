@@ -1,0 +1,24 @@
+1 bunch pencil asparagus, tough bottom stems removed
+Quantifiers: 1 pencil bottom 
+Ingredients: asparagus 
+
+1 small red onion, finely diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 cup coarsely grated aged pecorino
+Quantifiers: 1 cup 
+Ingredients: 
+
+1/2 cup red wine vinegar
+Quantifiers: 1/2 cup 
+Ingredients: red_wine_vinegar 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

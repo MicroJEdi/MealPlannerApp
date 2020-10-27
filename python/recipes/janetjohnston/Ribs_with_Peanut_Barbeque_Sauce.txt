@@ -1,0 +1,64 @@
+Brine:
+Quantifiers: 
+Ingredients: 
+
+1 cup rice vinegar
+Quantifiers: 1 cup 
+Ingredients: rice vinegar 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+2 quarts water
+Quantifiers: 2 quarts 
+Ingredients: water 
+
+1/4 cup Kosher salt
+Quantifiers: 1/4 cup 
+Ingredients: Kosher salt 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+2 tablespoons Chinese five spice
+Quantifiers: 2 tablespoons five 
+Ingredients: spice 
+
+2 (3-pound) racks pork ribs, St. Louis style
+Quantifiers: 2 ribs style 
+Ingredients: racks pork 
+
+Peanut BBQ Sauce:
+Quantifiers: 
+Ingredients: Peanut Sauce 
+
+2 tablespoons creamy peanut butter
+Quantifiers: 2 tablespoons 
+Ingredients: peanut_butter 
+
+3 tablespoons soy sauce
+Quantifiers: 3 tablespoons 
+Ingredients: soy_sauce 
+
+1 tablespoons honey
+Quantifiers: 1 tablespoons 
+Ingredients: honey 
+
+1/4 cup ketchup
+Quantifiers: 1/4 cup 
+Ingredients: ketchup 
+
+1 tablespoon Chinese five spice
+Quantifiers: 1 tablespoon five 
+Ingredients: spice 
+
+1 teaspoon crushed red pepper
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+2 tablespoons rice vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: rice vinegar 
+

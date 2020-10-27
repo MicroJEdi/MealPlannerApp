@@ -1,0 +1,104 @@
+1 whole bone-in, skin-on chicken breast
+Quantifiers: 1 breast 
+Ingredients: chicken 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+2 cups tomato puree
+Quantifiers: 2 cups 
+Ingredients: tomato puree 
+
+1 1/2 tablespoons mild chili powder
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: chili_powder 
+
+2 teaspoons Hungarian paprika
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+1/4 teaspoon Mexican oregano
+Quantifiers: 1/4 teaspoon 
+Ingredients: oregano 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Vegetables:
+Quantifiers: 
+Ingredients: Vegetables 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 red bell pepper, thinly sliced
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+1/2 orange bell pepper, thinly sliced
+Quantifiers: 1/2 
+Ingredients: orange bell_pepper 
+
+1/2 green bell pepper, thinly sliced
+Quantifiers: 1/2 
+Ingredients: green bell_pepper 
+
+1/2 red onion, sliced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Assembly:
+Quantifiers: Assembly 
+Ingredients: 
+
+1 (16-ounce) pizza ball, store-bought or homemade
+Quantifiers: 1 ball 
+Ingredients: pizza 
+
+1/2 cup shredded mozzarella cheese
+Quantifiers: 1/2 cup 
+Ingredients: mozzarella cheese 
+
+1/2 cup shredded Cheddar
+Quantifiers: 1/2 cup 
+Ingredients: Cheddar 
+
+Special Equipment: pizza stone
+Quantifiers: Equipment stone 
+Ingredients: Special pizza 
+

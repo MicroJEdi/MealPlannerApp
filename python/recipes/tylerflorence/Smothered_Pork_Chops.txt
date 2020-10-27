@@ -1,0 +1,44 @@
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+2 tablespoons onion powder
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 teaspoon cayenne
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+4 pork chops, 3/4-inch thick, bone-in
+Quantifiers: 4 
+Ingredients: pork chops 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1/2 cup buttermilk
+Quantifiers: 1/2 cup 
+Ingredients: buttermilk 
+
+Chopped fresh flat-leaf parsley, for garnish
+Quantifiers: 
+Ingredients: parsley 
+

@@ -1,0 +1,24 @@
+1 garlic clove, sliced in 1/2
+Quantifiers: 1 in 1/2 
+Ingredients: garlic_clove 
+
+1 teaspoon Dijon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 tablespoon balsamic vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: vinegar 
+
+Small splash soy sauce
+Quantifiers: splash 
+Ingredients: soy_sauce 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+

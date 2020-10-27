@@ -1,0 +1,64 @@
+1 habanero, seeded and chopped
+Quantifiers: 1 
+Ingredients: 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1/4 cup brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+2 teaspoons fennel seed
+Quantifiers: 2 teaspoons 
+Ingredients: fennel_seed 
+
+2 teaspoons cayenne pepper
+Quantifiers: 2 teaspoons 
+Ingredients: cayenne_pepper 
+
+2 teaspoons allspice
+Quantifiers: 2 teaspoons 
+Ingredients: allspice 
+
+2 teaspoons dried thyme
+Quantifiers: 2 teaspoons 
+Ingredients: thyme 
+
+1 teaspoon ground ginger
+Quantifiers: 1 teaspoon ground 
+Ingredients: ginger 
+
+4 garlic cloves, chopped
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+4 green onions, chopped
+Quantifiers: 4 
+Ingredients: green_onions 
+
+1/4 cup apple cider vinegar
+Quantifiers: 1/4 cup 
+Ingredients: apple cider_vinegar 
+
+1/4 cup lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+1/4 cup orange juice
+Quantifiers: 1/4 cup 
+Ingredients: orange_juice 
+
+7 pounds chicken wings
+Quantifiers: 7 pounds chicken_wings 
+Ingredients: 
+

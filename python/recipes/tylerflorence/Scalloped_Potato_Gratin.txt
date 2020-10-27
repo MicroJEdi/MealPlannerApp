@@ -1,0 +1,36 @@
+1 1/2 cups heavy cream
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+3 bay leaves
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+2 sprigs fresh thyme, plus more to finish
+Quantifiers: 2 finish 
+Ingredients: thyme 
+
+2 garlic cloves, chopped
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1/2 teaspoon freshly grated nutmeg
+Quantifiers: 1/2 teaspoon 
+Ingredients: nutmeg 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Unsalted butter
+Quantifiers: 
+Ingredients: butter 
+
+2 pounds russet potatoes, peeled and cut into 1/8-inch-thick slices
+Quantifiers: 2 pounds slices 
+Ingredients: potatoes cut 
+
+1/2 cup grated Parmesan, plus more for broiling
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+

@@ -1,0 +1,60 @@
+1 pound spaghetti
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 tablespoon extra-virgin olive oil, 1 turn of the pan
+Quantifiers: 1 tablespoon 1 turn pan 
+Ingredients: olive_oil 
+
+3 slices smoky bacon, chopped
+Quantifiers: 3 slices 
+Ingredients: bacon 
+
+1 pound ground sirloin
+Quantifiers: 1 pound ground 
+Ingredients: sirloin 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+3 to 4 cloves garlic, chopped
+Quantifiers: 3 4 
+Ingredients: cloves garlic 
+
+Ground black pepper
+Quantifiers: Ground 
+Ingredients: black_pepper 
+
+2 teaspoons hot sauce, eyeball it
+Quantifiers: 2 teaspoons 
+Ingredients: hot_sauce 
+
+1 tablespoon Worcestershire sauce, eyeball it
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1/2 cup beer
+Quantifiers: 1/2 cup 
+Ingredients: beer 
+
+1 (14-ounce) can, chopped or crushed fire roasted tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1 (8-ounces) can, tomato sauce
+Quantifiers: 1 can 
+Ingredients: tomato_sauce 
+
+8 ounces sharp Cheddar
+Quantifiers: 8 ounces sharp 
+Ingredients: Cheddar 
+
+4 scallions, chopped
+Quantifiers: 4 
+Ingredients: scallions 
+

@@ -1,0 +1,44 @@
+1 (5 to 6 pound) roasting chicken
+Quantifiers: 1 5 6 pound 
+Ingredients: chicken 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 large bunch fresh thyme, plus 20 sprigs
+Quantifiers: 1 20 
+Ingredients: thyme 
+
+1 lemon, halved
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 head garlic, cut in half crosswise
+Quantifiers: 1 head in half 
+Ingredients: garlic cut 
+
+2 tablespoons (1/4 stick) butter, melted
+Quantifiers: 2 tablespoons 1/4 stick 
+Ingredients: butter 
+
+1 large yellow onion, thickly sliced
+Quantifiers: 1 
+Ingredients: onion 
+
+4 carrots cut into 2-inch chunks
+Quantifiers: 4 chunks 
+Ingredients: carrots cut 
+
+1 bulb of fennel, tops removed, and cut into wedges
+Quantifiers: 1 bulb 
+Ingredients: fennel cut wedges 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+

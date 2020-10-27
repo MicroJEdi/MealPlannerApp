@@ -1,0 +1,96 @@
+2 1/2 cups all-purpose flour
+Quantifiers: 2 1/2 cups 
+Ingredients: flour 
+
+2 cups cake flour 
+Quantifiers: 2 cups 
+Ingredients: cake flour 
+
+3 cups sugar 
+Quantifiers: 3 cups 
+Ingredients: sugar 
+
+1 1/2 teaspoons kosher salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 tablespoon ground cinnamon 
+Quantifiers: 1 tablespoon ground 
+Ingredients: cinnamon 
+
+Pinch of ground nutmeg
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+Tiny pinch of ground cloves
+Quantifiers: pinch ground 
+Ingredients: cloves 
+
+Tiny pinch of ground cardamom
+Quantifiers: pinch ground 
+Ingredients: cardamom 
+
+1 1/2 teaspoons baking soda
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: soda 
+
+2 cups vegetable or olive oil
+Quantifiers: 2 cups 
+Ingredients: vegetable olive_oil 
+
+4 extra-large eggs plus 2 egg yolks 
+Quantifiers: 4 2 
+Ingredients: eggs egg_yolks 
+
+1/2 cup buttermilk
+Quantifiers: 1/2 cup 
+Ingredients: buttermilk 
+
+2 teaspoons pure vanilla extract 
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+One 12-ounce can crushed pineapple, drained 
+Quantifiers: One can 
+Ingredients: pineapple 
+
+2 1/2 cups mashed-up overripe bananas 
+Quantifiers: 2 1/2 cups 
+Ingredients: bananas 
+
+1 1/2 cups toasted chopped pecans 
+Quantifiers: 1 1/2 cups 
+Ingredients: pecans 
+
+Cream Cheese Frosting, recipe follows
+Quantifiers: 
+Ingredients: Cream_Cheese 
+
+Sliced maraschino cherries, for garnish, optional
+Quantifiers: 
+Ingredients: maraschino_cherries 
+
+Pineapple rings, optional
+Quantifiers: rings 
+Ingredients: Pineapple 
+
+Cream Cheese Frosting:
+Quantifiers: 
+Ingredients: Cream_Cheese 
+
+4 cups powdered sugar
+Quantifiers: 4 cups 
+Ingredients: powdered_sugar 
+
+One 8-ounce package cream cheese, at room temperature 
+Quantifiers: One package at room_temperature 
+Ingredients: cream_cheese 
+
+2 sticks (1 cup) butter, softened 
+Quantifiers: 2 sticks 1 cup 
+Ingredients: butter 
+
+1 tablespoon pure vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+

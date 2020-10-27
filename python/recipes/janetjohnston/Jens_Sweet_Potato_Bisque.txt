@@ -1,0 +1,76 @@
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/2 small onion, diced
+Quantifiers: 1/2 
+Ingredients: onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Salt and freshly ground black pepper, for seasoning, plus 1 1/2 teaspoons salt
+Quantifiers: ground 1 1/2 teaspoons 
+Ingredients: Salt black_pepper seasoning salt 
+
+1 cup frozen corn, thawed
+Quantifiers: 1 cup 
+Ingredients: corn 
+
+1 1/2 pounds sweet potatoes, peeled and diced
+Quantifiers: 1 1/2 pounds 
+Ingredients: sweet potatoes 
+
+2 cups chicken broth
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+2 cups apple juice
+Quantifiers: 2 cups 
+Ingredients: apple_juice 
+
+2 teaspoons poultry seasoning (recommended: Savory Spice Shop s Sage and Savory Stuffing Seasoning)
+Quantifiers: 2 teaspoons s 
+Ingredients: poultry seasoning Savory Spice Sage Savory Stuffing Seasoning 
+
+1/2 teaspoon finely ground white pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: white_pepper 
+
+1/8 teaspoon ground allspice
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: allspice 
+
+1/8 teaspoon cayenne pepper
+Quantifiers: 1/8 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+Sage and Savory Croutons, for serving, recipe follows
+Quantifiers: serving 
+Ingredients: Sage Savory Croutons 
+
+Sage and Savory Croutons:
+Quantifiers: 
+Ingredients: Sage Savory Croutons 
+
+1 cup cubed French bread
+Quantifiers: 1 cup 
+Ingredients: French_bread 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon poultry seasoning (recommended: Savory Spice Shop s Sage and Savory Stuffing Seasoning)
+Quantifiers: 1 teaspoon s 
+Ingredients: poultry seasoning Savory Spice Sage Savory Stuffing Seasoning 
+

@@ -1,0 +1,32 @@
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 large leeks, white and pale green parts only, well rinsed to remove sand grit, chopped
+Quantifiers: 2 well 
+Ingredients: leeks white green 
+
+2 russet potatoes, peeled and cut into small chunks
+Quantifiers: 2 chunks 
+Ingredients: potatoes cut 
+
+1 quart low-sodium chicken stock
+Quantifiers: 1 quart 
+Ingredients: chicken_stock 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Chopped fresh chives, for garnish
+Quantifiers: 
+Ingredients: chives 
+
+Special Equipment: an immersion blender, or blender
+Quantifiers: Equipment blender blender 
+Ingredients: Special 
+

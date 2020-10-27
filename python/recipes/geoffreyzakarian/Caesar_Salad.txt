@@ -1,0 +1,76 @@
+Croutons:
+Quantifiers: 
+Ingredients: Croutons 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+2 cups loosely torn country bread (about 3/4-inch pieces)
+Quantifiers: 2 cups pieces 
+Ingredients: bread 
+
+Kosher salt and fresh cracked pepper
+Quantifiers: 
+Ingredients: Kosher salt pepper 
+
+1/4 cup finely grated Parmigiano-Reggiano
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+2 tablespoons finely minced fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Dressing:
+Quantifiers: 
+Ingredients: Dressing 
+
+1/2 cup finely grated Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+2 tablespoons roasted garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 tablespoons sherry vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: sherry vinegar 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+6 white anchovies
+Quantifiers: 6 
+Ingredients: white anchovies 
+
+1 egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1 1/4 cups canola oil
+Quantifiers: 1 1/4 cups 
+Ingredients: canola_oil 
+
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+30 large leaves from the hearts of romaine lettuce, left whole
+Quantifiers: 30 leaves lettuce 
+Ingredients: hearts romaine_lettuce 
+
+Kosher salt and fresh cracked pepper
+Quantifiers: 
+Ingredients: Kosher salt pepper 
+
+Small block Pecorino Romano cheese
+Quantifiers: block 
+Ingredients: cheese 
+
+18 white anchovies, optional
+Quantifiers: 18 
+Ingredients: white anchovies 
+

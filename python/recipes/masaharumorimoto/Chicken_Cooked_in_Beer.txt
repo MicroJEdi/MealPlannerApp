@@ -1,0 +1,48 @@
+1 package chicken legs
+Quantifiers: 1 package chicken_legs 
+Ingredients: 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Pepper
+Quantifiers: 
+Ingredients: Pepper 
+
+Garlic powder, to taste
+Quantifiers: taste 
+Ingredients: Garlic 
+
+2 tablespoons sesame oil
+Quantifiers: 2 tablespoons 
+Ingredients: sesame_oil 
+
+1 cup beer
+Quantifiers: 1 cup 
+Ingredients: beer 
+
+4 tablespoons teriyaki sauce
+Quantifiers: 4 tablespoons 
+Ingredients: teriyaki sauce 
+
+3 colored bell peppers, diced
+Quantifiers: 3 
+Ingredients: bell_peppers 
+
+4 tablespoons beef broth
+Quantifiers: 4 tablespoons 
+Ingredients: beef_broth 
+
+3 onions, chopped
+Quantifiers: 3 
+Ingredients: onions 
+
+Cornstarch, mixed with a little water, as a thickening agent
+Quantifiers: a little as a 
+Ingredients: water 
+

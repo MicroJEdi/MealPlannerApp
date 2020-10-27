@@ -1,0 +1,28 @@
+36 pepperoncini
+Quantifiers: 
+Ingredients: 
+
+1 pound cream cheese, room temperature
+Quantifiers: 1 pound room_temperature 
+Ingredients: cream_cheese 
+
+8 ounces crab claw meat, shredded
+Quantifiers: 8 ounces claw 
+Ingredients: crab meat 
+
+1 1/2 tablespoons Cajun seasoning
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: seasoning 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+1 teaspoon dried thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+Chopped fresh parsley leaves
+Quantifiers: leaves 
+Ingredients: parsley 
+

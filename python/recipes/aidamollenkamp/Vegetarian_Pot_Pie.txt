@@ -1,0 +1,60 @@
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+2 small heads fennel, finely chopped (about 3 cups)
+Quantifiers: 2 heads 3 cups 
+Ingredients: fennel 
+
+1/2 medium yellow onion, finely chopped
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+2 medium carrots, peeled and finely chopped (about 2/3 cup)
+Quantifiers: 2 medium 2/3 cup 
+Ingredients: carrots 
+
+12 ounces white button mushrooms, sliced (about 5 cups)
+Quantifiers: 12 ounces button 5 cups 
+Ingredients: white mushrooms 
+
+1 small russet potato, peeled and diced small (about 2 1/2 cups)
+Quantifiers: 1 2 1/2 cups 
+Ingredients: potato 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+1 cup low-sodium mushroom broth
+Quantifiers: 1 cup 
+Ingredients: mushroom broth 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+1 cup frozen baby green peas
+Quantifiers: 1 cup 
+Ingredients: green_peas 
+
+1/4 cup thinly sliced fresh chives
+Quantifiers: 1/4 cup 
+Ingredients: chives 
+
+1/4 cup parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1 tablespoon white vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar 
+
+1 large egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+7 ounces store-bought puff pastry or pie dough, defrosted if frozen
+Quantifiers: 7 ounces 
+Ingredients: puff pastry pie dough 
+

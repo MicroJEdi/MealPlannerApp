@@ -1,0 +1,64 @@
+2 red peppers, cored and cut into 1-inch wide strips
+Quantifiers: 2 
+Ingredients: red_peppers cut 
+
+2 zucchini, quartered lengthwise and cut into 1-inch cubes
+Quantifiers: 2 cubes 
+Ingredients: zucchini cut 
+
+2 summer squash, quartered lengthwise and cut into 1-inch cubes
+Quantifiers: 2 cubes 
+Ingredients: summer_squash cut 
+
+4 cremini mushrooms, halved
+Quantifiers: 4 
+Ingredients: mushrooms 
+
+1 yellow onion, peeled and sliced into 1-inch strips
+Quantifiers: 1 
+Ingredients: onion 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 teaspoon salt, divided
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon freshly ground black pepper, divided
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 tablespoon dried Italian herb mix or herbs de Provence
+Quantifiers: 1 tablespoon 
+Ingredients: herb mix herbs 
+
+1 pound penne pasta
+Quantifiers: 1 pound 
+Ingredients: penne pasta 
+
+3 cups marinara sauce (store bought or homemade)
+Quantifiers: 3 cups 
+Ingredients: marinara sauce 
+
+1 cup grated fontina cheese
+Quantifiers: 1 cup 
+Ingredients: cheese 
+
+1/2 cup grated smoked mozzarella
+Quantifiers: 1/2 cup 
+Ingredients: mozzarella 
+
+1 1/2 cups frozen peas, thawed
+Quantifiers: 1 1/2 cups 
+Ingredients: peas 
+
+1/4 cup grated Parmesan, plus 1/3 cup for topping
+Quantifiers: 1/4 cup 1/3 cup 
+Ingredients: Parmesan 
+
+2 tablespoons butter, cut into small pieces
+Quantifiers: 2 tablespoons pieces 
+Ingredients: butter cut 
+

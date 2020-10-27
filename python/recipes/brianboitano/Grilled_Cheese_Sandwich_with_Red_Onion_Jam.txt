@@ -1,0 +1,36 @@
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 large red onion, sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+3 tablespoons brown sugar
+Quantifiers: 3 tablespoons 
+Ingredients: brown_sugar 
+
+1/4 cup red wine vinegar
+Quantifiers: 1/4 cup 
+Ingredients: red_wine_vinegar 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+1/2 pound Taleggio, cut into 8 slices
+Quantifiers: 1/2 pound 8 slices 
+Ingredients: cut 
+
+1/4 pound Gorgonzola, cut into 4 slices
+Quantifiers: 1/4 pound 4 slices 
+Ingredients: Gorgonzola cut 
+
+4 tablespoons butter, softened
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1 loaf crusty rustic Italian bread, sliced
+Quantifiers: 1 
+Ingredients: loaf Italian_bread 
+

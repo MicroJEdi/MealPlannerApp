@@ -1,0 +1,48 @@
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+2 tablespoons chopped sweet pickles
+Quantifiers: 2 tablespoons 
+Ingredients: sweet_pickles 
+
+2 tablespoons chopped red onion
+Quantifiers: 2 tablespoons 
+Ingredients: red_onion 
+
+1 1/2 teaspoons freshly squeezed lemon juice
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: lemon_juice 
+
+1/4 teaspoon garlic powder
+Quantifiers: 1/4 teaspoon 
+Ingredients: garlic 
+
+4 (7-ounce) tilapia fillets
+Quantifiers: 4 
+Ingredients: fillets 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon freshly cracked black pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: black_pepper 
+
+1 to 2 loaves French bread
+Quantifiers: 1 2 
+Ingredients: loaves French_bread 
+
+2 medium beefsteak tomatoes, cut into 8 slices
+Quantifiers: 2 medium 8 slices 
+Ingredients: beefsteak tomatoes cut 
+
+4 leaves romaine lettuce
+Quantifiers: 4 leaves lettuce 
+Ingredients: romaine_lettuce 
+

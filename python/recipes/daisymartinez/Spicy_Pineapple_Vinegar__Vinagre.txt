@@ -1,0 +1,32 @@
+2 ripe pineapples
+Quantifiers: 2 
+Ingredients: pineapples 
+
+1/2 large Spanish onion, thinly sliced
+Quantifiers: 1/2 
+Ingredients: Spanish_onion 
+
+1 tablespoon smashed fresh oregano leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: oregano 
+
+1 teaspoon black peppercorns
+Quantifiers: 1 teaspoon black 
+Ingredients: peppercorns 
+
+20 garlic cloves, crushed
+Quantifiers: 20 
+Ingredients: garlic_cloves 
+
+6 habanero peppers or chile peppers of choice, stems removed, peppers coarsely chopped
+Quantifiers: 6 
+Ingredients: peppers chile peppers peppers 
+
+1 tablespoon cider vinegar, or as needed
+Quantifiers: 1 tablespoon as 
+Ingredients: cider_vinegar 
+
+1/2 teaspoon salt, or as needed
+Quantifiers: 1/2 teaspoon as 
+Ingredients: salt 
+

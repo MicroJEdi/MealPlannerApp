@@ -1,0 +1,44 @@
+2 sticks plus 2 tablespoons unsalted butter, plus more for the pan
+Quantifiers: 2 sticks 2 tablespoons pan 
+Ingredients: butter 
+
+1 cup all-purpose flour, plus more for dusting
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+6 ounces bittersweet chocolate, chopped
+Quantifiers: 6 ounces 
+Ingredients: bittersweet_chocolate 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+3/4 cup unsweetened cocoa powder
+Quantifiers: 3/4 cup 
+Ingredients: cocoa_powder 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+4 large eggs, cold
+Quantifiers: 4 cold 
+Ingredients: eggs 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+1 cup mini marshmallows
+Quantifiers: 1 cup 
+Ingredients: marshmallows 
+
+1 cup semisweet chocolate chips
+Quantifiers: 1 cup 
+Ingredients: chocolate chips 
+
+3/4 cup unsalted roasted peanuts
+Quantifiers: 3/4 cup 
+Ingredients: peanuts 
+

@@ -1,0 +1,100 @@
+Mango Mustard: 
+Quantifiers: 
+Ingredients: Mango Mustard 
+
+1/2 cup Dijon mustard
+Quantifiers: 1/2 cup 
+Ingredients: mustard 
+
+1/4 cup small diced mango
+Quantifiers: 1/4 cup 
+Ingredients: mango 
+
+1/4 cup mango pulp
+Quantifiers: 1/4 cup pulp 
+Ingredients: mango 
+
+1/4 teaspoon dried mint
+Quantifiers: 1/4 teaspoon mint 
+Ingredients: 
+
+Chicken Dogs:
+Quantifiers: 
+Ingredients: Chicken Dogs 
+
+2 pounds ground chicken
+Quantifiers: 2 pounds ground 
+Ingredients: chicken 
+
+1/2 cup chopped fresh cilantro
+Quantifiers: 1/2 cup 
+Ingredients: cilantro 
+
+1/2 cup chopped fresh mint, plus whole leaves for garnish
+Quantifiers: 1/2 cup mint leaves 
+Ingredients: 
+
+1/4 cup cream cheese, room temperature
+Quantifiers: 1/4 cup room_temperature 
+Ingredients: cream_cheese 
+
+1/4 cup tandoori masala
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+1 tablespoon grated garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 tablespoon grated ginger plus 1/4 cup chopped
+Quantifiers: 1 tablespoon 1/4 cup 
+Ingredients: ginger 
+
+1 teaspoon kastoori methi (dried fenugreek)
+Quantifiers: 1 teaspoon 
+Ingredients: fenugreek 
+
+2 jalapenos, seeded, grated
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+2 red onions, finely chopped
+Quantifiers: 2 
+Ingredients: red_onions 
+
+2 eggs, well beaten
+Quantifiers: 2 well 
+Ingredients: eggs 
+
+4 tablespoons vegetable oil
+Quantifiers: 4 tablespoons 
+Ingredients: vegetable_oil 
+
+1 Granny Smith apple, cut into matchsticks
+Quantifiers: 1 matchsticks 
+Ingredients: Granny_Smith apple cut 
+
+2 jalapenos, thinly sliced
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+2 to 3 cups apple cider vinegar
+Quantifiers: 2 3 cups 
+Ingredients: apple cider_vinegar 
+
+Unsalted butter, for cooking buns
+Quantifiers: 
+Ingredients: butter buns 
+
+8 brioche hot dog buns
+Quantifiers: 8 
+Ingredients: brioche hot_dog buns 
+
+Mayonnaise
+Quantifiers: 
+Ingredients: Mayonnaise 
+
+Arugula
+Quantifiers: 
+Ingredients: 
+

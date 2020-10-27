@@ -1,0 +1,56 @@
+1/2 teaspoon fine salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+Cookie Butter Layer:
+Quantifiers: 
+Ingredients: Cookie Butter 
+
+1 1/2 cups sweetened condensed milk
+Quantifiers: 1 1/2 cups 
+Ingredients: condensed_milk 
+
+1/2 cup light brown sugar (not packed)
+Quantifiers: 1/2 cup light 
+Ingredients: brown_sugar 
+
+3 tablespoons cookie butter, such as Biscoff or Speculoos
+Quantifiers: 3 tablespoons as 
+Ingredients: cookie butter 
+
+1 teaspoon fine salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+Chocolate Layer:
+Quantifiers: 
+Ingredients: Chocolate 
+
+4 ounces dark chocolate, chopped
+Quantifiers: 4 ounces 
+Ingredients: dark_chocolate 
+
+2 teaspoons vegetable oil
+Quantifiers: 2 teaspoons 
+Ingredients: vegetable_oil 
+
+Flaky salt, such as fleur de sel
+Quantifiers: as 
+Ingredients: salt 
+
+Shortbread Layer:
+Quantifiers: 
+Ingredients: Shortbread 
+
+12 tablespoons unsalted butter, cut into 1/2-inch cubes, plus extra melted for coating the pan
+Quantifiers: 12 tablespoons cubes pan 
+Ingredients: butter cut 
+
+2 cups all-purpose flour, plus extra for coating the pan
+Quantifiers: 2 cups pan 
+Ingredients: flour 
+
+1/3 cup granulated sugar
+Quantifiers: 1/3 cup 
+Ingredients: granulated_sugar 
+

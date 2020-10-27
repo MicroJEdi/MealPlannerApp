@@ -1,0 +1,24 @@
+1 cup good quality dark chocolate (recommended: Guittard)
+Quantifiers: 1 cup 
+Ingredients: dark_chocolate 
+
+1/2 cup (1 stick) room temperature salted butter
+Quantifiers: 1/2 cup 1 stick room_temperature 
+Ingredients: butter 
+
+2 tablespoons heavy cream
+Quantifiers: 2 tablespoons 
+Ingredients: heavy_cream 
+
+1 teaspoon vanilla (recommended: Nielsen Massey)
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla 
+
+1 tablespoon coffee-flavored liqueur (recommended: Kahlua)
+Quantifiers: 1 tablespoon 
+Ingredients: liqueur Kahlua 
+
+1 pound sifted confectioners' sugar
+Quantifiers: 1 pound 
+Ingredients: sugar 
+

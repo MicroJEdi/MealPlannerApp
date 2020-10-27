@@ -1,0 +1,72 @@
+2 cups elbow pasta, cooked until almost al dente
+Quantifiers: 2 cups 
+Ingredients: pasta 
+
+8 ounces Cheddar, 1/2 cubed, 1/2 shredded
+Quantifiers: 8 ounces 1/2 1/2 
+Ingredients: Cheddar 
+
+8 ounces Colby cheese, cubed
+Quantifiers: 8 ounces 
+Ingredients: cheese 
+
+8 ounces Monterey pepper jack cheese, cubed
+Quantifiers: 8 ounces jack 
+Ingredients: pepper cheese 
+
+2 teaspoons all-purpose flour
+Quantifiers: 2 teaspoons 
+Ingredients: flour 
+
+1/2 teaspoons salt
+Quantifiers: 1/2 teaspoons 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon dry mustard
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard 
+
+1/8 teaspoon freshly ground nutmeg
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: nutmeg 
+
+4 tablespoons sour cream
+Quantifiers: 4 tablespoons 
+Ingredients: sour_cream 
+
+1 large egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 cup half-and-half
+Quantifiers: 1 cup 
+Ingredients: half-and-half 
+
+1/4 cup finely grated onions
+Quantifiers: 1/4 cup 
+Ingredients: onions 
+
+4 slices bread
+Quantifiers: 4 slices 
+Ingredients: bread 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+Special equipment: 2-quart baking dish
+Quantifiers: equipment dish 
+Ingredients: Special 
+

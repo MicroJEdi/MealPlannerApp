@@ -1,0 +1,16 @@
+9 large egg whites, room temperature
+Quantifiers: 9 room_temperature 
+Ingredients: egg_whites 
+
+1 1/2 cups sugar
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+1 1/2 pounds unsweetened butter (6 sticks), softened but still cool
+Quantifiers: 1 1/2 pounds 6 sticks still cool 
+Ingredients: butter 
+
+Optional flavoring: extracts, melted chocolate, liqueurs, fruit and fruit purees, broken cookies, chopped candy, nut pastes, instant coffee
+Quantifiers: 
+Ingredients: flavoring chocolate liqueurs fruit fruit purees cookies candy nut pastes instant_coffee 
+

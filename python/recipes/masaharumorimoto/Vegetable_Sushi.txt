@@ -1,0 +1,64 @@
+For the rice: 
+Quantifiers: 
+Ingredients: rice 
+
+3 cups short-grain Japanese rice, rinsed
+Quantifiers: 3 cups 
+Ingredients: rice 
+
+1/3 cup rice vinegar
+Quantifiers: 1/3 cup 
+Ingredients: rice vinegar 
+
+3 tablespoons sugar
+Quantifiers: 3 tablespoons 
+Ingredients: sugar 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+For the rolls:
+Quantifiers: rolls 
+Ingredients: 
+
+10 nori sheets (dried seaweed), halved
+Quantifiers: 10 sheets 
+Ingredients: 
+
+Sesame seeds, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: Sesame_seeds 
+
+1 cucumber
+Quantifiers: 1 
+Ingredients: cucumber 
+
+1 avocado
+Quantifiers: 1 
+Ingredients: avocado 
+
+1 plum tomato, seeded
+Quantifiers: 1 
+Ingredients: plum_tomato 
+
+1 small red onion
+Quantifiers: 1 
+Ingredients: red_onion 
+
+20 asparagus spears, trimmed and blanched
+Quantifiers: 20 spears 
+Ingredients: asparagus 
+
+Wasabi paste, for spreading and serving
+Quantifiers: serving 
+Ingredients: Wasabi paste 
+
+1 romaine lettuce heart
+Quantifiers: 1 lettuce 
+Ingredients: romaine_lettuce heart 
+
+Pickled ginger, for serving
+Quantifiers: serving 
+Ingredients: ginger 
+

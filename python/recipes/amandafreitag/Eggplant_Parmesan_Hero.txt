@@ -1,0 +1,36 @@
+Oil, for frying
+Quantifiers: 
+Ingredients: Oil 
+
+3 eggs, lightly beaten
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups panko breadcrumbs 
+Quantifiers: 2 cups breadcrumbs 
+Ingredients: 
+
+1/2 cup grated Parmesan 
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 large eggplant, sliced into 1/4-inch-thick rounds
+Quantifiers: 1 rounds 
+Ingredients: eggplant 
+
+4 hoagie rolls 
+Quantifiers: 4 rolls 
+Ingredients: hoagie 
+
+2 cups marinara sauce, warmed
+Quantifiers: 2 cups 
+Ingredients: marinara sauce 
+
+1 pound fresh mozzarella, sliced
+Quantifiers: 1 pound 
+Ingredients: mozzarella 
+

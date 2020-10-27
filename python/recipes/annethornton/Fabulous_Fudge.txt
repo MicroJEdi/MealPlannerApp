@@ -1,0 +1,24 @@
+2 cups semisweet chocolate chips
+Quantifiers: 2 cups 
+Ingredients: chocolate chips 
+
+1 cup milk chocolate chips
+Quantifiers: 1 cup 
+Ingredients: milk_chocolate chips 
+
+1 (14-ounce) can sweetened condensed milk
+Quantifiers: 1 can 
+Ingredients: condensed_milk 
+
+1/4 teaspoon fine sea salt
+Quantifiers: 1/4 teaspoon sea 
+Ingredients: salt 
+
+1 cup chopped nuts, optional, (recommended: toasted, salted walnuts)
+Quantifiers: 1 cup 
+Ingredients: nuts walnuts 
+
+1 1/2 teaspoons vanilla extract
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vanilla_extract 
+

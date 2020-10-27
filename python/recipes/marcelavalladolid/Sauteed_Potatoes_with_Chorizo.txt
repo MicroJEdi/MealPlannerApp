@@ -1,0 +1,20 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+10 ounces Mexican pork chorizo, casings removed (see Cook's Note)
+Quantifiers: 10 ounces Note 
+Ingredients: pork chorizo 
+
+1 small onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+1 pound red skinned new potatoes, cut into small (1/4-inch) dice, and boiled
+Quantifiers: 1 pound 
+Ingredients: potatoes cut 
+
+Kosher salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

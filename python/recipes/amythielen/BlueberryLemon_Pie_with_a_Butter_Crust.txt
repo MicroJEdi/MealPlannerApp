@@ -1,0 +1,52 @@
+Flaky Butter Pie Crust:
+Quantifiers: 
+Ingredients: Butter Pie_Crust 
+
+2 1/2 cups all-purpose flour, plus more for dusting
+Quantifiers: 2 1/2 cups 
+Ingredients: flour 
+
+3/4 teaspoon fine sea salt 
+Quantifiers: 3/4 teaspoon sea 
+Ingredients: salt 
+
+9 ounces (2 sticks plus 2 tablespoons) cold unsalted butter, cut into cubes 
+Quantifiers: 9 ounces 2 sticks 2 tablespoons cold cubes 
+Ingredients: butter cut 
+
+1 teaspoon apple cider vinegar
+Quantifiers: 1 teaspoon 
+Ingredients: apple cider_vinegar 
+
+Blueberry Filling:
+Quantifiers: 
+Ingredients: Blueberry Filling 
+
+6 cups blueberries
+Quantifiers: 6 cups 
+Ingredients: blueberries 
+
+3/4 cup sugar, plus more for dusting the pie
+Quantifiers: 3/4 cup 
+Ingredients: sugar pie 
+
+5 tablespoons cornstarch 
+Quantifiers: 5 tablespoons 
+Ingredients: 
+
+Grated zest and juice of 1 lemon 
+Quantifiers: 1 
+Ingredients: juice lemon 
+
+2 tablespoons cold unsalted butter, cut into thin pats 
+Quantifiers: 2 tablespoons cold 
+Ingredients: butter cut 
+
+Heavy cream, for brushing the pie
+Quantifiers: 
+Ingredients: Heavy_cream pie 
+
+Ice cream, for serving
+Quantifiers: serving 
+Ingredients: Ice_cream 
+

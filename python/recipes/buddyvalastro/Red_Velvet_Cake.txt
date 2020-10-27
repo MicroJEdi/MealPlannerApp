@@ -1,0 +1,44 @@
+3/4 stick butter, room temperature, plus more for pans
+Quantifiers: 3/4 stick room_temperature pans 
+Ingredients: butter 
+
+1 5/8 cups cake flour
+Quantifiers: 1 5/8 cups 
+Ingredients: cake flour 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 1/4 cups sugar
+Quantifiers: 1 1/4 cups 
+Ingredients: sugar 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+2 large eggs, room temperature
+Quantifiers: 2 room_temperature 
+Ingredients: eggs 
+
+1/4 cup unsweetened cocoa powder
+Quantifiers: 1/4 cup 
+Ingredients: cocoa_powder 
+
+3/4 cup buttermilk
+Quantifiers: 3/4 cup 
+Ingredients: buttermilk 
+
+3/4 teaspoon vinegar
+Quantifiers: 3/4 teaspoon 
+Ingredients: vinegar 
+
+3/4 teaspoon baking soda
+Quantifiers: 3/4 teaspoon 
+Ingredients: soda 
+
+1-ounce red food coloring
+Quantifiers: 
+Ingredients: food_coloring 
+

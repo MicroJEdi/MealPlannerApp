@@ -1,0 +1,32 @@
+1 stick butter
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+1/4 cup packed brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+Pinch ground cinnamon
+Quantifiers: Pinch ground 
+Ingredients: cinnamon 
+
+3 Granny Smith apples, peeled, cored and 1-inch diced
+Quantifiers: 3 
+Ingredients: Granny_Smith apples 
+
+1 (5-pound) center cut, bone-out pork loin, butterflied
+Quantifiers: 1 
+Ingredients: center cut pork_loin 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1/2 cup apple cider
+Quantifiers: 1/2 cup 
+Ingredients: apple cider 
+

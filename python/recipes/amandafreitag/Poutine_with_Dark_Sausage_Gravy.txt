@@ -1,0 +1,56 @@
+Dark Sausage Gravy:
+Quantifiers: Dark 
+Ingredients: Sausage Gravy 
+
+2 teaspoons vegetable or olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: vegetable olive_oil 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 pound fresh pork sausage, casings removed 
+Quantifiers: 1 pound 
+Ingredients: pork_sausage 
+
+1/2 onion, diced 
+Quantifiers: 1/2 
+Ingredients: onion 
+
+4 tablespoons butter 
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1/4 cup flour 
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+1/4 cup milk 
+Quantifiers: 1/4 cup 
+Ingredients: milk 
+
+2 cups beef stock 
+Quantifiers: 2 cups 
+Ingredients: beef_stock 
+
+Salt and pepper 
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Poutine:
+Quantifiers: 
+Ingredients: 
+
+1 pound frozen steak fries
+Quantifiers: 1 pound 
+Ingredients: steak fries 
+
+Vegetable oil, for deep-frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Cheese curds, for serving
+Quantifiers: serving 
+Ingredients: Cheese curds 
+

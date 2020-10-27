@@ -1,0 +1,40 @@
+12 to 24 ounces beer (in a can if using a beer-can turkey stand)
+Quantifiers: 12 24 ounces in a can a stand 
+Ingredients: beer turkey 
+
+2 teaspoons spicy mustard powder
+Quantifiers: 2 teaspoons 
+Ingredients: mustard 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon dried chopped onion
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon smoked Spanish paprika
+Quantifiers: 1 teaspoon 
+Ingredients: Spanish_paprika 
+
+1 teaspoon granulated garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon ground smoked cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 9-to-10-pound turkey (thawed if frozen)
+Quantifiers: 1 
+Ingredients: turkey 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+

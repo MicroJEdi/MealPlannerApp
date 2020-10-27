@@ -1,0 +1,56 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 large cloves garlic, lightly crushed with the side of a knife blade and minced
+Quantifiers: 2 a knife_blade 
+Ingredients: cloves garlic side 
+
+1 large red onion, diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 stalk celery, diced
+Quantifiers: 1 
+Ingredients: celery 
+
+1 green bell pepper, stem and seeds removed and small diced
+Quantifiers: 1 
+Ingredients: green bell_pepper seeds 
+
+2 (1-pound) cans red kidney beans
+Quantifiers: 2 cans 
+Ingredients: kidney_beans 
+
+1 teaspoon onion powder
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+2 1/2 cups chicken stock
+Quantifiers: 2 1/2 cups 
+Ingredients: chicken_stock 
+
+1 cup white rice
+Quantifiers: 1 cup 
+Ingredients: white_rice 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon minced fresh cilantro leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: cilantro 
+

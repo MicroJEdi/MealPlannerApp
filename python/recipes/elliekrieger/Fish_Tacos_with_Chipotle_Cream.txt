@@ -1,0 +1,60 @@
+Fish:
+Quantifiers: 
+Ingredients: Fish 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons freshly squeezed lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 pound white flaky fish fillet, like tilapia or halibut
+Quantifiers: 1 pound fish_fillet 
+Ingredients: white fillet halibut 
+
+Chipotle cream:
+Quantifiers: 
+Ingredients: Chipotle cream 
+
+1/2 cup plain nonfat yogurt
+Quantifiers: 1/2 cup 
+Ingredients: yogurt 
+
+2 tablespoons mayonnaise
+Quantifiers: 2 tablespoons 
+Ingredients: mayonnaise 
+
+2 teaspoons chipotle pepper, in adobo sauce
+Quantifiers: 2 teaspoons in 
+Ingredients: chipotle pepper adobo sauce 
+
+8 (6-inch) corn tortillas
+Quantifiers: 8 
+Ingredients: corn tortillas 
+
+1 1/2 cups shredded green cabbage or lettuce
+Quantifiers: 1 1/2 cups lettuce 
+Ingredients: green cabbage 
+
+1/2 cup corn kernels (thawed if frozen)
+Quantifiers: 1/2 cup 
+Ingredients: corn kernels 
+
+1/4 cup fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Lime wedges
+Quantifiers: 
+Ingredients: Lime wedges 
+

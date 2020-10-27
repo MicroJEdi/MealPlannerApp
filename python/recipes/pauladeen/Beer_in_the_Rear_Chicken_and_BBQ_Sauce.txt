@@ -1,0 +1,116 @@
+5-pound whole chicken, rinsed and patted dry
+Quantifiers: 
+Ingredients: chicken 
+
+2 to 3 tablespoons Dry Rub, recipe follows
+Quantifiers: 2 3 tablespoons 
+Ingredients: 
+
+1 (12-ounce) can light beer
+Quantifiers: 1 can 
+Ingredients: light_beer 
+
+Barbecue Sauce, recipe follows
+Quantifiers: 
+Ingredients: Barbecue_Sauce 
+
+Dry Rub:
+Quantifiers: 
+Ingredients: 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+2 teaspoons sweet paprika
+Quantifiers: 2 teaspoons 
+Ingredients: sweet paprika 
+
+2 teaspoons brown sugar
+Quantifiers: 2 teaspoons 
+Ingredients: brown_sugar 
+
+1 teaspoon celery salt
+Quantifiers: 1 teaspoon 
+Ingredients: celery_salt 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon dry mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+Cayenne pepper, pinch
+Quantifiers: pinch 
+Ingredients: Cayenne_pepper 
+
+Barbecue Sauce:
+Quantifiers: 
+Ingredients: Barbecue_Sauce 
+
+3/4 cup finely chopped onion
+Quantifiers: 3/4 cup 
+Ingredients: onion 
+
+2 teaspoons minced garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons brown sugar
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+1 teaspoon cayenne pepper
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 cup ketchup
+Quantifiers: 1/2 cup 
+Ingredients: ketchup 
+
+2 tablespoons prepared yellow mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1/2 cup apple cider vinegar
+Quantifiers: 1/2 cup 
+Ingredients: apple cider_vinegar 
+
+2 tablespoons lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1/4 cup water
+Quantifiers: 1/4 cup 
+Ingredients: water 
+
+Dash Worcestershire sauce
+Quantifiers: 
+Ingredients: Worcestershire_sauce 
+

@@ -1,0 +1,28 @@
+One 3-pound whole chicken, backbone removed
+Quantifiers: One backbone 
+Ingredients: chicken 
+
+Zest from 1 lime
+Quantifiers: 1 
+Ingredients: lime 
+
+3/4 cup vadouvan or Madras curry powder
+Quantifiers: 3/4 cup 
+Ingredients: curry_powder 
+
+1/4 cup fresh parsley leaves, chopped
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+2 tablespoons salt
+Quantifiers: 2 tablespoons 
+Ingredients: salt 
+
+1 tablespoon cracked black pepper
+Quantifiers: 1 tablespoon 
+Ingredients: black_pepper 
+
+Vegetable oil, for grilling
+Quantifiers: 
+Ingredients: Vegetable_oil 
+

@@ -1,0 +1,64 @@
+Crust:
+Quantifiers: 
+Ingredients: 
+
+2 cups finely ground graham crackers (about 30 squares)
+Quantifiers: 2 cups ground 30 squares 
+Ingredients: graham_crackers 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1 stick unsalted butter, melted
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+1 pound cream cheese, two 8-ounce blocks, softened
+Quantifiers: 1 pound two blocks 
+Ingredients: cream_cheese 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 pint sour cream
+Quantifiers: 1 pint 
+Ingredients: sour_cream 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 dash vanilla extract
+Quantifiers: 1 
+Ingredients: vanilla_extract 
+
+Warm Lemon Blueberry Topping, recipe follows
+Quantifiers: 
+Ingredients: Lemon Blueberry 
+
+Warm Lemon Blueberries:
+Quantifiers: 
+Ingredients: Lemon Blueberries 
+
+1 pint blueberries
+Quantifiers: 1 pint 
+Ingredients: blueberries 
+
+1 lemon, zested and juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+

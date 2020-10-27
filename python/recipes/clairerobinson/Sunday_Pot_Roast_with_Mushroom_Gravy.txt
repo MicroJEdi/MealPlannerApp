@@ -1,0 +1,24 @@
+1 (4 to 5-pound) boneless beef bottom round roast
+Quantifiers: 1 4 round 
+Ingredients: beef bottom_round roast 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 pound cremini mushrooms, cleaned and quartered
+Quantifiers: 1 pound 
+Ingredients: mushrooms 
+
+2 medium yellow onions, halved and sliced
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+4 cups low-sodium beef broth
+Quantifiers: 4 cups 
+Ingredients: beef_broth 
+

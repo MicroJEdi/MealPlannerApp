@@ -1,0 +1,32 @@
+2 tablespoons coconut oil or olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: coconut_oil olive_oil 
+
+2 tablespoons panch phoron (Bengali five-spice blend)
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+1 pound cranberries, thawed if frozen
+Quantifiers: 1 pound 
+Ingredients: cranberries 
+
+1 cup packed light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup distilled white vinegar
+Quantifiers: 1/2 cup 
+Ingredients: white vinegar 
+
+2 tablespoons grated peeled fresh ginger
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+
+1/2 teaspoon chili powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: chili_powder 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

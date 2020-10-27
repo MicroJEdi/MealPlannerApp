@@ -1,0 +1,24 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 pound dried spaghetti 
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+1/2 cup extra-virgin olive oil, plus more for finishing 
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 teaspoon crushed red pepper flakes 
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+4 cloves garlic, thinly sliced 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1/2 cup rough-chopped fresh parsley
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+

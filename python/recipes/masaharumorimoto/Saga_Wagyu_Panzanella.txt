@@ -1,0 +1,84 @@
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+1 ounce dried country bread, cut into 1-inch dice
+Quantifiers: 1 ounce 
+Ingredients: bread cut 
+
+5 cherry tomatoes sliced in half
+Quantifiers: 5 in half 
+Ingredients: cherry tomatoes 
+
+1 ounce black olives, sliced
+Quantifiers: 1 ounce 
+Ingredients: black_olives 
+
+1/2 cucumber, cut into 1-inch dice
+Quantifiers: 1/2 
+Ingredients: cucumber cut 
+
+1/2 red onion, shaved julienned
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Rice wine vinegar
+Quantifiers: 
+Ingredients: Rice wine_vinegar 
+
+Salt and pepper to taste
+Quantifiers: taste 
+Ingredients: Salt pepper 
+
+Preparation:
+Quantifiers: 
+Ingredients: 
+
+Poached Wagyu Slices:
+Quantifiers: Slices 
+Ingredients: 
+
+2 quarts kelp stock (water and dried kelp)
+Quantifiers: 2 quarts 
+Ingredients: stock water 
+
+4 slices of Saga Wagyu, sliced 3/4 inch
+Quantifiers: 4 slices 3/4 inch 
+Ingredients: 
+
+salt to taste
+Quantifiers: taste 
+Ingredients: salt 
+
+Preparation:
+Quantifiers: 
+Ingredients: 
+
+Basil Caviar:
+Quantifiers: 
+Ingredients: Basil Caviar 
+
+(Setting bath)
+Quantifiers: bath 
+Ingredients: 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+2 .5 grams calcium chloride
+Quantifiers: 2 5 grams 
+Ingredients: 
+
+35 grams basil leaves
+Quantifiers: grams leaves 
+Ingredients: basil 
+
+4 grams sodium alginate
+Quantifiers: 4 grams 
+Ingredients: 
+

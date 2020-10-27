@@ -1,0 +1,40 @@
+6 garlic cloves, pressed or grated
+Quantifiers: 6 
+Ingredients: garlic_cloves 
+
+2 lemons, zested and juiced
+Quantifiers: 2 
+Ingredients: lemons 
+
+5 tablespoons olive oil
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon red pepper flakes
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3/4 pound medium shrimp (21 to 25), peeled, deveined and butterflied (reserve shells)
+Quantifiers: 3/4 pound medium 21 25 reserve shells 
+Ingredients: shrimp 
+
+1/4 onion
+Quantifiers: 1/4 
+Ingredients: onion 
+
+3/4 pound thin linguini
+Quantifiers: 3/4 pound 
+Ingredients: linguini 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 small bunch parsley, leaves chopped
+Quantifiers: 1 leaves 
+Ingredients: parsley 
+

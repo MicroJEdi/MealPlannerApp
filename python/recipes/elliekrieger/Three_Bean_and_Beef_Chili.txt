@@ -1,0 +1,60 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 onion, diced (1 cup)
+Quantifiers: 1 1 cup 
+Ingredients: onion 
+
+1 red bell pepper, diced (1 cup)
+Quantifiers: 1 1 cup 
+Ingredients: bell_pepper 
+
+2 carrots, diced (1/2 cup)
+Quantifiers: 2 1/2 cup 
+Ingredients: carrots 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+1 pound extra-lean ground beef (90 percent lean)
+Quantifiers: 1 pound 90 
+Ingredients: ground_beef 
+
+One 28-ounce can crushed tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+1 chipotle chile in adobo sauce, seeded and minced
+Quantifiers: 1 in 
+Ingredients: chipotle chile adobo sauce 
+
+2 teaspoons adobo sauce from the can of chipotles
+Quantifiers: 2 teaspoons can 
+Ingredients: adobo sauce chipotles 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+One 15.5-ounce can black beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 15.5-ounce can kidney beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: kidney_beans 
+
+One 15.5-ounce can pinto beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: pinto_beans 
+

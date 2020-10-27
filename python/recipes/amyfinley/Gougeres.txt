@@ -1,0 +1,44 @@
+1/2 recipe Pate a Choux, recipe follows
+Quantifiers: 1/2 a 
+Ingredients: Pate Choux 
+
+1/2 cup grated Gruyere
+Quantifiers: 1/2 cup 
+Ingredients: Gruyere 
+
+Freshly cracked black pepper
+Quantifiers: 
+Ingredients: black_pepper 
+
+1 egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+Pate a Choux:
+Quantifiers: a 
+Ingredients: Pate Choux 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+3 teaspoons sugar
+Quantifiers: 3 teaspoons 
+Ingredients: sugar 
+
+6 tablespoons butter, cut in pieces
+Quantifiers: 6 tablespoons in pieces 
+Ingredients: butter cut 
+
+3/4 cup plus 2 tablespoons flour, sifted
+Quantifiers: 3/4 cup 2 tablespoons 
+Ingredients: flour 
+
+4 eggs, beaten
+Quantifiers: 4 
+Ingredients: eggs 
+

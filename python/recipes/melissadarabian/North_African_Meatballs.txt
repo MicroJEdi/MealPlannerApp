@@ -1,0 +1,128 @@
+For the North African Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 small onion, diced
+Quantifiers: 1/2 
+Ingredients: onion 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/2 cup pitted and chopped briny olives
+Quantifiers: 1/2 cup 
+Ingredients: olives 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/4 cup chicken stock or broth
+Quantifiers: 1/4 cup 
+Ingredients: chicken_stock broth 
+
+1 (14-ounce) can crushed or diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1 teaspoon light brown sugar
+Quantifiers: 1 teaspoon light 
+Ingredients: brown_sugar 
+
+1/2 teaspoon dried red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Pinch ground cinnamon
+Quantifiers: Pinch ground 
+Ingredients: cinnamon 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+For the Meatballs:
+Quantifiers: 
+Ingredients: Meatballs 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+3 tablespoons finely chopped fresh cilantro leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: cilantro 
+
+1 tablespoon minced fresh ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+Pinch ground cinnamon
+Quantifiers: Pinch ground 
+Ingredients: cinnamon 
+
+3/4 pound ground beef
+Quantifiers: 3/4 pound 
+Ingredients: ground_beef 
+
+1/3 cup finely ground rolled oats or fine bread crumbs
+Quantifiers: 1/3 cup ground crumbs 
+Ingredients: rolled_oats bread 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 to 4 tablespoons vegetable oil, for cooking
+Quantifiers: 3 4 tablespoons 
+Ingredients: vegetable_oil 
+
+4 tablespoons chopped fresh parsley leaves
+Quantifiers: 4 tablespoons leaves 
+Ingredients: parsley 
+
+Couscous with Dried Dates, recipe follows
+Quantifiers: Dates 
+Ingredients: Couscous 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+1 cup chicken stock or broth
+Quantifiers: 1 cup 
+Ingredients: chicken_stock broth 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/4 cup finely chopped dried dates
+Quantifiers: 1/4 cup dates 
+Ingredients: 
+
+1 cup quick-cooking couscous
+Quantifiers: 1 cup 
+Ingredients: couscous 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

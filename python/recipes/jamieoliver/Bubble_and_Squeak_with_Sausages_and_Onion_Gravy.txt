@@ -1,0 +1,60 @@
+1 1/2 pounds all-purpose potatoes, peeled and cut into chunks
+Quantifiers: 1 1/2 pounds chunks 
+Ingredients: potatoes cut 
+
+1 1/4 pounds mixed winter vegetables such as carrots, Brussels sprouts, rutabagas, turnips, onions, leeks or savoy cabbage, peeled or trimmed and chopped into equal-sized chunks
+Quantifiers: 1 1/4 pounds winter as chunks 
+Ingredients: vegetables carrots Brussels_sprouts rutabagas turnips onions leeks savoy_cabbage 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+2 knobs butter, divided
+Quantifiers: 2 
+Ingredients: butter 
+
+1 (7-ounce) package vacuum packed chestnuts
+Quantifiers: 1 package 
+Ingredients: chestnuts 
+
+6 good quality pork sausages, linked together
+Quantifiers: 6 
+Ingredients: pork_sausages 
+
+6 good quality venison or beef sausages, linked together
+Quantifiers: 6 
+Ingredients: venison beef sausages 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Small bunch fresh rosemary, leaves picked and finely chopped
+Quantifiers: leaves 
+Ingredients: rosemary 
+
+Nutmeg, for grating
+Quantifiers: grating 
+Ingredients: Nutmeg 
+
+3 red onions, peeled and finely sliced
+Quantifiers: 3 
+Ingredients: red_onions 
+
+Few bay leaves
+Quantifiers: leaves 
+Ingredients: bay_leaves 
+
+1 tablespoon all-purpose flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1/2 cup balsamic vinegar
+Quantifiers: 1/2 cup 
+Ingredients: vinegar 
+
+1 cup plus 1 tablespoon good-quality vegetable or chicken stock
+Quantifiers: 1 cup 1 tablespoon 
+Ingredients: vegetable chicken_stock 
+

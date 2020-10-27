@@ -1,0 +1,36 @@
+Butter, for pans
+Quantifiers: pans 
+Ingredients: Butter 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+2 teaspoons baking soda
+Quantifiers: 2 teaspoons 
+Ingredients: soda 
+
+2 teaspoons ground cinnamon
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 tablespoons canola or vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola vegetable_oil 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+4 to 6 carrots, grated
+Quantifiers: 4 6 
+Ingredients: carrots 
+

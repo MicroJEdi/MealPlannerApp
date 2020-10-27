@@ -1,0 +1,96 @@
+Brine:
+Quantifiers: 
+Ingredients: 
+
+1 cup kosher salt
+Quantifiers: 1 cup 
+Ingredients: kosher salt 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+10 juniper berries
+Quantifiers: 10 
+Ingredients: juniper_berries 
+
+2 (6-inch) sprigs rosemary
+Quantifiers: 2 
+Ingredients: rosemary 
+
+10 peppercorns
+Quantifiers: 10 
+Ingredients: peppercorns 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 (2-pound) rack of pork (pork loin roast with 4 rib bones), frenched (ribs scraped clean of meat and fat), skin-on and scored in a 1-inch diamond pattern
+Quantifiers: 1 4 rib bones ribs in a 
+Ingredients: rack pork_loin roast meat 
+
+Oil, for pan
+Quantifiers: pan 
+Ingredients: Oil 
+
+Compote:
+Quantifiers: 
+Ingredients: Compote 
+
+1 shallot, chopped
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 Granny Smith apple, peeled and diced
+Quantifiers: 1 
+Ingredients: Granny_Smith apple 
+
+1 Bosc pear, peeled and diced
+Quantifiers: 1 
+Ingredients: Bosc pear 
+
+1/2 cup dried cranberries
+Quantifiers: 1/2 cup 
+Ingredients: cranberries 
+
+1/2 cup orange juice
+Quantifiers: 1/2 cup 
+Ingredients: orange_juice 
+
+1/2 cup apple cider
+Quantifiers: 1/2 cup 
+Ingredients: apple cider 
+
+1 tablespoon brown sugar
+Quantifiers: 1 tablespoon 
+Ingredients: brown_sugar 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+2 teaspoons chopped fresh rosemary leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: rosemary 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+Pinch cayenne pepper, about 1/8 teaspoon
+Quantifiers: Pinch 1/8 teaspoon 
+Ingredients: cayenne_pepper 
+

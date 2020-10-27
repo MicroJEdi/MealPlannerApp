@@ -1,0 +1,60 @@
+Lentils (Dal):
+Quantifiers: Dal 
+Ingredients: Lentils 
+
+1 cup masoor dal red lentils, picked through for stones
+Quantifiers: 1 cup dal stones 
+Ingredients: lentils 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+1 onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+4 cloves garlic, thinly sliced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+One 1/2-inch piece ginger, peeled and minced
+Quantifiers: One piece 
+Ingredients: ginger 
+
+2 medium tomatoes, diced
+Quantifiers: 2 medium 
+Ingredients: tomatoes 
+
+1 serrano chile, sliced in 1/2, optional
+Quantifiers: 1 in 1/2 
+Ingredients: chile 
+
+Tempering Oil (Bagaar):
+Quantifiers: 
+Ingredients: Oil 
+
+1/2 teaspoon cumin seeds
+Quantifiers: 1/2 teaspoon 
+Ingredients: cumin_seeds 
+
+1/2 teaspoon black mustard seeds
+Quantifiers: 1/2 teaspoon black 
+Ingredients: mustard_seeds 
+
+Generous 1/2 teaspoon turmeric powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: turmeric 
+
+1/2 teaspoon paprika or bafaat powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+Handful chopped fresh cilantro leaves
+Quantifiers: Handful leaves 
+Ingredients: cilantro 
+

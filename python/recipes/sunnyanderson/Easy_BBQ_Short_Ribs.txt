@@ -1,0 +1,40 @@
+4 pounds boneless beef short ribs, cut into 3-inch long pieces
+Quantifiers: 4 pounds ribs pieces 
+Ingredients: beef short_ribs cut 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2/3 cup light brown sugar
+Quantifiers: 2/3 cup light 
+Ingredients: brown_sugar 
+
+1 teaspoon Hungarian paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1 tablespoon white vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar 
+
+1/2 teaspoon dried ground thyme
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: thyme 
+
+2/3 cup ketchup
+Quantifiers: 2/3 cup 
+Ingredients: ketchup 
+
+1 tablespoon yellow mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+

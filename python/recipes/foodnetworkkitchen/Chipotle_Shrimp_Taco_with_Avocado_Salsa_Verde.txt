@@ -1,0 +1,64 @@
+Avocado Salsa:
+Quantifiers: 
+Ingredients: Avocado Salsa 
+
+1 small onion, quartered
+Quantifiers: 1 
+Ingredients: onion 
+
+1 jalapeno, quartered, seeds optional
+Quantifiers: 1 
+Ingredients: jalapeno seeds 
+
+1 garlic clove, smashed
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+4 medium tomatillos, (about 8 ounces) husked, rinsed, and coarsely chopped
+Quantifiers: 4 medium 8 ounces 
+Ingredients: tomatillos 
+
+1/2 Hass avocado, peeled, seeded, and cut into chunks
+Quantifiers: 1/2 chunks 
+Ingredients: avocado cut 
+
+1 1/4 teaspoons kosher salt
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: kosher salt 
+
+1/4 cup loosely packed fresh cilantro leaves, coarsely chopped
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Shrimp:
+Quantifiers: 
+Ingredients: Shrimp 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 teaspoon chipotle or blended chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chipotle chili_powder 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 pound medium shrimp (about 20), peeled and deveined
+Quantifiers: 1 pound medium 20 
+Ingredients: shrimp 
+
+8 corn tortillas
+Quantifiers: 8 
+Ingredients: corn tortillas 
+
+8 sprigs cilantro for garnish
+Quantifiers: 8 
+Ingredients: cilantro 
+
+2 limes, cut into wedges
+Quantifiers: 2 
+Ingredients: limes cut wedges 
+

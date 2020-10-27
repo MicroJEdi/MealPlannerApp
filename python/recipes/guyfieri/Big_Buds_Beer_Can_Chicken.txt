@@ -1,0 +1,48 @@
+1 (2 to 3-pound) whole chicken
+Quantifiers: 1 2 
+Ingredients: chicken 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 teaspoon paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon ground ginger
+Quantifiers: 1 teaspoon ground 
+Ingredients: ginger 
+
+1 teaspoon dried sage
+Quantifiers: 1 teaspoon 
+Ingredients: sage 
+
+1 teaspoon sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+1 tablespoon freshly ground black pepper
+Quantifiers: 1 tablespoon ground 
+Ingredients: black_pepper 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 (12-ounce) can beer
+Quantifiers: 1 can 
+Ingredients: beer 
+
+1/2 pound bacon
+Quantifiers: 1/2 pound 
+Ingredients: bacon 
+

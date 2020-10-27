@@ -1,0 +1,48 @@
+1 crusty sourdough or country-style boule, about 7 inches in diameter
+Quantifiers: 1 7 inches in 
+Ingredients: sourdough 
+
+3 medium leeks, white and light green part halved lengthwise and thinly sliced
+Quantifiers: 3 medium light 
+Ingredients: leeks white green 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 cloves garlic, finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 pinch cayenne
+Quantifiers: 1 pinch 
+Ingredients: cayenne 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup whole milk
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk 
+
+8 ounces cream cheese, at room temperature
+Quantifiers: 8 ounces at room_temperature 
+Ingredients: cream_cheese 
+
+4 ounces goat cheese, at room temperature
+Quantifiers: 4 ounces at room_temperature 
+Ingredients: goat_cheese 
+
+1 tablespoon chopped fresh dill, plus a sprig for garnish
+Quantifiers: 1 tablespoon a 
+Ingredients: dill 
+
+1/2 lemon, zested and juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+Assorted raw vegetables for serving, such as carrot sticks, celery sticks, sliced bell peppers and sliced radishes
+Quantifiers: serving as sticks sticks 
+Ingredients: raw_vegetables carrot_sticks celery_sticks bell_peppers radishes 
+

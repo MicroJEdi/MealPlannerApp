@@ -1,0 +1,32 @@
+1 pound cooked spaghetti, cooled 
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1/2 cup grated pecorino
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1/2 cup grated Swiss
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons olive oil 
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+4 slices American cheese
+Quantifiers: 4 slices 
+Ingredients: American_cheese 
+

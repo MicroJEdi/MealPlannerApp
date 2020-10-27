@@ -1,0 +1,40 @@
+1/2 cup canola oil, plus more for oiling the grill grates
+Quantifiers: 1/2 cup 
+Ingredients: canola_oil 
+
+1/4 cup red wine vinegar 
+Quantifiers: 1/4 cup 
+Ingredients: red_wine_vinegar 
+
+1 teaspoon chopped garlic 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon Dijon mustard 
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 teaspoon chopped fresh oregano 
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon chopped fresh parsley 
+Quantifiers: 1 teaspoon 
+Ingredients: parsley 
+
+1 teaspoon chopped fresh rosemary 
+Quantifiers: 1 teaspoon 
+Ingredients: rosemary 
+
+Few dashes Worcestershire sauce
+Quantifiers: 
+Ingredients: Worcestershire_sauce 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 pounds flank steak
+Quantifiers: 2 pounds 
+Ingredients: flank_steak 
+

@@ -1,0 +1,76 @@
+Crystallized Lemon:
+Quantifiers: 
+Ingredients: Lemon 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+
+Sugar
+Quantifiers: 
+Ingredients: Sugar 
+
+Sweet Crust:
+Quantifiers: 
+Ingredients: Sweet 
+
+1 stick chilled, unsalted butter, cut into small cubes
+Quantifiers: 1 stick cubes 
+Ingredients: butter cut 
+
+1 1/2 cups all-purpose flour, plus more for dusting
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1/4 cup plus 2 tablespoons granulated sugar
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: granulated_sugar 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+Blueberry Compote:
+Quantifiers: 
+Ingredients: Blueberry Compote 
+
+2 cups fresh blueberries
+Quantifiers: 2 cups 
+Ingredients: blueberries 
+
+1/2 cup plus 2 tablespoons granulated sugar
+Quantifiers: 1/2 cup 2 tablespoons 
+Ingredients: granulated_sugar 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/2 fresh vanilla pod
+Quantifiers: 1/2 
+Ingredients: vanilla pod 
+
+Chantilly Cream:
+Quantifiers: 
+Ingredients: Cream 
+
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+2 tablespoons confectioners' sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+Seeds from 1 vanilla bean
+Quantifiers: 1 
+Ingredients: Seeds vanilla_bean 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+

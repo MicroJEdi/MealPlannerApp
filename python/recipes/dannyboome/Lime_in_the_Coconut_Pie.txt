@@ -1,0 +1,36 @@
+1 prepared frozen 9-inch pie crust
+Quantifiers: 1 
+Ingredients: pie_crust 
+
+1 tablespoon grated lime zest
+Quantifiers: 1 tablespoon 
+Ingredients: lime 
+
+4 large egg yolks
+Quantifiers: 4 
+Ingredients: egg_yolks 
+
+1 (14-ounce) can sweetened condensed milk
+Quantifiers: 1 can 
+Ingredients: condensed_milk 
+
+1/2 cup fresh lime juice (about 4 to 5 limes)
+Quantifiers: 1/2 cup 4 5 
+Ingredients: lime_juice limes 
+
+3 tablespoons coconut rum
+Quantifiers: 3 tablespoons 
+Ingredients: coconut rum 
+
+1/2 cup sweetened coconut flakes, divided
+Quantifiers: 1/2 cup 
+Ingredients: coconut 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+3 thin slices lime, for garnish
+Quantifiers: 3 slices 
+Ingredients: lime 
+

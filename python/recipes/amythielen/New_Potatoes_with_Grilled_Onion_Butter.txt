@@ -1,0 +1,36 @@
+1 1/2 pounds fresh small potatoes
+Quantifiers: 1 1/2 pounds 
+Ingredients: potatoes 
+
+Salt 
+Quantifiers: 
+Ingredients: Salt 
+
+4 cloves garlic 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+3 dried bay leaves 
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+12 ounces cipollini or spring onions, peeled and halved crosswise 
+Quantifiers: 12 ounces 
+Ingredients: spring_onions 
+
+Canola oil, for grilling onions
+Quantifiers: 
+Ingredients: Canola_oil onions 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 stick (4 ounces) butter 
+Quantifiers: 1 stick 4 ounces 
+Ingredients: butter 
+
+1 sprig fresh rosemary
+Quantifiers: 1 
+Ingredients: rosemary 
+

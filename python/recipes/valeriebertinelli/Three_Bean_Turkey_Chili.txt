@@ -1,0 +1,68 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 pounds ground turkey (not lean) 
+Quantifiers: 2 pounds ground 
+Ingredients: turkey 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 cloves garlic, chopped 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 stalks celery, chopped 
+Quantifiers: 2 
+Ingredients: celery 
+
+1 large onion, chopped 
+Quantifiers: 1 
+Ingredients: onion 
+
+3 tablespoons chile powder 
+Quantifiers: 3 tablespoons 
+Ingredients: chile 
+
+2 tablespoons tomato paste 
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+One 28-ounce can diced tomatoes 
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 15-ounce can pinto beans, rinsed and drained 
+Quantifiers: One can 
+Ingredients: pinto_beans 
+
+One 15-ounce can kidney beans, rinsed and drained 
+Quantifiers: One can 
+Ingredients: kidney_beans 
+
+One 15-ounce can black beans, rinsed and drained 
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 4-ounce can diced green chiles (mild, medium or hot, as desired) 
+Quantifiers: One can medium as 
+Ingredients: green chiles 
+
+2 cups chicken broth 
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+1 cup shredded pepper Jack or sharp Cheddar, for topping 
+Quantifiers: 1 cup Jack sharp 
+Ingredients: pepper Cheddar 
+
+1 cup sour cream, for topping 
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+1 cup sliced scallions, for topping
+Quantifiers: 1 cup 
+Ingredients: scallions 
+

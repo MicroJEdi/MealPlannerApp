@@ -1,0 +1,88 @@
+Eddie's Salad Dressing:
+Quantifiers: 
+Ingredients: Salad_Dressing 
+
+1 cup fresh parsley leaves, roughly chopped (about 1 small bunch)
+Quantifiers: 1 cup leaves 1 
+Ingredients: parsley 
+
+3/4 cup extra-virgin olive oil 
+Quantifiers: 3/4 cup 
+Ingredients: olive_oil 
+
+1/4 cup red wine vinegar 
+Quantifiers: 1/4 cup 
+Ingredients: red_wine_vinegar 
+
+1 teaspoon honey 
+Quantifiers: 1 teaspoon 
+Ingredients: honey 
+
+10 large leaves fresh basil
+Quantifiers: 10 leaves 
+Ingredients: basil 
+
+Few sprigs fresh oregano, leaves picked
+Quantifiers: leaves 
+Ingredients: oregano 
+
+Few sprigs fresh tarragon, leaves picked
+Quantifiers: leaves 
+Ingredients: tarragon 
+
+2 medium cloves garlic 
+Quantifiers: 2 medium 
+Ingredients: cloves garlic 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Mason Jar Salad:
+Quantifiers: Mason_Jar 
+Ingredients: Salad 
+
+8 ounces skinless roast chicken breast, cubed
+Quantifiers: 8 ounces breast 
+Ingredients: roast chicken 
+
+1/4 cup garbanzo beans 
+Quantifiers: 1/4 cup 
+Ingredients: garbanzo beans 
+
+1/4 cup thinly sliced red onion
+Quantifiers: 1/4 cup 
+Ingredients: red_onion 
+
+1/4 cup thinly sliced zucchini
+Quantifiers: 1/4 cup 
+Ingredients: zucchini 
+
+1/4 cup grated carrot
+Quantifiers: 1/4 cup 
+Ingredients: carrot 
+
+1/4 cup thinly sliced English cucumber
+Quantifiers: 1/4 cup 
+Ingredients: cucumber 
+
+1/4 cup thinly sliced red bell pepper
+Quantifiers: 1/4 cup 
+Ingredients: bell_pepper 
+
+1/4 cup pumpkin seeds
+Quantifiers: 1/4 cup 
+Ingredients: pumpkin_seeds 
+
+1/4 cup crumbled feta cheese
+Quantifiers: 1/4 cup 
+Ingredients: cheese 
+
+1/2 cup thinly cut red leaf lettuce
+Quantifiers: 1/2 cup lettuce 
+Ingredients: cut leaf_lettuce 
+
+1/2 cup thinly cut kale
+Quantifiers: 1/2 cup kale 
+Ingredients: cut 
+

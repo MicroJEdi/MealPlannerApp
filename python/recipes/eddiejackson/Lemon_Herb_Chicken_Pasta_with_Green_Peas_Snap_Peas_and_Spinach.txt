@@ -1,0 +1,48 @@
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 pound vegetable penne pasta 
+Quantifiers: 1 pound 
+Ingredients: vegetable penne pasta 
+
+4 boneless skinless chicken breasts 
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+5 tablespoons olive oil
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+
+3 cloves garlic, finely chopped 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 large shallot, finely chopped 
+Quantifiers: 1 
+Ingredients: shallot 
+
+1/2 cup freshly squeezed lemon juice 
+Quantifiers: 1/2 cup 
+Ingredients: lemon_juice 
+
+1 1/2 cups trimmed and sliced sugar snap peas 
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar snap_peas 
+
+One 10-ounce bag frozen peas 
+Quantifiers: One bag 
+Ingredients: peas 
+
+3 cups baby spinach 
+Quantifiers: 3 cups 
+Ingredients: spinach 
+
+3 tablespoons chopped fresh basil 
+Quantifiers: 3 tablespoons 
+Ingredients: basil 
+
+3 tablespoons chopped fresh flat-leaf parsley, plus additional leaves for serving
+Quantifiers: 3 tablespoons leaves serving 
+Ingredients: parsley 
+

@@ -1,0 +1,40 @@
+2 pounds small red-skinned potatoes, quartered
+Quantifiers: 2 pounds 
+Ingredients: potatoes 
+
+1 pound bacon, chopped
+Quantifiers: 1 pound 
+Ingredients: bacon 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+3 tablespoons whole-grain mustard
+Quantifiers: 3 tablespoons 
+Ingredients: mustard 
+
+6 scallions, finely chopped
+Quantifiers: 6 
+Ingredients: scallions 
+
+1 medium red onion, diced
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+

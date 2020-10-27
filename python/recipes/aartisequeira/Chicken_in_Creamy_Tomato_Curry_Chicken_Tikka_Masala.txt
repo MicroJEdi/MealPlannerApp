@@ -1,0 +1,104 @@
+Marinade:
+Quantifiers: 
+Ingredients: Marinade 
+
+1 cup plain yogurt, whisked until smooth
+Quantifiers: 1 cup 
+Ingredients: yogurt 
+
+3 tablespoons Ginger-Garlic Paste, recipe follows (or 1 tablespoon grated fresh ginger and 3 cloves garlic put through a garlic press or finely minced)
+Quantifiers: 3 tablespoons 1 tablespoon 3 a garlic_press 
+Ingredients: Paste ginger cloves 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 pound boneless, skinless chicken thighs, poked with a fork, and cut into large bite-sized chunks
+Quantifiers: 1 pound thighs a fork chunks 
+Ingredients: chicken cut 
+
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1/3 cup Ginger-Garlic Paste, recipe follows (or 6 cloves garlic and 2-inch thumb ginger minced)
+Quantifiers: 1/3 cup 6 
+Ingredients: Paste cloves garlic ginger 
+
+2 serrano peppers, minced (seeds removed if you don't want it spicy)
+Quantifiers: 2 
+Ingredients: peppers seeds 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 teaspoon garam masala
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+2 teaspoons paprika
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+
+8 Roma tomatoes, diced
+Quantifiers: 8 
+Ingredients: tomatoes 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 to 2 cups water
+Quantifiers: 1 2 cups 
+Ingredients: water 
+
+Oil, for grilling
+Quantifiers: 
+Ingredients: Oil 
+
+1 tablespoon dried fenugreek leaves (optional)
+Quantifiers: 1 tablespoon leaves 
+Ingredients: fenugreek 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+Minced fresh cilantro, for garnish
+Quantifiers: 
+Ingredients: cilantro 
+
+Cooked rice, naan, or crusty piece of bread, for serving
+Quantifiers: piece serving 
+Ingredients: rice naan bread 
+
+Ginger-Garlic Paste:
+Quantifiers: 
+Ingredients: Paste 
+
+1/2 cup cloves garlic, whole
+Quantifiers: 1/2 cup 
+Ingredients: cloves garlic 
+
+1/2 cup fresh ginger, peeled, cut into 1/2-inch slices
+Quantifiers: 1/2 cup slices 
+Ingredients: ginger cut 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+

@@ -1,0 +1,68 @@
+Meatballs: 
+Quantifiers: 
+Ingredients: Meatballs 
+
+5 large eggs
+Quantifiers: 5 
+Ingredients: eggs 
+
+1 1/2 cups grated Pecorino Romano
+Quantifiers: 1 1/2 cups 
+Ingredients: 
+
+1 cup fresh parsley leaves, chopped
+Quantifiers: 1 cup leaves 
+Ingredients: parsley 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Salt black_pepper 
+
+3 pounds ground chuck
+Quantifiers: 3 pounds ground 
+Ingredients: chuck 
+
+1 pound ground pork
+Quantifiers: 1 pound ground 
+Ingredients: pork 
+
+1 pound ground veal (if you don't like veal, just use more beef)
+Quantifiers: 1 pound ground 
+Ingredients: veal veal beef 
+
+1 cup panko breadcrumbs
+Quantifiers: 1 cup breadcrumbs 
+Ingredients: 
+
+Olive oil, for frying
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+8 slices provolone
+Quantifiers: 8 slices 
+Ingredients: 
+
+4 ciabatta buns, split
+Quantifiers: 4 split 
+Ingredients: buns 
+
+1 jar your favorite marinara sauce, warmed
+Quantifiers: 1 jar 
+Ingredients: marinara sauce 
+
+1 jar roasted red peppers, sliced into strips
+Quantifiers: 1 jar 
+Ingredients: red_peppers 
+
+1 cup Homemade Hot Giardiniera, roughly chopped (or store-bought)
+Quantifiers: 1 cup 
+Ingredients: 
+

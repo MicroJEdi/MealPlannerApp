@@ -1,0 +1,52 @@
+1/2 cup low-sodium soy sauce
+Quantifiers: 1/2 cup 
+Ingredients: soy_sauce 
+
+3 tablespoons sherry or cooking sherry
+Quantifiers: 3 tablespoons 
+Ingredients: sherry sherry 
+
+2 tablespoons cornstarch
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+2 tablespoons brown sugar
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+1 tablespoon peeled and minced fresh ginger 
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1 1/2 pounds flank steak, trimmed of fat and sliced very thin against the grain
+Quantifiers: 1 1/2 pounds 
+Ingredients: flank_steak grain 
+
+1 1/2 pounds flank steak, trimmed of fat and sliced very thin against the grain 
+Quantifiers: 1 1/2 pounds 
+Ingredients: flank_steak grain 
+
+3 tablespoons peanut or olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: peanut olive_oil 
+
+8 ounces fresh snow peas, trimmed
+Quantifiers: 8 ounces 
+Ingredients: snow_peas 
+
+5 whole scallions, cut into 1/2-inch pieces on the diagonal
+Quantifiers: 5 pieces 
+Ingredients: scallions cut 
+
+Crushed red pepper
+Quantifiers: 
+Ingredients: red_pepper 
+
+Salt, as needed (use sparingly!)
+Quantifiers: as 
+Ingredients: Salt 
+
+Jasmine or long-grain rice, cooked according to package directions
+Quantifiers: package 
+Ingredients: rice 
+

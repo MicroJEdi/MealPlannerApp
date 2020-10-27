@@ -1,0 +1,40 @@
+2 pounds elbow noodles
+Quantifiers: 2 pounds 
+Ingredients: noodles 
+
+12 hard boiled eggs, peeled and diced
+Quantifiers: 12 
+Ingredients: boiled_eggs 
+
+1/2 onion, finely diced
+Quantifiers: 1/2 
+Ingredients: onion 
+
+4 celery stalks, finely diced
+Quantifiers: 4 
+Ingredients: celery 
+
+1/4 cup pickle relish
+Quantifiers: 1/4 cup 
+Ingredients: pickle_relish 
+
+3 cups heavy mayonnaise
+Quantifiers: 3 cups 
+Ingredients: mayonnaise 
+
+2 tablespoons salt, or to taste
+Quantifiers: 2 tablespoons taste 
+Ingredients: salt 
+
+1 teaspoon coarsely cracked black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+Dash hot sauce
+Quantifiers: 
+Ingredients: hot_sauce 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+

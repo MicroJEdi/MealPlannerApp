@@ -1,0 +1,64 @@
+For the brine:
+Quantifiers: 
+Ingredients: 
+
+10 cloves garlic, peeled
+Quantifiers: 10 
+Ingredients: cloves garlic 
+
+2 cups white vinegar
+Quantifiers: 2 cups 
+Ingredients: white vinegar 
+
+6 teaspoons kosher salt
+Quantifiers: 6 teaspoons 
+Ingredients: kosher salt 
+
+Several sprigs of fresh dill
+Quantifiers: 
+Ingredients: dill 
+
+1 teaspoon celery seed
+Quantifiers: 1 teaspoon 
+Ingredients: celery_seed 
+
+1 teaspoon coriander seed
+Quantifiers: 1 teaspoon 
+Ingredients: coriander_seed 
+
+1 teaspoon mustard seed
+Quantifiers: 1 teaspoon 
+Ingredients: mustard_seed 
+
+1/2 teaspoon black peppercorns
+Quantifiers: 1/2 teaspoon black 
+Ingredients: peppercorns 
+
+1/2 teaspoon pink peppercorns (if you have 'em)
+Quantifiers: 1/2 teaspoon em 
+Ingredients: peppercorns 
+
+For the vegetables:
+Quantifiers: 
+Ingredients: vegetables 
+
+6 Kirby cucumbers, quartered lengthwise
+Quantifiers: 6 
+Ingredients: cucumbers 
+
+6 young spring carrots, peeled and cut in half lengthwise
+Quantifiers: 6 spring in half 
+Ingredients: carrots cut 
+
+1 handful large scallion pieces or green beans
+Quantifiers: 1 handful pieces 
+Ingredients: scallion green_beans 
+
+A few pieces of cauliflower to tuck wherever they'll fit
+Quantifiers: A pieces 
+Ingredients: cauliflower tuck 
+
+4 small hot red chiles or 2 jalapenos
+Quantifiers: 4 2 
+Ingredients: chiles jalapenos 
+

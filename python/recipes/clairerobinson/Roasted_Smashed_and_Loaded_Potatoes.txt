@@ -1,0 +1,24 @@
+1 pound small red bliss potatoes
+Quantifiers: 1 pound 
+Ingredients: potatoes 
+
+6 tablespoons garlic-infused olive oil, divided
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup finely grated Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1/4 cup sliced scallions
+Quantifiers: 1/4 cup 
+Ingredients: scallions 
+

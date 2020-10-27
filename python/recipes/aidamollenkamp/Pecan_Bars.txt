@@ -1,0 +1,64 @@
+For the crust:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup pecans, toasted and roughly chopped
+Quantifiers: 1/2 cup 
+Ingredients: pecans 
+
+6 tablespoons cold unsalted butter (3/4 stick), cut into small chunks
+Quantifiers: 6 tablespoons cold 3/4 stick chunks 
+Ingredients: butter cut 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1/4 cup packed light brown sugar
+Quantifiers: 1/4 cup light 
+Ingredients: brown_sugar 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+For the filling:
+Quantifiers: 
+Ingredients: filling 
+
+3/4 cup packed light brown sugar
+Quantifiers: 3/4 cup light 
+Ingredients: brown_sugar 
+
+1/4 cup light molasses
+Quantifiers: 1/4 cup light 
+Ingredients: molasses 
+
+1/3 cup light corn syrup
+Quantifiers: 1/3 cup light 
+Ingredients: corn_syrup 
+
+4 tablespoons unsalted butter (1/2 stick), melted
+Quantifiers: 4 tablespoons 1/2 stick 
+Ingredients: butter 
+
+1 tablespoon dark rum, optional
+Quantifiers: 1 tablespoon dark 
+Ingredients: rum 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+2 large eggs, beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup toasted and roughly chopped pecans
+Quantifiers: 1 cup 
+Ingredients: pecans 
+

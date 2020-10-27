@@ -1,0 +1,36 @@
+1 cup espresso
+Quantifiers: 1 cup 
+Ingredients: espresso 
+
+1 packed cup dark brown sugar
+Quantifiers: 1 cup dark 
+Ingredients: brown_sugar 
+
+3 cinnamon sticks
+Quantifiers: 3 sticks 
+Ingredients: cinnamon 
+
+1 teaspoon ground cayenne pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: cayenne_pepper 
+
+3 sticks (12 ounces) unsalted butter, cubed
+Quantifiers: 3 sticks 12 ounces 
+Ingredients: butter 
+
+12 ounces semisweet chocolate
+Quantifiers: 12 ounces 
+Ingredients: chocolate 
+
+4 ounces unsweetened chocolate
+Quantifiers: 4 ounces 
+Ingredients: chocolate 
+
+8 large eggs, beaten
+Quantifiers: 8 
+Ingredients: eggs 
+
+Cinnamon ice cream and raspberries, for serving
+Quantifiers: serving 
+Ingredients: Cinnamon ice_cream raspberries 
+

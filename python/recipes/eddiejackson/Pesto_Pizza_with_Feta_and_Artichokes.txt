@@ -1,0 +1,76 @@
+Dough:
+Quantifiers: 
+Ingredients: Dough 
+
+2 teaspoons sugar
+Quantifiers: 2 teaspoons 
+Ingredients: sugar 
+
+1 packet (2 1/4 teaspoons) active dry yeast 
+Quantifiers: 1 packet 2 1/4 teaspoons 
+Ingredients: yeast 
+
+3 tablespoons extra-virgin olive oil, plus more for drizzling
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+4 cups all-purpose flour, plus more as needed 
+Quantifiers: 4 cups as 
+Ingredients: flour 
+
+1 1/2 teaspoons kosher salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+Topping:
+Quantifiers: 
+Ingredients: 
+
+3 cups loosely packed fresh basil leaves
+Quantifiers: 3 cups leaves 
+Ingredients: basil 
+
+1/4 cup pine nuts 
+Quantifiers: 1/4 cup 
+Ingredients: pine_nuts 
+
+2 cloves garlic, crushed and peeled 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+6 cups loosely packed baby arugula 
+Quantifiers: 6 cups 
+Ingredients: 
+
+5 tablespoons extra-virgin olive oil, plus more for brushing 
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+
+1/2 cup grated Parmesan 
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 ounces bacon or pancetta, chopped 
+Quantifiers: 4 ounces 
+Ingredients: bacon 
+
+1 1/2 cups shredded low-moisture mozzarella 
+Quantifiers: 1 1/2 cups 
+Ingredients: mozzarella 
+
+1 cup crumbled feta 
+Quantifiers: 1 cup 
+Ingredients: 
+
+1 cup sliced marinated artichoke hearts 
+Quantifiers: 1 cup 
+Ingredients: artichoke_hearts 
+
+1/4 cup pickled jalapeno slices plus 1 tablespoon brine from the jar
+Quantifiers: 1/4 cup slices 1 tablespoon jar 
+Ingredients: jalapeno 
+

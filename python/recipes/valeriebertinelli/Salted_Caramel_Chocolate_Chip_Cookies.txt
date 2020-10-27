@@ -1,0 +1,48 @@
+3 cups all-purpose flour
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+1 teaspoon baking powder 
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1/2 teaspoon baking soda 
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/4 teaspoon fine salt 
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1 cup light brown sugar 
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup granulated sugar 
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+2 sticks butter, softened 
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 1/2 teaspoons vanilla extract 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vanilla_extract 
+
+3/4 cups semi-sweet chocolate chips 
+Quantifiers: 3/4 cups 
+Ingredients: semi-sweet_chocolate chips 
+
+1 cup caramel bits or caramel candies, chopped 
+Quantifiers: 1 cup bits 
+Ingredients: caramel caramel candies 
+
+1 1/2 teaspoons flaky sea salt
+Quantifiers: 1 1/2 teaspoons sea 
+Ingredients: salt 
+

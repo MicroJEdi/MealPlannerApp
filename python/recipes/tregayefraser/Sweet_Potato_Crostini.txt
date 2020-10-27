@@ -1,0 +1,36 @@
+1 tablespoon light brown sugar
+Quantifiers: 1 tablespoon light 
+Ingredients: brown_sugar 
+
+1 teaspoon kosher salt 
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon ground allspice 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: allspice 
+
+2 pounds small sweet potatoes (about 5), peeled and sliced into 1/4-inch rounds 
+Quantifiers: 2 pounds 5 rounds 
+Ingredients: sweet potatoes 
+
+Nonstick olive oil spray, for the sweet potatoes
+Quantifiers: spray 
+Ingredients: olive_oil sweet potatoes 
+
+6 ounces spreadable cheese, such as The Laughing Cow Spreadable Cheese Wedges Creamy Swiss Original
+Quantifiers: 6 ounces as 
+Ingredients: cheese Cheese Wedges 
+
+3/4 cup toasted chopped pecans 
+Quantifiers: 3/4 cup 
+Ingredients: pecans 
+
+Honey, for drizzling
+Quantifiers: 
+Ingredients: Honey 
+

@@ -1,0 +1,128 @@
+Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+Four 8-ounce boneless, skinless chicken breast halves
+Quantifiers: Four breast halves 
+Ingredients: chicken 
+
+1/2 cup extra-virgin olive oil, plus more for searing
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+2 tablespoons finely minced fresh flat-leaf parsley 
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+2 tablespoons minced shallots (about 1 small) 
+Quantifiers: 2 tablespoons 1 
+Ingredients: shallots 
+
+1 clove garlic, finely minced 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Pan Sauce:
+Quantifiers: Pan 
+Ingredients: Sauce 
+
+1 cup cherry tomatoes, halved
+Quantifiers: 1 cup 
+Ingredients: cherry tomatoes 
+
+2 teaspoons finely sliced fresh basil, optional
+Quantifiers: 2 teaspoons 
+Ingredients: basil 
+
+1 small clove garlic, minced 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Extra-virgin olive oil, if needed
+Quantifiers: 
+Ingredients: olive_oil 
+
+1/2 cup pitted kalamata olives, coarsely chopped 
+Quantifiers: 1/2 cup 
+Ingredients: olives 
+
+1 1/2 teaspoons minced shallots (about 1/2 small) 
+Quantifiers: 1 1/2 teaspoons 1/2 
+Ingredients: shallots 
+
+1/4 cup sherry vinegar 
+Quantifiers: 1/4 cup 
+Ingredients: sherry vinegar 
+
+1/2 cup chicken broth (store-bought or homemade) 
+Quantifiers: 1/2 cup 
+Ingredients: chicken_broth 
+
+1 tablespoon Dijon mustard 
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+Chopped fresh herbs, such as parsley, basil and chives, for garnish, optional 
+Quantifiers: as 
+Ingredients: herbs parsley basil chives 
+
+Chopped fresh herbs, such as parsley, basil and chives, for garnish, optional
+Quantifiers: as 
+Ingredients: herbs parsley basil chives 
+
+Winter Greens Salad, recipe follows, for serving, optional
+Quantifiers: Winter serving 
+Ingredients: Greens Salad 
+
+Winter Greens Salad:
+Quantifiers: Winter 
+Ingredients: Greens Salad 
+
+1 cup wild arugula leaves
+Quantifiers: 1 cup leaves 
+Ingredients: 
+
+1 cup torn frisee leaves 
+Quantifiers: 1 cup leaves 
+Ingredients: 
+
+1 cup thinly sliced radicchio (about 1/4 head) 
+Quantifiers: 1 cup 1/4 head 
+Ingredients: radicchio 
+
+1 1/2 teaspoons balsamic vinegar 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vinegar 
+
+2 tablespoons extra-virgin olive oil 
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 cup finely grated Pecorino Romano 
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

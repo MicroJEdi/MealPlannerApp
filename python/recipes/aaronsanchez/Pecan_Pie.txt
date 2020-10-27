@@ -1,0 +1,64 @@
+1 Best Pie Crust Ever, recipe follows
+Quantifiers: 1 
+Ingredients: Pie_Crust 
+
+3/4 stick unsalted butter
+Quantifiers: 3/4 stick 
+Ingredients: butter 
+
+1 1/4 cups light brown sugar, packed
+Quantifiers: 1 1/4 cups light 
+Ingredients: brown_sugar 
+
+2 teaspoons pure vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+1/2 teaspoon grated orange zest
+Quantifiers: 1/2 teaspoon 
+Ingredients: orange 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+3/4 cup agave nectar
+Quantifiers: 3/4 cup 
+Ingredients: nectar 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups pecan halves (1/2 pound)
+Quantifiers: 2 cups halves 1/2 pound 
+Ingredients: pecan 
+
+Best Pie Crust Ever:
+Quantifiers: 
+Ingredients: Pie_Crust 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+6 tablespoons unsalted butter, chilled, cut into small pieces
+Quantifiers: 6 tablespoons pieces 
+Ingredients: butter cut 
+
+3 tablespoons solid vegetable shortening, chilled, cut into small pieces
+Quantifiers: 3 tablespoons pieces 
+Ingredients: vegetable shortening cut 
+
+4 tablespoons (or more) ice water
+Quantifiers: 4 tablespoons 
+Ingredients: ice_water 
+

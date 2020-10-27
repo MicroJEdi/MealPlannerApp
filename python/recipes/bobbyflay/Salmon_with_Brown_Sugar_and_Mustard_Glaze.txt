@@ -1,0 +1,40 @@
+3 tablespoons light brown sugar
+Quantifiers: 3 tablespoons light 
+Ingredients: brown_sugar 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/4 cup Dijon mustard
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 tablespoon finely grated ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+8 salmon fillets, 6 ounces each
+Quantifiers: 8 6 ounces 
+Ingredients: salmon fillets 
+

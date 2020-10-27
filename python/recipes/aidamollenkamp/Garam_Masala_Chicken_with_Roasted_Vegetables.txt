@@ -1,0 +1,44 @@
+1/2 cup peanut oil
+Quantifiers: 1/2 cup 
+Ingredients: peanut_oil 
+
+4 teaspoons garam masala
+Quantifiers: 4 teaspoons 
+Ingredients: 
+
+1 (2-inch) piece ginger, sliced
+Quantifiers: 1 piece 
+Ingredients: ginger 
+
+8 medium garlic cloves, smashed
+Quantifiers: 8 medium 
+Ingredients: garlic_cloves 
+
+2 tablespoons kosher salt
+Quantifiers: 2 tablespoons 
+Ingredients: kosher salt 
+
+1 (4 to 5 pound) whole chicken
+Quantifiers: 1 4 5 pound 
+Ingredients: chicken 
+
+1 1/2 pounds red potatoes, halved
+Quantifiers: 1 1/2 pounds 
+Ingredients: potatoes 
+
+1 pound butternut squash, large dice
+Quantifiers: 1 pound 
+Ingredients: butternut_squash 
+
+1 medium red onion, large dice
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1/2 cup plain whole milk yogurt
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk yogurt 
+

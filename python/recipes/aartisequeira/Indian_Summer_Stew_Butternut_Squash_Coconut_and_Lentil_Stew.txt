@@ -1,0 +1,64 @@
+1 cup yellow split pigeon peas (toor dal)
+Quantifiers: 1 cup split dal 
+Ingredients: pigeon_peas 
+
+1 pound butternut squash, peeled, cut into 1/2-inch cubes (about 2 1/2 cups)
+Quantifiers: 1 pound cubes 2 1/2 cups 
+Ingredients: butternut_squash cut 
+
+1 Roma tomato, diced
+Quantifiers: 1 
+Ingredients: tomato 
+
+1/2 cup fresh, frozen, or dried shredded coconut
+Quantifiers: 1/2 cup 
+Ingredients: coconut 
+
+1/2 teaspoon turmeric
+Quantifiers: 1/2 teaspoon 
+Ingredients: turmeric 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+4 cups vegetable stock or water, or enough to cover
+Quantifiers: 4 cups enough cover 
+Ingredients: vegetable stock water 
+
+Tempering:
+Quantifiers: 
+Ingredients: 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1 teaspoon brown or black mustard seeds
+Quantifiers: 1 teaspoon black 
+Ingredients: mustard_seeds 
+
+1/2 teaspoon crushed red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1/2 cup minced fresh cilantro leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+

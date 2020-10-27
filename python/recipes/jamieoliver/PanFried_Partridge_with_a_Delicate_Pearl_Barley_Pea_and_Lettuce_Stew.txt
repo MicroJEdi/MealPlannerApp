@@ -1,0 +1,52 @@
+4 ounces pearl barley
+Quantifiers: 4 ounces 
+Ingredients: pearl_barley 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1 red onion, peeled and finely chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+8 ounces frozen peas
+Quantifiers: 8 ounces 
+Ingredients: peas 
+
+2 cups good chicken or vegetable stock
+Quantifiers: 2 cups 
+Ingredients: chicken vegetable stock 
+
+1 heaping tablespoon all-purpose flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 partridges, washed and patted dry, broken into legs and breasts
+Quantifiers: 2 legs breasts 
+Ingredients: partridges 
+
+4 ounces thick bacon or pancetta, rind removed, cut into pieces
+Quantifiers: 4 ounces pieces 
+Ingredients: bacon cut 
+
+A few sprigs fresh thyme, leaves picked and chopped
+Quantifiers: A leaves 
+Ingredients: thyme 
+
+A handful romaine lettuce leaves, washed and spun dry
+Quantifiers: A handful lettuce leaves 
+Ingredients: romaine_lettuce 
+
+A handful arugula, washed and spun dry
+Quantifiers: A handful 
+Ingredients: 
+

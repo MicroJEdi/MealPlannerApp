@@ -1,0 +1,48 @@
+2 tablespoons garlic oil
+Quantifiers: 2 tablespoons 
+Ingredients: garlic oil 
+
+Ingredients and Directions
+Quantifiers: 
+Ingredients: Ingredients 
+
+1 cup bacon lardons
+Quantifiers: 1 cup 
+Ingredients: bacon 
+
+1 leek, finely sliced
+Quantifiers: 1 
+Ingredients: leek 
+
+12 skinless chicken thighs or 2 3/4 pounds thigh fillets
+Quantifiers: 12 thighs 2 3/4 pounds thigh 
+Ingredients: chicken fillets 
+
+3 bay leaves
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+10 ounces oyster mushrooms torn into strips (4 cups)
+Quantifiers: 10 ounces 4 cups 
+Ingredients: oyster mushrooms 
+
+1 bottle Riesling
+Quantifiers: 1 bottle 
+Ingredients: Riesling 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 to 2 tablespoons freshly chopped dill leaves
+Quantifiers: 1 2 tablespoons leaves 
+Ingredients: dill 
+
+Buttered noodles, optional
+Quantifiers: 
+Ingredients: noodles 
+

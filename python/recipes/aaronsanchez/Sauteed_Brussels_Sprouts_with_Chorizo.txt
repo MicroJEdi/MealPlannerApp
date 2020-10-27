@@ -1,0 +1,28 @@
+1 pound Brussels sprouts
+Quantifiers: 1 pound 
+Ingredients: Brussels_sprouts 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 links Spanish hard chorizo, diced into 1/4-inch pieces
+Quantifiers: 2 links pieces 
+Ingredients: chorizo 
+
+1 white onion, finely diced
+Quantifiers: 1 
+Ingredients: white onion 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 cup chicken stock
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+

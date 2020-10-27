@@ -1,0 +1,16 @@
+2 1/2 cups heavy cream
+Quantifiers: 2 1/2 cups 
+Ingredients: heavy_cream 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+1 teaspoon coarse sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

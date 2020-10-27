@@ -1,0 +1,32 @@
+1 liter canola oil
+Quantifiers: 1 liter 
+Ingredients: canola_oil 
+
+3 cups all-purpose flour
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups milk
+Quantifiers: 2 cups 
+Ingredients: milk 
+
+1/2 cup powdered sugar, for sprinkling
+Quantifiers: 1/2 cup sprinkling 
+Ingredients: powdered_sugar 
+

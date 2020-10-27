@@ -1,0 +1,80 @@
+For the lamb:
+Quantifiers: 
+Ingredients: lamb 
+
+3 tablespoons olive oil, divided
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1/4 teaspoon ground tumeric 
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/8 teaspoon cayenne pepper
+Quantifiers: 1/8 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon ground cardamom 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cardamom 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+2 1/2 pounds boneless lamb shoulder or boneless leg of lamb, 1 1/2-inch cubes
+Quantifiers: 2 1/2 pounds leg 1 cubes 
+Ingredients: lamb shoulder lamb 
+
+For the stew:
+Quantifiers: 
+Ingredients: stew 
+
+1 onion, cut into 1-inch cubes
+Quantifiers: 1 cubes 
+Ingredients: onion cut 
+
+3 carrots, roughly diced
+Quantifiers: 3 
+Ingredients: carrots 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 tablespoon ginger, minced
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+1 (14.5-ounce) can chickpeas, drained
+Quantifiers: 1 can 
+Ingredients: chickpeas 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+2 cups chicken stock
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+1 cup dried apricots
+Quantifiers: 1 cup 
+Ingredients: dried_apricots 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 tablespoons freshly chopped cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+

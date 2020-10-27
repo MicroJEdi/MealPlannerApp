@@ -1,0 +1,144 @@
+Tomatillo Sauce: 
+Quantifiers: 
+Ingredients: Tomatillo Sauce 
+
+10 tomatillos
+Quantifiers: 10 
+Ingredients: tomatillos 
+
+4 cloves garlic, peeled
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 Anaheim chile peppers
+Quantifiers: 2 
+Ingredients: chile peppers 
+
+2 jalapeno peppers
+Quantifiers: 2 
+Ingredients: jalapeno_peppers 
+
+1 yellow onion, peeled and quartered
+Quantifiers: 1 
+Ingredients: onion 
+
+2 tablespoons olive oil, plus more if needed
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 bunch fresh cilantro
+Quantifiers: 1 
+Ingredients: cilantro 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Pork:
+Quantifiers: 
+Ingredients: Pork 
+
+1 teaspoon cayenne
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne 
+
+1 teaspoon ground coriander
+Quantifiers: 1 teaspoon ground 
+Ingredients: coriander 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon dry mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon dried thyme
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 pounds pork butt
+Quantifiers: 2 pounds butt 
+Ingredients: pork 
+
+2 pounds pork belly
+Quantifiers: 2 pounds 
+Ingredients: pork_belly 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+4 cloves garlic, peeled
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 Anaheim chile peppers, chopped
+Quantifiers: 2 
+Ingredients: chile peppers 
+
+2 jalapeno peppers, chopped
+Quantifiers: 2 
+Ingredients: jalapeno_peppers 
+
+1 yellow onion, peeled and quartered
+Quantifiers: 1 
+Ingredients: onion 
+
+1 Mexican beer (preferably dark beer)
+Quantifiers: 1 dark 
+Ingredients: beer beer 
+
+Tacos:
+Quantifiers: 
+Ingredients: Tacos 
+
+1 tablespoon vegetable oil, plus more as needed
+Quantifiers: 1 tablespoon as 
+Ingredients: vegetable_oil 
+
+1 pound ground chorizo
+Quantifiers: 1 pound ground 
+Ingredients: chorizo 
+
+Corn tortillas, at least 16
+Quantifiers: at 16 
+Ingredients: Corn tortillas 
+
+1 head Napa cabbage, very thinly sliced
+Quantifiers: 1 head 
+Ingredients: cabbage 
+
+1 package Cotija cheese, crumbled
+Quantifiers: 1 package 
+Ingredients: cheese 
+
+1 bunch fresh cilantro leaves, chopped
+Quantifiers: 1 leaves 
+Ingredients: cilantro 
+
+3 limes, quartered
+Quantifiers: 3 
+Ingredients: limes 
+

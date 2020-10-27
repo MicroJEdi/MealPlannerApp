@@ -1,0 +1,84 @@
+Curry Chicken:
+Quantifiers: 
+Ingredients: Curry Chicken 
+
+6 bone-in skinless chicken breasts
+Quantifiers: 6 breasts 
+Ingredients: chicken 
+
+1/4 cup olive oil, plus more for drizzling
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/4 cup curry powder 
+Quantifiers: 1/4 cup 
+Ingredients: curry_powder 
+
+1 tablespoon onion powder 
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 teaspoon cayenne 
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne 
+
+2 tablespoons minced garlic 
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 large white onion, sliced 
+Quantifiers: 1 
+Ingredients: white onion 
+
+2 Yukon gold potatoes, skin on, 1/2-inch diced
+Quantifiers: 2 skin 
+Ingredients: potatoes 
+
+2 1/2 cups chicken stock 
+Quantifiers: 2 1/2 cups 
+Ingredients: chicken_stock 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Coconut Peas and Rice:
+Quantifiers: 
+Ingredients: Coconut Peas Rice 
+
+2 cups parboiled rice
+Quantifiers: 2 cups 
+Ingredients: rice 
+
+2 cups coconut milk 
+Quantifiers: 2 cups 
+Ingredients: coconut_milk 
+
+1 teaspoon granulated garlic 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon onion powder 
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon fresh thyme leaves, finely chopped 
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+2 bay leaves 
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 can chickpeas, drained and rinsed 
+Quantifiers: 1 can 
+Ingredients: chickpeas 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

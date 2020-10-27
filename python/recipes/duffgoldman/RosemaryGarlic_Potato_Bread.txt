@@ -1,0 +1,64 @@
+2 large russet potatoes, well-baked and still warm, recipe follows
+Quantifiers: 2 still 
+Ingredients: potatoes 
+
+1 garlic head, roasted and still warm, recipe follows
+Quantifiers: 1 head still 
+Ingredients: garlic 
+
+2 (1/4-ounce) envelopes active dry yeast
+Quantifiers: 2 envelopes 
+Ingredients: yeast 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+3 tablespoons olive oil, plus extra for brushing
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 teaspoons kosher salt, plus more for sprinkling
+Quantifiers: 2 teaspoons sprinkling 
+Ingredients: kosher salt 
+
+4 cups all-purpose flour, plus more as needed
+Quantifiers: 4 cups as 
+Ingredients: flour 
+
+4 cups bread flour
+Quantifiers: 4 cups 
+Ingredients: bread flour 
+
+1 1/2 tablespoons chopped fresh rosemary
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: rosemary 
+
+Baked Potatoes:
+Quantifiers: 
+Ingredients: Potatoes 
+
+2 large russet potatoes
+Quantifiers: 2 
+Ingredients: potatoes 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Roasted Garlic:
+Quantifiers: 
+Ingredients: Garlic 
+
+1 garlic head
+Quantifiers: 1 head 
+Ingredients: garlic 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+

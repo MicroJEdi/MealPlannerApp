@@ -1,0 +1,28 @@
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+1 stick unsalted butter 
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+1/3 cup cocoa powder 
+Quantifiers: 1/3 cup 
+Ingredients: cocoa_powder 
+
+1/2 cup milk 
+Quantifiers: 1/2 cup 
+Ingredients: milk 
+
+1 teaspoon pure vanilla extract 
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup peanut butter, crunchy or creamy 
+Quantifiers: 1/2 cup 
+Ingredients: peanut_butter 
+
+2 1/2 to 3 cups old fashioned rolled oats
+Quantifiers: 2 1/2 3 cups 
+Ingredients: old_fashioned rolled_oats 
+

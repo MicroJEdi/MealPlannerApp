@@ -1,0 +1,56 @@
+2 sticks (1 cup) unsalted butter, at room temperature
+Quantifiers: 2 sticks 1 cup at room_temperature 
+Ingredients: butter 
+
+1 cup granulated sugar 
+Quantifiers: 1 cup 
+Ingredients: granulated_sugar 
+
+Pinch of fine salt 
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1 vanilla bean pod, split and seeds scraped 
+Quantifiers: 1 split 
+Ingredients: vanilla_bean pod seeds 
+
+1 large egg 
+Quantifiers: 1 
+Ingredients: egg 
+
+3 cups all-purpose flour, plus more for rolling
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+1 tablespoon ground ginger 
+Quantifiers: 1 tablespoon ground 
+Ingredients: ginger 
+
+1/2 teaspoon ground cinnamon 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+Royal Icing, recipe follows, for decorating
+Quantifiers: 
+Ingredients: 
+
+Your favorite sprinkles or other edible candy, for decorating
+Quantifiers: 
+Ingredients: sprinkles edible candy 
+
+Royal Icing:
+Quantifiers: 
+Ingredients: 
+
+2 large pasteurized egg whites
+Quantifiers: 2 
+Ingredients: egg_whites 
+
+3 3/4 to 4 cups confectioners' sugar (use more for stiffer icing, less for thinner) 
+Quantifiers: 3 3/4 4 cups 
+Ingredients: sugar 
+
+2 teaspoons lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+

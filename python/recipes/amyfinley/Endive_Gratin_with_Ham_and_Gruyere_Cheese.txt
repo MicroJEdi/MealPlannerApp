@@ -1,0 +1,32 @@
+8 endives, intact but cored
+Quantifiers: 8 
+Ingredients: endives 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+8 slices low-sodium ham
+Quantifiers: 8 slices 
+Ingredients: ham 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+Freshly cracked black pepper, for seasoning
+Quantifiers: 
+Ingredients: black_pepper seasoning 
+
+1/8 teaspoon freshly grated nutmeg
+Quantifiers: 1/8 teaspoon 
+Ingredients: nutmeg 
+
+8 ounces Gruyere cheese, grated
+Quantifiers: 8 ounces 
+Ingredients: Gruyere cheese 
+

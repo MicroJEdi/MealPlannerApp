@@ -1,0 +1,20 @@
+2 pounds red-skinned sweet potatoes
+Quantifiers: 2 pounds 
+Ingredients: sweet potatoes 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 teaspoon fresh lemon juice
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+

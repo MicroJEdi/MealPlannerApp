@@ -1,0 +1,72 @@
+Bacon:
+Quantifiers: 
+Ingredients: Bacon 
+
+1 (1/8-ounce) slab fresh pork belly
+Quantifiers: 1 
+Ingredients: pork_belly 
+
+2 cups extra-virgin olive oil
+Quantifiers: 2 cups 
+Ingredients: olive_oil 
+
+3 cloves garlic, skins on
+Quantifiers: 3 skins 
+Ingredients: cloves garlic 
+
+6 sprigs fresh thyme
+Quantifiers: 6 
+Ingredients: thyme 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+Apples:
+Quantifiers: 
+Ingredients: Apples 
+
+2 tablespoons pickling spices (or a mix of coriander, mustard seed, turmeric, and salt)
+Quantifiers: 2 tablespoons a 
+Ingredients: spices mix coriander mustard_seed turmeric salt 
+
+2 tablespoons chopped fresh dill
+Quantifiers: 2 tablespoons 
+Ingredients: dill 
+
+1 cup vinegar
+Quantifiers: 1 cup 
+Ingredients: vinegar 
+
+1 cup apple cider
+Quantifiers: 1 cup 
+Ingredients: apple cider 
+
+3 tablespoons sugar
+Quantifiers: 3 tablespoons 
+Ingredients: sugar 
+
+1 Honeycrisp apple
+Quantifiers: 1 
+Ingredients: apple 
+
+1 jalapeno
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 ciabatta sandwich roll
+Quantifiers: 1 roll 
+Ingredients: sandwich 
+
+2 tablespoons grainy mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 handful mustard greens
+Quantifiers: 1 handful 
+Ingredients: mustard_greens 
+

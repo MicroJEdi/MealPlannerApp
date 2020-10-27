@@ -1,0 +1,120 @@
+3 ounces (6 tablespoons) salted butter
+Quantifiers: 3 ounces 6 tablespoons 
+Ingredients: butter 
+
+1 1/2 tablespoons finely minced fresh onion
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: onion 
+
+1 1/2 tablespoons finely minced fresh garlic
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: garlic 
+
+6 tablespoons all-purpose flour
+Quantifiers: 6 tablespoons 
+Ingredients: flour 
+
+1/2 teaspoon Hungarian paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1/4 teaspoon turmeric
+Quantifiers: 1/4 teaspoon 
+Ingredients: turmeric 
+
+1 teaspoon kosher salt, plus more for pasta water
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt pasta water 
+
+1 teaspoon dry mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+2 teaspoons hot sauce
+Quantifiers: 2 teaspoons 
+Ingredients: hot_sauce 
+
+1 quart heavy cream
+Quantifiers: 1 quart 
+Ingredients: heavy_cream 
+
+1/2 pound processed cheese singles, diced
+Quantifiers: 1/2 pound singles 
+Ingredients: processed_cheese 
+
+4 ounces sharp yellow Cheddar, shredded, plus about 4 cups for topping
+Quantifiers: 4 ounces sharp 4 cups 
+Ingredients: Cheddar 
+
+2 ounces Italian fontina cheese, shredded
+Quantifiers: 2 ounces 
+Ingredients: cheese 
+
+4 ounces fresh grated Italian Parmigiano
+Quantifiers: 4 ounces 
+Ingredients: 
+
+2 pounds dry macaroni elbows
+Quantifiers: 2 pounds 
+Ingredients: macaroni 
+
+Grilled lobster, recipe follows
+Quantifiers: 
+Ingredients: lobster 
+
+Bread crumbs, recipe follows
+Quantifiers: crumbs 
+Ingredients: Bread 
+
+Chopped parsley, for garnish
+Quantifiers: 
+Ingredients: parsley 
+
+Grilled Lobster:
+Quantifiers: 
+Ingredients: Lobster 
+
+1 cup parsley leaves
+Quantifiers: 1 cup leaves 
+Ingredients: parsley 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/4 cup olive oil, plus more for brushing grill
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+2 (1 1/2-pound) lobsters (live)
+Quantifiers: 2 1 
+Ingredients: lobsters 
+
+Bread Crumbs:
+Quantifiers: Crumbs 
+Ingredients: Bread 
+
+2 cups panko bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 cup fresh grated Italian Romano cheese
+Quantifiers: 1/2 cup 
+Ingredients: cheese 
+

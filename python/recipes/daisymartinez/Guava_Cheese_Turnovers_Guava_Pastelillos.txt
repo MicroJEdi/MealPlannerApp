@@ -1,0 +1,32 @@
+1 (1-pound) package frozen puff pastry, thawed
+Quantifiers: 1 package 
+Ingredients: puff pastry 
+
+1 tablespoon granulated sugar
+Quantifiers: 1 tablespoon 
+Ingredients: granulated_sugar 
+
+1 (8-ounce) package cream cheese, cut into 8 equal pieces
+Quantifiers: 1 package 8 pieces 
+Ingredients: cream_cheese cut 
+
+8 (1 by 1-inch) squares guava paste (about 4 ounces)
+Quantifiers: 8 1 squares 4 ounces 
+Ingredients: guava paste 
+
+1 egg, beaten with 1 teaspoon water
+Quantifiers: 1 1 teaspoon 
+Ingredients: egg water 
+
+1/4 cup confectioners' sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1 teaspoon milk
+Quantifiers: 1 teaspoon 
+Ingredients: milk 
+
+1/4 teaspoon vanilla extract
+Quantifiers: 1/4 teaspoon 
+Ingredients: vanilla_extract 
+

@@ -1,0 +1,12 @@
+1 pound fresh asparagus, trimmed and peeled (see Cook's Note)
+Quantifiers: 1 pound Note 
+Ingredients: asparagus 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+

@@ -1,0 +1,112 @@
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 pounds sweet Italian sausage (if links, casings removed) 
+Quantifiers: 2 pounds links 
+Ingredients: sweet sausage 
+
+1 large yellow onion, diced 
+Quantifiers: 1 
+Ingredients: onion 
+
+8 ounces white button mushrooms, chopped 
+Quantifiers: 8 ounces button 
+Ingredients: white mushrooms 
+
+3 cloves garlic, minced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+Pinch of crushed red pepper 
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+Two 15-ounce cans butternut squash puree 
+Quantifiers: Two cans 
+Ingredients: butternut_squash puree 
+
+1 1/2 cups heavy cream 
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+1 1/2 teaspoons sea salt 
+Quantifiers: 1 1/2 teaspoons sea 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+2 1/2 cups whole-milk ricotta cheese
+Quantifiers: 2 1/2 cups 
+Ingredients: ricotta cheese 
+
+1 cup finely grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+1 cup chopped cooked kale (use a kitchen towel to squeeze out any excess moisture from the kale) 
+Quantifiers: 1 cup kale a kale 
+Ingredients: 
+
+2 tablespoons minced fresh sage 
+Quantifiers: 2 tablespoons 
+Ingredients: sage 
+
+1 teaspoon garlic powder 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon sea salt 
+Quantifiers: 1/2 teaspoon sea 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 large eggs, lightly beaten 
+Quantifiers: 2 
+Ingredients: eggs 
+
+Pinch of ground nutmeg 
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+Lasagna:
+Quantifiers: 
+Ingredients: Lasagna 
+
+Sea salt
+Quantifiers: Sea 
+Ingredients: salt 
+
+1 pound lasagna noodles
+Quantifiers: 1 pound 
+Ingredients: lasagna noodles 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Nonstick cooking spray, for the casserole dish
+Quantifiers: spray dish 
+Ingredients: casserole 
+
+4 cups shredded mozzarella 
+Quantifiers: 4 cups 
+Ingredients: mozzarella 
+
+1/3 cup finely grated Parmesan
+Quantifiers: 1/3 cup 
+Ingredients: Parmesan 
+

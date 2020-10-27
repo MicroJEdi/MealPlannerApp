@@ -1,0 +1,40 @@
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 pounds ditalini pasta
+Quantifiers: 2 pounds 
+Ingredients: pasta 
+
+2 tablespoons olive oil, divided
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 boneless, skinless chicken breast halves, pounded to 1/4-inch thickness
+Quantifiers: 4 breast halves 
+Ingredients: chicken 
+
+8 ounces thinly sliced ham
+Quantifiers: 8 ounces 
+Ingredients: ham 
+
+1 cup baby spinach leaves, chopped
+Quantifiers: 1 cup leaves 
+Ingredients: spinach 
+
+4 ounces goat cheese
+Quantifiers: 4 ounces 
+Ingredients: goat_cheese 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 cup seasoned bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+

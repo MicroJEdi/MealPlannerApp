@@ -1,0 +1,56 @@
+1 1/2 teaspoons finely diced onion
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: onion 
+
+1 1/2 teaspoons finely diced red bell pepper
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: bell_pepper 
+
+2 teaspoons extra-virgin olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+5 ounces serrano ham, finely diced (about 1 cup)
+Quantifiers: 5 ounces 1 cup 
+Ingredients: ham 
+
+5 tablespoons unsalted butter
+Quantifiers: 5 tablespoons 
+Ingredients: butter 
+
+1/2 teaspoon smoked paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1/3 cup plus 2 tablespoons all-purpose flour, plus more for dredging
+Quantifiers: 1/3 cup 2 tablespoons 
+Ingredients: flour 
+
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 cup grated manchego cheese (about 4 ounces)
+Quantifiers: 1 cup 4 ounces 
+Ingredients: cheese 
+
+1 1/4-ounce packet unflavored gelatin powder
+Quantifiers: 1 packet 
+Ingredients: gelatin 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 cup breadcrumbs
+Quantifiers: 1 cup breadcrumbs 
+Ingredients: 
+
+Canola oil, for frying
+Quantifiers: 
+Ingredients: Canola_oil 
+

@@ -1,0 +1,80 @@
+Gnudi:
+Quantifiers: 
+Ingredients: 
+
+1 pound cow's milk ricotta, drained in a strainer for at least 2 hours
+Quantifiers: 1 pound in a strainer at 2 hours 
+Ingredients: milk ricotta 
+
+1/4 cup spinach, sauteed and finely chopped
+Quantifiers: 1/4 cup 
+Ingredients: spinach 
+
+1/2 cup grated Parmesan, plus more for serving 
+Quantifiers: 1/2 cup serving 
+Ingredients: Parmesan 
+
+4 tablespoons all-purpose flour
+Quantifiers: 4 tablespoons 
+Ingredients: flour 
+
+3 tablespoons panko breadcrumbs
+Quantifiers: 3 tablespoons breadcrumbs 
+Ingredients: 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: pepper 
+
+Pinch grated nutmeg
+Quantifiers: Pinch 
+Ingredients: nutmeg 
+
+2 egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+Olive oil, for coating
+Quantifiers: 
+Ingredients: Olive_oil 
+
+4 tablespoons melted butter, for re-heating
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+Porcini Puree:
+Quantifiers: 
+Ingredients: Puree 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+3 shallots, julienned
+Quantifiers: 3 
+Ingredients: shallots 
+
+3 ounces fresh porcini mushrooms, sliced
+Quantifiers: 3 ounces 
+Ingredients: mushrooms 
+
+1 ounce dried porcini mushrooms, hydrated, then squeezed dry, liquid reserved
+Quantifiers: 1 ounce then 
+Ingredients: mushrooms 
+
+1 ounce brown beech mushrooms, sliced
+Quantifiers: 1 ounce 
+Ingredients: mushrooms 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+Pinch chili flakes
+Quantifiers: Pinch 
+Ingredients: chili 
+

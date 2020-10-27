@@ -1,0 +1,28 @@
+4 slices bacon
+Quantifiers: 4 slices 
+Ingredients: bacon 
+
+1 (10-ounce) package frozen peas, thawed and drained
+Quantifiers: 1 package 
+Ingredients: peas 
+
+1 cup shredded Cheddar
+Quantifiers: 1 cup 
+Ingredients: Cheddar 
+
+2 hard-cooked eggs, peeled and chopped
+Quantifiers: 2 
+Ingredients: hard-cooked_eggs 
+
+3 tablespoons mayonnaise
+Quantifiers: 3 tablespoons 
+Ingredients: mayonnaise 
+
+2 teaspoons freshly squeezed lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

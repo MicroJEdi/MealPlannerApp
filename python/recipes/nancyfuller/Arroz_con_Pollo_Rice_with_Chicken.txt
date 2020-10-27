@@ -1,0 +1,64 @@
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+12 bone-in, skin-on chicken pieces (6 drumsticks and 6 thighs) 
+Quantifiers: 12 pieces 6 drumsticks 6 thighs 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 large onion, chopped 
+Quantifiers: 1 
+Ingredients: onion 
+
+1 red bell pepper, chopped 
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+4 cloves garlic, minced 
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 teaspoon smoked paprika 
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon ground cumin 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon saffron threads 
+Quantifiers: 1/2 teaspoon threads 
+Ingredients: saffron 
+
+3 bay leaves 
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+1/2 cup diced tomato 
+Quantifiers: 1/2 cup 
+Ingredients: tomato 
+
+4 cups chicken stock 
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+One 12-ounce bottle lager beer
+Quantifiers: One bottle 
+Ingredients: lager_beer 
+
+2 cups arborio rice 
+Quantifiers: 2 cups 
+Ingredients: rice 
+
+1 cup frozen peas, thawed
+Quantifiers: 1 cup 
+Ingredients: peas 
+
+1 pimiento, chopped
+Quantifiers: 1 
+Ingredients: pimiento 
+

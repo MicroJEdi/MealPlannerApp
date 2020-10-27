@@ -1,0 +1,56 @@
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+1/2 cup chopped onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 pounds boneless, skinless chicken breasts, cut into 1-inch pieces *see cook's note
+Quantifiers: 2 pounds breasts pieces note 
+Ingredients: chicken cut 
+
+1 (15-ounce) can black beans, rinsed and drained
+Quantifiers: 1 can 
+Ingredients: black_beans 
+
+1 (4-ounce) can diced green chiles
+Quantifiers: 1 can 
+Ingredients: green chiles 
+
+1/3 cup prepared salsa, mild, medium or hot
+Quantifiers: 1/3 cup medium 
+Ingredients: salsa 
+
+2 tablespoons chopped fresh cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+4 (8-inch) flour tortillas
+Quantifiers: 4 
+Ingredients: flour tortillas 
+
+1 1/3 cups shredded Monterey jack and or Cheddar
+Quantifiers: 1 1/3 cups jack 
+Ingredients: Cheddar 
+
+Broccoli
+Quantifiers: 
+Ingredients: Broccoli 
+
+Onions
+Quantifiers: 
+Ingredients: Onions 
+
+Potatos
+Quantifiers: 
+Ingredients: Potatos 
+
+Celery
+Quantifiers: 
+Ingredients: Celery 
+

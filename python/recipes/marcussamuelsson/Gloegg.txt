@@ -1,0 +1,52 @@
+2 cinnamon sticks, broken into pieces
+Quantifiers: 2 sticks pieces 
+Ingredients: cinnamon 
+
+1 teaspoon cardamom pods
+Quantifiers: 1 teaspoon 
+Ingredients: cardamom pods 
+
+1 small piece ginger, peeled
+Quantifiers: 1 piece 
+Ingredients: ginger 
+
+Zest of 1/2 orange
+Quantifiers: 1/2 
+Ingredients: orange 
+
+8 whole cloves
+Quantifiers: 8 
+Ingredients: cloves 
+
+1/4 cup vodka
+Quantifiers: 1/4 cup 
+Ingredients: vodka 
+
+1 750ml bottle of dry red wine
+Quantifiers: 1 bottle 
+Ingredients: red_wine 
+
+1 cup ruby port or Madeira
+Quantifiers: 1 cup 
+Ingredients: port Madeira 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1/2 cup blanched whole almonds
+Quantifiers: 1/2 cup 
+Ingredients: almonds 
+
+1/2 cup dark raisins
+Quantifiers: 1/2 cup dark 
+Ingredients: raisins 
+
+1 piece star anise
+Quantifiers: 1 piece 
+Ingredients: star_anise 
+
+2 Ambessa Earl of Harlem tea bags
+Quantifiers: 2 bags 
+Ingredients: tea_bags 
+

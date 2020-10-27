@@ -1,0 +1,92 @@
+1-2-3" Pickling Brine:
+Quantifiers: 
+Ingredients: 
+
+3 cups cold water
+Quantifiers: 3 cups cold 
+Ingredients: water 
+
+1 cup vinegar
+Quantifiers: 1 cup 
+Ingredients: vinegar 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+1 carrot, diced
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 red onion, chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1/2 leek (white part only)
+Quantifiers: 1/2 
+Ingredients: leek white 
+
+1 whole bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+4 black peppercorns
+Quantifiers: 4 black 
+Ingredients: peppercorns 
+
+4 white peppercorns
+Quantifiers: 4 
+Ingredients: white peppercorns 
+
+12 preserved herring fillets
+Quantifiers: 12 
+Ingredients: herring fillets 
+
+Accompaniment:
+Quantifiers: 
+Ingredients: 
+
+Mustard sauce, recipe follows
+Quantifiers: 
+Ingredients: Mustard_sauce 
+
+MUSTARD SAUCE
+Quantifiers: 
+Ingredients: MUSTARD_SAUCE 
+
+1 tablespoon sweet mustard
+Quantifiers: 1 tablespoon 
+Ingredients: sweet mustard 
+
+1 teaspoon Dijon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+2 teaspoons sugar
+Quantifiers: 2 teaspoons 
+Ingredients: sugar 
+
+1 1/2 tablespoons Swedish vinegar (or distilled white vinegar)
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: vinegar white vinegar 
+
+1 1/2 tablespoons of cold coffee
+Quantifiers: 1 1/2 tablespoons cold 
+Ingredients: coffee 
+
+Pinch of salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+Pinch of freshly ground white peppercorns
+Quantifiers: Pinch ground 
+Ingredients: white peppercorns 
+
+3/4 cup canola oil
+Quantifiers: 3/4 cup 
+Ingredients: canola_oil 
+
+1/2 cup chopped dill
+Quantifiers: 1/2 cup 
+Ingredients: dill 
+

@@ -1,0 +1,48 @@
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+3/4 cup all-purpose flour, divided
+Quantifiers: 3/4 cup 
+Ingredients: flour 
+
+2/3 cup beer
+Quantifiers: 2/3 cup 
+Ingredients: beer 
+
+1 egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1 1/2 teaspoons baking powder
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: baking_powder 
+
+4 tilapia or flounder fillets, about 5 ounces each
+Quantifiers: 4 5 ounces 
+Ingredients: flounder fillets 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 tablespoons fresh lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+2 teaspoons red chili paste
+Quantifiers: 2 teaspoons 
+Ingredients: chili paste 
+
+1 (11-ounce) can mandarin oranges, drained and chopped
+Quantifiers: 1 can 
+Ingredients: mandarin_oranges 
+
+1 tablespoon chopped fresh cilantro leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: cilantro 
+

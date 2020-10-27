@@ -1,0 +1,124 @@
+Sweet Hot Maple Glaze:
+Quantifiers: 
+Ingredients: Sweet 
+
+1 cup honey
+Quantifiers: 1 cup 
+Ingredients: honey 
+
+1 cup maple syrup 
+Quantifiers: 1 cup 
+Ingredients: maple_syrup 
+
+1 teaspoon chili powder 
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+1 teaspoon garlic powder 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon onion powder 
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon paprika 
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+Waffles:
+Quantifiers: 
+Ingredients: Waffles 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 tablespoons sugar 
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+2 teaspoons baking powder 
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+2 teaspoons kosher salt 
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+2 eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 cups whole milk 
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+8 tablespoons (1 stick) unsalted butter, melted 
+Quantifiers: 8 tablespoons 1 stick 
+Ingredients: butter 
+
+1 cup shredded sharp Cheddar
+Quantifiers: 1 cup sharp 
+Ingredients: Cheddar 
+
+1/4 cup chopped fresh scallions
+Quantifiers: 1/4 cup 
+Ingredients: scallions 
+
+7 to 8 dashes hot sauce
+Quantifiers: 7 8 
+Ingredients: hot_sauce 
+
+Fried Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+Oil, for frying
+Quantifiers: 
+Ingredients: Oil 
+
+8 boneless, skin-on chicken thighs 
+Quantifiers: 8 thighs 
+Ingredients: chicken 
+
+1 cup buttermilk 
+Quantifiers: 1 cup 
+Ingredients: buttermilk 
+
+2 cups flour 
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon garlic powder 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon onion powder 
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon paprika 
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+

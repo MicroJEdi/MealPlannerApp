@@ -1,0 +1,92 @@
+For the filling:
+Quantifiers: 
+Ingredients: filling 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/2 pound minced British lamb
+Quantifiers: 1/2 pound 
+Ingredients: lamb 
+
+1 pound minced beef
+Quantifiers: 1 pound 
+Ingredients: beef 
+
+2 medium onions, peeled and chopped
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+3 carrots, peeled and chopped very small
+Quantifiers: 3 
+Ingredients: carrots 
+
+1/2 pound cremini mushrooms
+Quantifiers: 1/2 pound 
+Ingredients: mushrooms 
+
+1 level tablespoon tomato puree
+Quantifiers: 1 level tablespoon 
+Ingredients: tomato puree 
+
+1 tablespoon chopped fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+2 tablespoons chopped fresh parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1 level tablespoon all-purpose flour
+Quantifiers: 1 level tablespoon 
+Ingredients: flour 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+1 1/2 cups fresh beef stock
+Quantifiers: 1 1/2 cups 
+Ingredients: beef_stock 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+For the crust:
+Quantifiers: 
+Ingredients: 
+
+2 pounds Yukon gold potatoes
+Quantifiers: 2 pounds 
+Ingredients: potatoes 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 cup scallions, cleaned and chopped
+Quantifiers: 1 cup 
+Ingredients: scallions 
+
+1 cup mature Cheddar, coarsely grated
+Quantifiers: 1 cup 
+Ingredients: Cheddar 
+

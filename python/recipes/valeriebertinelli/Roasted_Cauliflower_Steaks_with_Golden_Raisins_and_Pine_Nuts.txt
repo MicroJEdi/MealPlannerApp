@@ -1,0 +1,28 @@
+2 heads cauliflower, cut vertically into 1/2-inch-thick steaks (4 to 6 steaks total)
+Quantifiers: 2 heads 4 6 
+Ingredients: cauliflower cut steaks steaks 
+
+Extra-virgin olive oil, for drizzling 
+Quantifiers: 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons pine nuts 
+Quantifiers: 2 tablespoons 
+Ingredients: pine_nuts 
+
+1/4 cup golden raisins 
+Quantifiers: 1/4 cup 
+Ingredients: raisins 
+
+1 tablespoon butter 
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1/4 cup fresh parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+

@@ -1,0 +1,72 @@
+Bolognese:
+Quantifiers: 
+Ingredients: 
+
+1 pound ground turkey (I like ground skinless dark meat)
+Quantifiers: 1 pound ground I ground 
+Ingredients: turkey dark_meat 
+
+One 16-ounce can tomato sauce 
+Quantifiers: One can 
+Ingredients: tomato_sauce 
+
+One 6-ounce can tomato paste 
+Quantifiers: One can 
+Ingredients: tomato_paste 
+
+1 tablespoon chili powder 
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1 1/2 teaspoons kosher salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 teaspoon Italian seasoning 
+Quantifiers: 1 teaspoon 
+Ingredients: seasoning 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 garlic cloves, minced 
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1 bay leaf 
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+1 large carrot, finely chopped 
+Quantifiers: 1 
+Ingredients: carrot 
+
+1/2 yellow onion, finely chopped 
+Quantifiers: 1/2 
+Ingredients: onion 
+
+2 tablespoons chopped fresh parsley 
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Voodles:
+Quantifiers: 
+Ingredients: 
+
+About 8 zucchini (I use 1 to 2 zucchini per person, depending on their size)
+Quantifiers: 8 I 1 2 
+Ingredients: zucchini zucchini 
+
+Nonstick cooking spray or a drizzle of olive oil, for the skillet
+Quantifiers: spray a skillet 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Grated Parmesan, for garnish
+Quantifiers: 
+Ingredients: Parmesan 
+

@@ -1,0 +1,68 @@
+1/4 cup extra-virgin olive oil, plus 3 tablespoons
+Quantifiers: 1/4 cup 3 tablespoons 
+Ingredients: olive_oil 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1/2 cup kalamata olives, pitted
+Quantifiers: 1/2 cup 
+Ingredients: olives 
+
+1/2 bunch fresh basil leaves
+Quantifiers: 1/2 leaves 
+Ingredients: basil 
+
+2 (28-ounce) cans whole peeled tomatoes, drained and hand-crushed
+Quantifiers: 2 cans 
+Ingredients: tomatoes 
+
+Pinch sugar
+Quantifiers: Pinch 
+Ingredients: sugar 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 skinless, boneless, chicken breasts (about 1 1/2 pounds)
+Quantifiers: 4 breasts 1 1/2 pounds 
+Ingredients: chicken 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+2 large eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon water
+Quantifiers: 1 tablespoon 
+Ingredients: water 
+
+1 cup dried bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+
+1 (8-ounce) ball fresh buffalo mozzarella, water drained
+Quantifiers: 1 ball 
+Ingredients: buffalo mozzarella water 
+
+Freshly grated Parmesan
+Quantifiers: 
+Ingredients: Parmesan 
+
+1 pound spaghetti pasta, cooked al dente
+Quantifiers: 1 pound 
+Ingredients: spaghetti pasta 
+

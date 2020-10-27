@@ -1,0 +1,36 @@
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+4 medium-size, Granny Smith apples (about 1 1/4 pounds), peeled, cored, and cut into 1/2-inch slices
+Quantifiers: 4 1 1/4 pounds slices 
+Ingredients: Granny_Smith apples cut 
+
+3/4 cup sugar
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+2 tablespoons water
+Quantifiers: 2 tablespoons 
+Ingredients: water 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/8 teaspoon salt
+Quantifiers: 1/8 teaspoon 
+Ingredients: salt 
+
+1 pint vanilla ice cream
+Quantifiers: 1 pint 
+Ingredients: vanilla ice_cream 
+
+1/4 cup salted cocktail peanuts, roughly chopped
+Quantifiers: 1/4 cup 
+Ingredients: cocktail peanuts 
+

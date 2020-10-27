@@ -1,0 +1,80 @@
+6 pounds flank steak
+Quantifiers: 6 pounds 
+Ingredients: flank_steak 
+
+3/4 cup Delicioso Adobo seasoning, recipe follows
+Quantifiers: 3/4 cup 
+Ingredients: Adobo seasoning 
+
+1/2 cup Worcestershire sauce
+Quantifiers: 1/2 cup 
+Ingredients: Worcestershire_sauce 
+
+6 bottles beer
+Quantifiers: 6 bottles 
+Ingredients: beer 
+
+1/2 cup canola oil
+Quantifiers: 1/2 cup 
+Ingredients: canola_oil 
+
+2 medium yellow onions, chopped
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+2 red bell peppers, cored, seeded, ribbed and chopped
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 green bell peppers, cored, seeded, ribbed and chopped
+Quantifiers: 2 
+Ingredients: green bell_peppers 
+
+6 scallions, white and light green parts only, chopped
+Quantifiers: 6 light 
+Ingredients: scallions white green 
+
+1 (28-ounce) can crushed tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1 (6-ounce) can tomato paste
+Quantifiers: 1 can 
+Ingredients: tomato_paste 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Delicioso Adobo:
+Quantifiers: 
+Ingredients: Adobo 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 tablespoons onion powder
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 tablespoons dried oregano
+Quantifiers: 2 tablespoons 
+Ingredients: oregano 
+
+2 tablespoons lemon pepper
+Quantifiers: 2 tablespoons 
+Ingredients: lemon pepper 
+
+2 tablespoons parsley flakes
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+2 tablespoons achoite powder from annatto seed
+Quantifiers: 2 tablespoons 
+Ingredients: seed 
+
+1 tablespoon cumin powder
+Quantifiers: 1 tablespoon 
+Ingredients: cumin 
+

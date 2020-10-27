@@ -1,0 +1,56 @@
+1 large round loaf country bread
+Quantifiers: 1 round 
+Ingredients: loaf bread 
+
+4 ounces cream cheese, at room temperature 
+Quantifiers: 4 ounces at room_temperature 
+Ingredients: cream_cheese 
+
+1/2 cup mayonnaise 
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1/2 cup sour cream 
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+2 small jalapenos, 1 seeded and chopped, 1 finely chopped 
+Quantifiers: 2 1 1 
+Ingredients: jalapenos 
+
+1 clove garlic, crushed and peeled 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+One 10-ounce box frozen chopped spinach, thawed, drained and squeezed very dry in a kitchen towel 
+Quantifiers: One box in a 
+Ingredients: spinach 
+
+1 cup marinated artichoke quarters, rinsed and drained 
+Quantifiers: 1 cup quarters 
+Ingredients: artichoke 
+
+1/4 cup chopped fresh Italian parsley 
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1/2 cup roasted red peppers, drained and finely chopped
+Quantifiers: 1/2 cup 
+Ingredients: red_peppers 
+
+1 1/2 cups shredded pepper jack or Monterey Jack cheese 
+Quantifiers: 1 1/2 cups jack Jack 
+Ingredients: pepper cheese 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Baguette slices, crackers and crudites, such as carrots and celery, for serving
+Quantifiers: slices as serving 
+Ingredients: Baguette crackers crudites carrots celery 
+

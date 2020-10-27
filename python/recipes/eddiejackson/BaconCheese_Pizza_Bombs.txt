@@ -1,0 +1,56 @@
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 tablespoon finely chopped fresh rosemary 
+Quantifiers: 1 tablespoon 
+Ingredients: rosemary 
+
+1 tablespoon fresh thyme leaves 
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+1 teaspoon red pepper flakes, plus additional for seasoning 
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper seasoning 
+
+3 cloves garlic, grated
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 tablespoon finely chopped fresh parsley 
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+4 slices thick-cut bacon 
+Quantifiers: 4 slices 
+Ingredients: bacon 
+
+All-purpose flour, for dusting 
+Quantifiers: 
+Ingredients: flour 
+
+2 pounds pizza dough, divided into sixteen 2-inch balls weighing 2 ounces each 
+Quantifiers: 2 pounds sixteen balls 2 ounces 
+Ingredients: pizza dough 
+
+4 teaspoons tomato paste 
+Quantifiers: 4 teaspoons 
+Ingredients: tomato_paste 
+
+16 basil leaves 
+Quantifiers: 16 leaves 
+Ingredients: basil 
+
+12 ounces fresh mozzarella, cut into 1/4-inch cubes 
+Quantifiers: 12 ounces cubes 
+Ingredients: mozzarella cut 
+
+Marinara sauce, warmed, for serving
+Quantifiers: serving 
+Ingredients: Marinara sauce 
+

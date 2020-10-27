@@ -1,0 +1,36 @@
+1 cup yellow cornmeal
+Quantifiers: 1 cup 
+Ingredients: cornmeal 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 tablespoon baking powder
+Quantifiers: 1 tablespoon 
+Ingredients: baking_powder 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 stick butter, melted
+Quantifiers: 1/2 stick 
+Ingredients: butter 
+
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+

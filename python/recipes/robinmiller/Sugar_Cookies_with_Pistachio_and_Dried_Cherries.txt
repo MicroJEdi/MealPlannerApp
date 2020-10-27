@@ -1,0 +1,16 @@
+1 (8-ounce) roll refrigerated sugar cookie dough
+Quantifiers: 1 roll 
+Ingredients: sugar_cookie dough 
+
+1/2 cup pistachios, lightly chopped
+Quantifiers: 1/2 cup 
+Ingredients: pistachios 
+
+1/2 cup dried cherries
+Quantifiers: 1/2 cup 
+Ingredients: cherries 
+
+1 (11-ounce) bag white chocolate chips
+Quantifiers: 1 bag 
+Ingredients: white_chocolate chips 
+

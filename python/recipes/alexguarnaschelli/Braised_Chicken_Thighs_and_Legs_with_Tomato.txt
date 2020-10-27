@@ -1,0 +1,52 @@
+4 tablespoons canola oil
+Quantifiers: 4 tablespoons 
+Ingredients: canola_oil 
+
+6 chicken thighs
+Quantifiers: 6 thighs 
+Ingredients: chicken 
+
+6 chicken legs
+Quantifiers: 6 chicken_legs 
+Ingredients: 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 teaspoon whole cumin seeds
+Quantifiers: 1 teaspoon 
+Ingredients: cumin_seeds 
+
+2 teaspoons chili flakes
+Quantifiers: 2 teaspoons 
+Ingredients: chili 
+
+1 large white onion, peeled, halved and thinly sliced
+Quantifiers: 1 
+Ingredients: white onion 
+
+1 large ginger knob, peeled and grated
+Quantifiers: 1 
+Ingredients: ginger 
+
+6 garlic cloves, peeled and halved lengthwise
+Quantifiers: 6 
+Ingredients: garlic_cloves 
+
+1 (28-ounce) can whole, peeled tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+2 cinnamon sticks
+Quantifiers: 2 sticks 
+Ingredients: cinnamon 
+
+4 fresh or dried bay leaves
+Quantifiers: 4 leaves 
+Ingredients: bay_leaves 
+
+Water, as needed
+Quantifiers: as 
+Ingredients: Water 
+

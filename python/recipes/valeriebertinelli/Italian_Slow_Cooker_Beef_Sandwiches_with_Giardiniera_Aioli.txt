@@ -1,0 +1,120 @@
+Beef:
+Quantifiers: 
+Ingredients: Beef 
+
+4 pounds boneless beef chuck roast, quartered
+Quantifiers: 4 pounds 
+Ingredients: beef chuck roast 
+
+2 red, orange or yellow bell peppers, seeded and sliced 
+Quantifiers: 2 
+Ingredients: orange bell_peppers 
+
+1 small onion, halved and thinly sliced 
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves garlic, chopped 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+One 15-ounce can diced tomatoes with basil and oregano
+Quantifiers: One can 
+Ingredients: tomatoes basil oregano 
+
+One 15-ounce can diced tomatoes with basil and oregano 
+Quantifiers: One can 
+Ingredients: tomatoes basil oregano 
+
+2 teaspoons Italian Seasoning, recipe follows
+Quantifiers: 2 teaspoons 
+Ingredients: Seasoning 
+
+1/2 teaspoon whole fennel seeds 
+Quantifiers: 1/2 teaspoon 
+Ingredients: fennel_seeds 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Aioli:
+Quantifiers: 
+Ingredients: Aioli 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+2 cloves garlic, finely grated 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 teaspoon Dijon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1/2 cup extra-virgin olive oil 
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/2 cup vegetable oil 
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+One 16-ounce jar giardiniera, drained
+Quantifiers: One jar 
+Ingredients: 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Four 12- to 14-inch loaves French bread, halved crosswise, split and lightly toasted 
+Quantifiers: Four split 
+Ingredients: loaves French_bread 
+
+Italian Seasoning:
+Quantifiers: 
+Ingredients: Seasoning 
+
+3 tablespoons dried basil
+Quantifiers: 3 tablespoons 
+Ingredients: basil 
+
+3 tablespoons dried marjoram 
+Quantifiers: 3 tablespoons 
+Ingredients: marjoram 
+
+3 tablespoons dried oregano 
+Quantifiers: 3 tablespoons 
+Ingredients: oregano 
+
+3 tablespoons dried parsley 
+Quantifiers: 3 tablespoons 
+Ingredients: parsley 
+
+1 tablespoon granulated garlic 
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 teaspoon dried rosemary 
+Quantifiers: 1 teaspoon 
+Ingredients: rosemary 
+
+1 teaspoon dried thyme 
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+1/4 teaspoon red pepper flakes
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+

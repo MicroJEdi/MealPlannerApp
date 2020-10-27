@@ -1,0 +1,124 @@
+Pot Roast: 
+Quantifiers: 
+Ingredients: Pot_Roast 
+
+1 boneless beef chuck eye roast (about 3 1/2 pounds)
+Quantifiers: 1 3 1/2 pounds 
+Ingredients: beef chuck roast 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1 medium onion, roughly chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 tablespoon dried Italian seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: seasoning 
+
+2 teaspoons crushed red pepper
+Quantifiers: 2 teaspoons 
+Ingredients: red_pepper 
+
+6 cloves garlic, roughly chopped
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+1/2 cup dry red wine
+Quantifiers: 1/2 cup 
+Ingredients: red_wine 
+
+3 cups beef stock
+Quantifiers: 3 cups 
+Ingredients: beef_stock 
+
+2 sprigs fresh thyme
+Quantifiers: 2 
+Ingredients: thyme 
+
+Sweet Peppers:
+Quantifiers: 
+Ingredients: Sweet_Peppers 
+
+4 green bell peppers, seeded and cut into strips
+Quantifiers: 4 
+Ingredients: green bell_peppers cut 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon granulated garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+6 soft, hinged sub or hoagie rolls
+Quantifiers: 6 rolls 
+Ingredients: sub hoagie 
+
+Homemade Hot Giardiniera, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Homemade Hot Giardiniera:
+Quantifiers: 
+Ingredients: 
+
+1/4 cup table salt
+Quantifiers: 1/4 cup 
+Ingredients: table_salt 
+
+1 cup small-diced carrots
+Quantifiers: 1 cup 
+Ingredients: carrots 
+
+1 cup tiny cauliflower florets
+Quantifiers: 1 cup 
+Ingredients: cauliflower 
+
+4 to 8 serrano peppers, sliced 1/4 inch (depending on heat level desired)
+Quantifiers: 4 8 1/4 inch heat level 
+Ingredients: peppers 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 stalk celery, diced small
+Quantifiers: 1 
+Ingredients: celery 
+
+1 red bell pepper, diced small
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 cups canola oil
+Quantifiers: 2 cups 
+Ingredients: canola_oil 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+

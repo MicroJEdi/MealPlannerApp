@@ -1,0 +1,44 @@
+1/2 cup crushed rusks or white bread (bread crumbs)
+Quantifiers: 1/2 cup crumbs 
+Ingredients: rusks white_bread 
+
+3/4 cup cream
+Quantifiers: 3/4 cup 
+Ingredients: cream 
+
+1 cup ground beef
+Quantifiers: 1 cup 
+Ingredients: ground_beef 
+
+1/2 cup ground veal
+Quantifiers: 1/2 cup ground 
+Ingredients: veal 
+
+1/2 cup ground pork, preferably with fat (may be substituted for more beef)
+Quantifiers: 1/2 cup ground may 
+Ingredients: pork beef 
+
+1/2 finely chopped onion
+Quantifiers: 1/2 
+Ingredients: onion 
+
+Butter for frying
+Quantifiers: 
+Ingredients: Butter 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+White pepper
+Quantifiers: 
+Ingredients: White_pepper 
+
+Soy sauce, optional
+Quantifiers: 
+Ingredients: Soy_sauce 
+

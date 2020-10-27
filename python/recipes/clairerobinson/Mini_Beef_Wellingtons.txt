@@ -1,0 +1,24 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 pounds beef tenderloin, cut into 24 (1-inch) cubes
+Quantifiers: 2 pounds 24 cubes 
+Ingredients: beef_tenderloin cut 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+10 ounces cremini mushrooms, stemmed and finely chopped
+Quantifiers: 10 ounces 
+Ingredients: mushrooms 
+
+1 large shallot, finely chopped
+Quantifiers: 1 
+Ingredients: shallot 
+
+2 sheets frozen puff pastry, thawed (recommended: Dufour)
+Quantifiers: 2 sheets 
+Ingredients: puff pastry 
+

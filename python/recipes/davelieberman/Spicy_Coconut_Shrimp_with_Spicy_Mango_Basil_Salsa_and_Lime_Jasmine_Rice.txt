@@ -1,0 +1,104 @@
+Salsa: 
+Quantifiers: 
+Ingredients: Salsa 
+
+1 mango, peeled and finely diced
+Quantifiers: 1 
+Ingredients: mango 
+
+3 scallions, sliced
+Quantifiers: 3 
+Ingredients: scallions 
+
+5 basil leaves, julienned
+Quantifiers: 5 leaves 
+Ingredients: basil 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Shrimp:
+Quantifiers: 
+Ingredients: Shrimp 
+
+2 fresh jalapenos, sliced
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+3 cloves garlic, thinly sliced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/2--inch piece ginger, peeled and grated
+Quantifiers: piece 
+Ingredients: ginger 
+
+2 tablespoons dark brown sugar
+Quantifiers: 2 tablespoons dark 
+Ingredients: brown_sugar 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+1/2 lime, zested
+Quantifiers: 1/2 
+Ingredients: lime 
+
+1/4 cup coconut milk
+Quantifiers: 1/4 cup 
+Ingredients: coconut_milk 
+
+Small handful basil leaves, torn
+Quantifiers: handful leaves 
+Ingredients: basil 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+15 grinds pepper
+Quantifiers: 15 
+Ingredients: pepper 
+
+1 pound peeled, deveined shrimp
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+Lime Jasmine Rice, recipe follows
+Quantifiers: 
+Ingredients: Lime Rice 
+
+Lime Jasmine Rice:
+Quantifiers: 
+Ingredients: Lime Rice 
+
+1 cup jasmine rice
+Quantifiers: 1 cup 
+Ingredients: rice 
+
+3/4 cup coconut milk
+Quantifiers: 3/4 cup 
+Ingredients: coconut_milk 
+
+3/4 cup water
+Quantifiers: 3/4 cup 
+Ingredients: water 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1/2 lime, zested
+Quantifiers: 1/2 
+Ingredients: lime 
+

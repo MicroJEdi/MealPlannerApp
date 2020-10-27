@@ -1,0 +1,32 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 cooked chicken breast halves
+Quantifiers: 2 breast halves 
+Ingredients: chicken 
+
+8 (6 to 8-inch) flour tortillas
+Quantifiers: 8 6 
+Ingredients: flour tortillas 
+
+1/2 cup chopped red onions
+Quantifiers: 1/2 cup 
+Ingredients: red_onions 
+
+1/2 cup sliced mushrooms
+Quantifiers: 1/2 cup 
+Ingredients: mushrooms 
+
+1/2 cup sliced roasted red peppers (from water-packed jar)
+Quantifiers: 1/2 cup jar 
+Ingredients: red_peppers 
+
+1/2 cup sliced artichokes (from water-packed can or jar)
+Quantifiers: 1/2 cup can jar 
+Ingredients: artichokes 
+
+1/4 cup shredded Monterey jack or pepper jack cheese, for each quesadilla
+Quantifiers: 1/4 cup jack jack 
+Ingredients: pepper cheese quesadilla 
+

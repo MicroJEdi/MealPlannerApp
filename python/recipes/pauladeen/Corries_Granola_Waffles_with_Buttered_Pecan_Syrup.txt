@@ -1,0 +1,60 @@
+Buttered Pecan Syrup:
+Quantifiers: 
+Ingredients: Pecan Syrup 
+
+2 tablespoons (1/4 stick) unsalted butter
+Quantifiers: 2 tablespoons 1/4 stick 
+Ingredients: butter 
+
+1 cup chopped pecans
+Quantifiers: 1 cup 
+Ingredients: pecans 
+
+1 cup maple syrup
+Quantifiers: 1 cup 
+Ingredients: maple_syrup 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+Waffles:
+Quantifiers: 
+Ingredients: Waffles 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+3 tablespoons sugar
+Quantifiers: 3 tablespoons 
+Ingredients: sugar 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups buttermilk
+Quantifiers: 2 cups 
+Ingredients: buttermilk 
+
+4 tablespoons (1/2 stick) unsalted butter, melted
+Quantifiers: 4 tablespoons 1/2 stick 
+Ingredients: butter 
+
+1 cup your favorite granola
+Quantifiers: 1 cup 
+Ingredients: granola 
+

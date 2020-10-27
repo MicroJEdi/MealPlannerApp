@@ -1,0 +1,28 @@
+1 pound pork tenderloin, cut crosswise into 1/2-inch thick rounds
+Quantifiers: 1 pound rounds 
+Ingredients: pork_tenderloin cut 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Ground black pepper
+Quantifiers: Ground 
+Ingredients: black_pepper 
+
+2 teaspoons sesame oil
+Quantifiers: 2 teaspoons 
+Ingredients: sesame_oil 
+
+1 1/4 cups apricot preserves
+Quantifiers: 1 1/4 cups 
+Ingredients: apricot preserves 
+
+1/4 cup tamari sauce
+Quantifiers: 1/4 cup 
+Ingredients: sauce 
+
+1 tablespoon chopped pickled ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+

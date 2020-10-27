@@ -1,0 +1,24 @@
+3 tablespoons coconut oil
+Quantifiers: 3 tablespoons 
+Ingredients: coconut_oil 
+
+2 pounds carrots, peeled, halved lengthwise and sliced on the bias 1-inch thick 
+Quantifiers: 2 pounds 
+Ingredients: carrots 
+
+1/2 teaspoon salt 
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon curry powder 
+Quantifiers: 1 teaspoon 
+Ingredients: curry_powder 
+
+1/4 cup roughly chopped fresh cilantro
+Quantifiers: 1/4 cup 
+Ingredients: cilantro 
+

@@ -1,0 +1,44 @@
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+4 teaspoons sesame oil
+Quantifiers: 4 teaspoons 
+Ingredients: sesame_oil 
+
+1 pound soba noodles, cooked until tender and refreshed in ice water
+Quantifiers: 1 pound tender in 
+Ingredients: noodles ice_water 
+
+1/2 cup thinly sliced green onions, cut on the bias 
+Quantifiers: 1/2 cup 
+Ingredients: green_onions cut 
+
+1/2 cup thinly sliced carrots
+Quantifiers: 1/2 cup 
+Ingredients: carrots 
+
+1/2 cup cucumber, peeled, seeded, and thinly sliced
+Quantifiers: 1/2 cup 
+Ingredients: cucumber 
+
+1 cup lightly crushed toasted cashews
+Quantifiers: 1 cup 
+Ingredients: cashews 
+
+3 tablespoons chopped fresh cilantro
+Quantifiers: 3 tablespoons 
+Ingredients: cilantro 
+
+2 tablespoons black sesame seeds
+Quantifiers: 2 tablespoons black 
+Ingredients: sesame_seeds 
+
+1/2 cup bean sprouts
+Quantifiers: 1/2 cup 
+Ingredients: bean_sprouts 
+

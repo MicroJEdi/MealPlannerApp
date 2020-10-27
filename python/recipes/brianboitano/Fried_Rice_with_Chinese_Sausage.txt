@@ -1,0 +1,44 @@
+1/4 cup canola oil, divided
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+2 eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon chopped ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1 tablespoon chopped garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 carrot, finely diced
+Quantifiers: 1 
+Ingredients: carrot 
+
+2 stalks celery, finely diced
+Quantifiers: 2 
+Ingredients: celery 
+
+3 links Chinese sausage, sliced
+Quantifiers: 3 links 
+Ingredients: sausage 
+
+1 small bunch scallions, sliced, divided
+Quantifiers: 1 
+Ingredients: scallions 
+
+4 cups cooked white rice
+Quantifiers: 4 cups 
+Ingredients: white_rice 
+
+1/4 cup low-sodium soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+1 tablespoon rice wine vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: rice wine_vinegar 
+

@@ -1,0 +1,40 @@
+2 cups chicken stock, warm
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+2 poblano chile peppers
+Quantifiers: 2 
+Ingredients: chile peppers 
+
+1 bunch cilantro, leaves chopped (about 1 cup)
+Quantifiers: 1 leaves 1 cup 
+Ingredients: cilantro 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+3 tablespoons corn oil
+Quantifiers: 3 tablespoons 
+Ingredients: corn_oil 
+
+1 medium yellow onion, finely diced (about 2 cups)
+Quantifiers: 1 medium 2 cups 
+Ingredients: onion 
+
+1 cup medium or long-grain white rice
+Quantifiers: 1 cup medium 
+Ingredients: white_rice 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 scallions, white and pale green parts only, sliced, optional
+Quantifiers: 4 
+Ingredients: scallions white green 
+

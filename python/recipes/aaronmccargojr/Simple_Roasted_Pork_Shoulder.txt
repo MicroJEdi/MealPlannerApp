@@ -1,0 +1,16 @@
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+3 tablespoons chopped garlic
+Quantifiers: 3 tablespoons 
+Ingredients: garlic 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 (4 pound) pork shoulder
+Quantifiers: 1 4 pound 
+Ingredients: pork shoulder 
+

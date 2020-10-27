@@ -1,0 +1,48 @@
+1 (3 to 4-pound) boneless bottom round roast
+Quantifiers: 1 3 round 
+Ingredients: bottom_round roast 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+2 yellow onions, peeled and quartered
+Quantifiers: 2 
+Ingredients: onions 
+
+3 cloves garlic, smashed
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+2 cups beef stock
+Quantifiers: 2 cups 
+Ingredients: beef_stock 
+
+2 fresh thyme sprigs
+Quantifiers: 2 
+Ingredients: thyme 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+3 carrots, peeled and sliced into 1/2-inch pieces
+Quantifiers: 3 pieces 
+Ingredients: carrots 
+
+Freshly chopped parsley leaves, for garnish
+Quantifiers: leaves 
+Ingredients: parsley 
+

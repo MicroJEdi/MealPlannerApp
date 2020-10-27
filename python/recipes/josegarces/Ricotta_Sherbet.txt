@@ -1,0 +1,28 @@
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 bunch fresh mint, plus more for garnish
+Quantifiers: 1 mint 
+Ingredients: 
+
+24 juniper berries
+Quantifiers: 24 
+Ingredients: juniper_berries 
+
+2 cups fresh ricotta
+Quantifiers: 2 cups 
+Ingredients: ricotta 
+
+1 16-ounce container sour cream
+Quantifiers: 1 container 
+Ingredients: sour_cream 
+
+1/4 cup light corn syrup
+Quantifiers: 1/4 cup light 
+Ingredients: corn_syrup 
+
+2 tablespoons fresh lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+

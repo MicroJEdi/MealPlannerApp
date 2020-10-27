@@ -1,0 +1,16 @@
+10 cups assorted fresh fruit, such as cantaloupe, honeydew, papaya, pineapple, mango, strawberries, and seedless red grapes, cut into bite-size pieces
+Quantifiers: 10 cups as pieces 
+Ingredients: fruit cantaloupe honeydew papaya pineapple mango strawberries grapes cut 
+
+1 lime, juiced (about 1/4 cup)
+Quantifiers: 1 1/4 cup 
+Ingredients: lime 
+
+2 tablespoons orange liqueur (recommended: Cointreau)
+Quantifiers: 2 tablespoons 
+Ingredients: orange_liqueur 
+
+2 tablespoons finely chopped fresh mint leaves
+Quantifiers: 2 tablespoons mint leaves 
+Ingredients: 
+

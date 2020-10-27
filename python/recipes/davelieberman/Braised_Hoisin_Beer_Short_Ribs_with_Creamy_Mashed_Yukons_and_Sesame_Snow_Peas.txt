@@ -1,0 +1,92 @@
+For the ribs:
+Quantifiers: ribs 
+Ingredients: 
+
+3 pounds beef short ribs, about 10 ribs
+Quantifiers: 3 pounds ribs 10 ribs 
+Ingredients: beef short_ribs 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+10 to 12 garlic cloves smashed
+Quantifiers: 10 12 
+Ingredients: garlic_cloves 
+
+1-inch piece ginger, peeled and sliced into 1/4-inch slices
+Quantifiers: piece slices 
+Ingredients: ginger 
+
+12 ounces good ale (recommended: Bass)
+Quantifiers: 12 ounces 
+Ingredients: ale Bass 
+
+3 tablespoons rice wine vinegar
+Quantifiers: 3 tablespoons 
+Ingredients: rice wine_vinegar 
+
+1 cup hoisin sauce
+Quantifiers: 1 cup 
+Ingredients: hoisin_sauce 
+
+Creamy Mashed Yukons, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Sesame Snow Peas, recipe follows
+Quantifiers: 
+Ingredients: Snow_Peas 
+
+Creamy Mashed Yukons:
+Quantifiers: 
+Ingredients: 
+
+3 pounds Yukon gold potatoes, peeled
+Quantifiers: 3 pounds 
+Ingredients: potatoes 
+
+1/2 stick butter, melted
+Quantifiers: 1/2 stick 
+Ingredients: butter 
+
+1 cup half-and-half
+Quantifiers: 1 cup 
+Ingredients: half-and-half 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 bunch chives, chopped
+Quantifiers: 1 
+Ingredients: chives 
+
+Sesame Snow Peas:
+Quantifiers: 
+Ingredients: Snow_Peas 
+
+1 pound snow peas
+Quantifiers: 1 pound 
+Ingredients: snow_peas 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1 tablespoon dark sesame oil
+Quantifiers: 1 tablespoon dark 
+Ingredients: sesame_oil 
+
+1 teaspoon sesame seeds
+Quantifiers: 1 teaspoon 
+Ingredients: sesame_seeds 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

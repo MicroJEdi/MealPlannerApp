@@ -1,0 +1,24 @@
+One 12-ounce can evaporated milk
+Quantifiers: One can 
+Ingredients: evaporated_milk 
+
+4 Earl Grey tea bags
+Quantifiers: 4 bags 
+Ingredients: tea_bags 
+
+1/2 teaspoon ground cardamom
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cardamom 
+
+One 14-ounce can sweetened condensed milk
+Quantifiers: One can 
+Ingredients: condensed_milk 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+Handful finely chopped pistachios, plus extra for garnish
+Quantifiers: Handful 
+Ingredients: pistachios 
+

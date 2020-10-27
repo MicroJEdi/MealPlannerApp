@@ -1,0 +1,20 @@
+1/2 cup dark brown sugar
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+1 tablespoon chile powder 
+Quantifiers: 1 tablespoon 
+Ingredients: chile 
+
+1 teaspoon kosher salt 
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+Four 8-ounce salmon fillets
+Quantifiers: Four 
+Ingredients: salmon fillets 
+

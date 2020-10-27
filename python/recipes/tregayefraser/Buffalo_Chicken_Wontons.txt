@@ -1,0 +1,44 @@
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+1/2 cup Buffalo wing sauce 
+Quantifiers: 1/2 cup wing 
+Ingredients: Buffalo_wing sauce 
+
+1/4 cup sweet chili sauce 
+Quantifiers: 1/4 cup 
+Ingredients: sweet chili_sauce 
+
+2 tablespoons honey 
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 cup chopped or shredded rotisserie chicken
+Quantifiers: 1 cup 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 large egg 
+Quantifiers: 1 
+Ingredients: egg 
+
+1/3 cup blue cheese crumbles 
+Quantifiers: 1/3 cup 
+Ingredients: blue_cheese 
+
+10 to 12 square wonton wrappers 
+Quantifiers: 10 12 square 
+Ingredients: wonton 
+
+Carrot sticks, celery sticks and ranch dressing, for serving
+Quantifiers: sticks sticks serving 
+Ingredients: Carrot_sticks celery_sticks dressing 
+

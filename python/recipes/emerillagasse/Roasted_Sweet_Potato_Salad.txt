@@ -1,0 +1,28 @@
+2 pounds sweet potatoes, peeled and cut into 1 1/2-inch pieces
+Quantifiers: 2 pounds 1 pieces 
+Ingredients: sweet potatoes cut 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 large Maui onion
+Quantifiers: 1 
+Ingredients: onion 
+
+1/4 cup lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+1/2 cup macadamia nut oil
+Quantifiers: 1/2 cup 
+Ingredients: macadamia_nut oil 
+

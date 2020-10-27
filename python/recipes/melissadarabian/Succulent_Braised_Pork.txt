@@ -1,0 +1,56 @@
+2 pounds pork shoulder, cut into 6 large chunks
+Quantifiers: 2 pounds 6 chunks 
+Ingredients: pork shoulder cut 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+2 celery stalks, chopped
+Quantifiers: 2 
+Ingredients: celery 
+
+1 carrot, chopped
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 clove garlic, roughly chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+1 1/2 cups beef stock or broth
+Quantifiers: 1 1/2 cups 
+Ingredients: beef_stock broth 
+
+1 bunch parsley stems, tied with string
+Quantifiers: 1 string 
+Ingredients: parsley 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+

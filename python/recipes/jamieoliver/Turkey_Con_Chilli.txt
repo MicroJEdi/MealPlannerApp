@@ -1,0 +1,108 @@
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+2 red onions, peeled and roughly chopped
+Quantifiers: 2 
+Ingredients: red_onions 
+
+1 carrot, peeled and roughly chopped
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 leek, trimmed and roughly chopped
+Quantifiers: 1 
+Ingredients: leek 
+
+1 red pepper, deseeded and roughly chopped
+Quantifiers: 1 
+Ingredients: red_pepper 
+
+1 yellow pepper, deseeded and roughly chopped
+Quantifiers: 1 
+Ingredients: pepper 
+
+1 fresh red chile, deseeded and finely chopped
+Quantifiers: 1 
+Ingredients: chile 
+
+1 fresh green chile, deseeded and finely chopped
+Quantifiers: 1 
+Ingredients: green chile 
+
+A bunch fresh coriander (cilantro), leaves picked and stalks finely chopped
+Quantifiers: A leaves 
+Ingredients: coriander cilantro 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 heaped teaspoon smoked paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1 heaped teaspoon runny honey, optional
+Quantifiers: 1 teaspoon 
+Ingredients: honey 
+
+3 tablespoons white wine vinegar, optional
+Quantifiers: 3 tablespoons 
+Ingredients: white_wine_vinegar 
+
+1 pound, 5 ounce/ 600 g leftover turkey, shredded
+Quantifiers: 1 pound 5 g 
+Ingredients: turkey 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+3 (14-ounce/ 400 g) tins chopped tomatoes
+Quantifiers: 3 g tins 
+Ingredients: tomatoes 
+
+1 (14-ounce/ 400 g) tin butter beans or chickpeas, drained
+Quantifiers: 1 g tin 
+Ingredients: butter_beans chickpeas 
+
+Juice of 2 limes
+Quantifiers: 2 
+Ingredients: Juice limes 
+
+Soured cream, to serve
+Quantifiers: 
+Ingredients: Soured_cream 
+
+For the Guacamole
+Quantifiers: 
+Ingredients: Guacamole 
+
+2 ripe avocados, peeled and destoned
+Quantifiers: 2 
+Ingredients: avocados 
+
+2 tomatoes, halved
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1/4 of a red onion, peeled
+Quantifiers: 1/4 a 
+Ingredients: red_onion 
+
+1/2 clove garlic, peeled
+Quantifiers: 1/2 
+Ingredients: clove garlic 
+
+1 fresh green chile, deseeded
+Quantifiers: 1 
+Ingredients: green chile 
+
+A bunch fresh coriander (cilantro)
+Quantifiers: A 
+Ingredients: coriander cilantro 
+
+Juice of 1 lime
+Quantifiers: 1 
+Ingredients: Juice lime 
+

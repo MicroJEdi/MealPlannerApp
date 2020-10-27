@@ -1,0 +1,48 @@
+2 1/4 cups all-purpose flour
+Quantifiers: 2 1/4 cups 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+2 sticks unsalted butter, at room temperature
+Quantifiers: 2 sticks at room_temperature 
+Ingredients: butter 
+
+1 cup packed light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1 large egg plus 1 egg yolk
+Quantifiers: 1 1 
+Ingredients: egg_yolk 
+
+1 cup Pretzel M&M'S
+Quantifiers: 1 cup MMS 
+Ingredients: Pretzel 
+
+3 ounces bittersweet chocolate, chopped
+Quantifiers: 3 ounces 
+Ingredients: bittersweet_chocolate 
+
+1/2 cup toffee pieces
+Quantifiers: 1/2 cup pieces 
+Ingredients: toffee 
+
+3/4 cup peanut butter chips
+Quantifiers: 3/4 cup 
+Ingredients: peanut_butter chips 
+

@@ -1,0 +1,24 @@
+1/2 stick butter, melted, plus more for greasing pan
+Quantifiers: 1/2 stick pan 
+Ingredients: butter 
+
+1 1/4 cups plus 2 tablespoons sugar
+Quantifiers: 1 1/4 cups 2 tablespoons 
+Ingredients: sugar 
+
+1 cup self-rising flour
+Quantifiers: 1 cup 
+Ingredients: self-rising_flour 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+2 cups fresh (or frozen) blackberries
+Quantifiers: 2 cups 
+Ingredients: blackberries 
+
+Whipped cream and/or ice cream, for serving
+Quantifiers: serving 
+Ingredients: cream ice_cream 
+

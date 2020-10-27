@@ -1,0 +1,92 @@
+4 tablespoons coconut oil
+Quantifiers: 4 tablespoons 
+Ingredients: coconut_oil 
+
+3 green onions, chopped 
+Quantifiers: 3 
+Ingredients: green_onions 
+
+2 shallots, chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+1 red bell pepper, chopped 
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 Scotch bonnet chile, minced
+Quantifiers: 1 
+Ingredients: Scotch chile 
+
+2 garlic cloves, minced 
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1/2 teaspoon dark brown sugar 
+Quantifiers: 1/2 teaspoon dark 
+Ingredients: brown_sugar 
+
+1/2 teaspoon ground allspice 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: allspice 
+
+1/2 teaspoon ground cinnamon 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon garlic powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon ground ginger 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1/2 teaspoon onion powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+1/2 teaspoon dried oregano 
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/2 teaspoon dried thyme 
+Quantifiers: 1/2 teaspoon 
+Ingredients: thyme 
+
+1/2 teaspoon kosher salt 
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 pound ground beef 
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+8 ounces ground pork 
+Quantifiers: 8 ounces ground 
+Ingredients: pork 
+
+1 egg, lightly beaten 
+Quantifiers: 1 
+Ingredients: egg 
+
+1/4 cup coconut milk 
+Quantifiers: 1/4 cup 
+Ingredients: coconut_milk 
+
+1/4 cup to 1/3 cup dried breadcrumbs
+Quantifiers: 1/4 cup 1/3 cup breadcrumbs 
+Ingredients: 
+
+1 cup ketchup 
+Quantifiers: 1 cup 
+Ingredients: ketchup 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+

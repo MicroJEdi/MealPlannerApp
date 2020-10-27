@@ -1,0 +1,56 @@
+3 tablespoons soy sauce
+Quantifiers: 3 tablespoons 
+Ingredients: soy_sauce 
+
+1 tablespoon cornstarch
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+1 pound flank steak or tri-tip, cut in thin strips on the bias
+Quantifiers: 1 pound in 
+Ingredients: flank_steak cut 
+
+2 tablespoons dry sherry
+Quantifiers: 2 tablespoons 
+Ingredients: sherry 
+
+2 tablespoons hoisin sauce
+Quantifiers: 2 tablespoons 
+Ingredients: hoisin_sauce 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 tablespoon chili sauce
+Quantifiers: 1 tablespoon 
+Ingredients: chili_sauce 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+1/4 cup freshly squeezed tangerine juice
+Quantifiers: 1/4 cup 
+Ingredients: tangerine juice 
+
+3 tablespoons canola oil
+Quantifiers: 3 tablespoons 
+Ingredients: canola_oil 
+
+2 tablespoons minced fresh ginger
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+
+3 scallions, chopped
+Quantifiers: 3 
+Ingredients: scallions 
+
+1/4 tangerine, zested
+Quantifiers: 1/4 
+Ingredients: tangerine 
+
+2 tablespoons toasted sesame seeds
+Quantifiers: 2 tablespoons 
+Ingredients: sesame_seeds 
+

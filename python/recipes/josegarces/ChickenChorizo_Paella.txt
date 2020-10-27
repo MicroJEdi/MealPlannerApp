@@ -1,0 +1,128 @@
+For the Stock: 
+Quantifiers: 
+Ingredients: Stock 
+
+1 pound chicken wings
+Quantifiers: 1 pound chicken_wings 
+Ingredients: 
+
+1 cup chopped Spanish onion
+Quantifiers: 1 cup 
+Ingredients: Spanish_onion 
+
+1/2 cup sliced celery
+Quantifiers: 1/2 cup 
+Ingredients: celery 
+
+1/2 cup sliced carrot
+Quantifiers: 1/2 cup 
+Ingredients: carrot 
+
+2 fresh bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+6 sprigs thyme
+Quantifiers: 6 
+Ingredients: thyme 
+
+12 black peppercorns
+Quantifiers: 12 black 
+Ingredients: peppercorns 
+
+3 juniper berries
+Quantifiers: 3 
+Ingredients: juniper_berries 
+
+1 tablespoon saffron threads
+Quantifiers: 1 tablespoon threads 
+Ingredients: saffron 
+
+For the Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+2 Spanish onions (1 quartered, 1 thinly sliced)
+Quantifiers: 2 1 1 
+Ingredients: Spanish_onions 
+
+1 fresh bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 stalks celery, sliced
+Quantifiers: 2 
+Ingredients: celery 
+
+1 1/2 pounds skin-on, boneless chicken thighs, fat trimmed
+Quantifiers: 1 1/2 pounds thighs 
+Ingredients: chicken 
+
+1/2 cup ketchup
+Quantifiers: 1/2 cup 
+Ingredients: ketchup 
+
+2 tablespoons smoked Spanish paprika
+Quantifiers: 2 tablespoons 
+Ingredients: Spanish_paprika 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+2 large red bell peppers, thinly sliced
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 cloves garlic, thinly sliced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+For the Paella:
+Quantifiers: 
+Ingredients: Paella 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 cup Spanish chorizo, thinly sliced
+Quantifiers: 1/2 cup 
+Ingredients: chorizo 
+
+1/4 cup diced Spanish onion
+Quantifiers: 1/4 cup 
+Ingredients: Spanish_onion 
+
+1 tablespoon minced garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 1/4 cups Calasparra rice (or other paella rice)
+Quantifiers: 1 1/4 cups 
+Ingredients: rice paella rice 
+
+1/4 cup fresh or frozen peas (thawed if frozen)
+Quantifiers: 1/4 cup 
+Ingredients: peas 
+
+2 tablespoons thinly sliced piquillo peppers
+Quantifiers: 2 tablespoons 
+Ingredients: peppers 
+
+1/4 cup chopped pitted kalamata or black olives
+Quantifiers: 1/4 cup 
+Ingredients: black_olives 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1/4 cup tomato paste
+Quantifiers: 1/4 cup 
+Ingredients: tomato_paste 
+

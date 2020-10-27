@@ -1,0 +1,48 @@
+1 1/2 pounds boneless skinless chicken breasts, each breast cut crosswise into 3 pieces
+Quantifiers: 1 1/2 pounds breasts breast 3 pieces 
+Ingredients: chicken cut 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+5 tablespoons butter, divided
+Quantifiers: 5 tablespoons 
+Ingredients: butter 
+
+3/4 cup chopped onion
+Quantifiers: 3/4 cup 
+Ingredients: onion 
+
+1 pound cremini mushrooms, sliced
+Quantifiers: 1 pound 
+Ingredients: mushrooms 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 cup dry Marsala wine
+Quantifiers: 1 cup 
+Ingredients: Marsala wine 
+
+1 cup (8 ounces) mascarpone cheese
+Quantifiers: 1 cup 8 ounces 
+Ingredients: mascarpone cheese 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+2 tablespoons chopped fresh Italian parsley leaves, plus whole sprigs, for garnish
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+12 ounces dried fettuccine
+Quantifiers: 12 ounces 
+Ingredients: fettuccine 
+

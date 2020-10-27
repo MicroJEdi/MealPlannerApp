@@ -1,0 +1,68 @@
+Peanut oil, for frying
+Quantifiers: 
+Ingredients: Peanut_oil 
+
+2 pounds boneless, skinless chicken breasts
+Quantifiers: 2 pounds breasts 
+Ingredients: chicken 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+2 cups panko bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon lemon-pepper
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: pepper 
+
+Honey Mustard, recipe follows
+Quantifiers: 
+Ingredients: Honey Mustard 
+
+Honey Mustard:
+Quantifiers: 
+Ingredients: Honey Mustard 
+
+1/2 cup Dijon mustard
+Quantifiers: 1/2 cup 
+Ingredients: mustard 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+2 tablespoons mayonnaise
+Quantifiers: 2 tablespoons 
+Ingredients: mayonnaise 
+
+1 tablespoons lemon juice
+Quantifiers: 1 tablespoons 
+Ingredients: lemon_juice 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

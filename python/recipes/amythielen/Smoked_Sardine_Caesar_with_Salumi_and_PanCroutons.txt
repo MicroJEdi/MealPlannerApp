@@ -1,0 +1,56 @@
+3 cloves garlic, 1 finely grated, 2 smashed
+Quantifiers: 3 1 2 
+Ingredients: cloves garlic 
+
+2 smoked sardines (kippers) 
+Quantifiers: 2 
+Ingredients: sardines kippers 
+
+1/2 cup mayonnaise 
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1 1/2 cups grated Parmesan cheese 
+Quantifiers: 1 1/2 cups 
+Ingredients: Parmesan cheese 
+
+3 tablespoons fresh lemon juice 
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+5 tablespoons extra-virgin olive oil 
+Quantifiers: 5 tablespoons 
+Ingredients: olive_oil 
+
+Fine sea salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+Fine sea salt and freshly ground black pepper 
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+3 tablespoons salted butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 teaspoon sweet paprika 
+Quantifiers: 1 teaspoon 
+Ingredients: sweet paprika 
+
+1 1/2 cups torn chunks of ciabatta bread 
+Quantifiers: 1 1/2 cups chunks 
+Ingredients: bread 
+
+12 cups torn romaine lettuce (from about 1 head) 
+Quantifiers: 12 cups lettuce 1 head 
+Ingredients: romaine_lettuce 
+
+3 ounces salumi (cured Italian salami), cut into wide matchsticks 
+Quantifiers: 3 ounces matchsticks 
+Ingredients: salami cut 
+
+2 tablespoons chopped fresh mint
+Quantifiers: 2 tablespoons mint 
+Ingredients: 
+

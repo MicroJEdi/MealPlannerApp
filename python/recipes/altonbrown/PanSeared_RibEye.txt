@@ -1,0 +1,12 @@
+1 boneless rib eye steak, 1 1/2 inches thick
+Quantifiers: 1 rib 1 1/2 inches 
+Ingredients: steak 
+
+Canola oil, to coat
+Quantifiers: 
+Ingredients: Canola_oil 
+
+Kosher salt and ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

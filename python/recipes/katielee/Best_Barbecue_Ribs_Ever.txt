@@ -1,0 +1,44 @@
+1/4 cup brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+2 tablespoons chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon onion powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+2 racks baby back ribs
+Quantifiers: 2 back ribs 
+Ingredients: racks 
+
+1 cup low-sodium chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+2 tablespoons apple cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: apple cider_vinegar 
+
+1 cup barbecue sauce
+Quantifiers: 1 cup 
+Ingredients: barbecue_sauce 
+

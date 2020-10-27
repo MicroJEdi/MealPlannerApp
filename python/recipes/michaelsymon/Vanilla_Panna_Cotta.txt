@@ -1,0 +1,28 @@
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+1 vanilla bean
+Quantifiers: 1 
+Ingredients: vanilla_bean 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1 1/2 teaspoons unflavored gelatin (about 1/2 packet)
+Quantifiers: 1 1/2 teaspoons 1/2 packet 
+Ingredients: gelatin 
+
+1/2 cup whole milk
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk 
+
+1/2 cup whole-milk Greek yogurt
+Quantifiers: 1/2 cup 
+Ingredients: yogurt 
+
+Sliced strawberries and fresh mint, for garnish (optional)
+Quantifiers: mint 
+Ingredients: strawberries 
+

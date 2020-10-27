@@ -1,0 +1,40 @@
+1/2 pound sliced bacon, cut crosswise in 1/2-inch pieces
+Quantifiers: 1/2 pound in pieces 
+Ingredients: bacon cut 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+1 medium yellow onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 jalapeno chile one seeded, ribbed and chopped
+Quantifiers: 1 one 
+Ingredients: jalapeno chile 
+
+1 (14-ounce) can chopped tomatoes with liquid
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1 (12-ounce) can pinto beans, washed and drained
+Quantifiers: 1 can 
+Ingredients: pinto_beans 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/8 teaspoon fresh ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+

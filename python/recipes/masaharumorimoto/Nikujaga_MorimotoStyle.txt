@@ -1,0 +1,48 @@
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+1 pound beef rib eye
+Quantifiers: 1 pound rib 
+Ingredients: beef 
+
+4 potatoes, halved and cut in 1/4-inch slices
+Quantifiers: 4 in slices 
+Ingredients: potatoes cut 
+
+1 carrot, peeled and quartered
+Quantifiers: 1 
+Ingredients: carrot 
+
+12 baby onions
+Quantifiers: 12 
+Ingredients: onions 
+
+1 yellow bell pepper
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 red bell pepper
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 cups sake
+Quantifiers: 2 cups 
+Ingredients: sake 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+2 tablespoons mirin
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+2 tablespoons finely chopped chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+Hot chili oil
+Quantifiers: 
+Ingredients: chili oil 
+

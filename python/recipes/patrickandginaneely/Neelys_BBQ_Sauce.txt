@@ -1,0 +1,40 @@
+2 cups ketchup
+Quantifiers: 2 cups 
+Ingredients: ketchup 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+1/2 cup apple cider vinegar
+Quantifiers: 1/2 cup 
+Ingredients: apple cider_vinegar 
+
+5 tablespoons light brown sugar
+Quantifiers: 5 tablespoons light 
+Ingredients: brown_sugar 
+
+5 tablespoons sugar
+Quantifiers: 5 tablespoons 
+Ingredients: sugar 
+
+1/2 tablespoon fresh ground black pepper
+Quantifiers: 1/2 tablespoon ground 
+Ingredients: black_pepper 
+
+1/2 tablespoon onion powder
+Quantifiers: 1/2 tablespoon 
+Ingredients: onion 
+
+1/2 tablespoon ground mustard
+Quantifiers: 1/2 tablespoon ground 
+Ingredients: mustard 
+
+1 tablespoon lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+

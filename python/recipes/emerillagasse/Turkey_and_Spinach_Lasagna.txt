@@ -1,0 +1,112 @@
+12 whole-wheat lasagna noodles
+Quantifiers: 12 
+Ingredients: lasagna noodles 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/2 cup chopped onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+1 chopped red pepper
+Quantifiers: 1 
+Ingredients: red_pepper 
+
+1 pound ground turkey breast, white meat only
+Quantifiers: 1 pound ground breast white_meat 
+Ingredients: turkey meat 
+
+1/2 pound hot Italian turkey sausage
+Quantifiers: 1/2 pound 
+Ingredients: turkey sausage 
+
+1 teaspoon red pepper flakes
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+2 teaspoons chopped garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+1 teaspoon Essence, recipe follows
+Quantifiers: 1 teaspoon Essence 
+Ingredients: 
+
+3 1/2 cups prepared marinara sauce
+Quantifiers: 3 1/2 cups 
+Ingredients: marinara sauce 
+
+3 cups shredded part-skim mozzarella cheese, divided
+Quantifiers: 3 cups 
+Ingredients: mozzarella cheese 
+
+2 cups part skim ricotta
+Quantifiers: 2 cups 
+Ingredients: ricotta 
+
+2 cups thawed and drained chopped frozen spinach
+Quantifiers: 2 cups 
+Ingredients: spinach 
+
+1/4 cup grated Romano
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+2 egg whites
+Quantifiers: 2 
+Ingredients: egg_whites 
+
+1/2 cup chopped basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+1/4 cup chopped fresh parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1/4 teaspoon black pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: black_pepper 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+Emeril's ESSENCE Creole Seasoning (also referred to as Bayou Blast):
+Quantifiers: ESSENCE as 
+Ingredients: Seasoning 
+
+2 1/2 tablespoons paprika
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: paprika 
+
+2 tablespoons salt
+Quantifiers: 2 tablespoons 
+Ingredients: salt 
+
+2 tablespoons garlic powder
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 tablespoon black pepper
+Quantifiers: 1 tablespoon 
+Ingredients: black_pepper 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 tablespoon cayenne pepper
+Quantifiers: 1 tablespoon 
+Ingredients: cayenne_pepper 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1 tablespoon dried thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+

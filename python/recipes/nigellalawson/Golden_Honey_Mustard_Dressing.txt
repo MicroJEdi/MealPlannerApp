@@ -1,0 +1,20 @@
+4 tablespoons or 1/4 cup Dijon mustard
+Quantifiers: 4 tablespoons 1/4 cup 
+Ingredients: mustard 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1/3 cup lemon juice
+Quantifiers: 1/3 cup 
+Ingredients: lemon_juice 
+
+1 cup grapeseed oil
+Quantifiers: 1 cup 
+Ingredients: oil 
+
+1 teaspoon Maldon or kosher salt, or 1/2 teaspoon salt
+Quantifiers: 1 teaspoon 1/2 teaspoon 
+Ingredients: kosher salt salt 
+

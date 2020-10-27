@@ -1,0 +1,28 @@
+1 14-ounce package firm tofu
+Quantifiers: 1 package 
+Ingredients: tofu 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+8 cups spinach leaves
+Quantifiers: 8 cups leaves 
+Ingredients: spinach 
+
+1 tablespoon sesame seeds
+Quantifiers: 1 tablespoon 
+Ingredients: sesame_seeds 
+
+1 1/2 teaspoons sugar
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: sugar 
+
+1 teaspoon mirin (sweet rice wine)
+Quantifiers: 1 teaspoon 
+Ingredients: sweet rice wine 
+
+1 teaspoon soy sauce
+Quantifiers: 1 teaspoon 
+Ingredients: soy_sauce 
+

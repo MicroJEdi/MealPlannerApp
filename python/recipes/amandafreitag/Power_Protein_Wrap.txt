@@ -1,0 +1,68 @@
+2 ounces Avocado Dressing, recipe follows
+Quantifiers: 2 ounces 
+Ingredients: Avocado Dressing 
+
+1 large tortilla 
+Quantifiers: 1 
+Ingredients: tortilla 
+
+1/2 cup cooked quinoa
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+4 ounces sliced oven-roasted turkey 
+Quantifiers: 4 ounces 
+Ingredients: turkey 
+
+1 Roma tomato, sliced 
+Quantifiers: 1 
+Ingredients: tomato 
+
+2 ounces queso blanco, grilled 
+Quantifiers: 2 ounces 
+Ingredients: 
+
+1/2 cup baby spinach 
+Quantifiers: 1/2 cup 
+Ingredients: spinach 
+
+Avocado Dressing:
+Quantifiers: 
+Ingredients: Avocado Dressing 
+
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/4 cup lemon juice 
+Quantifiers: 1/4 cup 
+Ingredients: lemon_juice 
+
+2 tablespoons chopped fresh chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+2 tablespoons chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+1 tablespoon white distilled vinegar 
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar 
+
+1 teaspoon cracked black pepper 
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 ripe avocado
+Quantifiers: 1 
+Ingredients: avocado 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

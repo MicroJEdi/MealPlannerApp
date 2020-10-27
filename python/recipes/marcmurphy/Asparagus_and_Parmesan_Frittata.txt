@@ -1,0 +1,28 @@
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/4 cup chopped leftover asparagus (1/2-inch pieces) or other leftover vegetables
+Quantifiers: 1/4 cup pieces 
+Ingredients: asparagus vegetables 
+
+1/4 cup grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+
+Pinch kosher salt 
+Quantifiers: Pinch 
+Ingredients: kosher salt 
+
+Pinch freshly ground black pepper 
+Quantifiers: Pinch ground 
+Ingredients: black_pepper 
+
+1 teaspoon butter
+Quantifiers: 1 teaspoon 
+Ingredients: butter 
+
+Toasted English muffins, for serving
+Quantifiers: serving 
+Ingredients: English_muffins 
+

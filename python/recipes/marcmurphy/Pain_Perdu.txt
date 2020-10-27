@@ -1,0 +1,40 @@
+Four 3-inch-thick slices country bread
+Quantifiers: Four slices 
+Ingredients: bread 
+
+4 cups heavy cream
+Quantifiers: 4 cups 
+Ingredients: heavy_cream 
+
+1 cup vanilla sugar, plus more for sprinkling
+Quantifiers: 1 cup sprinkling 
+Ingredients: vanilla sugar 
+
+1/2 cup brandy
+Quantifiers: 1/2 cup 
+Ingredients: brandy 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+9 eggs
+Quantifiers: 9 
+Ingredients: eggs 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+All-purpose flour, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: flour 
+
+Powdered sugar, for serving
+Quantifiers: serving 
+Ingredients: Powdered_sugar 
+
+Maple syrup, for serving
+Quantifiers: serving 
+Ingredients: Maple_syrup 
+

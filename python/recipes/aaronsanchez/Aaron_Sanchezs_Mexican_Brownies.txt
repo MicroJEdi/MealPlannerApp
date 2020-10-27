@@ -1,0 +1,40 @@
+2 sticks unsalted butter, plus more for greasing
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 teaspoons vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+2/3 cup good-quality unsweetened cocoa powder
+Quantifiers: 2/3 cup 
+Ingredients: cocoa_powder 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 teaspoon ground Mexican cinnamon (canela)
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1/4 teaspoon pequen chili powder or cayenne pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: chili_powder cayenne_pepper 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon baking powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: baking_powder 
+

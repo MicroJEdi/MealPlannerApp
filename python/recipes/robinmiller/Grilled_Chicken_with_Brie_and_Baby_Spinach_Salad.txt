@@ -1,0 +1,44 @@
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+4 boneless skinless chicken breast halves, about 5 ounces each
+Quantifiers: 4 breast halves 5 ounces 
+Ingredients: chicken 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt-free garlic and herb seasoning
+Quantifiers: 
+Ingredients: garlic herb seasoning 
+
+4 to 8 slices Brie cheese, about 1/2-inch thick
+Quantifiers: 4 8 slices 
+Ingredients: Brie cheese 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 shallots, chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+2 tablespoons vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: vinegar 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+4 cups fresh baby spinach leaves
+Quantifiers: 4 cups leaves 
+Ingredients: spinach 
+
+4 slices bacon, cooked
+Quantifiers: 4 slices 
+Ingredients: bacon 
+

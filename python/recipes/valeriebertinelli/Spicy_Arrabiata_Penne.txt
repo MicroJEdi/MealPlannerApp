@@ -1,0 +1,36 @@
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 pound penne rigate (penne pasta with ridges) 
+Quantifiers: 1 pound 
+Ingredients: penne penne pasta 
+
+1/4 cup olive oil 
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+3 cloves garlic, chopped 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+One 26.42-ounce container chopped tomatoes, such as Pomi 
+Quantifiers: One container as 
+Ingredients: tomatoes 
+
+1/2 teaspoon red chile flakes 
+Quantifiers: 1/2 teaspoon 
+Ingredients: chile 
+
+1/2 teaspoon Italian seasoning 
+Quantifiers: 1/2 teaspoon 
+Ingredients: seasoning 
+
+6 leaves fresh basil, chopped, plus more for garnish
+Quantifiers: 6 leaves 
+Ingredients: basil 
+
+Block of Parmigiano-Reggiano, for garnish
+Quantifiers: Block 
+Ingredients: 
+

@@ -1,0 +1,140 @@
+Chicken Mole:
+Quantifiers: Mole 
+Ingredients: Chicken 
+
+2 dried ancho chiles
+Quantifiers: 2 
+Ingredients: chiles 
+
+3 tablespoons peanut oil
+Quantifiers: 3 tablespoons 
+Ingredients: peanut_oil 
+
+1 medium yellow onion, minced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 chipotle pepper in adobo sauce, minced
+Quantifiers: 1 in 
+Ingredients: chipotle pepper adobo sauce 
+
+2 1/2 tablespoons semisweet chocolate, chopped
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: chocolate 
+
+1/4 teaspoon ground cinnamon
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cinnamon 
+
+1/8 teaspoon ground cloves
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: cloves 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+3 cups chicken stock
+Quantifiers: 3 cups 
+Ingredients: chicken_stock 
+
+One 14 1/2-ounce can diced tomatoes, drained
+Quantifiers: One 14 can 
+Ingredients: tomatoes 
+
+1/4 cup almond butter
+Quantifiers: 1/4 cup 
+Ingredients: almond butter 
+
+1/4 cup raisins
+Quantifiers: 1/4 cup 
+Ingredients: raisins 
+
+2 tablespoons toasted sesame seeds
+Quantifiers: 2 tablespoons 
+Ingredients: sesame_seeds 
+
+4 bone-in skin-on chicken breasts (3 1/2 to 4 pounds)
+Quantifiers: 4 breasts 3 1/2 4 pounds 
+Ingredients: chicken 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+One 16-ounce can refried beans (with chorizo if available)
+Quantifiers: One can 
+Ingredients: refried_beans chorizo 
+
+4 fresh bolillo rolls, warmed
+Quantifiers: 4 rolls 
+Ingredients: 
+
+2 cups finely shredded iceberg lettuce
+Quantifiers: 2 cups lettuce 
+Ingredients: iceberg_lettuce 
+
+Pickled jalapenos
+Quantifiers: 
+Ingredients: jalapenos 
+
+Fresh cilantro leaves
+Quantifiers: leaves 
+Ingredients: cilantro 
+
+Tomatillo Salsa, recipe follows
+Quantifiers: 
+Ingredients: Tomatillo Salsa 
+
+Lime wedges, for garnish
+Quantifiers: 
+Ingredients: Lime wedges 
+
+Tomatillo Salsa:
+Quantifiers: 
+Ingredients: Tomatillo Salsa 
+
+1 pound fresh tomatillos, husk removed and rinsed well
+Quantifiers: 1 pound well 
+Ingredients: tomatillos 
+
+2 cloves garlic, peeled and left whole
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 jalapeno pepper, stemmed and halved
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+
+1/2 yellow onion, cut into thirds
+Quantifiers: 1/2 thirds 
+Ingredients: onion cut 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3/4 cup fresh cilantro
+Quantifiers: 3/4 cup 
+Ingredients: cilantro 
+
+Juice of 1 lime
+Quantifiers: 1 
+Ingredients: Juice lime 
+

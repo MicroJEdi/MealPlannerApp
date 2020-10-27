@@ -1,0 +1,48 @@
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1/2 medium onion, finely chopped 
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+2 cloves garlic, finely chopped 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 pound lean ground beef 
+Quantifiers: 1/2 pound 
+Ingredients: ground_beef 
+
+2 teaspoons sloppy joe or chili seasoning mix 
+Quantifiers: 2 teaspoons 
+Ingredients: sloppy_joe chili seasoning mix 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons ketchup 
+Quantifiers: 2 tablespoons 
+Ingredients: ketchup 
+
+2 tablespoons tomato paste 
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 teaspoon Worcestershire sauce 
+Quantifiers: 1 teaspoon 
+Ingredients: Worcestershire_sauce 
+
+2 tablespoons chopped fresh flat-leaf parsley 
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Two 8-ounce tubes crescent roll dough, unseparated 
+Quantifiers: Two tubes roll 
+Ingredients: crescent_roll dough 
+
+About 1/2 cup shredded sharp Cheddar
+Quantifiers: 1/2 cup sharp 
+Ingredients: Cheddar 
+

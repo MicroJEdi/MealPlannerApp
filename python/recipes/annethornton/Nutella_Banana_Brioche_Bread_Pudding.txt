@@ -1,0 +1,44 @@
+Cooking spray or butter, for the pan
+Quantifiers: spray pan 
+Ingredients: butter 
+
+1 (13-ounce) container Nutella
+Quantifiers: 1 container 
+Ingredients: 
+
+12 (3/4-inch) thick slices brioche or egg bread
+Quantifiers: 12 slices 
+Ingredients: brioche egg bread 
+
+8 large eggs
+Quantifiers: 8 
+Ingredients: eggs 
+
+2 cups cream
+Quantifiers: 2 cups 
+Ingredients: cream 
+
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+1/4 cup hazelnut liqueur (recommended: Frangelico) or amaretto
+Quantifiers: 1/4 cup 
+Ingredients: hazelnut liqueur amaretto 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1/2 teaspoon almond extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: almond_extract 
+
+3 ripe bananas
+Quantifiers: 3 
+Ingredients: bananas 
+

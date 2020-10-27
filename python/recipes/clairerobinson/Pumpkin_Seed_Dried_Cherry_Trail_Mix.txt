@@ -1,0 +1,24 @@
+2 cups baby pumpkin seeds (pepitas)
+Quantifiers: 2 cups 
+Ingredients: pumpkin_seeds 
+
+1 cup slivered almonds
+Quantifiers: 1 cup 
+Ingredients: almonds 
+
+3/4 cup raw sunflower seeds
+Quantifiers: 3/4 cup 
+Ingredients: sunflower_seeds 
+
+6 tablespoons pure Grade B maple syrup
+Quantifiers: 6 tablespoons Grade 
+Ingredients: B maple_syrup 
+
+Coarse salt
+Quantifiers: 
+Ingredients: salt 
+
+1 cup dried cherries or cranberries
+Quantifiers: 1 cup 
+Ingredients: cherries cranberries 
+

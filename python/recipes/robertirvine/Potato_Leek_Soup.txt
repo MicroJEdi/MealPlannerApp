@@ -1,0 +1,32 @@
+8 cups chicken stock
+Quantifiers: 8 cups 
+Ingredients: chicken_stock 
+
+6 russet potatoes, peeled and cut into large pieces
+Quantifiers: 6 pieces 
+Ingredients: potatoes cut 
+
+4 leeks (whites only), thoroughly washed and sliced
+Quantifiers: 4 
+Ingredients: leeks whites 
+
+3 stalks celery, roughly chopped
+Quantifiers: 3 
+Ingredients: celery 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+1 1/2 teaspoons finely chopped fresh thyme
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: thyme 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+

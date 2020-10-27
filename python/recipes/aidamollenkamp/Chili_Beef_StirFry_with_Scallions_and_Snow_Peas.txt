@@ -1,0 +1,52 @@
+2 tablespoons chili-garlic sauce
+Quantifiers: 2 tablespoons 
+Ingredients: sauce 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+2 tablespoons mirin or sherry
+Quantifiers: 2 tablespoons 
+Ingredients: sherry 
+
+1 teaspoon honey
+Quantifiers: 1 teaspoon 
+Ingredients: honey 
+
+2 teaspoons toasted sesame oil
+Quantifiers: 2 teaspoons 
+Ingredients: sesame_oil 
+
+2 teaspoons cornstarch
+Quantifiers: 2 teaspoons 
+Ingredients: 
+
+1 pound flank steak, trimmed and frozen briefly
+Quantifiers: 1 pound 
+Ingredients: flank_steak 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+6 scallions, ends trimmed and thinly sliced
+Quantifiers: 6 ends 
+Ingredients: scallions 
+
+4 garlic cloves, minced
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+1 tablespoon grated ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+12 ounces snow peas
+Quantifiers: 12 ounces 
+Ingredients: snow_peas 
+

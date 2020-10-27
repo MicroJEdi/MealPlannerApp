@@ -1,0 +1,76 @@
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 carrots, diced
+Quantifiers: 2 
+Ingredients: carrots 
+
+2 stalks celery, diced
+Quantifiers: 2 
+Ingredients: celery 
+
+2 cloves garlic, crushed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+2 pounds lean ground beef or lamb
+Quantifiers: 2 pounds 
+Ingredients: ground_beef lamb 
+
+2 tablespoons Worcestershire sauce
+Quantifiers: 2 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+1/2 cup beef stock
+Quantifiers: 1/2 cup 
+Ingredients: beef_stock 
+
+1 1/2 cups garden peas
+Quantifiers: 1 1/2 cups 
+Ingredients: garden_peas 
+
+Cheesy Mashed Potatoes, recipe follows
+Quantifiers: 
+Ingredients: Potatoes 
+
+Cheesy Mashed Potatoes:
+Quantifiers: 
+Ingredients: Potatoes 
+
+4 pounds Yukon gold potatoes, peeled, quartered
+Quantifiers: 4 pounds 
+Ingredients: potatoes 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+1 cup grated mature white Cheddar
+Quantifiers: 1 cup 
+Ingredients: white Cheddar 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

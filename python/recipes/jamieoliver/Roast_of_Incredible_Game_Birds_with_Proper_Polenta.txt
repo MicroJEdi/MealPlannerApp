@@ -1,0 +1,80 @@
+1 pheasant, spatchcocked, washed and patted dry
+Quantifiers: 1 
+Ingredients: pheasant 
+
+1 guinea fowl or 2 14 pounds chicken, spatchcocked, washed and patted dry
+Quantifiers: 1 guinea 2 14 pounds 
+Ingredients: fowl chicken 
+
+1 partridge, washed and patted dry
+Quantifiers: 1 
+Ingredients: partridge 
+
+2 wood pigeons, washed and patted dry
+Quantifiers: 2 wood 
+Ingredients: 
+
+4 quails, washed and patted dry
+Quantifiers: 4 
+Ingredients: quails 
+
+A small bunch fresh rosemary
+Quantifiers: A 
+Ingredients: rosemary 
+
+A small bunch fresh thyme
+Quantifiers: A 
+Ingredients: thyme 
+
+1 lemon or orange, zested
+Quantifiers: 1 
+Ingredients: lemon orange 
+
+1 red onion, peeled and roughly chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+4 sticks celery, trimmed and roughly chopped
+Quantifiers: 4 sticks 
+Ingredients: celery 
+
+4 carrots, peeled and roughly chopped
+Quantifiers: 4 
+Ingredients: carrots 
+
+4 Italian sausages
+Quantifiers: 4 
+Ingredients: sausages 
+
+A few sprigs fresh bay, leaves picked
+Quantifiers: A leaves 
+Ingredients: bay_leaves 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+1 pound polenta
+Quantifiers: 1 pound 
+Ingredients: polenta 
+
+A wineglass red wine (recommended: Chianti)
+Quantifiers: A wineglass 
+Ingredients: red_wine Chianti 
+
+1/2 cup butter, divided
+Quantifiers: 1/2 cup 
+Ingredients: butter 
+
+2 handfuls freshly grated Parmesan
+Quantifiers: 2 handfuls 
+Ingredients: Parmesan 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+

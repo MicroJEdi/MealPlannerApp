@@ -1,0 +1,40 @@
+1 1/2 cups dry sherry or Shaoxing wine
+Quantifiers: 1 1/2 cups 
+Ingredients: sherry wine 
+
+1/2 cup oyster sauce
+Quantifiers: 1/2 cup 
+Ingredients: oyster sauce 
+
+1/3 cup packed light brown sugar
+Quantifiers: 1/3 cup light 
+Ingredients: brown_sugar 
+
+2 1/2 pounds short ribs, English cut
+Quantifiers: 2 1/2 pounds ribs 
+Ingredients: short_ribs cut 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+2 teaspoons five-spice powder
+Quantifiers: 2 teaspoons 
+Ingredients: 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+6 medium garlic cloves, smashed
+Quantifiers: 6 medium 
+Ingredients: garlic_cloves 
+
+1-inch piece ginger, sliced
+Quantifiers: piece 
+Ingredients: ginger 
+
+1 small serrano or Thai bird chile, or jalapeno pepper, halved
+Quantifiers: 1 
+Ingredients: bird chile jalapeno_pepper 
+

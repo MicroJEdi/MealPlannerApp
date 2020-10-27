@@ -1,0 +1,40 @@
+2 tomatoes, seeded and chopped (about 2 cups)
+Quantifiers: 2 2 cups 
+Ingredients: tomatoes 
+
+1 small onion, chopped (about 1/2 cup)
+Quantifiers: 1 1/2 cup 
+Ingredients: onion 
+
+2 tablespoons chopped fresh cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+Minced fresh chile of choice, see Cook's Note*
+Quantifiers: Note 
+Ingredients: chile 
+
+Canola oil, for frying
+Quantifiers: 
+Ingredients: Canola_oil 
+
+6 fillets of tilapia (about 6 ounces each)
+Quantifiers: 6 6 ounces 
+Ingredients: fillets 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Flour, for dusting
+Quantifiers: 
+Ingredients: Flour 
+

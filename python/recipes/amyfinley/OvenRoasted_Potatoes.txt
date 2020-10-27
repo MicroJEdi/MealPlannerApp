@@ -1,0 +1,32 @@
+1/2 pound purple Peruvian potatoes, scrubbed clean
+Quantifiers: 1/2 pound 
+Ingredients: potatoes 
+
+1/2 pound red bliss potatoes, scrubbed clean
+Quantifiers: 1/2 pound 
+Ingredients: potatoes 
+
+1/2 pound small new potatoes, scrubbed clean
+Quantifiers: 1/2 pound 
+Ingredients: potatoes 
+
+8 small garlic cloves
+Quantifiers: 8 
+Ingredients: garlic_cloves 
+
+2 large shallots, peeled and quartered
+Quantifiers: 2 
+Ingredients: shallots 
+
+Rosemary or thyme sprigs
+Quantifiers: 
+Ingredients: Rosemary thyme 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+

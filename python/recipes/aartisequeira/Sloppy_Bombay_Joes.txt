@@ -1,0 +1,92 @@
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1 tablespoon minced ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 serrano chile, seeded and finely minced (save the other half for the turkey)
+Quantifiers: 1/2 half 
+Ingredients: chile turkey 
+
+1 teaspoon garam masala
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+1/2 teaspoon paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1 (15-ounce) can tomato sauce
+Quantifiers: 1 can 
+Ingredients: tomato_sauce 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+Turkey:
+Quantifiers: 
+Ingredients: Turkey 
+
+3 to 4 tablespoons vegetable oil
+Quantifiers: 3 4 tablespoons 
+Ingredients: vegetable_oil 
+
+Small handful shelled pistachios, about 1/4 cup
+Quantifiers: handful 1/4 cup 
+Ingredients: pistachios 
+
+Small handful raisins, about 1/4 cup
+Quantifiers: handful 1/4 cup 
+Ingredients: raisins 
+
+1 teaspoon cumin seeds
+Quantifiers: 1 teaspoon 
+Ingredients: cumin_seeds 
+
+1/2 large white onion, finely diced
+Quantifiers: 1/2 
+Ingredients: white onion 
+
+1 red bell pepper, seeds and membrane removed, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper seeds 
+
+1/2 serrano chile, seeds intact (don't chop it up unless you like things spicy!)
+Quantifiers: 1/2 
+Ingredients: chile seeds chop 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 pound ground turkey
+Quantifiers: 1 pound ground 
+Ingredients: turkey 
+
+1/2 teaspoon honey
+Quantifiers: 1/2 teaspoon 
+Ingredients: honey 
+
+1/4 cup half-and-half
+Quantifiers: 1/4 cup 
+Ingredients: half-and-half 
+
+Small handful chopped fresh cilantro (soft stems included)
+Quantifiers: handful 
+Ingredients: cilantro 
+
+4 to 6 hamburger buns
+Quantifiers: 4 6 
+Ingredients: hamburger_buns 
+

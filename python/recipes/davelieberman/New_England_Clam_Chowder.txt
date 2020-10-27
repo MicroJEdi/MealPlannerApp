@@ -1,0 +1,60 @@
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 medium onion, finely diced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2 celery stalks (reserve tender leaves) trimmed, quartered lengthwise, then sliced into 1/4-inch pieces
+Quantifiers: 2 reserve tender leaves then pieces 
+Ingredients: celery 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+2 cups chicken or vegetable stock
+Quantifiers: 2 cups 
+Ingredients: chicken vegetable stock 
+
+2 (10-ounce) cans chopped clams in juice
+Quantifiers: 2 cans clams in 
+Ingredients: juice 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 pound Idaho potatoes, cut into 1/2- inch cubes
+Quantifiers: 1 pound inch cubes 
+Ingredients: potatoes cut 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Pan Toasted Croutons:
+Quantifiers: Pan 
+Ingredients: Croutons 
+
+2 to 3 tablespoons unsalted butter
+Quantifiers: 2 3 tablespoons 
+Ingredients: butter 
+
+1/2 baguette, cut into 1-inch cubes
+Quantifiers: 1/2 cubes 
+Ingredients: baguette cut 
+
+3 tablespoons freshly chopped flat-leaf parsley
+Quantifiers: 3 tablespoons 
+Ingredients: parsley 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

@@ -1,0 +1,24 @@
+1 (4-pound) whole chicken
+Quantifiers: 1 
+Ingredients: chicken 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+2 tablespoons salt
+Quantifiers: 2 tablespoons 
+Ingredients: salt 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+3 tablespoons of your favorite dry spice rub
+Quantifiers: 3 tablespoons 
+Ingredients: spice 
+
+1 can beer
+Quantifiers: 1 can 
+Ingredients: beer 
+

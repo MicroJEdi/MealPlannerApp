@@ -1,0 +1,104 @@
+BBQ Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+1 1/2 cups ketchup
+Quantifiers: 1 1/2 cups 
+Ingredients: ketchup 
+
+1/2 cup yellow mustard 
+Quantifiers: 1/2 cup 
+Ingredients: mustard 
+
+1/2 cup packed dark brown sugar 
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+3 medium garlic cloves, finely chopped 
+Quantifiers: 3 medium 
+Ingredients: garlic_cloves 
+
+3 tablespoons cider vinegar 
+Quantifiers: 3 tablespoons 
+Ingredients: cider_vinegar 
+
+3 tablespoons Worcestershire sauce 
+Quantifiers: 3 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+2 tablespoons Cajun seasoning
+Quantifiers: 2 tablespoons 
+Ingredients: seasoning 
+
+Pulled Pork:
+Quantifiers: 
+Ingredients: Pork 
+
+1 yellow onion, thinly sliced
+Quantifiers: 1 
+Ingredients: onion 
+
+4 medium cloves garlic, crushed 
+Quantifiers: 4 medium 
+Ingredients: cloves garlic 
+
+2 cup chicken stock or low-sodium chicken broth 
+Quantifiers: 2 cup 
+Ingredients: chicken_stock chicken_broth 
+
+3 tablespoons Cajun seasoning
+Quantifiers: 3 tablespoons 
+Ingredients: seasoning 
+
+1 tablespoon packed dark brown sugar 
+Quantifiers: 1 tablespoon dark 
+Ingredients: brown_sugar 
+
+One 4 1/2- to 5-pound boneless or bone-in pork shoulder (also known as pork 
+Quantifiers: One 4 as 
+Ingredients: pork shoulder pork 
+
+butt), twine or netting removed 
+Quantifiers: butt 
+Ingredients: 
+
+Red and Green Cabbage Coleslaw:
+Quantifiers: 
+Ingredients: Green Cabbage Coleslaw 
+
+1/2 head green cabbage, finely shredded
+Quantifiers: 1/2 head 
+Ingredients: green cabbage 
+
+1/2 head red cabbage, finely shredded
+Quantifiers: 1/2 head 
+Ingredients: red_cabbage 
+
+2 large carrots, finely shredded 
+Quantifiers: 2 
+Ingredients: carrots 
+
+1/2 red onion, finely sliced 
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+3/4 cup mayonnaise 
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+3 tablespoons cider vinegar 
+Quantifiers: 3 tablespoons 
+Ingredients: cider_vinegar 
+
+2 tablespoons sugar 
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+15 soft hamburger buns
+Quantifiers: 15 
+Ingredients: hamburger_buns 
+

@@ -1,0 +1,56 @@
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 teaspoons baking soda
+Quantifiers: 2 teaspoons 
+Ingredients: soda 
+
+1 1/2 teaspoons ground ginger
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: ginger 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1/4 teaspoon ground allspice
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: allspice 
+
+1/4 teaspoon ground cloves
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: cloves 
+
+1/2 cup vegetable shortening
+Quantifiers: 1/2 cup 
+Ingredients: vegetable shortening 
+
+1/4 cup unsalted butter, softened
+Quantifiers: 1/4 cup 
+Ingredients: butter 
+
+1/2 cup firmly packed light brown sugar
+Quantifiers: 1/2 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1/4 cup molasses
+Quantifiers: 1/4 cup 
+Ingredients: molasses 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/4 cup plus 1 tablespoon turbinando sugar
+Quantifiers: 1/4 cup 1 tablespoon 
+Ingredients: sugar 
+

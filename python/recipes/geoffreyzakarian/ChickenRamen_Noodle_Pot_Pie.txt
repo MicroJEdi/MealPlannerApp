@@ -1,0 +1,60 @@
+1 package ramen noodles
+Quantifiers: 1 package 
+Ingredients: noodles 
+
+Two 8-inch pie crusts 
+Quantifiers: Two 
+Ingredients: pie_crusts 
+
+1 1/2 cups chicken stock 
+Quantifiers: 1 1/2 cups 
+Ingredients: chicken_stock 
+
+3/4 cup sliced halved carrots 
+Quantifiers: 3/4 cup 
+Ingredients: carrots 
+
+3/4 cup fresh or frozen English peas
+Quantifiers: 3/4 cup 
+Ingredients: peas 
+
+1/2 cup sliced leeks (thoroughly rinsed)
+Quantifiers: 1/2 cup 
+Ingredients: leeks 
+
+4 tablespoons butter 
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1/4 cup all-purpose flour 
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+1/2 cup milk 
+Quantifiers: 1/2 cup 
+Ingredients: milk 
+
+1/4 cup heavy cream 
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+Kosher salt and freshly cracked pepper 
+Quantifiers: 
+Ingredients: Kosher salt pepper 
+
+Kosher salt and freshly cracked pepper
+Quantifiers: 
+Ingredients: Kosher salt pepper 
+
+1 1/2 cups 1/2-inch-diced cooked chicken breasts (two 8-ounce breasts)
+Quantifiers: 1 1/2 cups breasts two breasts 
+Ingredients: chicken 
+
+2 tablespoons sliced chives 
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+1 egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+

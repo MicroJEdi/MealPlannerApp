@@ -1,0 +1,56 @@
+4 stalks celery, cut into 1-inch pieces
+Quantifiers: 4 pieces 
+Ingredients: celery cut 
+
+2 large sweet potatoes, peeled and cut into 1-inch pieces 
+Quantifiers: 2 pieces 
+Ingredients: sweet potatoes cut 
+
+1 red onion, cut into 1-inch pieces 
+Quantifiers: 1 pieces 
+Ingredients: red_onion cut 
+
+1/4 cup olive oil, plus more for finishing salad
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil salad 
+
+1 teaspoon ras el hanout 
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+1 teaspoon finely minced fresh rosemary 
+Quantifiers: 1 teaspoon 
+Ingredients: rosemary 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly cracked black pepper 
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+1 cup green grapes, cut in half 
+Quantifiers: 1 cup in half 
+Ingredients: green grapes cut 
+
+1 cup toasted pecans
+Quantifiers: 1 cup 
+Ingredients: pecans 
+
+1/2 cup pomegranate seeds 
+Quantifiers: 1/2 cup 
+Ingredients: pomegranate seeds 
+
+1/2 cup thinly sliced scallions 
+Quantifiers: 1/2 cup 
+Ingredients: scallions 
+
+1/4 cup golden raisins 
+Quantifiers: 1/4 cup 
+Ingredients: raisins 
+
+Sherry vinegar, as needed
+Quantifiers: as 
+Ingredients: Sherry vinegar 
+

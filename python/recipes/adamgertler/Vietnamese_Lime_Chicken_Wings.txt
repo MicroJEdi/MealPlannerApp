@@ -1,0 +1,40 @@
+1/2 cup chicken bouillon powder (weird I know, but it works)
+Quantifiers: 1/2 cup I works 
+Ingredients: chicken bouillon 
+
+1/2 cup Vietnamese chili sauce (Sriracha works too)
+Quantifiers: 1/2 cup works 
+Ingredients: chili_sauce 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+1/2 cup cooking oil
+Quantifiers: 1/2 cup 
+Ingredients: cooking_oil 
+
+1/2 cup pureed shallot (onion works fine too)
+Quantifiers: 1/2 cup works 
+Ingredients: shallot onion 
+
+1/4 cup rice vinegar
+Quantifiers: 1/4 cup 
+Ingredients: rice vinegar 
+
+20 kaffir lime leaves, finely chopped
+Quantifiers: 20 leaves 
+Ingredients: lime 
+
+24 whole jumbo chicken wings
+Quantifiers: 24 chicken_wings 
+Ingredients: 
+
+1 cup cilantro leaves
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+1 cup roasted peanuts, chopped
+Quantifiers: 1 cup 
+Ingredients: peanuts 
+

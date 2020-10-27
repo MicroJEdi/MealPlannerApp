@@ -1,0 +1,32 @@
+6 (6-ounce) boneless skinless chicken breasts
+Quantifiers: 6 breasts 
+Ingredients: chicken 
+
+2 tablespoons Hungarian paprika
+Quantifiers: 2 tablespoons 
+Ingredients: paprika 
+
+1 tablespoon kosher salt and freshly ground black pepper, to taste
+Quantifiers: 1 tablespoon ground taste 
+Ingredients: kosher salt black_pepper 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 quart heavy cream
+Quantifiers: 1 quart 
+Ingredients: heavy_cream 
+
+2 tablespoons of thyme
+Quantifiers: 2 tablespoons 
+Ingredients: thyme 
+
+2 pounds of cooked rigatoni
+Quantifiers: 2 pounds 
+Ingredients: rigatoni 
+
+6 ounces goat cheese
+Quantifiers: 6 ounces 
+Ingredients: goat_cheese 
+

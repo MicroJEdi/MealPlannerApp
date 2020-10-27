@@ -1,0 +1,80 @@
+9 tablespoons butter
+Quantifiers: 9 tablespoons 
+Ingredients: butter 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+4 boneless skinless chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+2 1/4 teaspoons salt
+Quantifiers: 2 1/4 teaspoons 
+Ingredients: salt 
+
+1 1/4 teaspoons freshly ground black pepper
+Quantifiers: 1 1/4 teaspoons ground 
+Ingredients: black_pepper 
+
+1 pound white mushrooms, sliced
+Quantifiers: 1 pound 
+Ingredients: white mushrooms 
+
+1 large onion, finely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+5 cloves garlic, minced
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+1 tablespoon chopped fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/3 cup all-purpose flour
+Quantifiers: 1/3 cup 
+Ingredients: flour 
+
+4 cups whole milk, room temperature
+Quantifiers: 4 cups room_temperature 
+Ingredients: whole_milk 
+
+1 cup heavy whipping cream, room temperature
+Quantifiers: 1 cup room_temperature 
+Ingredients: whipping_cream 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1/8 teaspoon ground nutmeg
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: nutmeg 
+
+12 ounces linguine
+Quantifiers: 12 ounces 
+Ingredients: linguine 
+
+3/4 cup frozen peas
+Quantifiers: 3/4 cup 
+Ingredients: peas 
+
+1/4 cup chopped fresh Italian parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1 cup grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+
+1/4 cup dried Italian-style breadcrumbs
+Quantifiers: 1/4 cup breadcrumbs 
+Ingredients: 
+

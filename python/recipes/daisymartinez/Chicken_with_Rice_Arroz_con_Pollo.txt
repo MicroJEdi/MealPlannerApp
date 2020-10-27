@@ -1,0 +1,88 @@
+1/4 cup Achiote Oil, recipe follows
+Quantifiers: 1/4 cup 
+Ingredients: Oil 
+
+1 (3 to 4-pound) chicken, cut into 10 pieces
+Quantifiers: 1 3 10 pieces 
+Ingredients: chicken cut 
+
+Fine sea or kosher salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: kosher salt black_pepper 
+
+1/2 cup Sofrito, recipe follows
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1/4 cup alcaparrado or coarsely chopped pimiento-stuffed olives
+Quantifiers: 1/4 cup 
+Ingredients: olives 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+Pinch ground cloves
+Quantifiers: Pinch ground 
+Ingredients: cloves 
+
+4 cups long-grain rice
+Quantifiers: 4 cups 
+Ingredients: rice 
+
+5 cups homemade or store-bought reduced-sodium chicken broth
+Quantifiers: 5 cups 
+Ingredients: chicken_broth 
+
+2 large bottled roasted red peppers, cut into 1/4-inch strips (about 1 1/2 cups)
+Quantifiers: 2 1 1/2 cups 
+Ingredients: red_peppers cut 
+
+Achiote Oil:
+Quantifiers: 
+Ingredients: Oil 
+
+1 cup olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+2 tablespoons achiote (annatto) seeds, see Cook's Note*
+Quantifiers: 2 tablespoons Note 
+Ingredients: seeds 
+
+Sofrito:
+Quantifiers: 
+Ingredients: 
+
+2 medium Spanish onions (about 12 ounces), cut into large chunks
+Quantifiers: 2 medium 12 ounces chunks 
+Ingredients: Spanish_onions cut 
+
+3 to 4 Italian frying peppers or Cubanelle peppers, cored, seeded and cut into large chunks
+Quantifiers: 3 4 chunks 
+Ingredients: peppers peppers cut 
+
+16 to 20 cloves garlic, peeled
+Quantifiers: 16 20 
+Ingredients: cloves garlic 
+
+1 large bunch cilantro, washed
+Quantifiers: 1 
+Ingredients: cilantro 
+
+7 to 10 ajices dulces (see Cook's Note*), optional
+Quantifiers: 7 10 Note 
+Ingredients: 
+
+4 leaves culantro (see Cook's Note*), optional
+Quantifiers: 4 leaves Note 
+Ingredients: 
+
+3 to 4 ripe plum tomatoes (about 1 pound), cored and cut into chunks
+Quantifiers: 3 4 1 pound chunks 
+Ingredients: plum tomatoes cut 
+
+1 large red bell pepper, cored, seeded and cut into large chunks
+Quantifiers: 1 chunks 
+Ingredients: bell_pepper cut 
+

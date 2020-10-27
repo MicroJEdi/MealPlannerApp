@@ -1,0 +1,16 @@
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+1 heaping tablespoon chipotle pepper puree
+Quantifiers: 1 tablespoon 
+Ingredients: chipotle pepper puree 
+
+3 medium sweet potatoes, peeled and thinly sliced 1/8-inch thick
+Quantifiers: 3 medium 
+Ingredients: sweet potatoes 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

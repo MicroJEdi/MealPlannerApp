@@ -1,0 +1,84 @@
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+1 large onion, 1/4-inch dice
+Quantifiers: 1 
+Ingredients: onion 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+2 cloves garlic, smashed and chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Pinch crushed red pepper
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+1/2 pound ground beef
+Quantifiers: 1/2 pound 
+Ingredients: ground_beef 
+
+1/2 pound ground veal
+Quantifiers: 1/2 pound ground 
+Ingredients: veal 
+
+1/2 pound ground pork
+Quantifiers: 1/2 pound ground 
+Ingredients: pork 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup grated Parmigiano
+Quantifiers: 1 cup 
+Ingredients: 
+
+1/4 cup finely chopped fresh Italian parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+1 cup breadcrumbs
+Quantifiers: 1 cup breadcrumbs 
+Ingredients: 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+Marinara Sauce, recipe follows
+Quantifiers: 
+Ingredients: Marinara Sauce 
+
+Marinara Sauce:
+Quantifiers: 
+Ingredients: Marinara Sauce 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/4 pound diced pancetta
+Quantifiers: 1/4 pound 
+Ingredients: 
+
+2 large Spanish onions, cut into 1/4-inch dice
+Quantifiers: 2 
+Ingredients: Spanish_onions cut 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+4 large garlic cloves, smashed and chopped
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+4 (28-ounce) cans Italian plum San Marzano tomatoes
+Quantifiers: 4 cans 
+Ingredients: plum tomatoes 
+

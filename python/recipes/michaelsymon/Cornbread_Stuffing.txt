@@ -1,0 +1,56 @@
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 cups chopped yellow onions
+Quantifiers: 2 cups 
+Ingredients: onions 
+
+1 cup chopped celery
+Quantifiers: 1 cup 
+Ingredients: celery 
+
+2 cups fresh corn kernels
+Quantifiers: 2 cups 
+Ingredients: corn kernels 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 cup diced red pepper
+Quantifiers: 1 cup 
+Ingredients: red_pepper 
+
+1/2-pound diced smoked ham
+Quantifiers: 
+Ingredients: ham 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+3 cups chicken stock
+Quantifiers: 3 cups 
+Ingredients: chicken_stock 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+2 tablespoons freshly chopped cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+2 tablespoons freshly chopped flat-leaf parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+8 cups cubed and toasted cornbread
+Quantifiers: 8 cups 
+Ingredients: cornbread 
+

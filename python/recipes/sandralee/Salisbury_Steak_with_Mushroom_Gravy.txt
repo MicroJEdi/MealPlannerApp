@@ -1,0 +1,52 @@
+1 pound lean ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1 (10-ounce) can condensed cream of mushroom soup, divided
+Quantifiers: 1 can 
+Ingredients: cream mushroom soup 
+
+1/2 cup Italian bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: Italian_bread 
+
+1 egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 cup frozen chopped onions
+Quantifiers: 1/2 cup 
+Ingredients: onions 
+
+1 teaspoon steak seasoning (recommended: Montreal)
+Quantifiers: 1 teaspoon 
+Ingredients: steak seasoning 
+
+1 tablespoon canola oil
+Quantifiers: 1 tablespoon 
+Ingredients: canola_oil 
+
+2 tablespoons butter, divided
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/4 cup cognac
+Quantifiers: 1/4 cup 
+Ingredients: cognac 
+
+1 (8-ounce) package sliced fresh mushrooms
+Quantifiers: 1 package 
+Ingredients: mushrooms 
+
+2 cups low-sodium beef broth
+Quantifiers: 2 cups 
+Ingredients: beef_broth 
+
+1 (1.2-ounce) packet brown gravy mix
+Quantifiers: 1 packet 
+Ingredients: gravy mix 
+
+Cooked rice, for serving
+Quantifiers: serving 
+Ingredients: rice 
+

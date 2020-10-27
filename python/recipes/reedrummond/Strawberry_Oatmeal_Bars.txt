@@ -1,0 +1,28 @@
+1 3/4 sticks salted butter, cut into pieces, plus more for greasing pan
+Quantifiers: 1 3/4 sticks pieces pan 
+Ingredients: butter cut 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1 1/2 cup oats
+Quantifiers: 1 1/2 cup 
+Ingredients: oats 
+
+1 cup packed brown sugar
+Quantifiers: 1 cup 
+Ingredients: brown_sugar 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+One 10 to 12-ounce jar strawberry preserves
+Quantifiers: One 10 jar 
+Ingredients: strawberry_preserves 
+

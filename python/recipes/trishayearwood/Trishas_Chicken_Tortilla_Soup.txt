@@ -1,0 +1,72 @@
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 teaspoon minced garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 medium onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+Three 14-ounce cans chicken broth
+Quantifiers: Three cans 
+Ingredients: chicken_broth 
+
+4 cups half-and-half
+Quantifiers: 4 cups 
+Ingredients: half-and-half 
+
+One 10.75-ounce can cream of chicken soup
+Quantifiers: One can 
+Ingredients: cream chicken_soup 
+
+1 cup prepared salsa, mild or spicy
+Quantifiers: 1 cup 
+Ingredients: salsa 
+
+4 boneless, skinless chicken breasts, boiled, drained and shredded
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+One 16-ounce bag tortilla chips
+Quantifiers: One bag 
+Ingredients: tortilla_chips 
+
+8 ounces Monterey Jack, grated
+Quantifiers: 8 ounces Jack 
+Ingredients: 
+
+8 ounces sharp Cheddar, grated
+Quantifiers: 8 ounces sharp 
+Ingredients: Cheddar 
+
+One 15-ounce can black beans, drained
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 15-ounce can kidney beans, drained
+Quantifiers: One can 
+Ingredients: kidney_beans 
+
+One 15-ounce can whole kernel corn, drained
+Quantifiers: One can 
+Ingredients: kernel corn 
+
+2 teaspoon ground cumin
+Quantifiers: 2 teaspoon ground 
+Ingredients: cumin 
+
+One 1.27-ounce packet fajita seasoning
+Quantifiers: One packet 
+Ingredients: seasoning 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+

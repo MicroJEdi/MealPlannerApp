@@ -1,0 +1,64 @@
+4 pounds pork shoulder roast
+Quantifiers: 4 pounds 
+Ingredients: pork shoulder roast 
+
+5 to 6 whole cloves
+Quantifiers: 5 6 
+Ingredients: cloves 
+
+3 tablespoons Smokey BBQ Rub, recipe follows
+Quantifiers: 3 tablespoons 
+Ingredients: 
+
+2 red onions, thinly sliced
+Quantifiers: 2 
+Ingredients: red_onions 
+
+16 ounces barbeque sauce
+Quantifiers: 16 ounces 
+Ingredients: barbeque sauce 
+
+Smokey BBQ Rub:
+Quantifiers: 
+Ingredients: 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+3 tablespoons brown sugar
+Quantifiers: 3 tablespoons 
+Ingredients: brown_sugar 
+
+2 tablespoons dark chili powder
+Quantifiers: 2 tablespoons dark 
+Ingredients: chili_powder 
+
+2 tablespoons smoked paprika
+Quantifiers: 2 tablespoons 
+Ingredients: paprika 
+
+1 tablespoon garlic powder
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 tablespoon fresh ground black pepper
+Quantifiers: 1 tablespoon ground 
+Ingredients: black_pepper 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+1 teaspoon dry mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+

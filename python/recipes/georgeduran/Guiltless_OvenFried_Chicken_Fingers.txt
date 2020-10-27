@@ -1,0 +1,24 @@
+1 cup low-fat mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+1 tablespoon curry paste, or more
+Quantifiers: 1 tablespoon 
+Ingredients: curry paste 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 skinless, boneless chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+2 cups panko (Japanese) bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+

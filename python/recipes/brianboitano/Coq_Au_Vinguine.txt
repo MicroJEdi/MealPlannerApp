@@ -1,0 +1,56 @@
+1/2 cup olive oil, divided
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/4 pound pancetta, chopped
+Quantifiers: 1/4 pound 
+Ingredients: 
+
+1 pound cipollini onions, peeled and sliced in 1/2
+Quantifiers: 1 pound in 1/2 
+Ingredients: onions 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 1/2 pounds boneless skinless chicken breast, cut into bite-size pieces
+Quantifiers: 1 1/2 pounds breast pieces 
+Ingredients: chicken cut 
+
+1 pound crimini mushrooms, sliced
+Quantifiers: 1 pound 
+Ingredients: mushrooms 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 bottle medium-bodied Italian red wine
+Quantifiers: 1 bottle 
+Ingredients: red_wine 
+
+3 sprigs fresh thyme, leaves removed
+Quantifiers: 3 leaves 
+Ingredients: thyme 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 pound linguine
+Quantifiers: 1 pound 
+Ingredients: linguine 
+
+Fresh parsley leaves, roughly chopped
+Quantifiers: leaves 
+Ingredients: parsley 
+

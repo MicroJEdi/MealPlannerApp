@@ -1,0 +1,52 @@
+2 teaspoons seasoning salt
+Quantifiers: 2 teaspoons 
+Ingredients: seasoning salt 
+
+1 teaspoon cracked black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+1 teaspoon smoked paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon granulated garlic
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon onion powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+2 (1-inch thick) pork chops
+Quantifiers: 2 
+Ingredients: pork chops 
+
+1/2 cup self-rising flour
+Quantifiers: 1/2 cup 
+Ingredients: self-rising_flour 
+
+3 to 4 tablespoons grapeseed oil
+Quantifiers: 3 4 tablespoons 
+Ingredients: oil 
+
+1 tablespoon freshly chopped thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+1 Vidalia onion, sliced
+Quantifiers: 1 
+Ingredients: Vidalia_onion 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 cups beef stock
+Quantifiers: 2 cups 
+Ingredients: beef_stock 
+
+1 cup chicken stock
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+

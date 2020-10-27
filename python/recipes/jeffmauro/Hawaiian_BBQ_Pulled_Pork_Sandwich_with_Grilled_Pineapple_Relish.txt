@@ -1,0 +1,124 @@
+Roast Pork:
+Quantifiers: 
+Ingredients: Roast_Pork 
+
+1/4 cup light brown sugar 
+Quantifiers: 1/4 cup light 
+Ingredients: brown_sugar 
+
+1 tablespoon ground coriander
+Quantifiers: 1 tablespoon ground 
+Ingredients: coriander 
+
+1 tablespoon garlic powder 
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 tablespoon onion powder
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+2 teaspoons ground cinnamon 
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 boneless pork butt or shoulder, fat cap scored (about 5 pounds)
+Quantifiers: 1 butt cap 5 pounds 
+Ingredients: pork shoulder 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+Sweet Chile Sauce, warmed, recipe follows
+Quantifiers: 
+Ingredients: Sweet Chile Sauce 
+
+Unsalted butter, softened, to toast rolls
+Quantifiers: rolls 
+Ingredients: butter toast 
+
+4 soft potato rolls or sweet Hawaiian bread rolls
+Quantifiers: 4 rolls rolls 
+Ingredients: potato sweet bread 
+
+Grilled Pineapple Relish, recipe follows
+Quantifiers: 
+Ingredients: Pineapple Relish 
+
+Shredded red cabbage, to garnish
+Quantifiers: 
+Ingredients: red_cabbage 
+
+Sweet Chile Sauce:
+Quantifiers: 
+Ingredients: Sweet Chile Sauce 
+
+2 cups rice vinegar
+Quantifiers: 2 cups 
+Ingredients: rice vinegar 
+
+1 cup brown sugar
+Quantifiers: 1 cup 
+Ingredients: brown_sugar 
+
+1 tablespoon crushed red pepper
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+1 teaspoon kosher salt 
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+4 cloves garlic, smashed
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+Grilled Pineapple Relish:
+Quantifiers: 
+Ingredients: Pineapple Relish 
+
+Oil, for grilling
+Quantifiers: 
+Ingredients: Oil 
+
+1 fresh pineapple, skinned, cored and cut into 1-inch slices
+Quantifiers: 1 slices 
+Ingredients: pineapple cut 
+
+2 tablespoons chopped fresh cilantro
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+1 tablespoon peeled and grated fresh ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1 jalapeno, seeded and diced
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1/2 red onion, diced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

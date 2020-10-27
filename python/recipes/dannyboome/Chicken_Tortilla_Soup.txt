@@ -1,0 +1,56 @@
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1 small onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 jalapenos, finely diced
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+6 cups low-sodium chicken broth
+Quantifiers: 6 cups 
+Ingredients: chicken_broth 
+
+One 14.5-ounce can fire-roasted diced tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 14.5-ounce can black beans, rinsed and drained
+Quantifiers: One can 
+Ingredients: black_beans 
+
+3 chicken breasts, boneless and skinless
+Quantifiers: 3 breasts 
+Ingredients: chicken 
+
+2 limes, juiced, plus wedges for garnish
+Quantifiers: 2 
+Ingredients: limes wedges 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 cup roughly chopped fresh cilantro leaves
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+One 8-inch flour tortilla, grilled, cut into thin strips
+Quantifiers: One 
+Ingredients: flour tortilla cut 
+
+1 avocado, pitted, sliced
+Quantifiers: 1 
+Ingredients: avocado 
+
+1 cup shredded Monterrey cheese
+Quantifiers: 1 cup 
+Ingredients: cheese 
+

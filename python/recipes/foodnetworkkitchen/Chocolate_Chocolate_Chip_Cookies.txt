@@ -1,0 +1,44 @@
+2 1/4 cups flour
+Quantifiers: 2 1/4 cups 
+Ingredients: flour 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+2 sticks butter, softened
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+1 cup granulated sugar
+Quantifiers: 1 cup 
+Ingredients: granulated_sugar 
+
+1 cup packed brown sugar
+Quantifiers: 1 cup 
+Ingredients: brown_sugar 
+
+2 large eggs, beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon vanilla
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla 
+
+1/2 cup unsweetened cocoa
+Quantifiers: 1/2 cup 
+Ingredients: cocoa 
+
+2 cups chocolate chips, 2 Hershey's chocolate bars, chopped or M&M'S
+Quantifiers: 2 cups 2 bars MMS 
+Ingredients: chips chocolate_bars 
+
+1 cup chopped walnuts (optional)
+Quantifiers: 1 cup 
+Ingredients: walnuts 
+

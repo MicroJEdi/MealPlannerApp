@@ -1,0 +1,24 @@
+4 English cut beef short ribs, trimmed (roughly 8 ounces each)
+Quantifiers: 4 ribs 8 ounces 
+Ingredients: cut beef short_ribs 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+3 tablespoons unsalted butter, divided
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 bottle full bodied red wine, such as Cabernet
+Quantifiers: 1 bottle as 
+Ingredients: red_wine Cabernet 
+
+4 cups low-sodium vegetable stock
+Quantifiers: 4 cups 
+Ingredients: vegetable stock 
+
+4 cloves garlic, peeled and smashed
+Quantifiers: 4 
+Ingredients: cloves garlic 
+

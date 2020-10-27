@@ -1,0 +1,24 @@
+Vegetable spray
+Quantifiers: spray 
+Ingredients: Vegetable 
+
+2 large russet potatoes, roughly peeled and thinly sliced
+Quantifiers: 2 
+Ingredients: potatoes 
+
+1/2 cup grated Swiss cheese
+Quantifiers: 1/2 cup 
+Ingredients: Swiss_cheese 
+
+2 green onions, finely chopped
+Quantifiers: 2 
+Ingredients: green_onions 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3/4 cup heavy cream
+Quantifiers: 3/4 cup 
+Ingredients: heavy_cream 
+

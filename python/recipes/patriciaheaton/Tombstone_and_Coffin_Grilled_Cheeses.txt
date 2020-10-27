@@ -1,0 +1,48 @@
+1 cup shredded sharp Cheddar
+Quantifiers: 1 cup sharp 
+Ingredients: Cheddar 
+
+1 cup shredded Gouda 
+Quantifiers: 1 cup 
+Ingredients: Gouda 
+
+1 cup shredded mozzarella 
+Quantifiers: 1 cup 
+Ingredients: mozzarella 
+
+1 cup shredded Monterey Jack 
+Quantifiers: 1 cup Jack 
+Ingredients: 
+
+8 slices white sandwich bread (preferably the kind that has a bit of a heart shape on the top)
+Quantifiers: 8 slices a bit a 
+Ingredients: white sandwich bread heart 
+
+1/4 cup prepared pesto 
+Quantifiers: 1/4 cup 
+Ingredients: pesto 
+
+8 slices dark sandwich bread, such as pumpernickel or rye 
+Quantifiers: 8 slices dark as 
+Ingredients: sandwich bread pumpernickel rye 
+
+1/4 cup fig jam 
+Quantifiers: 1/4 cup 
+Ingredients: fig jam 
+
+1 stick (8 tablespoons) unsalted butter, melted 
+Quantifiers: 1 stick 8 tablespoons 
+Ingredients: butter 
+
+1/2 cup ketchup in a squeeze bottle 
+Quantifiers: 1/2 cup in a bottle 
+Ingredients: ketchup 
+
+1/2 cup mustard in a squeeze bottle 
+Quantifiers: 1/2 cup in a bottle 
+Ingredients: mustard 
+
+8 cups thinly shredded iceberg lettuce (about 1 head)
+Quantifiers: 8 cups lettuce 1 head 
+Ingredients: iceberg_lettuce 
+

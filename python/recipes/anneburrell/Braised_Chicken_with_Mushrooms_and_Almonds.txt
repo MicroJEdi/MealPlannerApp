@@ -1,0 +1,84 @@
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+8 chicken thighs
+Quantifiers: 8 thighs 
+Ingredients: chicken 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1/2 pound pancetta, cut into 1/2-inch dice
+Quantifiers: 1/2 pound 
+Ingredients: cut 
+
+2 large onions, julienned
+Quantifiers: 2 
+Ingredients: onions 
+
+Pinch crushed red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+4 cloves garlic, smashed
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 pounds assorted mushrooms, such as shiitake, oyster or cremini, cleaned and sliced
+Quantifiers: 2 pounds as 
+Ingredients: mushrooms oyster 
+
+2 cups dry white wine
+Quantifiers: 2 cups 
+Ingredients: white_wine 
+
+4 to 6 cups chicken stock
+Quantifiers: 4 6 cups 
+Ingredients: chicken_stock 
+
+1 bundle thyme
+Quantifiers: 1 bundle 
+Ingredients: thyme 
+
+4 bay leaves
+Quantifiers: 4 leaves 
+Ingredients: bay_leaves 
+
+1/2 cup whole blanched almonds, toasted
+Quantifiers: 1/2 cup 
+Ingredients: almonds 
+
+Sauteed Haricots Verts, recipe follows
+Quantifiers: 
+Ingredients: Haricots_Verts 
+
+Chopped chives, for garnish
+Quantifiers: 
+Ingredients: chives 
+
+Sauteed Haricots Verts:
+Quantifiers: 
+Ingredients: Haricots_Verts 
+
+1/2 pound haricots verts (baby string beans), stem ends removed
+Quantifiers: 1/2 pound ends 
+Ingredients: haricots_verts string_beans 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+2 garlic cloves, smashed
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+Pinch crushed red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

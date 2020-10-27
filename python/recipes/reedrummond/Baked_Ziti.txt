@@ -1,0 +1,64 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+3 cloves garlic, minced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 large onion, diced 
+Quantifiers: 1 
+Ingredients: onion 
+
+1 pound ground beef 
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1 pound Italian sausage 
+Quantifiers: 1 pound 
+Ingredients: sausage 
+
+Two 14.5-ounce cans tomato sauce or marinara sauce 
+Quantifiers: Two cans 
+Ingredients: tomato_sauce marinara 
+
+One 28-ounce can whole tomatoes with juice 
+Quantifiers: One can 
+Ingredients: tomatoes juice 
+
+2 teaspoons Italian seasoning 
+Quantifiers: 2 teaspoons 
+Ingredients: seasoning 
+
+1/2 teaspoon red pepper flakes 
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 pound ziti
+Quantifiers: 1 pound 
+Ingredients: ziti 
+
+1 1/2 pounds mozzarella, grated 
+Quantifiers: 1 1/2 pounds 
+Ingredients: mozzarella 
+
+One 15-ounce tub whole-milk ricotta
+Quantifiers: One tub 
+Ingredients: ricotta 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+2 tablespoons chopped fresh parsley, plus more for sprinkling
+Quantifiers: 2 tablespoons sprinkling 
+Ingredients: parsley 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+

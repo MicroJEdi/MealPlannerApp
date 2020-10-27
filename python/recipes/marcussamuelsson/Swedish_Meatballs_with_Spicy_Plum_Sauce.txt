@@ -1,0 +1,64 @@
+1/2 cup fine, dry bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+3/4 cup heavy cream
+Quantifiers: 3/4 cup 
+Ingredients: heavy_cream 
+
+1 1/2 tablespoons olive oil
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: olive_oil 
+
+1 medium yellow onion, minced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2/3 cup ground beef
+Quantifiers: 2/3 cup 
+Ingredients: ground_beef 
+
+2/3 cup ground veal
+Quantifiers: 2/3 cup ground 
+Ingredients: veal 
+
+2/3 cup ground pork
+Quantifiers: 2/3 cup ground 
+Ingredients: pork 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 large shallot, minced
+Quantifiers: 1 
+Ingredients: shallot 
+
+1/2 red bell pepper, minced
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+6 pickled plums, pitted and minced
+Quantifiers: 6 
+Ingredients: plums 
+
+2 cups chicken broth
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+1/4 cup plus 2 tablespoons plum sauce
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: plum_sauce 
+

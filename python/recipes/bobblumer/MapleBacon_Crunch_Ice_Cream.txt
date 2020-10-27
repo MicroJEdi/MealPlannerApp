@@ -1,0 +1,52 @@
+For the ice cream:
+Quantifiers: 
+Ingredients: ice_cream 
+
+3 large egg yolks
+Quantifiers: 3 
+Ingredients: egg_yolks 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+Pinch of salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+1 cup maple syrup, preferably grade B
+Quantifiers: 1 cup grade 
+Ingredients: maple_syrup B 
+
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+For the bacon brittle:
+Quantifiers: 
+Ingredients: bacon brittle 
+
+1 tablespoon unsalted butter, plus more for the baking sheet
+Quantifiers: 1 tablespoon sheet 
+Ingredients: butter 
+
+3 strips smoked bacon, preferably Nueske's brand
+Quantifiers: 3 brand 
+Ingredients: bacon 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/8 teaspoon chipotle chile powder or a pinch of cayenne pepper
+Quantifiers: 1/8 teaspoon a pinch 
+Ingredients: chipotle chile cayenne_pepper 
+

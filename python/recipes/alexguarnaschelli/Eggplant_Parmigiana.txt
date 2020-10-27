@@ -1,0 +1,88 @@
+The Sauce: 
+Quantifiers: 
+Ingredients: Sauce 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+3 medium yellow onions, peeled, halved, and cut into thin slices
+Quantifiers: 3 medium slices 
+Ingredients: onions cut 
+
+6 cloves garlic, peeled and grated
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 tablespoon crushed red pepper flakes
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+1 tablespoon granulated sugar
+Quantifiers: 1 tablespoon 
+Ingredients: granulated_sugar 
+
+3 (28-ounce) cans San Marzano whole plum tomatoes
+Quantifiers: 3 cans 
+Ingredients: plum tomatoes 
+
+The Eggplant:
+Quantifiers: 
+Ingredients: Eggplant 
+
+2 medium eggplants, washed and cut into 1/2-inch thick rounds (about 2 1/2 pounds)
+Quantifiers: 2 medium rounds 2 1/2 pounds 
+Ingredients: eggplants cut 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+5 large eggs
+Quantifiers: 5 
+Ingredients: eggs 
+
+3 tablespoons whole milk
+Quantifiers: 3 tablespoons 
+Ingredients: whole_milk 
+
+4 cups Italian-style breadcrumbs
+Quantifiers: 4 cups breadcrumbs 
+Ingredients: 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1 tablespoon fresh thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: thyme 
+
+Vegetable oil, for frying, as needed, about 1 1/2 to 2 cups
+Quantifiers: as 1 1/2 2 cups 
+Ingredients: Vegetable_oil 
+
+1 1/2 pounds mozzarella cheese, cut into thin slices
+Quantifiers: 1 1/2 pounds slices 
+Ingredients: mozzarella cheese cut 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1 pound provolone cheese, grated
+Quantifiers: 1 pound 
+Ingredients: cheese 
+
+2 handfuls fresh basil, leaves only, torn
+Quantifiers: 2 handfuls leaves 
+Ingredients: basil 
+

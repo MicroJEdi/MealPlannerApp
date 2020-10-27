@@ -1,0 +1,56 @@
+1/2 strip bacon, diced
+Quantifiers: 1/2 
+Ingredients: bacon 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+2 shallots, chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+2 15 -ounce cans cannellini or other white beans, drained and rinsed
+Quantifiers: 2 15 cans 
+Ingredients: white_beans 
+
+6 leaves fresh sage, chopped
+Quantifiers: 6 leaves 
+Ingredients: sage 
+
+4 cloves garlic, chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+3 cups low-sodium chicken broth
+Quantifiers: 3 cups 
+Ingredients: chicken_broth 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+1/4 teaspoon cayenne pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: cayenne_pepper 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+3 slices crusty bread, toasted
+Quantifiers: 3 slices 
+Ingredients: bread 
+
+2 ounces goat cheese, at room temperature
+Quantifiers: 2 ounces at room_temperature 
+Ingredients: goat_cheese 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

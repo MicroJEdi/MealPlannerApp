@@ -1,0 +1,76 @@
+2 cloves garlic, grated or minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon gochujang (Korean chile paste) 
+Quantifiers: 1 tablespoon 
+Ingredients: chile paste 
+
+1 tablespoon mirin 
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+1 tablespoon soy sauce 
+Quantifiers: 1 tablespoon 
+Ingredients: soy_sauce 
+
+1 teaspoon grated peeled fresh ginger 
+Quantifiers: 1 teaspoon 
+Ingredients: ginger 
+
+1 teaspoon toasted sesame oil 
+Quantifiers: 1 teaspoon 
+Ingredients: sesame_oil 
+
+10 ounces thinly sliced skinless pork belly 
+Quantifiers: 10 ounces 
+Ingredients: pork_belly 
+
+Two 6-inch soft Italian rolls, split 
+Quantifiers: Two rolls split 
+Ingredients: 
+
+2 tablespoons unsalted butter, at room temperature 
+Quantifiers: 2 tablespoons at room_temperature 
+Ingredients: butter 
+
+1 tablespoon vegetable oil 
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1 small onion, thinly sliced 
+Quantifiers: 1 
+Ingredients: onion 
+
+4 button mushrooms, thinly sliced 
+Quantifiers: 4 button 
+Ingredients: mushrooms 
+
+2 fresh Korean green chiles or jalapenos, seeded and thinly sliced on an angle 
+Quantifiers: 2 
+Ingredients: green chiles jalapenos 
+
+4 ounces sliced provolone cheese 
+Quantifiers: 4 ounces 
+Ingredients: cheese 
+
+For serving:
+Quantifiers: serving 
+Ingredients: 
+
+1 scallion (spring onion), thinly sliced on an angle
+Quantifiers: 1 
+Ingredients: scallion spring_onion 
+
+Roasted sesame seeds 
+Quantifiers: 
+Ingredients: sesame_seeds 
+
+Gochugaru (Korean chile flakes) 
+Quantifiers: 
+Ingredients: chile 
+
+Pickled sliced jalapenos, drained
+Quantifiers: 
+Ingredients: jalapenos 
+

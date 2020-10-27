@@ -1,0 +1,48 @@
+18 large shrimp
+Quantifiers: 18 
+Ingredients: shrimp 
+
+10 garlic cloves crushed
+Quantifiers: 10 
+Ingredients: garlic_cloves 
+
+1 pinch saffron
+Quantifiers: 1 pinch 
+Ingredients: saffron 
+
+1 cups olive oil
+Quantifiers: 1 cups 
+Ingredients: olive_oil 
+
+6 onions
+Quantifiers: 6 
+Ingredients: onions 
+
+1 (8-ounce) can peeled tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+2 anchovies
+Quantifiers: 2 
+Ingredients: anchovies 
+
+1/4 cup Calamata olives
+Quantifiers: 1/4 cup 
+Ingredients: olives 
+
+4 sprigs thyme
+Quantifiers: 4 
+Ingredients: thyme 
+
+1 sheet puff pastry
+Quantifiers: 1 sheet 
+Ingredients: puff pastry 
+
+2 heads frisee
+Quantifiers: 2 heads 
+Ingredients: 
+
+6 bunches mache
+Quantifiers: 6 
+Ingredients: 
+

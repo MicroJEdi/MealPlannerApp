@@ -1,0 +1,36 @@
+1 head garlic
+Quantifiers: 1 head 
+Ingredients: garlic 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+3 pounds russet potatoes
+Quantifiers: 3 pounds 
+Ingredients: potatoes 
+
+Water
+Quantifiers: 
+Ingredients: Water 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 1/2 cups heavy cream
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+3 sprigs rosemary
+Quantifiers: 3 
+Ingredients: rosemary 
+
+8 tablespoons (1 stick) unsalted butter, at room temperature
+Quantifiers: 8 tablespoons 1 stick at room_temperature 
+Ingredients: butter 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

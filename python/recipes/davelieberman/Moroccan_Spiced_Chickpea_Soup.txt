@@ -1,0 +1,56 @@
+1/4 cup extra-virgin olive oil, plus more for garnish
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 large onion, medium diced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+6 to 8 cloves garlic, pressed
+Quantifiers: 6 8 
+Ingredients: cloves garlic 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1/8 teaspoon cayenne pepper
+Quantifiers: 1/8 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 heaping teaspoon sweet paprika
+Quantifiers: 1 teaspoon 
+Ingredients: sweet paprika 
+
+1 (14.5-ounce) can chopped tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+3 (15-ounce) cans chickpeas, drained and rinsed well
+Quantifiers: 3 cans well 
+Ingredients: chickpeas 
+
+1 quart vegetable broth or reduced-sodium chicken broth
+Quantifiers: 1 quart 
+Ingredients: vegetable broth chicken_broth 
+
+1 teaspoon sugar
+Quantifiers: 1 teaspoon 
+Ingredients: sugar 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 (5-ounce) package pre-washed baby spinach
+Quantifiers: 1 package 
+Ingredients: spinach 
+

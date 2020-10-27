@@ -1,0 +1,60 @@
+1 cup (4 ounces) tubetti pasta, or other small pasta shape
+Quantifiers: 1 cup 4 ounces 
+Ingredients: pasta pasta 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+6 cups chicken stock
+Quantifiers: 6 cups 
+Ingredients: chicken_stock 
+
+1/4 pound pancetta, cut into 3 pieces
+Quantifiers: 1/4 pound 3 pieces 
+Ingredients: cut 
+
+6 medium garlic cloves, each cut in 1/2 lengthwise
+Quantifiers: 6 medium in 1/2 
+Ingredients: garlic_cloves cut 
+
+2 cups finely chopped yellow onions (2 small onions)
+Quantifiers: 2 cups 2 
+Ingredients: onions onions 
+
+1 cup small-diced celery (2 medium stalks)
+Quantifiers: 1 cup 2 medium 
+Ingredients: celery 
+
+1 cup small-diced carrots (2 to 3 medium carrots)
+Quantifiers: 1 cup 2 3 medium 
+Ingredients: carrots carrots 
+
+1 tablespoon finely chopped rosemary or thyme leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary thyme 
+
+1 (14-ounce) can cannellini beans, drained and rinsed
+Quantifiers: 1 can 
+Ingredients: beans 
+
+1 (14 1/2-ounce) can diced tomatoes
+Quantifiers: 1 14 can 
+Ingredients: tomatoes 
+
+4 cups small-diced zucchini (green/yellow) (5 small zucchini)
+Quantifiers: 4 cups 5 
+Ingredients: zucchini zucchini 
+
+2 cups small-diced, peeled russet potatoes (1 large russet)
+Quantifiers: 2 cups 1 
+Ingredients: potatoes 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 cup freshly grated Parmesan
+Quantifiers: 1 cup 
+Ingredients: Parmesan 
+

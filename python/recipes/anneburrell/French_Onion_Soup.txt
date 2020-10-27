@@ -1,0 +1,40 @@
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+8 large onions, thinly sliced from stem to root end
+Quantifiers: 8 root end 
+Ingredients: onions 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+6 ounces dry sherry
+Quantifiers: 6 ounces 
+Ingredients: sherry 
+
+4 bay leaves
+Quantifiers: 4 leaves 
+Ingredients: bay_leaves 
+
+1 bundle thyme
+Quantifiers: 1 bundle 
+Ingredients: thyme 
+
+2 quarts chicken stock
+Quantifiers: 2 quarts 
+Ingredients: chicken_stock 
+
+12 thin slices baguette
+Quantifiers: 12 slices 
+Ingredients: baguette 
+
+1/2 pound Gruyere, grated
+Quantifiers: 1/2 pound 
+Ingredients: Gruyere 
+
+1/2 bunch chopped chives
+Quantifiers: 1/2 
+Ingredients: chives 
+

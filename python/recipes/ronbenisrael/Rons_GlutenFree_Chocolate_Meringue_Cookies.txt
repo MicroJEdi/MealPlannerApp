@@ -1,0 +1,28 @@
+12 ounces bittersweet chocolate, broken into pieces for melting, plus 2 ounces chopped
+Quantifiers: 12 ounces pieces 2 ounces 
+Ingredients: bittersweet_chocolate 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1 tablespoon white vinegar or lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: white vinegar lemon_juice 
+
+4 large egg whites
+Quantifiers: 4 
+Ingredients: egg_whites 
+
+1 cup granulated sugar
+Quantifiers: 1 cup 
+Ingredients: granulated_sugar 
+
+1/2 cup chopped walnuts
+Quantifiers: 1/2 cup 
+Ingredients: walnuts 
+

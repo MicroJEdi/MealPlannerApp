@@ -1,0 +1,16 @@
+1 pint premium vanilla ice cream, softened
+Quantifiers: 1 pint premium 
+Ingredients: vanilla ice_cream 
+
+8 ounces chocolate-covered espresso beans, finely chopped
+Quantifiers: 8 ounces 
+Ingredients: espresso beans 
+
+1 pint premium coffee ice cream, softened
+Quantifiers: 1 pint premium 
+Ingredients: coffee ice_cream 
+
+1 pint premium chocolate ice cream, softened
+Quantifiers: 1 pint premium 
+Ingredients: chocolate ice_cream 
+

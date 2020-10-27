@@ -1,0 +1,40 @@
+For the gnocchi:
+Quantifiers: 
+Ingredients: gnocchi 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+3 large russet potatoes (1 1/2 to 1 3/4 pounds)
+Quantifiers: 3 1 1/2 1 3/4 pounds 
+Ingredients: potatoes 
+
+1 to 1 1/2 cups all-purpose flour, plus more for dusting
+Quantifiers: 1 1 1/2 cups 
+Ingredients: flour 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+For the sauce:
+Quantifiers: 
+Ingredients: sauce 
+
+6 tablespoons salted butter
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+1 tablespoon red pepper flakes
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+4 sage leaves, thinly sliced
+Quantifiers: 4 leaves 
+Ingredients: sage 
+
+1/2 cup shaved and/or coarsely grated parmesan cheese
+Quantifiers: 1/2 cup 
+Ingredients: parmesan cheese 
+

@@ -1,0 +1,76 @@
+Ribs:
+Quantifiers: Ribs 
+Ingredients: 
+
+6 pounds beef short ribs, on the bone
+Quantifiers: 6 pounds ribs 
+Ingredients: beef short_ribs 
+
+1 teaspoon salt 
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 teaspoon dried thyme 
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+4 dried red chiles
+Quantifiers: 4 
+Ingredients: chiles 
+
+1-inch knob fresh ginger root, smashed 
+Quantifiers: root 
+Ingredients: ginger 
+
+Porter Beer Mop:
+Quantifiers: Mop 
+Ingredients: Porter Beer 
+
+1/2 to 1 fresh serrano chile (depending on desired heat), stem discarded
+Quantifiers: 1/2 1 heat 
+Ingredients: chile 
+
+1/2 medium sweet onion, cubed 
+Quantifiers: 1/2 medium 
+Ingredients: sweet onion 
+
+4 inches fresh ginger root, peeled and sliced 
+Quantifiers: 4 inches root 
+Ingredients: ginger 
+
+1 teaspoon salt 
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 tablespoons butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 bottle dark porter beer 
+Quantifiers: 1 bottle dark 
+Ingredients: porter beer 
+
+1/4 cup molasses 
+Quantifiers: 1/4 cup 
+Ingredients: molasses 
+
+1/4 cup brown sugar 
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+2 tablespoons maple syrup 
+Quantifiers: 2 tablespoons 
+Ingredients: maple_syrup 
+
+2 tablespoons minced fresh cilantro, stems too 
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+Zest and juice of 1 lime (2 teaspoons zest, 2 tablespoons juice)
+Quantifiers: 1 2 teaspoons 2 tablespoons 
+Ingredients: juice lime juice 
+

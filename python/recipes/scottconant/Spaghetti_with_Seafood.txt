@@ -1,0 +1,36 @@
+24 clams
+Quantifiers: 24 clams 
+Ingredients: 
+
+24 mussels
+Quantifiers: 24 
+Ingredients: mussels 
+
+1 pound spaghetti
+Quantifiers: 1 pound 
+Ingredients: spaghetti 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 teaspoon crushed red pepper
+Quantifiers: 1 teaspoon 
+Ingredients: red_pepper 
+
+4 cloves garlic, shaved very thin
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1/2 cup squid, sliced
+Quantifiers: 1/2 cup 
+Ingredients: squid 
+
+16 pieces shrimp
+Quantifiers: 16 pieces 
+Ingredients: shrimp 
+
+8 pieces sea urchin
+Quantifiers: 8 pieces sea 
+Ingredients: 
+

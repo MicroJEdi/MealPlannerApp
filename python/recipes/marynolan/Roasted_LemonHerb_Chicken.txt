@@ -1,0 +1,32 @@
+One 4 1/2-pound whole chicken, rinsed and patted dry
+Quantifiers: One 4 
+Ingredients: chicken 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+6 sprigs fresh rosemary
+Quantifiers: 6 
+Ingredients: rosemary 
+
+1/2 bunch fresh thyme
+Quantifiers: 1/2 
+Ingredients: thyme 
+
+1 head garlic, cut in 1/2 horizontally
+Quantifiers: 1 head in 1/2 
+Ingredients: garlic cut 
+
+1 lemon, halved
+Quantifiers: 1 
+Ingredients: lemon 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+

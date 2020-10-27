@@ -1,0 +1,32 @@
+1/2 stick unsalted butter
+Quantifiers: 1/2 stick 
+Ingredients: butter 
+
+1/2 onion, chopped, (about 1/2 cup)
+Quantifiers: 1/2 1/2 cup 
+Ingredients: onion 
+
+1 clove garlic, crushed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 pounds asparagus, ends trimmed and cut into 1-inch pieces
+Quantifiers: 2 pounds ends pieces 
+Ingredients: asparagus cut 
+
+6 cups chicken stock
+Quantifiers: 6 cups 
+Ingredients: chicken_stock 
+
+1 pint sour cream, room temperature
+Quantifiers: 1 pint room_temperature 
+Ingredients: sour_cream 
+
+2 teaspoons Hungarian hot paprika, for garnish
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+

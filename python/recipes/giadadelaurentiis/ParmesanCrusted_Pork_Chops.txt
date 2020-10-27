@@ -1,0 +1,28 @@
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup dried Italian-style bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+
+3/4 cups freshly grated Parmesan
+Quantifiers: 3/4 cups 
+Ingredients: Parmesan 
+
+4 (1/2 to 3/4-inch thick) center-cut pork loin chops (each about 10 to 12 ounces)
+Quantifiers: 4 1/2 10 12 ounces 
+Ingredients: pork_loin chops 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+6 tablespoons olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+Lemon wedges, for serving
+Quantifiers: serving 
+Ingredients: Lemon wedges 
+

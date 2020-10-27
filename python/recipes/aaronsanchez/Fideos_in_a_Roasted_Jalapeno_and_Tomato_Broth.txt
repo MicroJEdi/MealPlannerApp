@@ -1,0 +1,36 @@
+1 large tomato
+Quantifiers: 1 
+Ingredients: tomato 
+
+1 large jalapeno
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1 small onion, coarsely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 clove garlic
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+6 sprigs cilantro
+Quantifiers: 6 
+Ingredients: cilantro 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+7 ounces small shaped pasta such as melon seeds or alphabets
+Quantifiers: 7 ounces as 
+Ingredients: pasta melon seeds 
+
+2 cups chicken stock
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+Cotija or queso blanco, shredded
+Quantifiers: 
+Ingredients: 
+

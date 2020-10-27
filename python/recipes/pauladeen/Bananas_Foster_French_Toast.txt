@@ -1,0 +1,44 @@
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+8 tablespoons butter, divided
+Quantifiers: 8 tablespoons 
+Ingredients: butter 
+
+8 large croissants, halved
+Quantifiers: 8 
+Ingredients: croissants 
+
+1/2 cup dark corn syrup
+Quantifiers: 1/2 cup dark 
+Ingredients: corn_syrup 
+
+1/2 cup firmly packed brown sugar
+Quantifiers: 1/2 cup 
+Ingredients: brown_sugar 
+
+1 cup maple syrup
+Quantifiers: 1 cup 
+Ingredients: maple_syrup 
+
+1 cup chopped pecans
+Quantifiers: 1 cup 
+Ingredients: pecans 
+
+6 ripe bananas, halved crosswise and lengthwise
+Quantifiers: 6 
+Ingredients: bananas 
+
+1 teaspoon rum extract
+Quantifiers: 1 teaspoon 
+Ingredients: rum 
+

@@ -1,0 +1,28 @@
+1 1/2 tablespoons cumin seeds
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: cumin_seeds 
+
+1/4 cup freshly ground coffee beans
+Quantifiers: 1/4 cup ground 
+Ingredients: coffee_beans 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 1/2 tablespoons chili powder
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: chili_powder 
+
+1 1/2 teaspoons ground cinnamon
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: cinnamon 
+
+4 8-ounce flat iron steaks
+Quantifiers: 4 flat iron 
+Ingredients: steaks 
+
+Canola oil
+Quantifiers: 
+Ingredients: Canola_oil 
+

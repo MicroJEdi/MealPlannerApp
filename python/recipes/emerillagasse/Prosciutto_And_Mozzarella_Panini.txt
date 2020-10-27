@@ -1,0 +1,36 @@
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 tablespoon balsamic vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: vinegar 
+
+2 teaspoons minced fresh oregano, or 1 teaspoon dried
+Quantifiers: 2 teaspoons 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon minced garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+8 1/2-inch-thick slices ciabatta or other rustic Italian white bread
+Quantifiers: 8 slices 
+Ingredients: white_bread 
+
+4 ounces thinly sliced mozzarella cheese
+Quantifiers: 4 ounces 
+Ingredients: mozzarella cheese 
+
+4 ounces thinly sliced prosciutto
+Quantifiers: 4 ounces 
+Ingredients: prosciutto 
+
+6 ounces jarred roasted red peppers,drained and torn into 1-inch-wide pieces
+Quantifiers: 6 ounces pieces 
+Ingredients: 
+

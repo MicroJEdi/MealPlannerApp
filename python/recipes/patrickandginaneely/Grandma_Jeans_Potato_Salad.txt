@@ -1,0 +1,40 @@
+5 large red potatoes, peeled and cubed
+Quantifiers: 5 
+Ingredients: potatoes 
+
+2 ribs celery, chopped
+Quantifiers: 2 ribs 
+Ingredients: celery 
+
+1/2 large onion, chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+3 hard-boiled eggs, 2 chopped and 1 sliced
+Quantifiers: 3 2 1 
+Ingredients: hard-boiled_eggs 
+
+2 heaping tablespoons sweet pickle relish, drained
+Quantifiers: 2 tablespoons 
+Ingredients: sweet_pickle_relish 
+
+1/2 cup salad dressing, (recommended: Miracle Whip)
+Quantifiers: 1/2 cup Whip 
+Ingredients: salad_dressing 
+
+3 tablespoons yellow mustard
+Quantifiers: 3 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+Paprika, for garnish
+Quantifiers: 
+Ingredients: Paprika 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

@@ -1,0 +1,28 @@
+6 cups shredded cabbage
+Quantifiers: 6 cups 
+Ingredients: cabbage 
+
+1 cup shredded carrot
+Quantifiers: 1 cup 
+Ingredients: carrot 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+1/4 cup white wine vinegar
+Quantifiers: 1/4 cup 
+Ingredients: white_wine_vinegar 
+
+1 teaspoon celery seed
+Quantifiers: 1 teaspoon 
+Ingredients: celery_seed 
+
+1/4 cup sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

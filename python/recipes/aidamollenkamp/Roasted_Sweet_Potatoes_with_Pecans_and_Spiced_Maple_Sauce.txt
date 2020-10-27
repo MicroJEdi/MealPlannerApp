@@ -1,0 +1,28 @@
+2/3 cup roughly chopped pecans
+Quantifiers: 2/3 cup 
+Ingredients: pecans 
+
+3 pounds sweet potatoes, cut into large dice
+Quantifiers: 3 pounds 
+Ingredients: sweet potatoes cut 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+3 tablespoons maple syrup
+Quantifiers: 3 tablespoons 
+Ingredients: maple_syrup 
+
+1/4 teaspoon cayenne pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: cayenne_pepper 
+

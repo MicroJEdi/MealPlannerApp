@@ -1,0 +1,48 @@
+One 2 1/2- to 3-pound whole (head on) red snapper, scaled and cleaned
+Quantifiers: One 2 head 
+Ingredients: red_snapper 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Crushed red pepper flakes
+Quantifiers: 
+Ingredients: red_pepper 
+
+10 whole fresh basil leaves, plus 1 tablespoon chopped fresh basil
+Quantifiers: 10 leaves 1 tablespoon 
+Ingredients: basil basil 
+
+5 small sprigs fresh oregano, plus 1/2 tablespoon chopped fresh oregano leaves
+Quantifiers: 5 1/2 tablespoon leaves 
+Ingredients: oregano oregano 
+
+2 cloves garlic, crushed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 lemon, half sliced and half left whole
+Quantifiers: 1 half half 
+Ingredients: lemon 
+
+4 to 5 tablespoons extra-virgin olive oil
+Quantifiers: 4 5 tablespoons 
+Ingredients: olive_oil 
+
+1 1/2 cups cherry tomatoes (about 8 ounces), cut in half
+Quantifiers: 1 1/2 cups 8 ounces in half 
+Ingredients: cherry tomatoes cut 
+
+6 to 8 fingerling potatoes (about 10 ounces), cut into a 3/4-inch dice and blanched
+Quantifiers: 6 8 10 ounces a 
+Ingredients: potatoes cut 
+
+1 cup homemade or low-salt chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+

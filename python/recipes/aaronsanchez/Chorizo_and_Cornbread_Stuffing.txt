@@ -1,0 +1,40 @@
+1 pound fresh Mexican chorizo
+Quantifiers: 1 pound 
+Ingredients: chorizo 
+
+1 medium white onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: white onion 
+
+1 medium carrot, finely chopped
+Quantifiers: 1 medium 
+Ingredients: carrot 
+
+1 celery stalk, finely chopped
+Quantifiers: 1 
+Ingredients: celery 
+
+3 garlic cloves, finely chopped
+Quantifiers: 3 
+Ingredients: garlic_cloves 
+
+2 cups coarsely crumbled cornbread
+Quantifiers: 2 cups 
+Ingredients: cornbread 
+
+1/4 cup chopped fresh cilantro, plus more for garnish (optional)
+Quantifiers: 1/4 cup 
+Ingredients: cilantro 
+
+1/2 cup chicken stock (low-sodium store-bought is fine)
+Quantifiers: 1/2 cup 
+Ingredients: chicken_stock 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+Grated cotija cheese, for garnish (optional)
+Quantifiers: 
+Ingredients: cheese 
+

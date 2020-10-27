@@ -1,0 +1,92 @@
+6 ounces Mexican-style pork chorizo (recommended: Reynaldo's)
+Quantifiers: 6 ounces 
+Ingredients: pork chorizo 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+3 cups Stovetop Salsa, recipe follows
+Quantifiers: 3 cups 
+Ingredients: Salsa 
+
+Tortilla Chips, recipe follows
+Quantifiers: 
+Ingredients: Tortilla_Chips 
+
+4 ounces Cheddar, grated
+Quantifiers: 4 ounces 
+Ingredients: Cheddar 
+
+4 ounces Monterey Jack, grated
+Quantifiers: 4 ounces Jack 
+Ingredients: 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1 small red onion, finely diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Stovetop Salsa:
+Quantifiers: 
+Ingredients: Salsa 
+
+6 Roma tomatoes
+Quantifiers: 6 
+Ingredients: tomatoes 
+
+1 large yellow onion, root removed, peeled, and halved
+Quantifiers: 1 root 
+Ingredients: onion 
+
+1 jalapeno, stemmed
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+2 cloves garlic, peeled
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 teaspoon salt 
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 cup loosely packed fresh cilantro leaves and stems
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+Freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Tortilla Chips:
+Quantifiers: 
+Ingredients: Tortilla_Chips 
+
+3 cups canola oil
+Quantifiers: 3 cups 
+Ingredients: canola_oil 
+
+36 corn tortillas, cut into 8 wedges
+Quantifiers: 8 
+Ingredients: corn tortillas cut wedges 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Sweet paprika
+Quantifiers: 
+Ingredients: Sweet paprika 
+

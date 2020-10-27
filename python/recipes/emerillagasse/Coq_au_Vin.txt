@@ -1,0 +1,60 @@
+1 pound bacon, cut into 1/2 inch pieces
+Quantifiers: 1 pound 1/2 inch pieces 
+Ingredients: bacon cut 
+
+1/2 cup plus 3 tablespoons flour
+Quantifiers: 1/2 cup 3 tablespoons 
+Ingredients: flour 
+
+8 chicken thighs (about 4 ounces each), skin on
+Quantifiers: 8 thighs 4 ounces skin 
+Ingredients: chicken 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 cups thinly sliced yellow onion
+Quantifiers: 2 cups 
+Ingredients: onion 
+
+2 pounds button mushrooms, thinly sliced
+Quantifiers: 2 pounds button 
+Ingredients: mushrooms 
+
+1/4 cup chopped shallots
+Quantifiers: 1/4 cup 
+Ingredients: shallots 
+
+2 tablespoons chopped garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+3 to 4 sprigs fresh thyme
+Quantifiers: 3 4 
+Ingredients: thyme 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+3 cups young full-bodied red wine
+Quantifiers: 3 cups 
+Ingredients: red_wine 
+
+2 cups brown chicken or veal stock
+Quantifiers: 2 cups 
+Ingredients: chicken veal stock 
+
+2 tablespoon butter
+Quantifiers: 2 tablespoon 
+Ingredients: butter 
+
+1 tablespoon finely chopped parsley, plus extra for garnish
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+4 cups Mashed Potatoes, hot (seasoned with butter, cream, salt and white pepper)
+Quantifiers: 4 cups 
+Ingredients: Potatoes butter cream salt white_pepper 
+

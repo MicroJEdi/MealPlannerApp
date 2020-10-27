@@ -1,0 +1,68 @@
+1/2 cup natural wild rice
+Quantifiers: 1/2 cup 
+Ingredients: wild_rice 
+
+Fine sea salt
+Quantifiers: sea 
+Ingredients: salt 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+6 tablespoons salted butter, plus more for the baking dish
+Quantifiers: 6 tablespoons dish 
+Ingredients: butter 
+
+2 leeks, white and light green parts, diced
+Quantifiers: 2 light 
+Ingredients: leeks white green 
+
+3 stalks celery, diced
+Quantifiers: 3 
+Ingredients: celery 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 1/2 cups whole milk
+Quantifiers: 1 1/2 cups 
+Ingredients: whole_milk 
+
+2/3 cup heavy cream
+Quantifiers: 2/3 cup 
+Ingredients: heavy_cream 
+
+3/4 cup low-sodium chicken stock
+Quantifiers: 3/4 cup 
+Ingredients: chicken_stock 
+
+3/4 teaspoon dried thyme (or 1 1/2 teaspoons fresh)
+Quantifiers: 3/4 teaspoon 1 1/2 teaspoons 
+Ingredients: thyme 
+
+1/4 teaspoon grated nutmeg
+Quantifiers: 1/4 teaspoon 
+Ingredients: nutmeg 
+
+2 cups roughly chopped cooked chicken
+Quantifiers: 2 cups 
+Ingredients: chicken 
+
+4 ounces aged Gouda or aged cheddar cheese, grated (about 1 1/2 cups)
+Quantifiers: 4 ounces 1 1/2 cups 
+Ingredients: Gouda cheddar_cheese 
+
+2 cups coarsely ground buttery crackers (such as Ritz or Club; about 2 sleeves)
+Quantifiers: 2 cups ground as Club 2 sleeves 
+Ingredients: crackers 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+

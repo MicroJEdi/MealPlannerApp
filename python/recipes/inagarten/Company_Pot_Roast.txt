@@ -1,0 +1,68 @@
+1 (4 to 5-pound) prime boneless beef chuck roast, tied
+Quantifiers: 1 4 prime 
+Ingredients: beef chuck roast 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+All-purpose flour
+Quantifiers: 
+Ingredients: flour 
+
+Good olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+2 cups chopped carrots (4 carrots)
+Quantifiers: 2 cups 4 
+Ingredients: carrots carrots 
+
+2 cups chopped yellow onions (2 onions)
+Quantifiers: 2 cups 2 
+Ingredients: onions onions 
+
+2 cups chopped celery (4 stalks)
+Quantifiers: 2 cups 4 
+Ingredients: celery 
+
+2 cups chopped leeks, white and light green parts (2 to 4 leeks)
+Quantifiers: 2 cups light 2 4 
+Ingredients: leeks white green leeks 
+
+5 large garlic cloves, peeled and crushed
+Quantifiers: 5 
+Ingredients: garlic_cloves 
+
+2 cups good red wine, such as Burgundy
+Quantifiers: 2 cups as 
+Ingredients: red_wine Burgundy 
+
+2 tablespoons Cognac or brandy
+Quantifiers: 2 tablespoons 
+Ingredients: Cognac brandy 
+
+1 (28-ounce) can whole plum tomatoes in puree
+Quantifiers: 1 can in 
+Ingredients: plum tomatoes puree 
+
+1 cup chicken stock, preferably homemade
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1 chicken bouillon cube
+Quantifiers: 1 cube 
+Ingredients: chicken bouillon_cube 
+
+3 branches fresh thyme
+Quantifiers: 3 
+Ingredients: thyme 
+
+2 branches fresh rosemary
+Quantifiers: 2 
+Ingredients: rosemary 
+
+1 tablespoon unsalted butter, at room temperature
+Quantifiers: 1 tablespoon at room_temperature 
+Ingredients: butter 
+

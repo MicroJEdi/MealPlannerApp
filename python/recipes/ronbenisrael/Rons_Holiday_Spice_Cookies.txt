@@ -1,0 +1,52 @@
+6 ounces (1 1/2 sticks) unsalted butter, at room temperature
+Quantifiers: 6 ounces 1 1/2 sticks at room_temperature 
+Ingredients: butter 
+
+1 cup packed light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+2 cups all-purpose flour (measured and sifted)
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 teaspoons ground cinnamon
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+1 teaspoon ground ginger
+Quantifiers: 1 teaspoon ground 
+Ingredients: ginger 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon ground cloves
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cloves 
+
+1/2 teaspoon ground cardamom
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cardamom 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 cup molasses
+Quantifiers: 1/2 cup 
+Ingredients: molasses 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/2 cup white granulated sugar, for rolling
+Quantifiers: 1/2 cup 
+Ingredients: white granulated_sugar 
+

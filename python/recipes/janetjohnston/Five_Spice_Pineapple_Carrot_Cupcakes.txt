@@ -1,0 +1,80 @@
+Carrot Cupcake:
+Quantifiers: 
+Ingredients: Carrot Cupcake 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons baking powder
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: baking_powder 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+2 teaspoons Chinese five-spice powder
+Quantifiers: 2 teaspoons 
+Ingredients: 
+
+1/2 cup vegetable oil
+Quantifiers: 1/2 cup 
+Ingredients: vegetable_oil 
+
+1/4 cup crushed pineapple
+Quantifiers: 1/4 cup 
+Ingredients: pineapple 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 cups sugar
+Quantifiers: 1 cups 
+Ingredients: sugar 
+
+2 teaspoons pure vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+2 cups shredded carrots (about 3 to 4 medium-sized carrots)
+Quantifiers: 2 cups 3 4 
+Ingredients: carrots carrots 
+
+Frosting, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Crystallized ginger, as garnish
+Quantifiers: as 
+Ingredients: Crystallized_ginger 
+
+Frosting:
+Quantifiers: 
+Ingredients: 
+
+1 (8-ounce) package cream cheese, softened
+Quantifiers: 1 package 
+Ingredients: cream_cheese 
+
+1/2 cup butter, softened
+Quantifiers: 1/2 cup 
+Ingredients: butter 
+
+2 teaspoons Madagascar vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+2 teaspoons Chinese ground ginger
+Quantifiers: 2 teaspoons ground 
+Ingredients: ginger 
+
+3 cups powdered sugar
+Quantifiers: 3 cups 
+Ingredients: powdered_sugar 
+

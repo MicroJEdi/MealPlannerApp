@@ -1,0 +1,68 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1 can biscuits (12) (recommended: Grands)
+Quantifiers: 1 can 12 Grands 
+Ingredients: biscuits 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 pound ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1/2 onion, minced
+Quantifiers: 1/2 
+Ingredients: onion 
+
+1 1/2 teaspoons salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: salt 
+
+1 tablespoon cracked black pepper
+Quantifiers: 1 tablespoon 
+Ingredients: black_pepper 
+
+1 tablespoon minced garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1/2 cup beef stock
+Quantifiers: 1/2 cup 
+Ingredients: beef_stock 
+
+1 cup frozen mixed vegetables
+Quantifiers: 1 cup 
+Ingredients: vegetables 
+
+2 tablespoons chopped fresh parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+1 tablespoon chopped fresh rosemary leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1 1/2 cups leftover mashed potatoes
+Quantifiers: 1 1/2 cups 
+Ingredients: potatoes 
+
+1 tablespoon granulated garlic powder
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+2 tablespoons granulated onion powder
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 cups shredded Cheddar
+Quantifiers: 2 cups 
+Ingredients: Cheddar 
+

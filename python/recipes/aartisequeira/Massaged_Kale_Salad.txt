@@ -1,0 +1,32 @@
+1 bunch kale (black kale is especially good), stalks removed and discarded, leaves thinly sliced
+Quantifiers: 1 kale black kale leaves 
+Ingredients: 
+
+1 lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/4 cup extra-virgin olive oil, plus extra for drizzling
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 teaspoons honey
+Quantifiers: 2 teaspoons 
+Ingredients: honey 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 mango, diced small (about 1 cup)
+Quantifiers: 1 1 cup 
+Ingredients: mango 
+
+Small handful toasted pepitas (pumpkin seeds), about 2 rounded tablespoons
+Quantifiers: handful 2 tablespoons 
+Ingredients: pumpkin_seeds 
+

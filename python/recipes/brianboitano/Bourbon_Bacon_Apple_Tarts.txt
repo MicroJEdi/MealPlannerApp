@@ -1,0 +1,64 @@
+Candied Bacon:
+Quantifiers: 
+Ingredients: Bacon 
+
+4 slices bacon
+Quantifiers: 4 slices 
+Ingredients: bacon 
+
+3 tablespoons raw sugar
+Quantifiers: 3 tablespoons 
+Ingredients: sugar 
+
+Tarts:
+Quantifiers: 
+Ingredients: Tarts 
+
+1 sheet frozen puff pastry, thawed
+Quantifiers: 1 sheet 
+Ingredients: puff pastry 
+
+3 Granny Smith apples, peeled, cored, and diced
+Quantifiers: 3 
+Ingredients: Granny_Smith apples 
+
+1 lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+2 tablespoons maple syrup
+Quantifiers: 2 tablespoons 
+Ingredients: maple_syrup 
+
+1/4 cup bourbon, plus 1 tablespoon
+Quantifiers: 1/4 cup 1 tablespoon 
+Ingredients: bourbon 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1/2 cup brown sugar
+Quantifiers: 1/2 cup 
+Ingredients: brown_sugar 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+2 strips bacon, cooked and crumbled
+Quantifiers: 2 
+Ingredients: bacon 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+1 tablespoon powdered sugar
+Quantifiers: 1 tablespoon 
+Ingredients: powdered_sugar 
+

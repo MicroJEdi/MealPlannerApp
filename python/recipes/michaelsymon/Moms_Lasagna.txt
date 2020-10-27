@@ -1,0 +1,76 @@
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+4 garlic cloves, minced
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+Pinch kosher salt and freshly ground black pepper
+Quantifiers: Pinch ground 
+Ingredients: kosher salt black_pepper 
+
+1 pound pork neck bones
+Quantifiers: 1 pound bones 
+Ingredients: pork neck 
+
+1 pound ground veal
+Quantifiers: 1 pound ground 
+Ingredients: veal 
+
+1 pound ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1 pound spicy Italian sausage, loose or removed from casings
+Quantifiers: 1 pound 
+Ingredients: sausage 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 (28-ounce) can San Marzano tomatoes, with their juice
+Quantifiers: 1 can 
+Ingredients: tomatoes juice 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 pound dried lasagna noodles
+Quantifiers: 1 pound 
+Ingredients: lasagna noodles 
+
+2 pounds whole milk ricotta cheese
+Quantifiers: 2 pounds 
+Ingredients: whole_milk ricotta cheese 
+
+1/4 cup chopped fresh flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1/4 cup chopped fresh basil leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: basil 
+
+1/4 cup chopped fresh oregano leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: oregano 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 cup grated Parmesan, plus more for final topping
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1 pound fresh mozzarella cheese, grated
+Quantifiers: 1 pound 
+Ingredients: mozzarella cheese 
+

@@ -1,0 +1,68 @@
+3/4 cup whole-wheat pastry flour
+Quantifiers: 3/4 cup 
+Ingredients: pastry flour 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/4 teaspoon fine salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+Pinch ground nutmeg
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+3/4 cup firmly packed light brown sugar
+Quantifiers: 3/4 cup light 
+Ingredients: brown_sugar 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 1/2 cups finely shredded carrots (about 2 medium carrots, peeled)
+Quantifiers: 1 1/2 cups 2 medium 
+Ingredients: carrots carrots 
+
+1/2 cup natural applesauce
+Quantifiers: 1/2 cup 
+Ingredients: applesauce 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/4 cup plus 2 tablespoons finely chopped walnuts
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: walnuts 
+
+4 ounces low-fat cream cheese, such as
+Quantifiers: 4 ounces as 
+Ingredients: cream_cheese 
+
+Neufchatel, at room temperature
+Quantifiers: at room_temperature 
+Ingredients: 
+
+3/4 cup confectioners' sugar, sifted
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+1/2 teaspoon finely grated lemon zest
+Quantifiers: 1/2 teaspoon 
+Ingredients: lemon 
+

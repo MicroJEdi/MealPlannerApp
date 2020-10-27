@@ -1,0 +1,52 @@
+2 pounds sweet potatoes, peeled and cut into 3/4-inch pieces
+Quantifiers: 2 pounds pieces 
+Ingredients: sweet potatoes cut 
+
+2 sweet onions, peeled, trimmed, and cut into 1/2-inch wedges
+Quantifiers: 2 
+Ingredients: sweet onions cut wedges 
+
+2 mangos, peeled, seeded, and cut into 3/4-inch pieces
+Quantifiers: 2 pieces 
+Ingredients: mangos cut 
+
+1 red bell pepper, stem, rib, and seeds removed, cut into 3/4-inch pieces
+Quantifiers: 1 rib pieces 
+Ingredients: bell_pepper seeds cut 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 teaspoons fresh lime juice
+Quantifiers: 2 teaspoons 
+Ingredients: lime_juice 
+
+1/2 teaspoon ground cinnamon
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/4 teaspoon ground nutmeg
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: nutmeg 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+Pinch cayenne
+Quantifiers: Pinch 
+Ingredients: cayenne 
+
+1/3 cup chopped toasted peanuts
+Quantifiers: 1/3 cup 
+Ingredients: peanuts 
+
+1/4 cup chopped fresh cilantro
+Quantifiers: 1/4 cup 
+Ingredients: cilantro 
+

@@ -1,0 +1,24 @@
+1 pint vanilla ice cream, softened
+Quantifiers: 1 pint 
+Ingredients: vanilla ice_cream 
+
+1 pint sour cream
+Quantifiers: 1 pint 
+Ingredients: sour_cream 
+
+3 tablespoons brandy
+Quantifiers: 3 tablespoons 
+Ingredients: brandy 
+
+3 tablespoons orange liqueur
+Quantifiers: 3 tablespoons 
+Ingredients: orange_liqueur 
+
+2 cups chopped chocolate
+Quantifiers: 2 cups 
+Ingredients: chocolate 
+
+4 pints strawberries, hulled
+Quantifiers: 4 pints 
+Ingredients: strawberries 
+

@@ -1,0 +1,88 @@
+For the chicken:
+Quantifiers: 
+Ingredients: chicken 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+10 garlic cloves, minced
+Quantifiers: 10 
+Ingredients: garlic_cloves 
+
+5 yellow onions minced
+Quantifiers: 5 
+Ingredients: onions 
+
+4 pounds boneless, skinless chicken breast, diced into 1/2-inch chunks
+Quantifiers: 4 pounds breast chunks 
+Ingredients: chicken 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+2 serrano chiles, sliced thin
+Quantifiers: 2 
+Ingredients: chiles 
+
+2 tablespoons sweet paprika
+Quantifiers: 2 tablespoons 
+Ingredients: sweet paprika 
+
+2 tablespoons smoked paprika
+Quantifiers: 2 tablespoons 
+Ingredients: paprika 
+
+2 tablespoons cumin seeds, toasted
+Quantifiers: 2 tablespoons 
+Ingredients: cumin_seeds 
+
+2 tablespoons dried oregano
+Quantifiers: 2 tablespoons 
+Ingredients: oregano 
+
+4 to 5 cups chicken stock or water
+Quantifiers: 4 5 cups 
+Ingredients: chicken_stock water 
+
+For the tacos:
+Quantifiers: 
+Ingredients: tacos 
+
+2 red onions, sliced thin
+Quantifiers: 2 
+Ingredients: red_onions 
+
+1 head iceberg lettuce, sliced thin
+Quantifiers: 1 head lettuce 
+Ingredients: iceberg_lettuce 
+
+12 radishes, sliced thin
+Quantifiers: 12 
+Ingredients: radishes 
+
+6 small tomatoes, diced
+Quantifiers: 6 
+Ingredients: tomatoes 
+
+1 pint sour cream
+Quantifiers: 1 pint 
+Ingredients: sour_cream 
+
+2 bunches cilantro, leaves roughly chopped
+Quantifiers: 2 leaves 
+Ingredients: cilantro 
+
+1 (15-ounce) can pinto or black beans, drained and rinsed
+Quantifiers: 1 can 
+Ingredients: black_beans 
+
+1 to 2 packages corn or flour tortillas (enough for 6 to 8 medium size tacos)
+Quantifiers: 1 2 packages enough 6 8 medium 
+Ingredients: corn flour tortillas tacos 
+

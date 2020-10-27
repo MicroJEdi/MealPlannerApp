@@ -1,0 +1,64 @@
+Sweet Potato Fries:
+Quantifiers: 
+Ingredients: Sweet_Potato Fries 
+
+2 large sweet potatoes, peeled or unpeeled, cut into 4-inch long and 1/4 to 1/2-inch thick fries
+Quantifiers: 2 1/4 
+Ingredients: sweet potatoes cut fries 
+
+2 tablespoons olive oil, or more as needed
+Quantifiers: 2 tablespoons as 
+Ingredients: olive_oil 
+
+1 teaspoon paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon chili powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: chili_powder 
+
+1/2 teaspoon ground coriander
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: coriander 
+
+Coarse ground rock salt and freshly ground black pepper, to taste
+Quantifiers: ground ground taste 
+Ingredients: rock salt black_pepper 
+
+Avocado Dip, recipe follows
+Quantifiers: 
+Ingredients: Avocado Dip 
+
+Avocado Dip:
+Quantifiers: 
+Ingredients: Avocado Dip 
+
+1 avocado, see Cook's Note*
+Quantifiers: 1 Note 
+Ingredients: avocado 
+
+1/3 cup mayonnaise
+Quantifiers: 1/3 cup 
+Ingredients: mayonnaise 
+
+1/3 cup cream cheese
+Quantifiers: 1/3 cup 
+Ingredients: cream_cheese 
+
+1 jalapeno, seeded and chopped.
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+2 scallions, white and light green part only, chopped
+Quantifiers: 2 light 
+Ingredients: scallions white green 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

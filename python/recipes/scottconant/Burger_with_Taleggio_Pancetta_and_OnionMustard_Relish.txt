@@ -1,0 +1,64 @@
+2 pounds freshly ground beef (preferably 80/20)
+Quantifiers: 2 pounds 80/20 
+Ingredients: ground_beef 
+
+Onion Mustard Relish:
+Quantifiers: 
+Ingredients: Onion Mustard Relish 
+
+1/2 cup champagne vinegar
+Quantifiers: 1/2 cup 
+Ingredients: champagne vinegar 
+
+3 tablespoons mustard seed
+Quantifiers: 3 tablespoons 
+Ingredients: mustard_seed 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+3 medium onions, julienned
+Quantifiers: 3 medium 
+Ingredients: onions 
+
+1/4 cup veal stock or store-bought low-sodium beef or chicken stock
+Quantifiers: 1/4 cup 
+Ingredients: veal stock beef chicken_stock 
+
+8 very thin slices pancetta
+Quantifiers: 8 slices 
+Ingredients: 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+Salt and freshly ground pepper 
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+4 brioche rolls
+Quantifiers: 4 rolls 
+Ingredients: brioche 
+
+4 ounces Taleggio cheese, sliced
+Quantifiers: 4 ounces 
+Ingredients: cheese 
+
+1 beefsteak tomato, sliced
+Quantifiers: 1 
+Ingredients: beefsteak_tomato 
+
+1 head Bibb lettuce, leaves separated
+Quantifiers: 1 head lettuce leaves 
+Ingredients: Bibb_lettuce 
+

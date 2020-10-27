@@ -1,0 +1,96 @@
+1 2/3 to 1 3/4 pounds ground sirloin
+Quantifiers: 1 2/3 1 3/4 pounds ground 
+Ingredients: sirloin 
+
+1 medium onion, cut into chunks
+Quantifiers: 1 medium chunks 
+Ingredients: onion cut 
+
+2 ribs celery from the heart of the stalk, cut into 2-inch pieces
+Quantifiers: 2 ribs pieces 
+Ingredients: celery heart cut 
+
+1 green bell pepper
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 large egg plus a splash of milk, beaten
+Quantifiers: 1 a splash 
+Ingredients: egg milk 
+
+1 cup plain bread crumbs
+Quantifiers: 1 cup crumbs 
+Ingredients: bread 
+
+2 tablespoons grill seasoning (recommended: Montreal Steak Seasoning by McCormick)
+Quantifiers: 2 tablespoons 
+Ingredients: seasoning Steak Seasoning 
+
+1 cup smoky barbecue sauce
+Quantifiers: 1 cup 
+Ingredients: barbecue_sauce 
+
+1/2 cup tomato salsa
+Quantifiers: 1/2 cup 
+Ingredients: tomato salsa 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+Vegetable oil or extra-virgin olive oil
+Quantifiers: 
+Ingredients: Vegetable_oil olive_oil 
+
+Micro-way-cool Bacon and Green Beans, recipe follows
+Quantifiers: 
+Ingredients: Bacon Green_Beans 
+
+Smashed potatoes and cream cheese, recipe follows
+Quantifiers: 
+Ingredients: potatoes cream_cheese 
+
+Micro-way-cool Bacon and Green Beans
+Quantifiers: 
+Ingredients: Bacon Green_Beans 
+
+6 slices microwave ready-crisp bacon
+Quantifiers: 6 slices 
+Ingredients: bacon 
+
+One 16-ounce bag frozen green beans
+Quantifiers: One bag 
+Ingredients: green_beans 
+
+A drizzle extra-virgin olive oil
+Quantifiers: A 
+Ingredients: olive_oil 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+Smashed Potatoes and Cream Cheese:
+Quantifiers: 
+Ingredients: Potatoes Cream_Cheese 
+
+2 1/2 pounds small red potatoes or baby Yukon gold potatoes
+Quantifiers: 2 1/2 pounds 
+Ingredients: potatoes potatoes 
+
+1/2 cup half-and-half or whole milk
+Quantifiers: 1/2 cup 
+Ingredients: half-and-half whole_milk 
+
+8 ounces plain cream cheese or veggie cream cheese, cut into pieces 
+Quantifiers: 8 ounces pieces 
+Ingredients: cream_cheese veggie cream_cheese cut 
+
+10 chives or 2 scallions, chopped or snipped with kitchen scissors
+Quantifiers: 10 2 scissors 
+Ingredients: chives scallions 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

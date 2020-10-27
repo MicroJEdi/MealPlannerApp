@@ -1,0 +1,44 @@
+1 medium white or yellow onion
+Quantifiers: 1 medium 
+Ingredients: white onion 
+
+6 tablespoons (3/4 stick) butter
+Quantifiers: 6 tablespoons 3/4 stick 
+Ingredients: butter 
+
+Two 14.5-ounce cans diced tomatoes 
+Quantifiers: Two cans 
+Ingredients: tomatoes 
+
+One 46-ounce bottle or can tomato juice 
+Quantifiers: One bottle can 
+Ingredients: tomato_juice 
+
+3 to 6 tablespoons sugar 
+Quantifiers: 3 6 tablespoons 
+Ingredients: sugar 
+
+1 or 2 tablespoons chicken base, or 3 chicken bouillon cubes 
+Quantifiers: 1 2 tablespoons base 3 cubes 
+Ingredients: chicken chicken bouillon_cubes 
+
+Freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 cup sherry, optional 
+Quantifiers: 1 cup 
+Ingredients: sherry 
+
+1 1/2 cups heavy cream 
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+1/4 cup chopped fresh basil
+Quantifiers: 1/4 cup 
+Ingredients: basil 
+
+1/4 cup chopped flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+

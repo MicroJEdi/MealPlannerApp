@@ -1,0 +1,64 @@
+Pasta:
+Quantifiers: 
+Ingredients: Pasta 
+
+1 pound penne pasta
+Quantifiers: 1 pound 
+Ingredients: penne pasta 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 medium yellow onion, diced
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+1 tablespoon garlic, chopped
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 tablespoon Italian seasoning mix
+Quantifiers: 1 tablespoon 
+Ingredients: seasoning mix 
+
+1/4 teaspoon crushed red pepper flake, optional
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+4 Italian-style hot pork sausages, cut into 1/2-inch slices
+Quantifiers: 4 slices 
+Ingredients: pork_sausages cut 
+
+1 (28-ounce) can diced tomatoes, drained
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+Basil leaves, for garnish
+Quantifiers: leaves 
+Ingredients: Basil 
+
+Cheesy Garlic Bread:
+Quantifiers: 
+Ingredients: Garlic_Bread 
+
+1/2 store-bought garlic bread (save other half for Pizza)
+Quantifiers: 1/2 half 
+Ingredients: garlic_bread Pizza 
+
+1 cup shredded mozzarella cheese
+Quantifiers: 1 cup 
+Ingredients: mozzarella cheese 
+
+1/2 teaspoon Italian seasoning mix
+Quantifiers: 1/2 teaspoon 
+Ingredients: seasoning mix 
+

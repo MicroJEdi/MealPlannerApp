@@ -1,0 +1,32 @@
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 large Idaho potatoes, washed, peeled and diced (about 1 1/2 to 2 inches thick)
+Quantifiers: 2 1 1/2 2 inches 
+Ingredients: potatoes 
+
+Pinch paprika
+Quantifiers: Pinch 
+Ingredients: paprika 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 bunch green onions, halved and thinly sliced
+Quantifiers: 1 
+Ingredients: green_onions 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 small Camembert or Brie cheese, rind trimmed off the bottom side
+Quantifiers: 1 bottom 
+Ingredients: Camembert Brie cheese side 
+

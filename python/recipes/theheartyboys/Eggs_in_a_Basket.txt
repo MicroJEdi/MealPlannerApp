@@ -1,0 +1,36 @@
+2 tablespoons butter, melted
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+24 wonton squares
+Quantifiers: 24 squares 
+Ingredients: wonton 
+
+6 slices shaved prosciutto, chopped
+Quantifiers: 6 slices 
+Ingredients: prosciutto 
+
+12 large eggs
+Quantifiers: 12 
+Ingredients: eggs 
+
+6 tablespoons grated Parmesan
+Quantifiers: 6 tablespoons 
+Ingredients: Parmesan 
+
+1 roasted red pepper, cut into thin strips
+Quantifiers: 1 
+Ingredients: red_pepper cut 
+
+6 slices Brie cheese
+Quantifiers: 6 slices 
+Ingredients: Brie cheese 
+
+12 fresh tarragon leaves
+Quantifiers: 12 leaves 
+Ingredients: tarragon 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

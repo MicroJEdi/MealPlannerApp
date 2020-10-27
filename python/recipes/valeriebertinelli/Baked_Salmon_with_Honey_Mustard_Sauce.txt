@@ -1,0 +1,28 @@
+Four 6- to 7-ounce salmon fillets, skin-on
+Quantifiers: Four 
+Ingredients: salmon fillets 
+
+1/2 cup low-fat mayonnaise 
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1/4 cup Dijon mustard 
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+1/4 cup honey 
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+2 tablespoons finely chopped chives, plus additional for garnish 
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+Kosher salt and freshly ground white pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt white_pepper 
+
+Kosher salt and freshly ground white pepper
+Quantifiers: ground 
+Ingredients: Kosher salt white_pepper 
+

@@ -1,0 +1,72 @@
+Steak:
+Quantifiers: 
+Ingredients: Steak 
+
+One 20-ounce boneless rib eye steak
+Quantifiers: One rib 
+Ingredients: steak 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Sauteed Garlicky Spinach:
+Quantifiers: 
+Ingredients: Spinach 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+4 cloves garlic, thinly sliced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1/2 teaspoon crushed red pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Three 10-ounce bags fresh spinach, washed and stemmed
+Quantifiers: Three bags 
+Ingredients: spinach 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Buttermilk Blue Cheese Dressing:
+Quantifiers: 
+Ingredients: Buttermilk Blue_Cheese Dressing 
+
+2 tablespoons crumbled blue cheese
+Quantifiers: 2 tablespoons 
+Ingredients: blue_cheese 
+
+1/2 cup buttermilk 
+Quantifiers: 1/2 cup 
+Ingredients: buttermilk 
+
+1 cup mayonnaise 
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+1/4 teaspoon Dijon mustard 
+Quantifiers: 1/4 teaspoon 
+Ingredients: mustard 
+
+1/2 teaspoon minced fresh dill 
+Quantifiers: 1/2 teaspoon 
+Ingredients: dill 
+
+1/8 teaspoon ground black pepper 
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+1 fresh loaf crispy French bread, cut into 8-inch segments, buttered and grilled
+Quantifiers: 1 
+Ingredients: loaf French_bread cut 
+

@@ -1,0 +1,52 @@
+For the Mayonnaise:
+Quantifiers: 
+Ingredients: Mayonnaise 
+
+2 large egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+2 tablespoons fresh lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+3/4 cup vegetable oil
+Quantifiers: 3/4 cup 
+Ingredients: vegetable_oil 
+
+For the Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+2 1/2-ounce strips slab bacon
+Quantifiers: 2 
+Ingredients: bacon 
+
+1 pound red bliss potatoes
+Quantifiers: 1 pound 
+Ingredients: potatoes 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 tablespoons capers, chopped
+Quantifiers: 2 tablespoons 
+Ingredients: capers 
+
+2 tablespoons apple cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: apple cider_vinegar 
+
+2 tablespoons minced fresh chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+Freshly ground pepper
+Quantifiers: ground 
+Ingredients: pepper 
+

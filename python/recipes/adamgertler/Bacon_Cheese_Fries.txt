@@ -1,0 +1,52 @@
+3 russet potatoes
+Quantifiers: 3 
+Ingredients: potatoes 
+
+5 cups vegetable oil, for frying
+Quantifiers: 5 cups 
+Ingredients: vegetable_oil 
+
+6 ounces thick cut applewood smoked bacon
+Quantifiers: 6 ounces 
+Ingredients: cut applewood bacon 
+
+3 tablespoons butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 tablespoons minced onion
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+2 teaspoons minced garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 tablespoon garlic chili sauce (recommended: Sriracha)
+Quantifiers: 1 tablespoon 
+Ingredients: garlic chili_sauce 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+3 cups heavy cream
+Quantifiers: 3 cups 
+Ingredients: heavy_cream 
+
+1 cup Parmigiano-Reggiano
+Quantifiers: 1 cup 
+Ingredients: 
+
+2 cups sharp white Cheddar
+Quantifiers: 2 cups sharp 
+Ingredients: white Cheddar 
+
+1/4 cup chopped chives, for garnish
+Quantifiers: 1/4 cup 
+Ingredients: chives 
+

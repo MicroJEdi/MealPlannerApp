@@ -1,0 +1,28 @@
+16 medium diver scallops, cleaned
+Quantifiers: 16 medium 
+Ingredients: scallops 
+
+1/8 cup extra-virgin olive oil, plus more for searing
+Quantifiers: 1/8 cup 
+Ingredients: olive_oil 
+
+2 teaspoons minced garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+1 tablespoon finely chopped thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 cups field greens
+Quantifiers: 2 cups 
+Ingredients: greens 
+

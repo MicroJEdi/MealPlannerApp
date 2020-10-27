@@ -1,0 +1,24 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon minced fresh ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+8 cups chopped fresh bok choy
+Quantifiers: 8 cups 
+Ingredients: bok_choy 
+
+2 tablespoons reduced-sodium soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+Salt and ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

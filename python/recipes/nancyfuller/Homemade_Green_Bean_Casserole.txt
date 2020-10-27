@@ -1,0 +1,36 @@
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 1/2 pounds green beans, trimmed 
+Quantifiers: 1 1/2 pounds 
+Ingredients: green_beans 
+
+3 tablespoons butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 shallots, chopped 
+Quantifiers: 2 
+Ingredients: shallots 
+
+1/2 pound button mushrooms, chopped 
+Quantifiers: 1/2 pound button 
+Ingredients: mushrooms 
+
+3 tablespoons flour 
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 cup chicken stock 
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1 cup half-and-half 
+Quantifiers: 1 cup 
+Ingredients: half-and-half 
+
+1 can fried onions
+Quantifiers: 1 can 
+Ingredients: onions 
+

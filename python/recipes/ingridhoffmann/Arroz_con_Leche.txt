@@ -1,0 +1,40 @@
+1 cup long-grain white rice
+Quantifiers: 1 cup 
+Ingredients: white_rice 
+
+2 cinnamon sticks
+Quantifiers: 2 sticks 
+Ingredients: cinnamon 
+
+1 tablespoon lemon zest
+Quantifiers: 1 tablespoon 
+Ingredients: lemon 
+
+3 whole cloves
+Quantifiers: 3 
+Ingredients: cloves 
+
+4 cups water
+Quantifiers: 4 cups 
+Ingredients: water 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+3 cups whole milk
+Quantifiers: 3 cups 
+Ingredients: whole_milk 
+
+1 (12-ounce) can sweetened condensed milk
+Quantifiers: 1 can 
+Ingredients: condensed_milk 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1/2 cup raisins, optional
+Quantifiers: 1/2 cup 
+Ingredients: raisins 
+

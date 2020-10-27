@@ -1,0 +1,32 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+2 cups thinly sliced onion
+Quantifiers: 2 cups 
+Ingredients: onion 
+
+2 teaspoons chopped fresh sage leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: sage 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+3/4 cup sour cream
+Quantifiers: 3/4 cup 
+Ingredients: sour_cream 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+Potato chips, for serving
+Quantifiers: serving 
+Ingredients: Potato_chips 
+

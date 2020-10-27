@@ -1,0 +1,76 @@
+Dough:
+Quantifiers: 
+Ingredients: Dough 
+
+4 large egg yolks, room temperature
+Quantifiers: 4 room_temperature 
+Ingredients: egg_yolks 
+
+1 large whole egg, room temperature
+Quantifiers: 1 room_temperature 
+Ingredients: egg 
+
+2 ounces sugar, approximately 1/4 cup
+Quantifiers: 2 ounces 1/4 cup 
+Ingredients: sugar 
+
+3 ounces unsalted butter, melted, approximately 6 tablespoons
+Quantifiers: 3 ounces 6 tablespoons 
+Ingredients: butter 
+
+6 ounces buttermilk, room temperature
+Quantifiers: 6 ounces room_temperature 
+Ingredients: buttermilk 
+
+20 ounces all-purpose flour, approximately 4 cups, plus additional for dusting
+Quantifiers: 20 ounces 4 cups 
+Ingredients: flour 
+
+1 package instant dry yeast, approximately 2 1/4 teaspoons
+Quantifiers: 1 package instant 2 1/4 teaspoons 
+Ingredients: yeast 
+
+1 1/4 teaspoons kosher salt
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: kosher salt 
+
+Vegetable oil or cooking spray
+Quantifiers: spray 
+Ingredients: Vegetable_oil 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+8 ounces light brown sugar, approximately 1 cup packed
+Quantifiers: 8 ounces light 1 cup 
+Ingredients: brown_sugar 
+
+1 tablespoon ground cinnamon
+Quantifiers: 1 tablespoon ground 
+Ingredients: cinnamon 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+3/4-ounce unsalted butter, melted, approximately 1 1/2 tablespoons
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: butter 
+
+Icing:
+Quantifiers: 
+Ingredients: 
+
+2 1/2 ounces cream cheese, softened, approximately 1/4 cup
+Quantifiers: 2 1/2 ounces 1/4 cup 
+Ingredients: cream_cheese 
+
+3 tablespoons milk
+Quantifiers: 3 tablespoons 
+Ingredients: milk 
+
+5 1/2 ounces powdered sugar, approximately 1 1/2 cups
+Quantifiers: 5 1/2 ounces 1 1/2 cups 
+Ingredients: powdered_sugar 
+

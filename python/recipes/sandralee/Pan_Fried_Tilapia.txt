@@ -1,0 +1,40 @@
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+2 teaspoons seafood seasoning
+Quantifiers: 2 teaspoons 
+Ingredients: seafood seasoning 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon fresh ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 1/2 pounds fresh tilapia fillets
+Quantifiers: 1 1/2 pounds 
+Ingredients: fillets 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 teaspoon chopped garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+2 tablespoons lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+2 tablespoons freshly chopped parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+

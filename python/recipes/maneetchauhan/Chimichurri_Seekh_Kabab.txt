@@ -1,0 +1,76 @@
+Chimichurri:
+Quantifiers: 
+Ingredients: 
+
+1 cup packed fresh Italian parsley
+Quantifiers: 1 cup 
+Ingredients: parsley 
+
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/3 cup red wine vinegar
+Quantifiers: 1/3 cup 
+Ingredients: red_wine_vinegar 
+
+1/4 cup packed fresh cilantro, plus more for garnish
+Quantifiers: 1/4 cup 
+Ingredients: cilantro 
+
+3/4 teaspoon dried crushed red pepper
+Quantifiers: 3/4 teaspoon 
+Ingredients: red_pepper 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+2 cloves garlic, peeled
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Kebabs:
+Quantifiers: 
+Ingredients: Kebabs 
+
+2 1/2 pounds ground lamb
+Quantifiers: 2 1/2 pounds ground 
+Ingredients: lamb 
+
+2 tablespoons chopped cashews
+Quantifiers: 2 tablespoons 
+Ingredients: cashews 
+
+2 teaspoons rock salt, finely ground
+Quantifiers: 2 teaspoons ground 
+Ingredients: rock salt 
+
+1 3/4 teaspoons garam masala
+Quantifiers: 1 3/4 teaspoons 
+Ingredients: 
+
+1 teaspoon minced garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon ground nutmeg
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: nutmeg 
+
+2 red onions, finely chopped
+Quantifiers: 2 
+Ingredients: red_onions 
+
+2 tablespoons unsalted butter, melted
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+

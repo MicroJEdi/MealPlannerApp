@@ -1,0 +1,80 @@
+Meatballs:
+Quantifiers: 
+Ingredients: Meatballs 
+
+8 to 10 slices applewood smoked bacon
+Quantifiers: 8 10 slices 
+Ingredients: applewood bacon 
+
+1 pound ground chuck
+Quantifiers: 1 pound ground 
+Ingredients: chuck 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 package onion soup mix
+Quantifiers: 1 package 
+Ingredients: onion soup mix 
+
+1/2 cup panko bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+1 tablespoon coarse black pepper
+Quantifiers: 1 tablespoon 
+Ingredients: black_pepper 
+
+1 tablespoon beef stock
+Quantifiers: 1 tablespoon 
+Ingredients: beef_stock 
+
+8 to 10 bocconcini mozzarella balls
+Quantifiers: 8 10 balls 
+Ingredients: mozzarella 
+
+Marinara:
+Quantifiers: 
+Ingredients: Marinara 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 yellow onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 tablespoons minced garlic
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+2 tablespoons freshly chopped basil leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: basil 
+
+2 tablespoons freshly chopped oregano leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: oregano 
+
+1 tablespoon coarse ground black pepper
+Quantifiers: 1 tablespoon ground 
+Ingredients: black_pepper 
+
+2 (14-ounce) cans crushed tomatoes
+Quantifiers: 2 cans 
+Ingredients: tomatoes 
+
+2 (14-ounce) cans diced tomatoes in puree
+Quantifiers: 2 cans in 
+Ingredients: tomatoes puree 
+
+1/2 teaspoon crushed red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 tablespoon chicken bouillon
+Quantifiers: 1 tablespoon 
+Ingredients: chicken bouillon 
+

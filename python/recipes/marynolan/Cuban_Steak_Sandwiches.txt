@@ -1,0 +1,44 @@
+1 1/2 pounds flank steak
+Quantifiers: 1 1/2 pounds 
+Ingredients: flank_steak 
+
+1 cup olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+1 cup fresh cilantro leaves
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+1/2 cup fresh basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+1/2 cup fresh flat-leaf parsley
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+
+1/4 cup fresh lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+5 cloves garlic
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+1 tablespoon kosher salt, plus more for seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt seasoning 
+
+1 (14-inch) loaf ciabatta bread
+Quantifiers: 1 
+Ingredients: loaf bread 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1 medium onion, thinly sliced
+Quantifiers: 1 medium 
+Ingredients: onion 
+

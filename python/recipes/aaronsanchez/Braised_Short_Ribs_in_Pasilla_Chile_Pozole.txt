@@ -1,0 +1,84 @@
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 teaspoon ground coriander
+Quantifiers: 1 teaspoon ground 
+Ingredients: coriander 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon ground mustard seeds
+Quantifiers: 1 teaspoon ground 
+Ingredients: mustard_seeds 
+
+2 pounds beef short ribs, cleaned, excess fat removed and cut into 2-inch pieces
+Quantifiers: 2 pounds ribs pieces 
+Ingredients: beef short_ribs cut 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Olive oil, for browning
+Quantifiers: 
+Ingredients: Olive_oil 
+
+6 dried pasilla chiles, seeded and stemmed
+Quantifiers: 6 
+Ingredients: chiles 
+
+1 cup hot water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+2 carrots, peeled and roughly chopped
+Quantifiers: 2 
+Ingredients: carrots 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 white onion, roughly chopped
+Quantifiers: 1 
+Ingredients: white onion 
+
+1/2 bunch celery, roughly chopped
+Quantifiers: 1/2 
+Ingredients: celery 
+
+2 cups red wine
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+2 tomatoes, quartered
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+3 to 4 cups beef broth
+Quantifiers: 3 4 cups 
+Ingredients: beef_broth 
+
+Two 16-ounce cans white hominy or pozole, drained
+Quantifiers: Two cans 
+Ingredients: white hominy 
+
+1 tablespoon chopped fresh cilantro
+Quantifiers: 1 tablespoon 
+Ingredients: cilantro 
+
+1 tablespoon chopped fresh parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+Lime wedges, for garnish
+Quantifiers: 
+Ingredients: Lime wedges 
+

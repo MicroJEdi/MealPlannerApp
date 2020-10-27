@@ -1,0 +1,36 @@
+3 medium beets, washed and trimmed
+Quantifiers: 3 medium 
+Ingredients: beets 
+
+1/4 cup extra-virgin olive oil 
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons sherry vinegar 
+Quantifiers: 2 tablespoons 
+Ingredients: sherry vinegar 
+
+1 tablespoon honey 
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+1 tablespoon minced red onions
+Quantifiers: 1 tablespoon 
+Ingredients: red_onions 
+
+1/2 teaspoon Dijon mustard 
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard 
+
+4 cups baby spinach 
+Quantifiers: 4 cups 
+Ingredients: spinach 
+
+1/2 cup crumbled goat cheese 
+Quantifiers: 1/2 cup 
+Ingredients: goat_cheese 
+
+1/2 cup chopped walnuts
+Quantifiers: 1/2 cup 
+Ingredients: walnuts 
+

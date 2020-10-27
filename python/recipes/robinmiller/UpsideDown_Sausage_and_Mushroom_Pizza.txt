@@ -1,0 +1,56 @@
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+1 pound sweet or hot turkey sausage, casing removed
+Quantifiers: 1 pound 
+Ingredients: sweet turkey sausage 
+
+1 cup onion, sliced
+Quantifiers: 1 cup 
+Ingredients: onion 
+
+8 ounces mushrooms, sliced
+Quantifiers: 8 ounces 
+Ingredients: mushrooms 
+
+1 cup pasta sauce
+Quantifiers: 1 cup 
+Ingredients: pasta_sauce 
+
+1 cup pizza sauce
+Quantifiers: 1 cup 
+Ingredients: pizza sauce 
+
+1/2 cup black olives, sliced
+Quantifiers: 1/2 cup 
+Ingredients: black_olives 
+
+16 ounces mozzarella cheese, shredded
+Quantifiers: 16 ounces 
+Ingredients: mozzarella cheese 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup milk
+Quantifiers: 1 cup 
+Ingredients: milk 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 cup Parmesan, grated
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+

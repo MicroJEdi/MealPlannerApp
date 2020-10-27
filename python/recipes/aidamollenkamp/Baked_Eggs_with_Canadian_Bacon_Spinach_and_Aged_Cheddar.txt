@@ -1,0 +1,36 @@
+3 tablespoons unsalted butter, plus more to butter ramekins
+Quantifiers: 3 tablespoons 
+Ingredients: butter butter ramekins 
+
+2 tablespoons minced yellow onion
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+6 ounces baby spinach
+Quantifiers: 6 ounces 
+Ingredients: spinach 
+
+4 slices Canadian bacon
+Quantifiers: 4 slices 
+Ingredients: Canadian_bacon 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+1 ounce grated aged Cheddar, plus extra for serving
+Quantifiers: 1 ounce serving 
+Ingredients: Cheddar 
+
+Sourdough bread
+Quantifiers: 
+Ingredients: Sourdough_bread 
+

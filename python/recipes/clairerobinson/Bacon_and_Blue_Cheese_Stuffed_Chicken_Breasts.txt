@@ -1,0 +1,24 @@
+8 ounces (2 sticks) unsalted butter, at room temperature
+Quantifiers: 8 ounces 2 sticks at room_temperature 
+Ingredients: butter 
+
+4 ounces blue cheese, crumbled (recommended: Maytag or Point Reyes)
+Quantifiers: 4 ounces Point 
+Ingredients: blue_cheese 
+
+4 slices smoked bacon, cooked until crisp and finely chopped
+Quantifiers: 4 slices 
+Ingredients: bacon crisp 
+
+2 teaspoons chopped fresh chives
+Quantifiers: 2 teaspoons 
+Ingredients: chives 
+
+4 skin-on, bone-in organic chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+Pinch freshly ground black pepper
+Quantifiers: Pinch ground 
+Ingredients: black_pepper 
+

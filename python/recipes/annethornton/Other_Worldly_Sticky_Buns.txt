@@ -1,0 +1,92 @@
+Dough:
+Quantifiers: 
+Ingredients: Dough 
+
+1 1/2 cups warm water (110 to 115 degrees F)
+Quantifiers: 1 1/2 cups degrees F 
+Ingredients: water 
+
+2 tablespoons dry yeast
+Quantifiers: 2 tablespoons 
+Ingredients: yeast 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1/2 cup (1 stick) unsalted butter, room temperature
+Quantifiers: 1/2 cup 1 stick room_temperature 
+Ingredients: butter 
+
+1/2 cup dry nonfat milk powder
+Quantifiers: 1/2 cup 
+Ingredients: milk_powder 
+
+1 1/4 teaspoons fine sea salt
+Quantifiers: 1 1/4 teaspoons sea 
+Ingredients: salt 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+4 1/4 cups all-purpose flour, plus more as needed
+Quantifiers: 4 1/4 cups as 
+Ingredients: flour 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup (1 stick) unsalted butter, room temperature, plus more for pans, plus 1/4 cup, melted
+Quantifiers: 1/2 cup 1 stick room_temperature pans 1/4 cup 
+Ingredients: butter 
+
+1 cup (packed) golden brown sugar
+Quantifiers: 1 cup 
+Ingredients: brown_sugar 
+
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1/4 cup dark corn syrup
+Quantifiers: 1/4 cup dark 
+Ingredients: corn_syrup 
+
+1/4 cup water
+Quantifiers: 1/4 cup 
+Ingredients: water 
+
+1 1/2 cups pecan halves
+Quantifiers: 1 1/2 cups halves 
+Ingredients: pecan 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+4 teaspoons ground cinnamon
+Quantifiers: 4 teaspoons ground 
+Ingredients: cinnamon 
+
+Royal Icing, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Royal Icing:
+Quantifiers: 
+Ingredients: 
+
+*2 large egg whites
+Quantifiers: 2 
+Ingredients: egg_whites 
+
+2 teaspoons fresh lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+3 cups confectioners' sugar, sifted
+Quantifiers: 3 cups 
+Ingredients: sugar 
+

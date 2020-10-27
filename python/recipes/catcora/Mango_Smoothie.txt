@@ -1,0 +1,20 @@
+1 banana
+Quantifiers: 1 
+Ingredients: banana 
+
+6 natural almonds (skin on)
+Quantifiers: 6 skin 
+Ingredients: almonds 
+
+1 cup peeled and chopped mango
+Quantifiers: 1 cup 
+Ingredients: mango 
+
+2 cups fresh, raw spinach
+Quantifiers: 2 cups 
+Ingredients: spinach 
+
+1 cup cranberry juice
+Quantifiers: 1 cup 
+Ingredients: cranberry_juice 
+

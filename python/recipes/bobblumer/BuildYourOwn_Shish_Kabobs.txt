@@ -1,0 +1,172 @@
+Dijon-Rosemary Steak:
+Quantifiers: 
+Ingredients: Steak 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+2 tablespoons fresh rosemary, stemmed
+Quantifiers: 2 tablespoons 
+Ingredients: rosemary 
+
+4 cloves garlic, minced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+2 tablespoons balsamic vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: vinegar 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 pound sirloin steak, cut into 1-inch cubes
+Quantifiers: 1 pound cubes 
+Ingredients: sirloin_steak cut 
+
+Citrus-Tarragon Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+1 orange, zested, then juiced, remainder discarded
+Quantifiers: 1 then remainder 
+Ingredients: orange 
+
+1 lemon, zested, then juiced, remainder discarded
+Quantifiers: 1 then remainder 
+Ingredients: lemon 
+
+1 lime, zested, then juiced, remainder discarded
+Quantifiers: 1 then remainder 
+Ingredients: lime 
+
+4 cloves garlic, minced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 tablespoon fresh tarragon leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: tarragon 
+
+1/4 cup soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 pound boneless, skinless chicken breasts, cut into 1-inch cubes
+Quantifiers: 1 pound breasts cubes 
+Ingredients: chicken cut 
+
+Lemon-Garlic Shrimp:
+Quantifiers: 
+Ingredients: Shrimp 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+2 shallots, minced
+Quantifiers: 2 
+Ingredients: shallots 
+
+1 bay leaf (fresh or dried)
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+2 tablespoon fresh thyme leaves
+Quantifiers: 2 tablespoon leaves 
+Ingredients: thyme 
+
+1/4 cup finely chopped fresh Italian parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1 teaspoon chili pepper flakes
+Quantifiers: 1 teaspoon 
+Ingredients: chili_pepper 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons freshly squeezed lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+1 pound (16 to 20 count) shrimp, shelled and deveined
+Quantifiers: 1 pound 16 20 count 
+Ingredients: shrimp 
+
+Veggies For Kabobs:
+Quantifiers: 
+Ingredients: Veggies Kabobs 
+
+Bell peppers
+Quantifiers: 
+Ingredients: Bell_peppers 
+
+Onions
+Quantifiers: 
+Ingredients: Onions 
+
+Cherry tomatoes
+Quantifiers: 
+Ingredients: Cherry tomatoes 
+
+Mushrooms
+Quantifiers: 
+Ingredients: Mushrooms 
+
+Italian squash
+Quantifiers: 
+Ingredients: squash 
+
+Baby potatoes, boiled until cooked through
+Quantifiers: 
+Ingredients: potatoes 
+
+Corn on the cob, husked and sliced into 1/2-inch-thick rounds
+Quantifiers: rounds 
+Ingredients: Corn cob 
+
+Balsamic Basting Vinaigrette for Veggies:
+Quantifiers: 
+Ingredients: Vinaigrette Veggies 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons balsamic vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: vinegar 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

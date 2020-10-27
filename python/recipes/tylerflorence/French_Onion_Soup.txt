@@ -1,0 +1,44 @@
+1/2 cup unsalted butter
+Quantifiers: 1/2 cup 
+Ingredients: butter 
+
+4 onions, sliced
+Quantifiers: 4 
+Ingredients: onions 
+
+2 garlic cloves, chopped
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+2 fresh thyme sprigs
+Quantifiers: 2 
+Ingredients: thyme 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 cup red wine, about 1/2 bottle
+Quantifiers: 1 cup 1/2 bottle 
+Ingredients: red_wine 
+
+3 heaping tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+2 quarts beef broth
+Quantifiers: 2 quarts 
+Ingredients: beef_broth 
+
+1 baguette, sliced
+Quantifiers: 1 
+Ingredients: baguette 
+
+1/2 pound grated Gruyere
+Quantifiers: 1/2 pound 
+Ingredients: Gruyere 
+

@@ -1,0 +1,20 @@
+1 pound baby new potatoes
+Quantifiers: 1 pound 
+Ingredients: potatoes 
+
+2 cups grated Gruyere cheese
+Quantifiers: 2 cups 
+Ingredients: Gruyere cheese 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+

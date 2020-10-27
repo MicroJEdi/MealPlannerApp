@@ -1,0 +1,148 @@
+Chili:
+Quantifiers: 
+Ingredients: Chili 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+4 onions, finely chopped
+Quantifiers: 4 
+Ingredients: onions 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 teaspoons dried or crushed chili flakes
+Quantifiers: 2 teaspoons 
+Ingredients: chili 
+
+2 teaspoons ground coriander
+Quantifiers: 2 teaspoons ground 
+Ingredients: coriander 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+5 cardamom pods, bruised
+Quantifiers: 5 
+Ingredients: cardamom pods 
+
+2 red peppers, seeded and finely diced
+Quantifiers: 2 
+Ingredients: red_peppers 
+
+3 pounds 4 ounces ground beef
+Quantifiers: 3 pounds 4 ounces 
+Ingredients: ground_beef 
+
+7 cups canned chopped tomatoes
+Quantifiers: 7 cups 
+Ingredients: tomatoes 
+
+1/2 cup tomato ketchup
+Quantifiers: 1/2 cup 
+Ingredients: tomato_ketchup 
+
+1/2 cup tomato puree
+Quantifiers: 1/2 cup 
+Ingredients: tomato puree 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+2 tablespoons cocoa
+Quantifiers: 2 tablespoons 
+Ingredients: cocoa 
+
+3 1/2 cups canned red kidney beans
+Quantifiers: 3 1/2 cups 
+Ingredients: kidney_beans 
+
+Cornbread:
+Quantifiers: 
+Ingredients: Cornbread 
+
+1 1/2 teaspoons salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: salt 
+
+4 cups cornmeal
+Quantifiers: 4 cups 
+Ingredients: cornmeal 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+6 teaspoons baking powder
+Quantifiers: 6 teaspoons 
+Ingredients: baking_powder 
+
+2 teaspoons ground cinnamon
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+3 cups buttermilk
+Quantifiers: 3 cups 
+Ingredients: buttermilk 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 teaspoons honey
+Quantifiers: 2 teaspoons 
+Ingredients: honey 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+2 cups grated Cheddar
+Quantifiers: 2 cups 
+Ingredients: Cheddar 
+
+Guacamole, recipe follows
+Quantifiers: 
+Ingredients: Guacamole 
+
+Serving suggestion:
+Quantifiers: Serving suggestion 
+Ingredients: 
+
+2 cups sour cream
+Quantifiers: 2 cups 
+Ingredients: sour_cream 
+
+Ground paprika, for dusting
+Quantifiers: Ground 
+Ingredients: paprika 
+
+3 3/4 cups grated Cheddar
+Quantifiers: 3 3/4 cups 
+Ingredients: Cheddar 
+
+Guacamole:
+Quantifiers: 
+Ingredients: Guacamole 
+
+4 ripe avocados, peeled, stoned and chopped
+Quantifiers: 4 
+Ingredients: avocados 
+
+4 scallions, finely chopped
+Quantifiers: 4 
+Ingredients: scallions 
+
+2 limes, juiced
+Quantifiers: 2 
+Ingredients: limes 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+

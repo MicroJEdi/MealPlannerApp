@@ -1,0 +1,80 @@
+Gingersnap Cookie Crust:
+Quantifiers: 
+Ingredients: Gingersnap Cookie 
+
+3 1/2 cups gingersnap crumbs (see Cook's Note)
+Quantifiers: 3 1/2 cups crumbs Note 
+Ingredients: gingersnap 
+
+5 to 6 tablespoons unsalted butter, melted
+Quantifiers: 5 6 tablespoons 
+Ingredients: butter 
+
+Pumpkin Filling:
+Quantifiers: 
+Ingredients: Pumpkin Filling 
+
+2 cups low-fat milk
+Quantifiers: 2 cups 
+Ingredients: low-fat_milk 
+
+3/4 cup brown sugar
+Quantifiers: 3/4 cup 
+Ingredients: brown_sugar 
+
+1/4 cup cornstarch
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup pumpkin puree
+Quantifiers: 1 cup 
+Ingredients: pumpkin puree 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+Rum Cheesecake Topping:
+Quantifiers: 
+Ingredients: Rum Cheesecake 
+
+10 ounces cream cheese, at room temperature
+Quantifiers: 10 ounces at room_temperature 
+Ingredients: cream_cheese 
+
+1/3 cup granulated sugar
+Quantifiers: 1/3 cup 
+Ingredients: granulated_sugar 
+
+1 tablespoon heavy whipping cream
+Quantifiers: 1 tablespoon 
+Ingredients: whipping_cream 
+
+1 teaspoon rum extract
+Quantifiers: 1 teaspoon 
+Ingredients: rum 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+Pinch of ground nutmeg
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+Pinch of ground cloves
+Quantifiers: Pinch ground 
+Ingredients: cloves 
+
+Pinch of ground cinnamon
+Quantifiers: Pinch ground 
+Ingredients: cinnamon 
+
+1 vanilla bean, split and seeds scraped
+Quantifiers: 1 split 
+Ingredients: vanilla_bean seeds 
+

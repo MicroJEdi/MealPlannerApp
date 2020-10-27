@@ -1,0 +1,72 @@
+Tomatillo Salsa (Salsa Verde*):
+Quantifiers: 
+Ingredients: Tomatillo Salsa Salsa 
+
+1 pound fresh tomatillos
+Quantifiers: 1 pound 
+Ingredients: tomatillos 
+
+3 fresh serrano chiles
+Quantifiers: 3 
+Ingredients: chiles 
+
+3 garlic cloves, unpeeled
+Quantifiers: 3 
+Ingredients: garlic_cloves 
+
+1 large onion, coarsely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+Olive oil, as needed
+Quantifiers: as 
+Ingredients: Olive_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/2 cup fresh cilantro leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+1/4 cup chicken broth or more as needed
+Quantifiers: 1/4 cup as 
+Ingredients: chicken_broth 
+
+Chilaquiles**:
+Quantifiers: 
+Ingredients: 
+
+1/3 cup vegetable oil
+Quantifiers: 1/3 cup 
+Ingredients: vegetable_oil 
+
+10 corn tortillas, cut into eighths, preferably stale (spread out to dry overnight)
+Quantifiers: 10 eighths 
+Ingredients: corn tortillas cut spread 
+
+3 cups roasted Tomatillo Salsa
+Quantifiers: 3 cups 
+Ingredients: Tomatillo Salsa 
+
+Kosher salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup crumbled queso fresco*** or a mild feta
+Quantifiers: 1/2 cup a 
+Ingredients: 
+
+2 thin slices onion, separated into rings
+Quantifiers: 2 slices rings 
+Ingredients: onion 
+
+1/2 cup Mexican crema, creme fraiche or sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1/4 cup chopped fresh cilantro leaves, for garnish
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+

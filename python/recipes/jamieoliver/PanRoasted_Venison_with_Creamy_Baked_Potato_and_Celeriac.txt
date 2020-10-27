@@ -1,0 +1,60 @@
+4 tablespoons butter, melted, plus a couple extra knobs, divided
+Quantifiers: 4 tablespoons a couple 
+Ingredients: butter 
+
+2 pounds potatoes, peeled
+Quantifiers: 2 pounds 
+Ingredients: potatoes 
+
+1 small celeriac, peeled and halved
+Quantifiers: 1 
+Ingredients: celeriac 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+1 pint heavy cream
+Quantifiers: 1 pint 
+Ingredients: heavy_cream 
+
+1 clove garlic, peeled and finely chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 a small bunch fresh sage, leaves picked and roughly chopped
+Quantifiers: 1/2 a leaves 
+Ingredients: sage 
+
+4 ounces freshly grated Parmesan, divided
+Quantifiers: 4 ounces 
+Ingredients: Parmesan 
+
+10 juniper berries, crushed with the side of a knife
+Quantifiers: 10 a knife 
+Ingredients: juniper_berries side 
+
+3 sprigs fresh rosemary, leaves picked and chopped
+Quantifiers: 3 leaves 
+Ingredients: rosemary 
+
+2.2 pounds venison loin in 1 large piece, trimmed
+Quantifiers: 22 pounds in 1 piece 
+Ingredients: venison loin 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1 bulb garlic, unpeeled
+Quantifiers: 1 bulb 
+Ingredients: garlic 
+
+Water
+Quantifiers: 
+Ingredients: Water 
+
+1 wineglass of good-quality red wine, like Pinot Noir
+Quantifiers: 1 wineglass 
+Ingredients: red_wine Pinot_Noir 
+

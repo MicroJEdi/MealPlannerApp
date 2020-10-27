@@ -1,0 +1,36 @@
+1 medium white onion
+Quantifiers: 1 medium 
+Ingredients: white onion 
+
+1 tablespoon Sicilian capers rinsed in water
+Quantifiers: 1 tablespoon in 
+Ingredients: capers water 
+
+4 tablespoons extra virgin olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+Fresh thyme, to taste
+Quantifiers: taste 
+Ingredients: thyme 
+
+Salt and pepper, to taste
+Quantifiers: taste 
+Ingredients: Salt pepper 
+
+1 pint cherry tomatoes, quartered
+Quantifiers: 1 pint 
+Ingredients: cherry tomatoes 
+
+1 small zucchini
+Quantifiers: 1 
+Ingredients: zucchini 
+
+4 (8-ounce) fillets sea bass
+Quantifiers: 4 
+Ingredients: fillets sea_bass 
+
+Fresh chives, for garnish
+Quantifiers: 
+Ingredients: chives 
+

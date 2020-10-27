@@ -1,0 +1,36 @@
+6 dozen fresh clams (littlenecks or middlenecks, your choice)
+Quantifiers: 6 dozen clams 
+Ingredients: littlenecks 
+
+3 tablespoons grapeseed oil
+Quantifiers: 3 tablespoons 
+Ingredients: oil 
+
+4 cloves garlic, chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 large onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 cup white wine
+Quantifiers: 1 cup 
+Ingredients: white_wine 
+
+2 cups clam juice or water
+Quantifiers: 2 cups clam 
+Ingredients: juice water 
+
+Chopped parsley leaves
+Quantifiers: leaves 
+Ingredients: parsley 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1/2 cup melted butter (1 stick)
+Quantifiers: 1/2 cup 1 stick 
+Ingredients: butter 
+

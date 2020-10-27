@@ -1,0 +1,48 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+1 pound elbow macaroni or cavatappi
+Quantifiers: 1 pound 
+Ingredients: macaroni 
+
+1 quart milk
+Quantifiers: 1 quart 
+Ingredients: milk 
+
+8 tablespoons (1 stick) unsalted butter, divided
+Quantifiers: 8 tablespoons 1 stick 
+Ingredients: butter 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+12 ounces Gruyere, grated (4 cups)
+Quantifiers: 12 ounces 4 cups 
+Ingredients: Gruyere 
+
+8 ounces extra-sharp Cheddar, grated (2 cups)
+Quantifiers: 8 ounces 2 cups 
+Ingredients: Cheddar 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon ground nutmeg
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: nutmeg 
+
+3/4 pound fresh tomatoes (4 small)
+Quantifiers: 3/4 pound 4 
+Ingredients: tomatoes 
+
+1 1/2 cups fresh white bread crumbs (5 slices, crusts removed)
+Quantifiers: 1 1/2 cups crumbs 5 slices 
+Ingredients: white_bread 
+

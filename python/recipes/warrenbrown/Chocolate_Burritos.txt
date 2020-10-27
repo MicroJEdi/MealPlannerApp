@@ -1,0 +1,24 @@
+Block of bittersweet chocolate, about 1 cup size
+Quantifiers: Block 1 cup 
+Ingredients: bittersweet_chocolate 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+
+1/2 to 1 cup walnuts
+Quantifiers: 1/2 1 cup 
+Ingredients: walnuts 
+
+Granulated sugar
+Quantifiers: 
+Ingredients: Granulated_sugar 
+
+3 to 6 sheets phyllo dough, thawed
+Quantifiers: 3 6 sheets 
+Ingredients: phyllo dough 
+
+Unsalted butter, melted for brushing
+Quantifiers: 
+Ingredients: butter 
+

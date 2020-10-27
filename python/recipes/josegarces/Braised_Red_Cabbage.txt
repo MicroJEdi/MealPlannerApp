@@ -1,0 +1,32 @@
+1 ounce slab bacon, diced
+Quantifiers: 1 ounce 
+Ingredients: bacon 
+
+1/2 cup julienned red onion (about 1/2 onion)
+Quantifiers: 1/2 cup 1/2 
+Ingredients: red_onion 
+
+3 cloves garlic, thinly sliced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+6 cups shredded red cabbage (1/2 small head)
+Quantifiers: 6 cups 1/2 head 
+Ingredients: red_cabbage 
+
+1 cup red wine vinegar
+Quantifiers: 1 cup 
+Ingredients: red_wine_vinegar 
+
+1/2 cup fresh orange juice
+Quantifiers: 1/2 cup 
+Ingredients: orange_juice 
+
+1 Granny Smith apple, julienned
+Quantifiers: 1 
+Ingredients: Granny_Smith apple 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+

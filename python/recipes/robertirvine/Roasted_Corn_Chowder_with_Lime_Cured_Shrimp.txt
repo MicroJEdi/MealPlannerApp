@@ -1,0 +1,76 @@
+1 lime
+Quantifiers: 1 
+Ingredients: lime 
+
+1 pound baby shrimp, shelled and deveined
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+2 cups fresh corn kernels (from about 4 ears) or thawed frozen corn kernels (do not use canned corn)
+Quantifiers: 2 cups 4 
+Ingredients: corn kernels ears corn kernels corn 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+1/2 cup chopped raw bacon
+Quantifiers: 1/2 cup 
+Ingredients: bacon 
+
+1 red onion, diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1/2 cup celery, finely diced
+Quantifiers: 1/2 cup 
+Ingredients: celery 
+
+1 green bell pepper, diced
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 red bell pepper, diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+6 cloves garlic, minced
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+2 cups (1 pint) heavy cream
+Quantifiers: 2 cups 1 pint 
+Ingredients: heavy_cream 
+
+6 cups chicken stock
+Quantifiers: 6 cups 
+Ingredients: chicken_stock 
+
+1/2 pound red bliss potatoes, diced
+Quantifiers: 1/2 pound 
+Ingredients: potatoes 
+
+3 tablespoons freshly squeezed lime juice
+Quantifiers: 3 tablespoons 
+Ingredients: lime_juice 
+
+2 tablespoons chopped fresh parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+1/4 teaspoon cayenne pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 bunch scallions, chopped
+Quantifiers: 1 
+Ingredients: scallions 
+
+Oyster crackers, as an accompaniment
+Quantifiers: as 
+Ingredients: Oyster_crackers 
+

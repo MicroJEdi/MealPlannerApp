@@ -1,0 +1,28 @@
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 pound slab bacon, cut into 1/2-inch chunks
+Quantifiers: 1/2 pound chunks 
+Ingredients: bacon cut 
+
+1 pound fresh or dried spinach fettuccine
+Quantifiers: 1 pound 
+Ingredients: spinach fettuccine 
+
+1 whole large egg, plus 2 large egg yolks, at room temperature
+Quantifiers: 1 2 at room_temperature 
+Ingredients: egg_yolks 
+
+1 cup grated Parmigiano-Reggiano, plus more for garnish
+Quantifiers: 1 cup 
+Ingredients: 
+
+2 teaspoons freshly cracked black pepper
+Quantifiers: 2 teaspoons 
+Ingredients: black_pepper 
+
+2 cups baby spinach leaves
+Quantifiers: 2 cups leaves 
+Ingredients: spinach 
+

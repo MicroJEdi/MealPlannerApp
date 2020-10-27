@@ -1,0 +1,152 @@
+For the steaks:
+Quantifiers: 
+Ingredients: steaks 
+
+1 cup chopped fresh curly parsley
+Quantifiers: 1 cup 
+Ingredients: parsley 
+
+3 tablespoons minced shallot
+Quantifiers: 3 tablespoons 
+Ingredients: shallot 
+
+2 tablespoons chopped fresh rosemary
+Quantifiers: 2 tablespoons 
+Ingredients: rosemary 
+
+1 tablespoon chopped fresh thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 teaspoon pink peppercorns, crushed
+Quantifiers: 1 teaspoon 
+Ingredients: peppercorns 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+4 8-ounce buffalo strip steaks
+Quantifiers: 4 
+Ingredients: buffalo strip_steaks 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Flaky sea salt
+Quantifiers: sea 
+Ingredients: salt 
+
+For the corn salad:
+Quantifiers: 
+Ingredients: corn salad 
+
+2 cups corn kernels (from about 4 ears of corn)
+Quantifiers: 2 cups 4 
+Ingredients: corn kernels ears corn 
+
+1/2 cup white wine vinegar
+Quantifiers: 1/2 cup 
+Ingredients: white_wine_vinegar 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 teaspoon turmeric
+Quantifiers: 1 teaspoon 
+Ingredients: turmeric 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+Juice of 2 limes
+Quantifiers: 2 
+Ingredients: Juice limes 
+
+1 red bell pepper, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 yellow bell pepper, finely diced
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1 shallot, finely diced
+Quantifiers: 1 
+Ingredients: shallot 
+
+2 tablespoons chopped fresh tarragon
+Quantifiers: 2 tablespoons 
+Ingredients: tarragon 
+
+1 tablespoon chopped fresh curly parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+1 tablespoon Amber spice mix or 1 teaspoon chili powder
+Quantifiers: 1 tablespoon 1 teaspoon 
+Ingredients: spice mix chili_powder 
+
+For the hottish sauce:
+Quantifiers: 
+Ingredients: sauce 
+
+Canola oil
+Quantifiers: 
+Ingredients: Canola_oil 
+
+1/2 white onion, diced
+Quantifiers: 1/2 
+Ingredients: white onion 
+
+1/2 small green bell pepper, diced
+Quantifiers: 1/2 
+Ingredients: green bell_pepper 
+
+1/2 small red bell pepper, diced
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+1 large clove garlic, finely diced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 small jalapeno pepper, finely diced
+Quantifiers: 1/2 
+Ingredients: jalapeno_pepper 
+
+2 tablespoons chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+1/8 teaspoon cayenne pepper
+Quantifiers: 1/8 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 cup good-quality tomato juice
+Quantifiers: 1/2 cup 
+Ingredients: tomato_juice 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+
+1/2 teaspoon dijon mustard
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

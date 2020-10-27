@@ -1,0 +1,24 @@
+Unsalted butter, for baking dish
+Quantifiers: dish 
+Ingredients: butter 
+
+1 large bunch asparagus, about 1 1/2 pounds, trimmed to even lengths and blanched for 4 minutes in boiling, salted water
+Quantifiers: 1 1 1/2 pounds even 4 minutes in 
+Ingredients: asparagus water 
+
+Gray salt and freshly ground pepper
+Quantifiers: Gray ground 
+Ingredients: salt pepper 
+
+Seasoned bread crumbs, recipe follows
+Quantifiers: crumbs 
+Ingredients: bread 
+
+8 thin slices prosciutto
+Quantifiers: 8 slices 
+Ingredients: prosciutto 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+

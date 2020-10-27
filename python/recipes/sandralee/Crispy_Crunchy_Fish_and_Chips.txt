@@ -1,0 +1,56 @@
+4 small russet potatoes, washed
+Quantifiers: 4 
+Ingredients: potatoes 
+
+3 cups canola plus 2 teaspoons canola oil
+Quantifiers: 3 cups 2 teaspoons 
+Ingredients: canola_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 cups all-purpose flour, plus 1/2 cup for dredging
+Quantifiers: 2 cups 1/2 cup 
+Ingredients: flour 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+2 cups seltzer water
+Quantifiers: 2 cups 
+Ingredients: seltzer water 
+
+4 tilapia fillets, each fillet sliced in 1/2
+Quantifiers: 4 in 1/2 
+Ingredients: fillets fillet 
+
+Tartar Sauce, recipe follows
+Quantifiers: 
+Ingredients: Tartar_Sauce 
+
+Tartar Sauce:
+Quantifiers: 
+Ingredients: Tartar_Sauce 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 teaspoons lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+2 teaspoon seafood seasoning
+Quantifiers: 2 teaspoon 
+Ingredients: seafood seasoning 
+
+2 tablespoons pickle relish
+Quantifiers: 2 tablespoons 
+Ingredients: pickle_relish 
+

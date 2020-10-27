@@ -1,0 +1,32 @@
+1 1/2 ounces sweet vermouth, such as Carpano Antica
+Quantifiers: 1 1/2 ounces as 
+Ingredients: sweet_vermouth 
+
+1 ounce elderflower liqueur, such as St. Germain
+Quantifiers: 1 ounce as 
+Ingredients: liqueur 
+
+1 ounce orange juice
+Quantifiers: 1 ounce 
+Ingredients: orange_juice 
+
+1 ounce bitter orange liqueur, such as Campari
+Quantifiers: 1 ounce as 
+Ingredients: bitter_orange_liqueur 
+
+1/2 ounce bourbon
+Quantifiers: 1/2 ounce 
+Ingredients: bourbon 
+
+Juice of 1/2 lime
+Quantifiers: 1/2 
+Ingredients: Juice lime 
+
+Ice
+Quantifiers: 
+Ingredients: Ice 
+
+Orange twist, for garnish
+Quantifiers: 
+Ingredients: Orange 
+

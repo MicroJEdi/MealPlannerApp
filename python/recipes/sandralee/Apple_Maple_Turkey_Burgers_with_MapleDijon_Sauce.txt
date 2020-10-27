@@ -1,0 +1,56 @@
+For Maple-Dijon Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+2 tablespoons real maple syrup
+Quantifiers: 2 tablespoons real 
+Ingredients: maple_syrup 
+
+For Burgers:
+Quantifiers: 
+Ingredients: Burgers 
+
+1 1/4 pounds ground turkey breast
+Quantifiers: 1 1/4 pounds ground breast 
+Ingredients: turkey 
+
+1/4 cup real bacon bits
+Quantifiers: 1/4 cup real bits 
+Ingredients: bacon 
+
+1/2 cup chunky applesauce
+Quantifiers: 1/2 cup 
+Ingredients: applesauce 
+
+1 teaspoon poultry seasoning
+Quantifiers: 1 teaspoon 
+Ingredients: poultry seasoning 
+
+2 tablespoons real maple syrup
+Quantifiers: 2 tablespoons real 
+Ingredients: maple_syrup 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+Hamburger Buns
+Quantifiers: 
+Ingredients: Hamburger_Buns 
+
+Hamburger condiments
+Quantifiers: 
+Ingredients: Hamburger condiments 
+

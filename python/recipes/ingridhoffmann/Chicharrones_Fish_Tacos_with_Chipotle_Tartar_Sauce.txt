@@ -1,0 +1,92 @@
+Tartar Sauce:
+Quantifiers: 
+Ingredients: Tartar_Sauce 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+2 garlic cloves, finely chopped
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+1 scallion, white and light green parts only, sliced
+Quantifiers: 1 light 
+Ingredients: scallion white green 
+
+1 to 2 chipotles in adobo, seeds removed and finely chopped
+Quantifiers: 1 2 in 
+Ingredients: chipotles adobo seeds 
+
+1/2 lime, juiced
+Quantifiers: 1/2 
+Ingredients: lime 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Tacos:
+Quantifiers: 
+Ingredients: Tacos 
+
+2 pounds skinless Pacific cod (or other firm, flaky white fish), cut into 1-inch chunks
+Quantifiers: 2 pounds chunks 
+Ingredients: cod white fish cut 
+
+4 garlic cloves
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+1 teaspoon coarse salt, plus additional for seasoning
+Quantifiers: 1 teaspoon 
+Ingredients: salt seasoning 
+
+2 tablespoons Worcestershire sauce
+Quantifiers: 2 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+8 (8-inch) flour tortillas
+Quantifiers: 8 
+Ingredients: flour tortillas 
+
+1 cucumber, peeled, halved lengthwise, seeded, halved crosswise and sliced into 1/2-inch thick strips, for serving
+Quantifiers: 1 serving 
+Ingredients: cucumber 
+
+2 cups arugula, stems removed, for serving
+Quantifiers: 2 cups serving 
+Ingredients: 
+
+1 cup fresh cilantro leaves, for serving
+Quantifiers: 1 cup leaves serving 
+Ingredients: cilantro 
+
+1 ripe Hass avocado, halved, pitted, peeled, and sliced, for serving
+Quantifiers: 1 serving 
+Ingredients: avocado 
+
+2 oranges, zested, for serving
+Quantifiers: 2 serving 
+Ingredients: oranges 
+
+Lime wedges, for serving
+Quantifiers: serving 
+Ingredients: Lime wedges 
+

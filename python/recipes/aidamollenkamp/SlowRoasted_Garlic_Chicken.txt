@@ -1,0 +1,32 @@
+2 tablespoons kosher salt
+Quantifiers: 2 tablespoons 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 (5 pound) chicken
+Quantifiers: 1 5 pound 
+Ingredients: chicken 
+
+4 heads garlic, top 1-inch cut off
+Quantifiers: 4 heads 
+Ingredients: garlic cut 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 medium lemon, halved
+Quantifiers: 1 medium 
+Ingredients: lemon 
+
+1 medium yellow onion, quartered
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 cup low-sodium chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+

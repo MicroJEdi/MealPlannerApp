@@ -1,0 +1,52 @@
+2/3 cup extra-virgin olive oil
+Quantifiers: 2/3 cup 
+Ingredients: olive_oil 
+
+2/3 cup red wine vinegar 
+Quantifiers: 2/3 cup 
+Ingredients: red_wine_vinegar 
+
+2 cups pitted prunes 
+Quantifiers: 2 cups 
+Ingredients: prunes 
+
+1/4 cup capers with a bit of brine 
+Quantifiers: 1/4 cup a bit 
+Ingredients: capers 
+
+2 tablespoons dried oregano 
+Quantifiers: 2 tablespoons 
+Ingredients: oregano 
+
+20 garlic-stuffed olives 
+Quantifiers: 20 
+Ingredients: olives 
+
+5 cloves garlic, minced or pushed through a press 
+Quantifiers: 5 a press 
+Ingredients: cloves garlic 
+
+2 bay leaves 
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3 pounds bone-in, skin-on chicken breasts 
+Quantifiers: 3 pounds breasts 
+Ingredients: chicken 
+
+1/4 cup light brown sugar 
+Quantifiers: 1/4 cup light 
+Ingredients: brown_sugar 
+
+1/2 cup white wine 
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/2 cup fresh flat-leaf parsley leaves, finely chopped
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+

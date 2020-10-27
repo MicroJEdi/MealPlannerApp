@@ -1,0 +1,92 @@
+Dressing:
+Quantifiers: 
+Ingredients: Dressing 
+
+3/4 cup olive oil
+Quantifiers: 3/4 cup 
+Ingredients: olive_oil 
+
+6 tablespoons lime juice
+Quantifiers: 6 tablespoons 
+Ingredients: lime_juice 
+
+1 tablespoon fresh cilantro
+Quantifiers: 1 tablespoon 
+Ingredients: cilantro 
+
+1 tablespoon vegan or regular mayonnaise
+Quantifiers: 1 tablespoon 
+Ingredients: mayonnaise 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon honey
+Quantifiers: 1/2 teaspoon 
+Ingredients: honey 
+
+1 canned chipotle pepper in adobo
+Quantifiers: 1 in 
+Ingredients: chipotle pepper adobo 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+One 19-ounce bag frozen fish sticks, such as Gorton's
+Quantifiers: One bag sticks as 
+Ingredients: fish_sticks 
+
+One 15-ounce can black beans, rinsed and drained
+Quantifiers: One can 
+Ingredients: black_beans 
+
+1 cup diced jicama
+Quantifiers: 1 cup 
+Ingredients: 
+
+1 cup corn kernels
+Quantifiers: 1 cup 
+Ingredients: corn kernels 
+
+1 cup cherry tomatoes, halved
+Quantifiers: 1 cup 
+Ingredients: cherry tomatoes 
+
+1 small red onion, finely diced 
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 head romaine lettuce, chopped
+Quantifiers: 1 head lettuce 
+Ingredients: romaine_lettuce 
+
+One 5-ounce container mixed spring greens
+Quantifiers: One container spring 
+Ingredients: greens 
+
+1 English cucumber, sliced
+Quantifiers: 1 
+Ingredients: cucumber 
+
+Shredded Mexican blend cheese, for topping
+Quantifiers: 
+Ingredients: cheese 
+
+Sour cream, for topping
+Quantifiers: 
+Ingredients: Sour_cream 
+
+Sliced avocado, for topping
+Quantifiers: 
+Ingredients: avocado 
+
+Tortilla strips or crumbled tortilla chips, for topping
+Quantifiers: 
+Ingredients: Tortilla tortilla_chips 
+

@@ -1,0 +1,32 @@
+4 (6-ounce) salmon fillets
+Quantifiers: 4 
+Ingredients: salmon fillets 
+
+8 large outer romaine lettuce leaves
+Quantifiers: 8 lettuce leaves 
+Ingredients: romaine_lettuce 
+
+2 teaspoons olive oil
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+
+3 lemons, 2 juiced, 1 sliced thinly
+Quantifiers: 3 2 1 
+Ingredients: lemons 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 teaspoons capers
+Quantifiers: 4 teaspoons 
+Ingredients: capers 
+
+8 sprigs fresh dill
+Quantifiers: 8 
+Ingredients: dill 
+

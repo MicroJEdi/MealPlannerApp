@@ -1,0 +1,56 @@
+1 large head or 2 small heads cauliflower (about 1 1/2 pounds), cut into 1-inch florets
+Quantifiers: 1 head 2 heads 1 1/2 pounds 
+Ingredients: cauliflower cut 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 pint cherry tomatoes, halved or quartered if large 
+Quantifiers: 1 pint 
+Ingredients: cherry tomatoes 
+
+2 cups lightly packed red chard leaves (about 4 large leaves) plus 1/4 cup finely sliced chard stems 
+Quantifiers: 2 cups leaves 4 leaves 1/4 cup 
+Ingredients: chard chard 
+
+1 2/3 cups cooked brown lentils (from about 2/3 cup raw) 
+Quantifiers: 1 2/3 cups 2/3 cup 
+Ingredients: lentils 
+
+1 heaping cup cooked orzo (from about 3 ounces raw) 
+Quantifiers: 1 cup 3 ounces 
+Ingredients: orzo 
+
+1/2 cup pitted green olives, roughly chopped 
+Quantifiers: 1/2 cup 
+Ingredients: green_olives 
+
+1/2 cup packed parsley leaves, roughly chopped 
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+
+3 tablespoons finely chopped fresh dill 
+Quantifiers: 3 tablespoons 
+Ingredients: dill 
+
+2 tablespoons sliced fresh mint 
+Quantifiers: 2 tablespoons mint 
+Ingredients: 
+
+1/2 teaspoon lemon zest plus 2 tablespoons freshly squeezed lemon juice 
+Quantifiers: 1/2 teaspoon 2 tablespoons 
+Ingredients: lemon_juice 
+
+1/2 teaspoon red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+

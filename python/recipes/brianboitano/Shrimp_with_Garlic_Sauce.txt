@@ -1,0 +1,72 @@
+Shrimp:
+Quantifiers: 
+Ingredients: Shrimp 
+
+2 cups canola oil
+Quantifiers: 2 cups 
+Ingredients: canola_oil 
+
+1 pound large shrimp, peeled and deveined
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+1/2 cup cornstarch
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+Garlic Sauce:
+Quantifiers: 
+Ingredients: Garlic_Sauce 
+
+2 tablespoons brown sugar
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+1/4 cup low-sodium soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: soy_sauce 
+
+1 tablespoon rice vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: rice vinegar 
+
+1 cup vegetable broth
+Quantifiers: 1 cup 
+Ingredients: vegetable broth 
+
+1 1/2 tablespoons cornstarch
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1/2 medium onion, sliced
+Quantifiers: 1/2 medium 
+Ingredients: onion 
+
+3 tablespoons chopped garlic
+Quantifiers: 3 tablespoons 
+Ingredients: garlic 
+
+1 tablespoon chopped ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+1/2 red bell pepper, chopped
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+2 cups broccoli florets, blanched
+Quantifiers: 2 cups 
+Ingredients: broccoli 
+
+1 (8-ounce) can water chestnuts, drained
+Quantifiers: 1 can 
+Ingredients: water chestnuts 
+
+4 cups cooked white rice, for serving
+Quantifiers: 4 cups serving 
+Ingredients: white_rice 
+

@@ -1,0 +1,40 @@
+1 large russet (baking) potato (8 to 10 ounces)
+Quantifiers: 1 8 10 ounces 
+Ingredients: potato 
+
+1 tablespoon fresh lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+2 medium parsnips (1 pound total)
+Quantifiers: 2 medium 1 pound 
+Ingredients: parsnips 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+3 tablespoons finely chopped fresh chives
+Quantifiers: 3 tablespoons 
+Ingredients: chives 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon black pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: black_pepper 
+
+2 large eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+Vegetable oil, for frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Granulated sugar, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: Granulated_sugar 
+

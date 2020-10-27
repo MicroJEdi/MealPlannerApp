@@ -1,0 +1,40 @@
+1/4 cup table salt
+Quantifiers: 1/4 cup 
+Ingredients: table_salt 
+
+1 cup small-diced carrots
+Quantifiers: 1 cup 
+Ingredients: carrots 
+
+1 cup tiny cauliflower florets
+Quantifiers: 1 cup 
+Ingredients: cauliflower 
+
+4 to 8 serrano peppers, sliced (depending on heat level desired)
+Quantifiers: 4 8 heat level 
+Ingredients: peppers 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 stalk celery, diced small
+Quantifiers: 1 
+Ingredients: celery 
+
+1 red bell pepper, diced small
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 cups canola oil
+Quantifiers: 2 cups 
+Ingredients: canola_oil 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+

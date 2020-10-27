@@ -1,0 +1,60 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 pounds baby red beets (about 8), trimmed
+Quantifiers: 2 pounds 8 
+Ingredients: beets 
+
+2 pounds baby gold beets (about 8), trimmed
+Quantifiers: 2 pounds 8 
+Ingredients: beets 
+
+1 onion, julienned
+Quantifiers: 1 
+Ingredients: onion 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+3 fresh bay leaves
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+3 sprigs thyme
+Quantifiers: 3 
+Ingredients: thyme 
+
+Zest (in wide strips) and juice of 1 orange
+Quantifiers: in 1 
+Ingredients: juice orange 
+
+1 tablespoon whole allspice
+Quantifiers: 1 tablespoon 
+Ingredients: allspice 
+
+1 tablespoon mustard seeds
+Quantifiers: 1 tablespoon 
+Ingredients: mustard_seeds 
+
+1 canela stick (or regular cinnamon stick)
+Quantifiers: 1 stick stick 
+Ingredients: cinnamon 
+
+6 cloves
+Quantifiers: 6 
+Ingredients: cloves 
+
+3 cups rice wine vinegar
+Quantifiers: 3 cups 
+Ingredients: rice wine_vinegar 
+
+1 cup white balsamic vinegar
+Quantifiers: 1 cup 
+Ingredients: white vinegar 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+

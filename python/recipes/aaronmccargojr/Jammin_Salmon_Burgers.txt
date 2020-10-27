@@ -1,0 +1,68 @@
+2 teaspoons freshly chopped parsley leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: parsley 
+
+1/2 Vidalia onion, diced
+Quantifiers: 1/2 
+Ingredients: Vidalia_onion 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 cup panko bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+1/2 teaspoon cracked black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+4 tablespoons Dill Mayonnaise, recipe follows
+Quantifiers: 4 tablespoons 
+Ingredients: Dill Mayonnaise 
+
+Two 6 1/2-ounce cans Alaska skinless and boneless pink salmon, drained well
+Quantifiers: Two 6 cans well 
+Ingredients: salmon 
+
+2 tablespoons grapeseed oil
+Quantifiers: 2 tablespoons 
+Ingredients: oil 
+
+Dill Mayonnaise:
+Quantifiers: 
+Ingredients: Dill Mayonnaise 
+
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+2 tablespoons freshly chopped dill leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: dill 
+
+Pinch cayenne pepper
+Quantifiers: Pinch 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon cracked black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+

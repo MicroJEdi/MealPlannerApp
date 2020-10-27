@@ -1,0 +1,44 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1/2 teaspoon mustard seeds
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard_seeds 
+
+8 fresh curry leaves
+Quantifiers: 8 leaves 
+Ingredients: curry 
+
+1/2 cup salted roasted peanuts, lightly crushed
+Quantifiers: 1/2 cup 
+Ingredients: peanuts 
+
+1/4 cup roasted chana dal
+Quantifiers: 1/4 cup dal 
+Ingredients: 
+
+1 pound green beans, trimmed and cut on the bias into 2-inch pieces
+Quantifiers: 1 pound pieces 
+Ingredients: green_beans cut 
+
+Juice of 2 limes
+Quantifiers: 2 
+Ingredients: Juice limes 
+
+1 jalapeno or other green chile pepper, finely chopped with seeds
+Quantifiers: 1 
+Ingredients: jalapeno green chile pepper seeds 
+
+2 tablespoons chopped fresh cilantro
+Quantifiers: 2 tablespoons 
+Ingredients: cilantro 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1/2 cup frozen grated coconut
+Quantifiers: 1/2 cup 
+Ingredients: coconut 
+

@@ -1,0 +1,40 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1 1/2 cups all-purpose flour
+Quantifiers: 1 1/2 cups 
+Ingredients: flour 
+
+3/4 teaspoon baking powder
+Quantifiers: 3/4 teaspoon 
+Ingredients: baking_powder 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+1 stick (1/2 cup) butter, softened
+Quantifiers: 1 stick 1/2 cup 
+Ingredients: butter 
+
+3/4 cup butterscotch chips
+Quantifiers: 3/4 cup 
+Ingredients: butterscotch chips 
+
+3/4 cup lightly packed light brown sugar
+Quantifiers: 3/4 cup light 
+Ingredients: brown_sugar 
+
+1 extra-large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1/2 teaspoon pure vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1/4 cup bourbon
+Quantifiers: 1/4 cup 
+Ingredients: bourbon 
+

@@ -1,0 +1,36 @@
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 1/2 pounds chicken breasts
+Quantifiers: 1 1/2 pounds breasts 
+Ingredients: chicken 
+
+Grapeseed oil, for cooking
+Quantifiers: 
+Ingredients: oil 
+
+3/4 cup marsala wine
+Quantifiers: 3/4 cup 
+Ingredients: marsala wine 
+
+1 cup veal or beef stock
+Quantifiers: 1 cup 
+Ingredients: veal beef_stock 
+
+4 ounces (1 stick) butter
+Quantifiers: 4 ounces 1 stick 
+Ingredients: butter 
+
+1/2 cup 1/4-inch-thick sliced mushrooms
+Quantifiers: 1/2 cup 
+Ingredients: mushrooms 
+
+Fresh herbs such as chives or grated cheese, for garnish, optional
+Quantifiers: as 
+Ingredients: herbs chives grated_cheese 
+

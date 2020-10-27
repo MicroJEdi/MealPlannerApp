@@ -1,0 +1,84 @@
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+4 fresh or frozen ears of corn, husks removed
+Quantifiers: 4 
+Ingredients: ears corn 
+
+One 15-ounce can black beans, rinsed and drained 
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 15-ounce can chickpeas, rinsed and drained 
+Quantifiers: One can 
+Ingredients: chickpeas 
+
+1 cup loosely packed fresh cilantro leaves, chopped 
+Quantifiers: 1 cup leaves 
+Ingredients: cilantro 
+
+1 green bell pepper, chopped 
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 red bell pepper, chopped 
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+1/2 red onion, chopped 
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+1/2 jalapeno or serrano chile pepper, seeded and finely chopped (wear plastic gloves when handling) 
+Quantifiers: 1/2 gloves 
+Ingredients: jalapeno chile pepper 
+
+1 teaspoon kosher salt 
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+Freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Dressing:
+Quantifiers: 
+Ingredients: Dressing 
+
+1/2 cup freshly squeezed lime juice (from about 2 large or 4 small limes)
+Quantifiers: 1/2 cup 2 4 
+Ingredients: lime_juice limes 
+
+1 tablespoon sugar 
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+2 teaspoons kosher salt 
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1 teaspoon red wine vinegar 
+Quantifiers: 1 teaspoon 
+Ingredients: red_wine_vinegar 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+Pinch chili powder 
+Quantifiers: Pinch 
+Ingredients: chili_powder 
+
+2 cloves garlic, pushed through a press 
+Quantifiers: 2 a press 
+Ingredients: cloves garlic 
+
+1/4 cup extra-virgin olive oil 
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Hot sauce, preferably Crystal Hot Sauce
+Quantifiers: 
+Ingredients: Hot_sauce Hot_Sauce 
+

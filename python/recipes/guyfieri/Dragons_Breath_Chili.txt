@@ -1,0 +1,140 @@
+3 tablespoons bacon grease or canola oil
+Quantifiers: 3 tablespoons 
+Ingredients: bacon canola_oil 
+
+2 tablespoons unsalted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+3 Anaheim chiles, roasted, peeled, chopped
+Quantifiers: 3 
+Ingredients: chiles 
+
+3 poblano chiles, roasted, peeled, chopped
+Quantifiers: 3 
+Ingredients: chiles 
+
+2 red bell peppers, diced
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 jalapenos chiles, minced
+Quantifiers: 2 
+Ingredients: jalapenos chiles 
+
+2 yellow onions, diced
+Quantifiers: 2 
+Ingredients: onions 
+
+1 head garlic, minced
+Quantifiers: 1 head 
+Ingredients: garlic 
+
+1 pound boneless chuck, trimmed and cut into 1/4-inch cubes
+Quantifiers: 1 pound cubes 
+Ingredients: chuck cut 
+
+2 pounds ground beef, coarse grind
+Quantifiers: 2 pounds 
+Ingredients: ground_beef 
+
+1 pound bulk Italian sausage
+Quantifiers: 1 pound bulk 
+Ingredients: sausage 
+
+3 tablespoons chili powder
+Quantifiers: 3 tablespoons 
+Ingredients: chili_powder 
+
+2 teaspoons cayenne pepper
+Quantifiers: 2 teaspoons 
+Ingredients: cayenne_pepper 
+
+2 teaspoons ground coriander
+Quantifiers: 2 teaspoons ground 
+Ingredients: coriander 
+
+2 teaspoons ground cumin
+Quantifiers: 2 teaspoons ground 
+Ingredients: cumin 
+
+2 teaspoons granulated garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+2 teaspoons granulated onion
+Quantifiers: 2 teaspoons 
+Ingredients: onion 
+
+2 teaspoons hot paprika
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+2 teaspoons freshly ground black pepper
+Quantifiers: 2 teaspoons ground 
+Ingredients: black_pepper 
+
+2 cups tomato sauce
+Quantifiers: 2 cups 
+Ingredients: tomato_sauce 
+
+1 cup tomato paste
+Quantifiers: 1 cup 
+Ingredients: tomato_paste 
+
+12 ounces lager beer
+Quantifiers: 12 ounces 
+Ingredients: lager_beer 
+
+1 cup chicken stock
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+Two 15.5-ounce cans kidney beans, with juice
+Quantifiers: Two cans 
+Ingredients: kidney_beans juice 
+
+Two 15.5-ounce cans pinto beans, with juice
+Quantifiers: Two cans 
+Ingredients: pinto_beans juice 
+
+Double-Fried French Fries, for serving, recipe follows
+Quantifiers: serving 
+Ingredients: French_Fries 
+
+Saltine crackers, for garnish
+Quantifiers: 
+Ingredients: Saltine crackers 
+
+1 bunch green onions, thinly sliced
+Quantifiers: 1 
+Ingredients: green_onions 
+
+1 cup shredded Cheddar
+Quantifiers: 1 cup 
+Ingredients: Cheddar 
+
+Double-Fried French Fries:
+Quantifiers: 
+Ingredients: French_Fries 
+
+Four 4- to 5-inch-long russet potatoes
+Quantifiers: Four 
+Ingredients: potatoes 
+
+8 cups canola oil
+Quantifiers: 8 cups 
+Ingredients: canola_oil 
+
+1 tablespoon fine grain sea salt
+Quantifiers: 1 tablespoon sea 
+Ingredients: grain salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+

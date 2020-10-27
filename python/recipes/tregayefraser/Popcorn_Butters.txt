@@ -1,0 +1,40 @@
+Honey Butter Drizzle:
+Quantifiers: 
+Ingredients: Honey Butter 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 tablespoons honey 
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+8 cups popped popcorn 
+Quantifiers: 8 cups 
+Ingredients: popcorn 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Rosemary Butter Drizzle:
+Quantifiers: 
+Ingredients: Rosemary Butter 
+
+4 tablespoons unsalted butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1 tablespoon chopped fresh rosemary 
+Quantifiers: 1 tablespoon 
+Ingredients: rosemary 
+
+8 cups popped popcorn 
+Quantifiers: 8 cups 
+Ingredients: popcorn 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+

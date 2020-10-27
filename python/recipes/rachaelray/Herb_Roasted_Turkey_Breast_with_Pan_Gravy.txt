@@ -1,0 +1,56 @@
+1 small (golf-ball sized) onion, peeled and coarsely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+1 lemon, scrubbed clean
+Quantifiers: 1 
+Ingredients: lemon 
+
+12 fresh sage leaves
+Quantifiers: 12 leaves 
+Ingredients: sage 
+
+Large handful fresh flat-leaf parsley (about 1/2 cup, from 12 stems)
+Quantifiers: handful 1/2 cup 12 
+Ingredients: parsley 
+
+3 tablespoons extra-virgin olive oil, plus more for oiling pan
+Quantifiers: 3 tablespoons pan 
+Ingredients: olive_oil 
+
+1 teaspoon salt, plus more as needed
+Quantifiers: 1 teaspoon as 
+Ingredients: salt 
+
+6 fresh bay leaves
+Quantifiers: 6 leaves 
+Ingredients: bay_leaves 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+2 boneless turkey breast halves, skin on (about 2 to 2 1/2 pounds each)
+Quantifiers: 2 breast halves skin 2 2 1/2 pounds 
+Ingredients: turkey 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1/4 cup apple or regular brandy (recommended: Calvados)
+Quantifiers: 1/4 cup 
+Ingredients: apple brandy Calvados 
+
+2 to 3 cups apple cider
+Quantifiers: 2 3 cups 
+Ingredients: apple cider 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

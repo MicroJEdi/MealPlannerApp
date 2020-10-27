@@ -1,0 +1,24 @@
+1 3/4 cups all-purpose flour
+Quantifiers: 1 3/4 cups 
+Ingredients: flour 
+
+2 teaspoons granulated sugar
+Quantifiers: 2 teaspoons 
+Ingredients: granulated_sugar 
+
+3/4 teaspoon table salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: table_salt 
+
+6 tablespoons cold unsalted butter, small dice
+Quantifiers: 6 tablespoons cold 
+Ingredients: butter 
+
+1/4 cup shortening
+Quantifiers: 1/4 cup 
+Ingredients: shortening 
+
+7 to 8 tablespoons ice water
+Quantifiers: 7 8 tablespoons 
+Ingredients: ice_water 
+

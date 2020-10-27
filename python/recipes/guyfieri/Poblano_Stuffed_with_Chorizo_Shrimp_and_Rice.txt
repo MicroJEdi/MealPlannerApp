@@ -1,0 +1,60 @@
+1 tablespoon oil
+Quantifiers: 1 tablespoon 
+Ingredients: oil 
+
+1/2 pound Mexican-style chorizo
+Quantifiers: 1/2 pound 
+Ingredients: chorizo 
+
+1/2 red bell pepper, diced
+Quantifiers: 1/2 
+Ingredients: bell_pepper 
+
+1/2 green bell pepper, diced
+Quantifiers: 1/2 
+Ingredients: green bell_pepper 
+
+1 jalapeno, minced
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1 red onion, diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+2 tablespoons garlic, minced
+Quantifiers: 2 tablespoons 
+Ingredients: garlic 
+
+1 cup short-grain rice
+Quantifiers: 1 cup 
+Ingredients: rice 
+
+1 cup low-sodium chicken stock
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+4 large, fresh poblano chiles
+Quantifiers: 4 
+Ingredients: chiles 
+
+1 pound shrimp, shelled, cut into 1/2-inch pieces
+Quantifiers: 1 pound pieces 
+Ingredients: shrimp cut 
+
+3/4 cup Cheddar, shredded
+Quantifiers: 3/4 cup 
+Ingredients: Cheddar 
+
+3/4 cup Jack cheese, shredded
+Quantifiers: 3/4 cup Jack 
+Ingredients: cheese 
+

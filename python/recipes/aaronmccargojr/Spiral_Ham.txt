@@ -1,0 +1,24 @@
+1/2 cup dark brown sugar
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+1/2 cup fresh orange juice
+Quantifiers: 1/2 cup 
+Ingredients: orange_juice 
+
+1/2 cup peach nectar
+Quantifiers: 1/2 cup 
+Ingredients: peach nectar 
+
+4 to 5 chipotles, minced
+Quantifiers: 4 5 
+Ingredients: chipotles 
+
+5 pound spiral cut smoked ham
+Quantifiers: 5 pound 
+Ingredients: cut ham 
+

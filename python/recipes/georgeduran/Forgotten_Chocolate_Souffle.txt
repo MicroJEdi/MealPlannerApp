@@ -1,0 +1,28 @@
+12 ounces bittersweet chocolate, chopped
+Quantifiers: 12 ounces 
+Ingredients: bittersweet_chocolate 
+
+1 stick unsalted butter, cut into tablespoon pieces, plus more for greasing
+Quantifiers: 1 stick tablespoon pieces 
+Ingredients: butter cut 
+
+1 vanilla bean, cut lengthwise
+Quantifiers: 1 
+Ingredients: vanilla_bean cut 
+
+1/4 teaspoon salt, plus a pinch for the egg whites
+Quantifiers: 1/4 teaspoon a pinch 
+Ingredients: salt egg_whites 
+
+12 tablespoons sugar
+Quantifiers: 12 tablespoons 
+Ingredients: sugar 
+
+5 large eggs, separated into yolks and whites, at room temperature for 30 minutes
+Quantifiers: 5 at room_temperature 30_minutes 
+Ingredients: eggs yolks whites 
+
+1/4 cup all-purpose flour
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+

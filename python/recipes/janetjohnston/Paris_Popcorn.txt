@@ -1,0 +1,48 @@
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1/2 cup popcorn kernels
+Quantifiers: 1/2 cup 
+Ingredients: popcorn kernels 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 to 3 tablespoons Paris Cheese Seasoning, recipe follows
+Quantifiers: 2 3 tablespoons 
+Ingredients: Cheese Seasoning 
+
+Paris Cheese Seasoning:
+Quantifiers: 
+Ingredients: Cheese Seasoning 
+
+6 tablespoons finely grated Pecorino Romano
+Quantifiers: 6 tablespoons 
+Ingredients: 
+
+Drizzle olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+2 tablespoons snipped fresh chives
+Quantifiers: 2 tablespoons 
+Ingredients: chives 
+
+1 1/2 teaspoons dill weed
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: dill_weed 
+
+2 tablespoons chopped fresh tarragon leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: tarragon 
+
+1 tablespoon garlic salt
+Quantifiers: 1 tablespoon 
+Ingredients: garlic_salt 
+
+1/2 teaspoon ground white pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: white_pepper 
+

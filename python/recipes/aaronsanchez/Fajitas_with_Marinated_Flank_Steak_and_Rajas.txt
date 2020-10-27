@@ -1,0 +1,40 @@
+1 (2 pound) flank steak
+Quantifiers: 1 2 pound 
+Ingredients: flank_steak 
+
+1 cup (jarred or canned) pickled jalapenos, including the onions and carrots that come in the jar or can
+Quantifiers: 1 cup in jar can 
+Ingredients: jalapenos onions carrots 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 medium white onion, sliced 1/2-inch thick, keeping the rings together
+Quantifiers: 1 medium rings 
+Ingredients: white onion 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+4 poblano chiles
+Quantifiers: 4 
+Ingredients: chiles 
+
+2 jalapeno chiles
+Quantifiers: 2 
+Ingredients: jalapeno chiles 
+
+1 garlic clove, peeled and thinly sliced
+Quantifiers: 1 
+Ingredients: garlic_clove 
+
+1/2 teaspoon dried Mexican oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+Flour tortillas, guacamole and pico de gallo, for serving
+Quantifiers: serving 
+Ingredients: Flour tortillas guacamole 
+

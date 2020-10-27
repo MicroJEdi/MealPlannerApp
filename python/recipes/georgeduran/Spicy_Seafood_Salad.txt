@@ -1,0 +1,36 @@
+10 imitation crab sticks (available in the frozen fish section of larger supermarkets)
+Quantifiers: 10 sticks in section 
+Ingredients: crab fish 
+
+1/2 pound cooked shrimp, chopped
+Quantifiers: 1/2 pound 
+Ingredients: shrimp 
+
+3 scallions, chopped
+Quantifiers: 3 
+Ingredients: scallions 
+
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+3 tablespoons tobiko (flying fish caviar), plus more for garnish (available in Asian markets)
+Quantifiers: 3 tablespoons in 
+Ingredients: fish caviar 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1 tablespoon sriracha hot chili sauce, or other hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: chili_sauce hot_sauce 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Finely chopped chives, for garnish
+Quantifiers: 
+Ingredients: chives 
+

@@ -1,0 +1,23 @@
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Poultry Products&qlookup=raw+chicken
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+olive+oil
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=raw+Kosher
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Spices and Herbs&qlookup=black+pepper
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Soups, Sauces, and Gravies&qlookup=chicken+stock
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Poultry Products&qlookup=raw+chicken
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=butter
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+onions
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=raw+flour
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=heavy+cream
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+carrots
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+peas
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+onions
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Spices and Herbs&qlookup=parsley
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=raw+pastry
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=raw+flour
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=raw+kosher
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=baking+powder
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Vegetables and Vegetable Products&qlookup=raw+vegetable
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&qlookup=butter
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Beverages&qlookup=raw+ice+water
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Dairy and Egg Products&qlookup=raw+egg
+https://ndb.nal.usda.gov/ndb/search/list?manu=none&ds=SR&sort=fd_d&order=asc&fgcd=Spices and Herbs&qlookup=salt

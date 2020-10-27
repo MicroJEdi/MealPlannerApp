@@ -1,0 +1,24 @@
+3 1/2 to 4 cups bread flour, plus more for rolling (Chef's Note: Using bread flour will give you a much crisper crust. If you can't find bread flour, you can substitute it with all-purpose flour which will give you a chewier crust.)
+Quantifiers: 3 1/2 4 cups Note a much can a 
+Ingredients: bread flour bread flour bread flour flour 
+
+1 teaspoon sugar
+Quantifiers: 1 teaspoon 
+Ingredients: sugar 
+
+1 envelope instant dry yeast
+Quantifiers: 1 envelope instant 
+Ingredients: yeast 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1 1/2 cups water, 110 degrees F
+Quantifiers: 1 1/2 cups degrees F 
+Ingredients: water 
+
+2 tablespoons olive oil, plus 2 teaspoons
+Quantifiers: 2 tablespoons 2 teaspoons 
+Ingredients: olive_oil 
+

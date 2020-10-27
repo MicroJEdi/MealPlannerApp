@@ -1,0 +1,44 @@
+1/2 pound slab bacon, cut into large lardons
+Quantifiers: 1/2 pound 
+Ingredients: bacon cut 
+
+2 medium onions, sliced
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1 1/2 pounds beef chuck, cut into large cubes
+Quantifiers: 1 1/2 pounds cubes 
+Ingredients: beef chuck cut 
+
+5 carrots, peeled and cut into large chunks
+Quantifiers: 5 chunks 
+Ingredients: carrots cut 
+
+Generous tablespoon all-purpose flour
+Quantifiers: tablespoon 
+Ingredients: flour 
+
+12 ounces beer (dark or light, depending on your preference)
+Quantifiers: 12 ounces dark light 
+Ingredients: beer 
+
+6 prunes
+Quantifiers: 6 
+Ingredients: prunes 
+
+1 tablespoon dried thyme
+Quantifiers: 1 tablespoon 
+Ingredients: thyme 
+
+1 cup beef stock
+Quantifiers: 1 cup 
+Ingredients: beef_stock 
+

@@ -1,0 +1,52 @@
+2 pinches of saffron threads
+Quantifiers: 2 pinches threads 
+Ingredients: saffron 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 bulb fennel, trimmed, cored and thinly sliced, plus fronds for topping
+Quantifiers: 1 bulb 
+Ingredients: fennel 
+
+1 small red onion, thinly sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+2 cloves garlic, thinly sliced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/4 cup kalamata olives, pitted
+Quantifiers: 1/4 cup 
+Ingredients: olives 
+
+1/2 cup vegetable stock
+Quantifiers: 1/2 cup 
+Ingredients: vegetable stock 
+
+1 cup cherry tomatoes, halved
+Quantifiers: 1 cup 
+Ingredients: cherry tomatoes 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+2 tablespoons chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+4 6-ounce snapper fillets, pin bones removed
+Quantifiers: 4 bones 
+Ingredients: snapper fillets pin_bones 
+
+Gray salt, for finishing
+Quantifiers: Gray 
+Ingredients: salt 
+

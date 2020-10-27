@@ -1,0 +1,36 @@
+A small rustic loaf of bread, to serve
+Quantifiers: A 
+Ingredients: loaf bread 
+
+3/4 pound/350 g chanterelles
+Quantifiers: 3/4 g 
+Ingredients: 
+
+A small bunch fresh curly parsley
+Quantifiers: A 
+Ingredients: parsley 
+
+1 ounce (2 tablespoons)/30 g butter
+Quantifiers: 1 ounce 2 g 
+Ingredients: butter 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1/2 red onion, peeled and finely sliced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+5 fluid ounces/150 ml single cream
+Quantifiers: 5 ml 
+Ingredients: single_cream 
+
+1 lemon
+Quantifiers: 1 
+Ingredients: lemon 
+

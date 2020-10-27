@@ -1,0 +1,68 @@
+7 tablespoons unsalted butter, plus more for the dish
+Quantifiers: 7 tablespoons dish 
+Ingredients: butter 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 pound elbow macaroni
+Quantifiers: 1 pound 
+Ingredients: macaroni 
+
+1 small onion, finely chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+2 stalks celery, finely chopped
+Quantifiers: 2 
+Ingredients: celery 
+
+3 cups shredded rotisserie chicken
+Quantifiers: 3 cups 
+Ingredients: chicken 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+3/4 cup hot sauce (preferably Frank's)
+Quantifiers: 3/4 cup 
+Ingredients: hot_sauce Franks 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 teaspoons dry mustard
+Quantifiers: 2 teaspoons 
+Ingredients: mustard 
+
+2 1/2 cups half-and-half
+Quantifiers: 2 1/2 cups 
+Ingredients: half-and-half 
+
+1 pound yellow sharp cheddar cheese, cut into 1-inch cubes (about 3 1/2 cups)
+Quantifiers: 1 pound sharp cubes 3 1/2 cups 
+Ingredients: cheddar_cheese cut 
+
+8 ounces pepper jack cheese, shredded (about 2 cups)
+Quantifiers: 8 ounces jack 2 cups 
+Ingredients: pepper cheese 
+
+2/3 cup sour cream
+Quantifiers: 2/3 cup 
+Ingredients: sour_cream 
+
+1 cup panko (Japanese breadcrumbs)
+Quantifiers: 1 cup breadcrumbs 
+Ingredients: 
+
+1/2 cup crumbled blue cheese
+Quantifiers: 1/2 cup 
+Ingredients: blue_cheese 
+
+2 tablespoons chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+

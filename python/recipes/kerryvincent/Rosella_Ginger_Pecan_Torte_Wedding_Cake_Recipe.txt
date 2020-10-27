@@ -1,0 +1,216 @@
+Pears: 
+Quantifiers: 
+Ingredients: Pears 
+
+2 large ripe Anjou pears, peeled
+Quantifiers: 2 
+Ingredients: Anjou pears 
+
+3 tablespoons granulated sugar
+Quantifiers: 3 tablespoons 
+Ingredients: granulated_sugar 
+
+1 lemon, sliced
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 stick lemongrass, optional
+Quantifiers: 1 stick 
+Ingredients: 
+
+Ginger Syrup:
+Quantifiers: 
+Ingredients: Ginger Syrup 
+
+3 tablespoons sugar
+Quantifiers: 3 tablespoons 
+Ingredients: sugar 
+
+6 tablespoons (3 ounces) water
+Quantifiers: 6 tablespoons 3 ounces 
+Ingredients: water 
+
+8 tablespoons (4 ounces) ginger wine (recommended: Stone's Ginger Wine)
+Quantifiers: 8 tablespoons 4 ounces Stones 
+Ingredients: ginger wine Ginger Wine 
+
+1 3/4 cups all-purpose flour 
+Quantifiers: 1 3/4 cups 
+Ingredients: flour 
+
+1 1/2 tablespoons powdered ginger
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: powdered_ginger 
+
+1 tablespoon baking powder
+Quantifiers: 1 tablespoon 
+Ingredients: baking_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 cup (2 sticks) butter
+Quantifiers: 1 cup 2 sticks 
+Ingredients: butter 
+
+1/2 cup oil
+Quantifiers: 1/2 cup 
+Ingredients: oil 
+
+1 tablespoon vanilla (recommended: Nielsen-Massey)
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+1/2 cup granulated brown sugar
+Quantifiers: 1/2 cup 
+Ingredients: brown_sugar 
+
+2 tablespoons pale treacle (recommended: Golden Syrup)
+Quantifiers: 2 tablespoons 
+Ingredients: treacle Golden_Syrup 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 cup pecans, finely chopped
+Quantifiers: 2 cup 
+Ingredients: pecans 
+
+1/4 cup fresh grated coconut (substitute desiccated or flaked)
+Quantifiers: 1/4 cup 
+Ingredients: coconut 
+
+1/2 cup small dice glace baby ginger (recommended: The Ginger People)
+Quantifiers: 1/2 cup 
+Ingredients: ginger Ginger 
+
+1/2 cup drained, crushed pineapple
+Quantifiers: 1/2 cup 
+Ingredients: pineapple 
+
+Meringue Dacquoise, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Ginger Marmalade, recipe follows
+Quantifiers: 
+Ingredients: Ginger Marmalade 
+
+Mother's Washed Cream, recipe follows
+Quantifiers: 
+Ingredients: Mothers Cream 
+
+Ginger Bittersweet Chocolate Ganache, recipe follows
+Quantifiers: 
+Ingredients: Ginger Bittersweet_Chocolate 
+
+White Chocolate Rolled Fondant, recipe follows
+Quantifiers: 
+Ingredients: White_Chocolate Fondant 
+
+Meringue Dacquoise:
+Quantifiers: 
+Ingredients: 
+
+6 egg whites
+Quantifiers: 6 
+Ingredients: egg_whites 
+
+2 cups sifted powdered sugar
+Quantifiers: 2 cups 
+Ingredients: powdered_sugar 
+
+1 1/2 teaspoons Madagascar bourbon vanilla (recommended: Nielsen Massey)
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: bourbon vanilla 
+
+2 cups coarsely chopped toasted pecans
+Quantifiers: 2 cups 
+Ingredients: pecans 
+
+1 1/2 tablespoons sifted all-purpose flour
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: flour 
+
+1 1/2 tablespoons sifted potato flour
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: potato flour 
+
+1 1/2 teaspoons sifted good quality cocoa powder (recommended: Guittard)
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: cocoa_powder 
+
+Ginger Marmalade:
+Quantifiers: 
+Ingredients: Ginger Marmalade 
+
+1 (10-ounce) jar baby ginger marmalade (recommended: The Ginger People)
+Quantifiers: 1 jar 
+Ingredients: ginger marmalade Ginger 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+3 tablespoons water
+Quantifiers: 3 tablespoons 
+Ingredients: water 
+
+2 tablespoons lemon juice
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+3 tablespoons ginger wine (recommended: Stone's Ginger Wine)
+Quantifiers: 3 tablespoons Stones 
+Ingredients: ginger wine Ginger Wine 
+
+Mother's Washed Cream:
+Quantifiers: 
+Ingredients: Mothers Cream 
+
+1/2 cup superfine sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1 cup (2 sticks) unsalted butter
+Quantifiers: 1 cup 2 sticks 
+Ingredients: butter 
+
+2 tablespoons uncooked good-flavored honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 tablespoon Madagascar bourbon vanilla essence (recommended: Nielsen-Massey)
+Quantifiers: 1 tablespoon essence 
+Ingredients: bourbon vanilla 
+
+Ginger Bittersweet Chocolate Ganache:
+Quantifiers: 
+Ingredients: Ginger Bittersweet_Chocolate 
+
+1 1/2 cups bittersweet chocolate
+Quantifiers: 1 1/2 cups 
+Ingredients: bittersweet_chocolate 
+
+1 1/2 cups double cream
+Quantifiers: 1 1/2 cups 
+Ingredients: double_cream 
+
+3/4 cup toasted pecans finely chopped
+Quantifiers: 3/4 cup 
+Ingredients: pecans 
+
+1/4 cup finely chopped glace baby ginger
+Quantifiers: 1/4 cup 
+Ingredients: ginger 
+
+3 tablespoons ginger wine (recommended: Stone's Ginger Wine)
+Quantifiers: 3 tablespoons Stones 
+Ingredients: ginger wine Ginger Wine 
+

@@ -1,0 +1,20 @@
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+35 to 40 saltine crackers
+Quantifiers: 40 
+Ingredients: saltine crackers 
+
+2 sticks (1 cup) butter
+Quantifiers: 2 sticks 1 cup 
+Ingredients: butter 
+
+1 cup light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+8 ounces semisweet chocolate chips (about 1 1/3 cups)
+Quantifiers: 8 ounces 1 1/3 cups 
+Ingredients: chocolate chips 
+

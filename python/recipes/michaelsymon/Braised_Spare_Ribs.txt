@@ -1,0 +1,52 @@
+1 cup flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 ounces peanut oil
+Quantifiers: 4 ounces 
+Ingredients: peanut_oil 
+
+3 pounds spare ribs, cut into bones
+Quantifiers: 3 pounds spare ribs bones 
+Ingredients: cut 
+
+1 onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 tablespoon cayenne
+Quantifiers: 1 tablespoon 
+Ingredients: cayenne 
+
+1 tablespoon ground coriander
+Quantifiers: 1 tablespoon ground 
+Ingredients: coriander 
+
+1 tablespoon ground cumin
+Quantifiers: 1 tablespoon ground 
+Ingredients: cumin 
+
+2 ounces tomato puree
+Quantifiers: 2 ounces 
+Ingredients: tomato puree 
+
+2 ounces red wine vinegar
+Quantifiers: 2 ounces 
+Ingredients: red_wine_vinegar 
+
+2 cups beef stock
+Quantifiers: 2 cups 
+Ingredients: beef_stock 
+
+1 quart veal stock
+Quantifiers: 1 quart 
+Ingredients: veal stock 
+

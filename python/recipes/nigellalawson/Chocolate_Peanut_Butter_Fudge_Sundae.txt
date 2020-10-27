@@ -1,0 +1,32 @@
+2/3 cup sweetened condensed milk
+Quantifiers: 2/3 cup 
+Ingredients: condensed_milk 
+
+2/3 cup semi sweet chocolate chips
+Quantifiers: 2/3 cup semi 
+Ingredients: sweet chocolate chips 
+
+1/2 cup smooth peanut butter (recommended: Skippy)
+Quantifiers: 1/2 cup 
+Ingredients: peanut_butter 
+
+4 scoops toffee or caramel ice cream
+Quantifiers: 4 scoops 
+Ingredients: toffee caramel ice_cream 
+
+4 scoops chocolate ice cream
+Quantifiers: 4 scoops 
+Ingredients: chocolate ice_cream 
+
+4 scoops vanilla ice cream
+Quantifiers: 4 scoops 
+Ingredients: vanilla ice_cream 
+
+4 tablespoons or 1/4 cup salted peanuts, roughly chopped or left whole to taste
+Quantifiers: 4 tablespoons 1/4 cup taste 
+Ingredients: peanuts 
+
+4 chocolate cigar cookies
+Quantifiers: 4 
+Ingredients: chocolate cookies 
+

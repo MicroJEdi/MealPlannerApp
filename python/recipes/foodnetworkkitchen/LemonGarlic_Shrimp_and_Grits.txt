@@ -1,0 +1,36 @@
+3/4 cup instant grits
+Quantifiers: 3/4 cup instant 
+Ingredients: grits 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup grated parmesan cheese
+Quantifiers: 1/4 cup 
+Ingredients: parmesan cheese 
+
+3 tablespoons unsalted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 1/4 pounds medium shrimp, peeled and deveined, tails intact
+Quantifiers: 1 1/4 pounds medium tails 
+Ingredients: shrimp 
+
+2 large cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Pinch of cayenne pepper (optional)
+Quantifiers: Pinch 
+Ingredients: cayenne_pepper 
+
+Juice of 1/2 lemon, plus wedges for serving
+Quantifiers: 1/2 serving 
+Ingredients: Juice lemon wedges 
+
+2 tablespoons roughly chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+

@@ -1,0 +1,48 @@
+8 ounces cream cheese, softened
+Quantifiers: 8 ounces 
+Ingredients: cream_cheese 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+1 tablespoon all-purpose flour, plus more for work surface
+Quantifiers: 1 tablespoon surface 
+Ingredients: flour 
+
+2 eggs, divided
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+2 (7-ounce) packages almond paste
+Quantifiers: 2 packages 
+Ingredients: almond paste 
+
+2 Bartlett pears
+Quantifiers: 2 
+Ingredients: Bartlett_pears 
+
+1 tablespoon water, for egg wash
+Quantifiers: 1 tablespoon 
+Ingredients: water egg 
+
+2 tablespoons raw sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+1 pint cherry vanilla ice cream
+Quantifiers: 1 pint 
+Ingredients: cherry vanilla ice_cream 
+
+1/4 cup sliced almonds, toasted
+Quantifiers: 1/4 cup 
+Ingredients: almonds 
+
+8 fresh mint sprigs
+Quantifiers: 8 mint 
+Ingredients: 
+

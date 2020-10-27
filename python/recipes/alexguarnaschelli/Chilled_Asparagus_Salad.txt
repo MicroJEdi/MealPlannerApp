@@ -1,0 +1,36 @@
+6 quarts water
+Quantifiers: 6 quarts 
+Ingredients: water 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 tablespoons granulated sugar
+Quantifiers: 2 tablespoons 
+Ingredients: granulated_sugar 
+
+32 stalks small to medium-size green asparagus, washed and ends trimmed
+Quantifiers: ends 
+Ingredients: green asparagus 
+
+2 lemons, juiced
+Quantifiers: 2 
+Ingredients: lemons 
+
+2 tablespoons white wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white_wine_vinegar 
+
+1 teaspoon honey
+Quantifiers: 1 teaspoon 
+Ingredients: honey 
+
+2 tablespoons smooth Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+

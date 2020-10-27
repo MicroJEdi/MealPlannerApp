@@ -1,0 +1,20 @@
+20 ounces bittersweet chocolate, in a block or in pistoles
+Quantifiers: 20 ounces in a block in 
+Ingredients: bittersweet_chocolate 
+
+1 1/4 cups heavy cream
+Quantifiers: 1 1/4 cups 
+Ingredients: heavy_cream 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1/2 vanilla bean, scraped
+Quantifiers: 1/2 
+Ingredients: vanilla_bean 
+
+2 1/2 ounces butter
+Quantifiers: 2 1/2 ounces 
+Ingredients: butter 
+

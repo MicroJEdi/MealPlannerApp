@@ -1,0 +1,84 @@
+5 pounds St. Louis style ribs
+Quantifiers: 5 pounds style ribs 
+Ingredients: 
+
+2 cups Big Daddy Rub, recipe follows
+Quantifiers: 2 cups 
+Ingredients: 
+
+2 liters cola (recommended: Coca-Cola)
+Quantifiers: 2 liters 
+Ingredients: cola 
+
+4 cups water
+Quantifiers: 4 cups 
+Ingredients: water 
+
+Apple Cider Buttermilk Dipping Sauce, recipe follows
+Quantifiers: 
+Ingredients: Apple Cider Buttermilk Sauce 
+
+Big Daddy Rub:
+Quantifiers: 
+Ingredients: 
+
+3 cups brown sugar
+Quantifiers: 3 cups 
+Ingredients: brown_sugar 
+
+1/4 cup kosher salt
+Quantifiers: 1/4 cup 
+Ingredients: kosher salt 
+
+1/4 cup smoked paprika
+Quantifiers: 1/4 cup 
+Ingredients: paprika 
+
+2 tablespoons ground cumin
+Quantifiers: 2 tablespoons ground 
+Ingredients: cumin 
+
+2 tablespoons hot chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+2 tablespoons cayenne
+Quantifiers: 2 tablespoons 
+Ingredients: cayenne 
+
+2 tablespoons freshly ground black pepper
+Quantifiers: 2 tablespoons ground 
+Ingredients: black_pepper 
+
+2 tablespoons red pepper flakes
+Quantifiers: 2 tablespoons 
+Ingredients: red_pepper 
+
+Apple Cider Buttermilk Dipping Sauce:
+Quantifiers: 
+Ingredients: Apple Cider Buttermilk Sauce 
+
+2 cups apple cider
+Quantifiers: 2 cups 
+Ingredients: apple cider 
+
+1/4 cup granulated sugar
+Quantifiers: 1/4 cup 
+Ingredients: granulated_sugar 
+
+1 tablespoon red pepper flakes
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+2 tablespoons buttermilk
+Quantifiers: 2 tablespoons 
+Ingredients: buttermilk 
+
+1 teaspoon lemon juice
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+1 teaspoon lemon zest
+Quantifiers: 1 teaspoon 
+Ingredients: lemon 
+

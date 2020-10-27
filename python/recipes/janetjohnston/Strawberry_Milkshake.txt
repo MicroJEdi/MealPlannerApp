@@ -1,0 +1,16 @@
+1 cup whole milk
+Quantifiers: 1 cup 
+Ingredients: whole_milk 
+
+1 fresh Tahitian vanilla bean, split and seeded
+Quantifiers: 1 split 
+Ingredients: vanilla_bean 
+
+1/2 pound fresh strawberries, hulled and chopped, a few reserved for garnish
+Quantifiers: 1/2 pound a 
+Ingredients: strawberries 
+
+1 pint high quality vanilla ice cream
+Quantifiers: 1 pint high 
+Ingredients: vanilla ice_cream 
+

@@ -1,0 +1,32 @@
+1 tablespoon paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 tablespoon cayenne
+Quantifiers: 1 tablespoon 
+Ingredients: cayenne 
+
+10 sprigs fresh thyme, washed, leaves removed and chopped
+Quantifiers: 10 leaves 
+Ingredients: thyme 
+
+1 tablespoon freshly chopped oregano leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: oregano 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+4 (6 to 7-ounce) pieces salmon, pin bones removed, skin-on
+Quantifiers: 4 6 pieces bones 
+Ingredients: salmon pin_bones 
+
+3 to 4 tablespoons canola oil
+Quantifiers: 3 4 tablespoons 
+Ingredients: canola_oil 
+
+2 lemons, zested and juiced
+Quantifiers: 2 
+Ingredients: lemons 
+

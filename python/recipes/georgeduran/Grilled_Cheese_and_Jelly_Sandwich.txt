@@ -1,0 +1,64 @@
+Breads*:
+Quantifiers: 
+Ingredients: Breads 
+
+Rye
+Quantifiers: 
+Ingredients: Rye 
+
+Challah
+Quantifiers: 
+Ingredients: Challah 
+
+Whole wheat
+Quantifiers: 
+Ingredients: wheat 
+
+White
+Quantifiers: 
+Ingredients: White 
+
+Cheeses*:
+Quantifiers: 
+Ingredients: Cheeses 
+
+Havarti
+Quantifiers: 
+Ingredients: 
+
+Brie
+Quantifiers: 
+Ingredients: Brie 
+
+Bleu
+Quantifiers: 
+Ingredients: Bleu 
+
+Cheddar
+Quantifiers: 
+Ingredients: Cheddar 
+
+Jellies*:
+Quantifiers: 
+Ingredients: Jellies 
+
+Apricot
+Quantifiers: 
+Ingredients: Apricot 
+
+Strawberry
+Quantifiers: 
+Ingredients: Strawberry 
+
+Hot pepper
+Quantifiers: 
+Ingredients: Hot_pepper 
+
+Grape
+Quantifiers: 
+Ingredients: Grape 
+
+Unsalted butter, softened
+Quantifiers: 
+Ingredients: butter 
+

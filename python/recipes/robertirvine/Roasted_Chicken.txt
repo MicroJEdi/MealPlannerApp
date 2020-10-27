@@ -1,0 +1,36 @@
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 teaspoon white sugar
+Quantifiers: 1 teaspoon 
+Ingredients: white sugar 
+
+5 cloves garlic, crushed
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+1 teaspoon fresh chopped chives
+Quantifiers: 1 teaspoon 
+Ingredients: chives 
+
+1 teaspoon fresh chopped tarragon leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: tarragon 
+
+1 teaspoon fresh chopped thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+1 (4-pound) whole chicken
+Quantifiers: 1 
+Ingredients: chicken 
+
+1 stick unsalted butter, softened to room temperature
+Quantifiers: 1 stick room_temperature 
+Ingredients: butter 
+
+2 oranges roughly chopped
+Quantifiers: 2 
+Ingredients: oranges 
+

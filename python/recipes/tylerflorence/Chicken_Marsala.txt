@@ -1,0 +1,40 @@
+4 skinless, boneless, chicken breasts (about 1 1/2 pounds)
+Quantifiers: 4 breasts 1 1/2 pounds 
+Ingredients: chicken 
+
+All-purpose flour, for dredging
+Quantifiers: 
+Ingredients: flour 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+4 ounces prosciutto, thinly sliced
+Quantifiers: 4 ounces 
+Ingredients: prosciutto 
+
+8 ounces crimini or porcini mushrooms, stemmed and halved
+Quantifiers: 8 ounces 
+Ingredients: mushrooms 
+
+1/2 cup sweet Marsala wine
+Quantifiers: 1/2 cup 
+Ingredients: sweet Marsala wine 
+
+1/2 cup chicken stock
+Quantifiers: 1/2 cup 
+Ingredients: chicken_stock 
+
+2 tablespoon unsalted butter
+Quantifiers: 2 tablespoon 
+Ingredients: butter 
+
+1/4 cup chopped flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+

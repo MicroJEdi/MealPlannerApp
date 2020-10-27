@@ -1,0 +1,32 @@
+3 pounds Eastern or white new potatoes, cut into 1/2-inch dice (about 8 cups)
+Quantifiers: 3 pounds 8 cups 
+Ingredients: white potatoes cut 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+4 extra large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 tablespoons white wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white_wine_vinegar 
+
+1/3 cup olive oil
+Quantifiers: 1/3 cup 
+Ingredients: olive_oil 
+
+1/4 cup minced fresh chives
+Quantifiers: 1/4 cup 
+Ingredients: chives 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 bottled roasted red pepper, drained and cut into 1/2-inch dice, optional
+Quantifiers: 1 
+Ingredients: red_pepper cut 
+

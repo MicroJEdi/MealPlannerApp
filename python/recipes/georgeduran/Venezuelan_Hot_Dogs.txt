@@ -1,0 +1,32 @@
+8 hot dog rolls, preferably potato
+Quantifiers: 8 rolls 
+Ingredients: hot_dog potato 
+
+8 hot dogs, preferably pork
+Quantifiers: 8 
+Ingredients: hot_dogs pork 
+
+1 yellow onion
+Quantifiers: 1 
+Ingredients: onion 
+
+1/4 head green cabbage
+Quantifiers: 1/4 head 
+Ingredients: green cabbage 
+
+1 (6-ounce) bag potato chips
+Quantifiers: 1 bag 
+Ingredients: potato_chips 
+
+Mayonnaise
+Quantifiers: 
+Ingredients: Mayonnaise 
+
+Mustard
+Quantifiers: 
+Ingredients: Mustard 
+
+Ketchup
+Quantifiers: 
+Ingredients: Ketchup 
+

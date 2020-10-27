@@ -1,0 +1,36 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 medium-size clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 (8-ounce) package medium-size bowties
+Quantifiers: 1 package 
+Ingredients: 
+
+1 tablespoon fresh lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1 teaspoon finely grated lemon zest
+Quantifiers: 1 teaspoon 
+Ingredients: lemon 
+
+1/2 bunch basil (about 12 large leaves)
+Quantifiers: 1/2 12 leaves 
+Ingredients: basil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon freshly grated black pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: black_pepper 
+
+1/2 cup freshly grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+

@@ -1,0 +1,32 @@
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2 tablespoons vegetable shortening
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable shortening 
+
+3/4 cup warm water, plus more as needed
+Quantifiers: 3/4 cup as 
+Ingredients: water 
+
+Peanut oil, for frying
+Quantifiers: 
+Ingredients: Peanut_oil 
+
+Honey or cinnamon sugar, for serving
+Quantifiers: serving 
+Ingredients: Honey cinnamon sugar 
+

@@ -1,0 +1,40 @@
+2 tablespoons oil
+Quantifiers: 2 tablespoons 
+Ingredients: oil 
+
+2 pounds fresh bratwurst links
+Quantifiers: 2 pounds links 
+Ingredients: bratwurst 
+
+2 onions, chopped
+Quantifiers: 2 
+Ingredients: onions 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+3 cups chicken stock
+Quantifiers: 3 cups 
+Ingredients: chicken_stock 
+
+1 tablespoon paprika
+Quantifiers: 1 tablespoon 
+Ingredients: paprika 
+
+1 tablespoon caraway seed
+Quantifiers: 1 tablespoon 
+Ingredients: caraway_seed 
+
+4 cups sauerkraut, drained
+Quantifiers: 4 cups 
+Ingredients: sauerkraut 
+
+2 tablespoons chopped fresh dill
+Quantifiers: 2 tablespoons 
+Ingredients: dill 
+
+1 baguette
+Quantifiers: 1 
+Ingredients: baguette 
+

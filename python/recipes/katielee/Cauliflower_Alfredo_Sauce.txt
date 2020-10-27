@@ -1,0 +1,40 @@
+Sea salt and coarsely ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+2 cups cauliflower florets 
+Quantifiers: 2 cups 
+Ingredients: cauliflower 
+
+1 pound fettuccine noodles 
+Quantifiers: 1 pound 
+Ingredients: fettuccine noodles 
+
+1 cup 2 percent milk 
+Quantifiers: 1 cup 2 
+Ingredients: milk 
+
+3 tablespoons unsalted butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+1 clove garlic, lightly smashed 
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 1/2 cups grated Parmesan
+Quantifiers: 1 1/2 cups 
+Ingredients: Parmesan 
+
+Olive oil, for searing the shrimp
+Quantifiers: 
+Ingredients: Olive_oil shrimp 
+
+15 to 20 peeled medium shrimp
+Quantifiers: 15 20 medium 
+Ingredients: shrimp 
+
+Chopped fresh parsley, for garnish
+Quantifiers: 
+Ingredients: parsley 
+

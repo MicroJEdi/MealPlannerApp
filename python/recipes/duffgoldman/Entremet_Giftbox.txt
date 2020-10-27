@@ -1,0 +1,176 @@
+Three-Inch Entremet (or can be purchased):
+Quantifiers: can 
+Ingredients: 
+
+1 recipe White Chocolate Mousse, recipe follows
+Quantifiers: 1 
+Ingredients: White_Chocolate_Mousse 
+
+1 recipe Old School Sugar Cookies, recipe follows
+Quantifiers: 1 School 
+Ingredients: Sugar_Cookies 
+
+1 recipe Glaze, recipe follows
+Quantifiers: 1 
+Ingredients: 
+
+Gold petals, for decorating 
+Quantifiers: 
+Ingredients: 
+
+Assembly:
+Quantifiers: Assembly 
+Ingredients: 
+
+Cornstarch, for dusting
+Quantifiers: 
+Ingredients: 
+
+1 pound gum paste
+Quantifiers: 1 pound 
+Ingredients: gum paste 
+
+Royal Icing, recipe follows
+Quantifiers: 
+Ingredients: 
+
+Dragees, for decorating 
+Quantifiers: 
+Ingredients: Dragees 
+
+White Chocolate Mousse:
+Quantifiers: 
+Ingredients: White_Chocolate_Mousse 
+
+8 ounces chopped white chocolate
+Quantifiers: 8 ounces 
+Ingredients: white_chocolate 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+Pinch kosher salt1 cup heavy cream
+Quantifiers: Pinch cup 
+Ingredients: kosher heavy_cream 
+
+3 tablespoons granulated sugar
+Quantifiers: 3 tablespoons 
+Ingredients: granulated_sugar 
+
+7 extra-large eggs, separated
+Quantifiers: 7 
+Ingredients: eggs 
+
+5 drops lemon juice
+Quantifiers: 5 drops 
+Ingredients: lemon_juice 
+
+Old School Sugar Cookies:
+Quantifiers: School 
+Ingredients: Sugar_Cookies 
+
+6 sticks (3 cups) butter, softened
+Quantifiers: 6 sticks 3 cups 
+Ingredients: butter 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+1 tablespoon lemon zest
+Quantifiers: 1 tablespoon 
+Ingredients: lemon 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+4 extra-large eggs plus 1 egg yolk
+Quantifiers: 4 1 
+Ingredients: eggs egg_yolk 
+
+3 cups all-purpose flour, plus more for flouring
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+2 cups cake flour
+Quantifiers: 2 cups 
+Ingredients: cake flour 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+7 teaspoons unflavored gelatin
+Quantifiers: 7 teaspoons 
+Ingredients: gelatin 
+
+3 cups granulated sugar
+Quantifiers: 3 cups 
+Ingredients: granulated_sugar 
+
+1 3/4 cups chopped white couverture chocolate
+Quantifiers: 1 3/4 cups 
+Ingredients: white couverture chocolate 
+
+2/3 cup sweetened condensed milk
+Quantifiers: 2/3 cup 
+Ingredients: condensed_milk 
+
+Red gel food coloring 
+Quantifiers: 
+Ingredients: food_coloring 
+
+Royal Icing:
+Quantifiers: 
+Ingredients: 
+
+4 cups powdered sugar (approximately)
+Quantifiers: 4 cups 
+Ingredients: powdered_sugar 
+
+3 extra-large pasteurized egg whites
+Quantifiers: 3 
+Ingredients: egg_whites 
+
+1 teaspoon lemon juice
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+-or-
+Quantifiers: 
+Ingredients: 
+
+3 tablespoons meringue powder
+Quantifiers: 3 tablespoons 
+Ingredients: 
+
+5 to 7 tablespoons water
+Quantifiers: 5 7 tablespoons 
+Ingredients: water 
+
+-or- 
+Quantifiers: 
+Ingredients: 
+
+4 cups royal icing powder (CK products is my favorite)
+Quantifiers: 4 cups 
+Ingredients: 
+
+1/2 cup water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+

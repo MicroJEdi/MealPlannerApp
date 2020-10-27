@@ -1,0 +1,88 @@
+Butter, for dish
+Quantifiers: dish 
+Ingredients: Butter 
+
+6 cups Granny Smith apples, peeled, cored and diced
+Quantifiers: 6 cups 
+Ingredients: Granny_Smith apples 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1/4 cup dark brown sugar
+Quantifiers: 1/4 cup dark 
+Ingredients: brown_sugar 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+Pinch ground nutmeg
+Quantifiers: Pinch ground 
+Ingredients: nutmeg 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+Ginger Whipped Cream, recipe follows
+Quantifiers: 
+Ingredients: Ginger Cream 
+
+Topping:
+Quantifiers: 
+Ingredients: 
+
+2 tablespoons butter, softened
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/2 cup self-rising flour
+Quantifiers: 1/2 cup 
+Ingredients: self-rising_flour 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+Pinch ground ginger
+Quantifiers: Pinch ground 
+Ingredients: ginger 
+
+1 egg, beaten
+Quantifiers: 1 
+Ingredients: egg 
+
+Ginger Whipped Cream
+Quantifiers: 
+Ingredients: Ginger Cream 
+
+1 cup whipping cream, chilled
+Quantifiers: 1 cup 
+Ingredients: whipping_cream 
+
+1/4 cup confectioners' sugar
+Quantifiers: 1/4 cup 
+Ingredients: sugar 
+
+1/4 cup candy ginger, minced
+Quantifiers: 1/4 cup 
+Ingredients: candy ginger 
+

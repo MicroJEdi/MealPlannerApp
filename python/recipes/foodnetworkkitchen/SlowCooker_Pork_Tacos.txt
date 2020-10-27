@@ -1,0 +1,68 @@
+3 whole ancho chiles
+Quantifiers: 3 
+Ingredients: chiles 
+
+3 whole pasilla chiles
+Quantifiers: 3 
+Ingredients: chiles 
+
+4 cloves garlic, unpeeled
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 to 3 chipotles in adobo sauce
+Quantifiers: 2 3 in 
+Ingredients: chipotles adobo sauce 
+
+1/2 medium white onion, roughly chopped
+Quantifiers: 1/2 medium 
+Ingredients: white onion 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+
+1 tablespoon cider vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: cider_vinegar 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 teaspoons dried oregano, preferably Mexican
+Quantifiers: 2 teaspoons 
+Ingredients: oregano 
+
+3 3/4 cups low-sodium chicken broth
+Quantifiers: 3 3/4 cups 
+Ingredients: chicken_broth 
+
+4 pounds boneless pork shoulder (untrimmed), cut into chunks
+Quantifiers: 4 pounds chunks 
+Ingredients: pork shoulder cut 
+
+Freshly ground pepper
+Quantifiers: ground 
+Ingredients: pepper 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 cinnamon stick
+Quantifiers: 1 stick 
+Ingredients: cinnamon 
+
+Corn tortillas, warmed, for serving
+Quantifiers: serving 
+Ingredients: Corn tortillas 
+
+Assorted taco toppings, for garnish
+Quantifiers: 
+Ingredients: taco 
+

@@ -1,0 +1,60 @@
+1 1/4 pounds tilapia fillets, about 5
+Quantifiers: 1 1/4 pounds 5 
+Ingredients: fillets 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 to 1 1/2 cups water
+Quantifiers: 1 1 1/2 cups 
+Ingredients: water 
+
+3 cups canola oil
+Quantifiers: 3 cups 
+Ingredients: canola_oil 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1/4 cup sour cream
+Quantifiers: 1/4 cup 
+Ingredients: sour_cream 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+1 tablespoon lime juice
+Quantifiers: 1 tablespoon 
+Ingredients: lime_juice 
+
+2 teaspoon garlic, chopped
+Quantifiers: 2 teaspoon 
+Ingredients: garlic 
+
+3 tablespoons chopped fresh cilantro leaves, divided
+Quantifiers: 3 tablespoons leaves 
+Ingredients: cilantro 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+8 corn tortillas
+Quantifiers: 8 
+Ingredients: corn tortillas 
+
+1/2 head green cabbage, shredded (reserve remaining half for Round 2 Recipe, Bean and Cheese Chalupas)
+Quantifiers: 1/2 head reserve half Round 2 
+Ingredients: green cabbage Bean Cheese 
+

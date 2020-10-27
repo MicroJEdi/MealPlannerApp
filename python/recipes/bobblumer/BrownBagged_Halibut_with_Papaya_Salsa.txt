@@ -1,0 +1,60 @@
+Brown-Bagged Sea Bass:
+Quantifiers: 
+Ingredients: Sea_Bass 
+
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+4 standard issue lunch-size brown paper bags
+Quantifiers: 4 standard paper_bags 
+Ingredients: 
+
+4 (6-ounce) halibut fillets
+Quantifiers: 4 
+Ingredients: halibut fillets 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+2 tablespoons freshly squeezed lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+3 tablespoons freshly grated ginger
+Quantifiers: 3 tablespoons 
+Ingredients: ginger 
+
+Papaya Salsa:
+Quantifiers: 
+Ingredients: Papaya Salsa 
+
+2 ripe papayas, skinned, seeded, then diced into 1/4-inch cubes. If papayas are unavailable, replace with a mango.
+Quantifiers: 2 then cubes are a 
+Ingredients: papayas papayas mango 
+
+4 scallions, trimmed then diced
+Quantifiers: 4 then 
+Ingredients: scallions 
+
+1/2 cup lightly packed cilantro leaves, chopped
+Quantifiers: 1/2 cup leaves 
+Ingredients: cilantro 
+
+4 tablespoons freshly squeezed lime juice
+Quantifiers: 4 tablespoons 
+Ingredients: lime_juice 
+
+4 tablespoons red bell pepper or red cabbage (for color), finely chopped
+Quantifiers: 4 tablespoons 
+Ingredients: bell_pepper red_cabbage 
+
+2 jalapeno chilies, seeds and membranes removed, minced
+Quantifiers: 2 
+Ingredients: jalapeno seeds 
+

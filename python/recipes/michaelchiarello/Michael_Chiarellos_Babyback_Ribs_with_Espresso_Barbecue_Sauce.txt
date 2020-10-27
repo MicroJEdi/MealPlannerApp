@@ -1,0 +1,52 @@
+2 racks baby back ribs (about 4 to 6 ribs per person)
+Quantifiers: 2 back ribs 4 6 ribs 
+Ingredients: racks 
+
+Grey salt
+Quantifiers: 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Espresso Sauce, recipe follows
+Quantifiers: 
+Ingredients: Espresso Sauce 
+
+Espresso Barbecue Sauce:
+Quantifiers: 
+Ingredients: Espresso Barbecue_Sauce 
+
+4 tablespoons mashed and minced garlic
+Quantifiers: 4 tablespoons 
+Ingredients: garlic 
+
+4 tablespoons extra-virgin olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1 cup cider vinegar
+Quantifiers: 1 cup 
+Ingredients: cider_vinegar 
+
+1/2 cup soy sauce
+Quantifiers: 1/2 cup 
+Ingredients: soy_sauce 
+
+2 cups ketchup
+Quantifiers: 2 cups 
+Ingredients: ketchup 
+
+2 cups honey
+Quantifiers: 2 cups 
+Ingredients: honey 
+
+Grey salt
+Quantifiers: 
+Ingredients: salt 
+
+2 demitasse cups espresso (or about 1/2 cup of strong coffee or instant espresso)
+Quantifiers: 2 cups 1/2 cup instant 
+Ingredients: demitasse espresso coffee espresso 
+

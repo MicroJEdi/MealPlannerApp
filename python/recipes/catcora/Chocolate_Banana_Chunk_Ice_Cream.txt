@@ -1,0 +1,28 @@
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 pint milk
+Quantifiers: 1 pint 
+Ingredients: milk 
+
+1 1/4 cups sugar
+Quantifiers: 1 1/4 cups 
+Ingredients: sugar 
+
+1 vanilla bean, split
+Quantifiers: 1 split 
+Ingredients: vanilla_bean 
+
+2 egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+1/2 cup chopped bananas
+Quantifiers: 1/2 cup 
+Ingredients: bananas 
+
+1/2 cup roughly chopped dark chocolate
+Quantifiers: 1/2 cup 
+Ingredients: dark_chocolate 
+

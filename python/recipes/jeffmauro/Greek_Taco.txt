@@ -1,0 +1,100 @@
+Lamb:
+Quantifiers: 
+Ingredients: Lamb 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 pounds ground lamb
+Quantifiers: 2 pounds ground 
+Ingredients: lamb 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 red onion, minced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+4 cloves garlic, minced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+2 tablespoons dry red wine
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine 
+
+Feta Mint Tzatziki:
+Quantifiers: Mint 
+Ingredients: 
+
+1 English cucumber
+Quantifiers: 1 
+Ingredients: cucumber 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 cup whole-milk Greek yogurt
+Quantifiers: 1 cup 
+Ingredients: yogurt 
+
+1/2 cup crumbled feta cheese
+Quantifiers: 1/2 cup 
+Ingredients: cheese 
+
+1 clove garlic, minced or pressed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 tablespoons minced fresh mint
+Quantifiers: 2 tablespoons mint 
+Ingredients: 
+
+Cucumber Tomato Relish:
+Quantifiers: 
+Ingredients: Cucumber Tomato Relish 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 tablespoon red wine vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: red_wine_vinegar 
+
+2 firm tomatoes, seeded and diced
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1 English cucumber, seeded and diced
+Quantifiers: 1 
+Ingredients: cucumber 
+
+1/2 red onion, diced
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+4 non-pocket pitas, oiled and lightly griddled on each side
+Quantifiers: 4 
+Ingredients: pitas side 
+

@@ -1,0 +1,76 @@
+For the cake:
+Quantifiers: 
+Ingredients: cake 
+
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+3 1/2 cups all-purpose flour (sift, then measure), plus more for dusting
+Quantifiers: 3 1/2 cups then measure 
+Ingredients: flour 
+
+2 cups hot strong coffee
+Quantifiers: 2 cups 
+Ingredients: coffee 
+
+1 1/2 cups natural unsweetened cocoa powder (not Dutch process)
+Quantifiers: 1 1/2 cups 
+Ingredients: cocoa_powder 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 tablespoon baking soda
+Quantifiers: 1 tablespoon 
+Ingredients: soda 
+
+1 tablespoon baking powder
+Quantifiers: 1 tablespoon 
+Ingredients: baking_powder 
+
+4 cups sugar
+Quantifiers: 4 cups 
+Ingredients: sugar 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 cup vegetable oil
+Quantifiers: 1 cup 
+Ingredients: vegetable_oil 
+
+4 teaspoons vanilla extract
+Quantifiers: 4 teaspoons 
+Ingredients: vanilla_extract 
+
+For the ganache:
+Quantifiers: 
+Ingredients: 
+
+1 1/2 pounds bittersweet chocolate, chopped
+Quantifiers: 1 1/2 pounds 
+Ingredients: bittersweet_chocolate 
+
+3 1/3 cups heavy cream
+Quantifiers: 3 1/3 cups 
+Ingredients: heavy_cream 
+
+For the bark:
+Quantifiers: bark 
+Ingredients: 
+
+4 ounces white chocolate, finely chopped
+Quantifiers: 4 ounces 
+Ingredients: white_chocolate 
+
+4 ounces milk chocolate, finely chopped
+Quantifiers: 4 ounces 
+Ingredients: milk_chocolate 
+
+8 ounces bittersweet or semisweet chocolate, finely chopped
+Quantifiers: 8 ounces 
+Ingredients: chocolate 
+

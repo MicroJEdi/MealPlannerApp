@@ -1,0 +1,20 @@
+1/2 cup (1 stick) butter, melted
+Quantifiers: 1/2 cup 1 stick 
+Ingredients: butter 
+
+3 large egg whites
+Quantifiers: 3 
+Ingredients: egg_whites 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+4 cups pecan halves
+Quantifiers: 4 cups halves 
+Ingredients: pecan 
+

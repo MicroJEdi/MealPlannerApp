@@ -1,0 +1,20 @@
+3 cups salted mixed nuts
+Quantifiers: 3 cups 
+Ingredients: nuts 
+
+2 tablespoons unsalted butter, melted
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 tablespoons coarsely chopped fresh rosemary
+Quantifiers: 2 tablespoons 
+Ingredients: rosemary 
+
+2 tablespoons packed dark brown sugar
+Quantifiers: 2 tablespoons dark 
+Ingredients: brown_sugar 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+

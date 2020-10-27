@@ -1,0 +1,56 @@
+3 quarts good-quality chicken or vegetable stock
+Quantifiers: 3 quarts 
+Ingredients: chicken vegetable stock 
+
+1 Savoy cabbage, stalks removed, outer leaves separated, washed and roughly chopped
+Quantifiers: 1 leaves 
+Ingredients: Savoy_cabbage 
+
+2 big handfuls cavolo nero and/or kale, stalks removed, leaves washed and roughly chopped
+Quantifiers: 2 handfuls kale leaves 
+Ingredients: 
+
+About 16 slices stale country-style or sourdough bread
+Quantifiers: 16 slices 
+Ingredients: sourdough_bread 
+
+1 clove garlic, unpeeled, cut in 1/2
+Quantifiers: 1 in 1/2 
+Ingredients: clove garlic cut 
+
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+12 to 14 slices pancetta or bacon
+Quantifiers: 12 14 slices 
+Ingredients: bacon 
+
+1 (4-ounce) can anchovy fillets, in oil
+Quantifiers: 1 can in 
+Ingredients: anchovy fillets oil 
+
+3 sprigs fresh rosemary, leaves picked
+Quantifiers: 3 leaves 
+Ingredients: rosemary 
+
+7 ounces fontina cheese, grated
+Quantifiers: 7 ounces 
+Ingredients: cheese 
+
+5 ounces freshly grated Parmesan, plus a little for serving
+Quantifiers: 5 ounces a little serving 
+Ingredients: Parmesan 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Couple large knobs butter
+Quantifiers: Couple 
+Ingredients: butter 
+
+Small bunch fresh sage, leaves picked
+Quantifiers: leaves 
+Ingredients: sage 
+

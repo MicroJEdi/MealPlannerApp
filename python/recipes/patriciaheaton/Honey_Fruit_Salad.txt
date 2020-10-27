@@ -1,0 +1,40 @@
+2 cups blueberries
+Quantifiers: 2 cups 
+Ingredients: blueberries 
+
+2 cups raspberries 
+Quantifiers: 2 cups 
+Ingredients: raspberries 
+
+1 mango, cubed 
+Quantifiers: 1 
+Ingredients: mango 
+
+1/2 pineapple, cubed 
+Quantifiers: 1/2 
+Ingredients: pineapple 
+
+1/2 seedless watermelon, cubed 
+Quantifiers: 1/2 
+Ingredients: watermelon 
+
+1/4 cup honey 
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1 lime, juiced 
+Quantifiers: 1 
+Ingredients: lime 
+
+1 orange, juiced 
+Quantifiers: 1 
+Ingredients: orange 
+
+1/2 cup shelled pistachios, coarsely chopped 
+Quantifiers: 1/2 cup 
+Ingredients: pistachios 
+
+Fresh mint leaves, torn, for garnish
+Quantifiers: mint leaves 
+Ingredients: 
+

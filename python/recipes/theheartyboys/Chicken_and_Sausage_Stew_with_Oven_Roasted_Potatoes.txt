@@ -1,0 +1,92 @@
+10 tablespoons butter
+Quantifiers: 10 tablespoons 
+Ingredients: butter 
+
+2 pounds boneless, skinless chicken thigh meat, cut into 2 -inch chunks
+Quantifiers: 2 pounds thigh 2 chunks 
+Ingredients: chicken meat cut 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+8 ounces andouille sausage, sliced
+Quantifiers: 8 ounces 
+Ingredients: sausage 
+
+1 yellow onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+2 carrots, peeled and cut into thick rounds
+Quantifiers: 2 rounds 
+Ingredients: carrots cut 
+
+1 small fennel bulb, trimmed and sliced
+Quantifiers: 1 bulb 
+Ingredients: fennel 
+
+2 sprigs fresh thyme
+Quantifiers: 2 
+Ingredients: thyme 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+5 cups chicken stock
+Quantifiers: 5 cups 
+Ingredients: chicken_stock 
+
+1 orange, zest grated
+Quantifiers: 1 
+Ingredients: orange 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+1/4 cup white wine
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+Oven roasted potatoes, recipe follows
+Quantifiers: 
+Ingredients: potatoes 
+
+Oven Roasted Potatoes:
+Quantifiers: 
+Ingredients: Potatoes 
+
+10 medium red potatoes, washed and diced or 25 small potatoes
+Quantifiers: 10 medium 25 
+Ingredients: potatoes potatoes 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 teaspoon pepper
+Quantifiers: 1 teaspoon 
+Ingredients: pepper 
+
+1 sprig fresh thyme
+Quantifiers: 1 
+Ingredients: thyme 
+
+1 sprig fresh rosemary
+Quantifiers: 1 
+Ingredients: rosemary 
+
+1 tablespoon chopped parsley leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: parsley 
+

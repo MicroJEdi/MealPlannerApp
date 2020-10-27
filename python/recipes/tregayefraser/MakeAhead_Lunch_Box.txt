@@ -1,0 +1,100 @@
+Rainbow Pinwheels:
+Quantifiers: Pinwheels 
+Ingredients: 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+10 ounces white button mushrooms, sliced 
+Quantifiers: 10 ounces button 
+Ingredients: white mushrooms 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 spinach wraps 
+Quantifiers: 2 
+Ingredients: spinach wraps 
+
+2 tablespoons ranch salad dressing
+Quantifiers: 2 tablespoons 
+Ingredients: salad_dressing 
+
+8 thin slices honey ham 
+Quantifiers: 8 slices 
+Ingredients: honey ham 
+
+1/2 cup sliced roasted red peppers 
+Quantifiers: 1/2 cup 
+Ingredients: red_peppers 
+
+2 tomato wraps 
+Quantifiers: 2 
+Ingredients: tomato wraps 
+
+2 tablespoons honey mustard salad dressing
+Quantifiers: 2 tablespoons 
+Ingredients: honey mustard salad_dressing 
+
+8 thin slices deli turkey
+Quantifiers: 8 slices 
+Ingredients: turkey 
+
+1/4 small red onion, thinly sliced 
+Quantifiers: 1/4 
+Ingredients: red_onion 
+
+1 cup baby spinach 
+Quantifiers: 1 cup 
+Ingredients: spinach 
+
+2 garlic wraps 
+Quantifiers: 2 
+Ingredients: garlic wraps 
+
+2 tablespoons Italian salad dressing
+Quantifiers: 2 tablespoons 
+Ingredients: salad_dressing 
+
+Fruit Snakes:
+Quantifiers: 
+Ingredients: Fruit 
+
+2 large bananas
+Quantifiers: 2 
+Ingredients: bananas 
+
+1/2 cup lemon juice
+Quantifiers: 1/2 cup 
+Ingredients: lemon_juice 
+
+1 pint strawberries
+Quantifiers: 1 pint 
+Ingredients: strawberries 
+
+12 mini chocolate chips
+Quantifiers: 12 
+Ingredients: chocolate chips 
+
+2 dried apricot pieces, cut into strips
+Quantifiers: 2 pieces 
+Ingredients: dried_apricot cut 
+
+Chocolate-Covered Pretzels:
+Quantifiers: 
+Ingredients: Pretzels 
+
+One 12-ounce bag dark chocolate chips
+Quantifiers: One bag 
+Ingredients: dark_chocolate chips 
+
+4 ounces tiny twist pretzels
+Quantifiers: 4 ounces 
+Ingredients: pretzels 
+
+Sprinkles, for topping, optional
+Quantifiers: 
+Ingredients: Sprinkles 
+

@@ -1,0 +1,56 @@
+2 shallots, peeled
+Quantifiers: 2 
+Ingredients: shallots 
+
+3 cloves garlic
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 teaspoon olive oil
+Quantifiers: 1 teaspoon 
+Ingredients: olive_oil 
+
+3 pieces bacon, diced, cooked, reserving 1 tablespoon bacon fat
+Quantifiers: 3 pieces 1 tablespoon 
+Ingredients: bacon bacon 
+
+2 tablespoons flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+4 cups heavy cream
+Quantifiers: 4 cups 
+Ingredients: heavy_cream 
+
+1 teaspoon chopped fresh thyme
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+1 cup shredded Pepper Jack cheese
+Quantifiers: 1 cup Jack 
+Ingredients: Pepper cheese 
+
+2 cups shredded Cheddar cheese
+Quantifiers: 2 cups 
+Ingredients: Cheddar_cheese 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 pound penne pasta, cooked
+Quantifiers: 1 pound 
+Ingredients: penne pasta 
+
+1/2 cup Panko bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+2 tablespoons melted butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 tablespoons chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+

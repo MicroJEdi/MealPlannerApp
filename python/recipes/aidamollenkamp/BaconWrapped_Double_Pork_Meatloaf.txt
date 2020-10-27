@@ -1,0 +1,60 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1/2 medium white onion, finely chopped (about 1 cup)
+Quantifiers: 1/2 medium 1 cup 
+Ingredients: white onion 
+
+2 medium garlic cloves, minced
+Quantifiers: 2 medium 
+Ingredients: garlic_cloves 
+
+Leaves from 4 sprigs thyme (about 1 teaspoon)
+Quantifiers: Leaves 4 1 teaspoon 
+Ingredients: thyme 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 cup well-shaken lowfat buttermilk
+Quantifiers: 1/2 cup 
+Ingredients: buttermilk 
+
+2 tablespoons Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+2 pounds ground pork
+Quantifiers: 2 pounds ground 
+Ingredients: pork 
+
+1 pound bratwurst pork sausage, removed from casings and broken up
+Quantifiers: 1 pound 
+Ingredients: bratwurst pork_sausage 
+
+1 cup crushed saltine crackers (about 20)
+Quantifiers: 1 cup 20 
+Ingredients: saltine crackers 
+
+1/4 cup finely chopped fresh Italian parsley leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: parsley 
+
+8 strips bacon
+Quantifiers: 8 
+Ingredients: bacon 
+

@@ -1,0 +1,20 @@
+1/2 stick unsalted butter
+Quantifiers: 1/2 stick 
+Ingredients: butter 
+
+1/2 cup maple syrup
+Quantifiers: 1/2 cup 
+Ingredients: maple_syrup 
+
+1 1/2 teaspoons table salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: table_salt 
+
+1 teaspoon cayenne pepper
+Quantifiers: 1 teaspoon 
+Ingredients: cayenne_pepper 
+
+3 1/3 cups pecan halves
+Quantifiers: 3 1/3 cups halves 
+Ingredients: pecan 
+

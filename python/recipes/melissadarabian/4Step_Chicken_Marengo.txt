@@ -1,0 +1,48 @@
+3 large chicken cutlets, sliced into thin paillards (slice while partially frozen)
+Quantifiers: 3 cutlets slice while 
+Ingredients: chicken 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+1 medium sweet onion, sliced
+Quantifiers: 1 medium 
+Ingredients: sweet onion 
+
+1/2 pound mushrooms, sliced
+Quantifiers: 1/2 pound 
+Ingredients: mushrooms 
+
+1 yellow bell pepper, seeded and julienned
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1/2 cup white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1/2 cup beef broth
+Quantifiers: 1/2 cup 
+Ingredients: beef_broth 
+
+One 14-ounce can chopped tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+1/2 tablespoon butter
+Quantifiers: 1/2 tablespoon 
+Ingredients: butter 
+

@@ -1,0 +1,36 @@
+Two 15-ounce cans chickpeas, drained, liquid reserved
+Quantifiers: Two cans 
+Ingredients: chickpeas 
+
+1/4 cup freshly squeezed lemon juice
+Quantifiers: 1/4 cup 
+Ingredients: lemon_juice 
+
+1/4 cup tahini
+Quantifiers: 1/4 cup 
+Ingredients: tahini 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 cup extra-virgin olive oil, plus more for serving
+Quantifiers: 1/2 cup serving 
+Ingredients: olive_oil 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+Smoked paprika, for serving, optional
+Quantifiers: serving 
+Ingredients: paprika 
+
+Vegetable crudite and pita chips, for serving
+Quantifiers: serving 
+Ingredients: Vegetable pita chips 
+

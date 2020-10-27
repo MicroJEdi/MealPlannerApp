@@ -1,0 +1,84 @@
+Pot Roast:
+Quantifiers: 
+Ingredients: Pot_Roast 
+
+1 1/2 pounds beef bottom round roast
+Quantifiers: 1 1/2 pounds round 
+Ingredients: beef bottom_round roast 
+
+2 teaspoons salt, plus more for seasoning
+Quantifiers: 2 teaspoons 
+Ingredients: salt seasoning 
+
+1/2 teaspoon freshly ground black pepper, plus more for seasoning
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper seasoning 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+2 carrots, cut into 2-inch pieces
+Quantifiers: 2 pieces 
+Ingredients: carrots cut 
+
+2 stalks celery
+Quantifiers: 2 
+Ingredients: celery 
+
+1 medium yellow onion
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 (15-ounce) can beef broth
+Quantifiers: 1 can 
+Ingredients: beef_broth 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+1 tablespoon minced fresh garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+2 tablespoons Worcestershire sauce
+Quantifiers: 2 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+4 sprigs fresh thyme
+Quantifiers: 4 
+Ingredients: thyme 
+
+Roasted Root Vegetables:
+Quantifiers: 
+Ingredients: Root_Vegetables 
+
+2 carrots, cut into 3-inch pieces
+Quantifiers: 2 pieces 
+Ingredients: carrots cut 
+
+2 russet potatoes, cut into 1-inch cubes
+Quantifiers: 2 cubes 
+Ingredients: potatoes cut 
+
+1/2 pound turnips, cut into wedges
+Quantifiers: 1/2 pound 
+Ingredients: turnips cut wedges 
+
+2 tablespoons canola oil
+Quantifiers: 2 tablespoons 
+Ingredients: canola_oil 
+
+1 teaspoon each fresh rosemary and fresh thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: rosemary thyme 
+
+1 red onion, sliced
+Quantifiers: 1 
+Ingredients: red_onion 
+

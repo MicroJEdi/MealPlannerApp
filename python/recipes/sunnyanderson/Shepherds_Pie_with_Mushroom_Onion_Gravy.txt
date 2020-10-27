@@ -1,0 +1,108 @@
+2 pounds russet potatoes, washed, peeled and cut into chunks
+Quantifiers: 2 pounds chunks 
+Ingredients: potatoes cut 
+
+1 clove garlic, smashed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+6 tablespoons butter
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+1/2 cup heavy cream
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+2 tablespoons vegetable oil
+Quantifiers: 2 tablespoons 
+Ingredients: vegetable_oil 
+
+1 1/2 pounds ground beef (85 percent lean)
+Quantifiers: 1 1/2 pounds 
+Ingredients: ground_beef 
+
+2 teaspoons Worcestershire sauce
+Quantifiers: 2 teaspoons 
+Ingredients: Worcestershire_sauce 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1/2 cup low-sodium beef stock
+Quantifiers: 1/2 cup 
+Ingredients: beef_stock 
+
+1/2 large onion, finely chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+1 red bell pepper, julienned
+Quantifiers: 1 
+Ingredients: bell_pepper 
+
+2 zucchini, julienned
+Quantifiers: 2 
+Ingredients: zucchini 
+
+2 carrots, peeled and grated
+Quantifiers: 2 
+Ingredients: carrots 
+
+1 teaspoon Hungarian hot paprika, plus more for garnish
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+4 ounces Havarti cheese, grated
+Quantifiers: 4 ounces 
+Ingredients: cheese 
+
+Mushroom Onion Gravy, recipe follows
+Quantifiers: 
+Ingredients: Mushroom Onion Gravy 
+
+Mushroom Onion Gravy:
+Quantifiers: 
+Ingredients: Mushroom Onion Gravy 
+
+1/2 large onion, chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+8 ounces white button mushrooms, sliced
+Quantifiers: 8 ounces button 
+Ingredients: white mushrooms 
+
+3 tablespoons oil
+Quantifiers: 3 tablespoons 
+Ingredients: oil 
+
+3 tablespoons all-purpose flour
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+2 cups beef broth
+Quantifiers: 2 cups 
+Ingredients: beef_broth 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

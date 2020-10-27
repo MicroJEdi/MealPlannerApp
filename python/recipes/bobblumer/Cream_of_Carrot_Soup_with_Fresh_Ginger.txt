@@ -1,0 +1,44 @@
+7 cups chicken, or vegetable stock
+Quantifiers: 7 cups 
+Ingredients: chicken vegetable stock 
+
+2 pounds fresh carrots, peeled
+Quantifiers: 2 pounds 
+Ingredients: carrots 
+
+3 leeks, sliced in half lengthwise and thoroughly cleaned
+Quantifiers: 3 in half 
+Ingredients: leeks 
+
+1 yam, peeled
+Quantifiers: 1 
+Ingredients: yam 
+
+4 stalks celery
+Quantifiers: 4 
+Ingredients: celery 
+
+4 tablespoons butter
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+1 (3-inch) piece fresh ginger root, peeled and grated
+Quantifiers: 1 piece root 
+Ingredients: ginger 
+
+1 teaspoon ground nutmeg
+Quantifiers: 1 teaspoon ground 
+Ingredients: nutmeg 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 pint heavy cream (optional)
+Quantifiers: 1/2 pint 
+Ingredients: heavy_cream 
+

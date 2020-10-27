@@ -1,0 +1,28 @@
+1 4-bone prime rib, bones and excess fat removed and reserved
+Quantifiers: 1 prime rib bones 
+Ingredients: 
+
+4 teaspoons kosher salt
+Quantifiers: 4 teaspoons 
+Ingredients: kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 sprigs fresh rosemary
+Quantifiers: 4 
+Ingredients: rosemary 
+
+4 cloves garlic, unpeeled, smashed
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+4 ounces arugula (optional)
+Quantifiers: 4 ounces 
+Ingredients: 
+
+2 teaspoons extra-virgin olive oil (optional)
+Quantifiers: 2 teaspoons 
+Ingredients: olive_oil 
+

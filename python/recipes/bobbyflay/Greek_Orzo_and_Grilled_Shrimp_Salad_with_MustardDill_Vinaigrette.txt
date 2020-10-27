@@ -1,0 +1,44 @@
+3/4 pound orzo, cooked al dente
+Quantifiers: 3/4 pound 
+Ingredients: orzo 
+
+1 large cucumber, seeded, quartered lengthwise, and sliced
+Quantifiers: 1 
+Ingredients: cucumber 
+
+3 green onions, thinly sliced
+Quantifiers: 3 
+Ingredients: green_onions 
+
+1 pint grape tomatoes, halved
+Quantifiers: 1 pint 
+Ingredients: grape tomatoes 
+
+1/4 cup chopped fresh dill, plus extra for garnish
+Quantifiers: 1/4 cup 
+Ingredients: dill 
+
+1/4 cup white wine vinegar
+Quantifiers: 1/4 cup 
+Ingredients: white_wine_vinegar 
+
+3 tablespoons Dijon mustard
+Quantifiers: 3 tablespoons 
+Ingredients: mustard 
+
+1/2 cup olive oil, plus additional for brushing shrimp
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil shrimp 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+3/4 pound feta cheese, crumbled
+Quantifiers: 3/4 pound 
+Ingredients: cheese 
+
+16 medium shrimp, peeled and de-veined
+Quantifiers: 16 medium 
+Ingredients: shrimp 
+

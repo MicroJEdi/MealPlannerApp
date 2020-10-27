@@ -1,0 +1,52 @@
+3 large eggs, beaten
+Quantifiers: 3 
+Ingredients: eggs 
+
+2 cups granulated sugar
+Quantifiers: 2 cups 
+Ingredients: granulated_sugar 
+
+12 ounces extra-virgin olive oil
+Quantifiers: 12 ounces 
+Ingredients: olive_oil 
+
+10 ounces milk
+Quantifiers: 10 ounces 
+Ingredients: milk 
+
+2 ounces orange liqueur
+Quantifiers: 2 ounces 
+Ingredients: orange_liqueur 
+
+2 ounces fresh orange juice
+Quantifiers: 2 ounces 
+Ingredients: orange_juice 
+
+3 teaspoons lemon zest
+Quantifiers: 3 teaspoons 
+Ingredients: lemon 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon baking powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: baking_powder 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+4 ounces blanched almonds, finely chopped
+Quantifiers: 4 ounces 
+Ingredients: almonds 
+
+Powdered sugar, for garnish
+Quantifiers: 
+Ingredients: Powdered_sugar 
+

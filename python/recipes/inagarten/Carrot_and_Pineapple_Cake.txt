@@ -1,0 +1,80 @@
+For the cake:
+Quantifiers: 
+Ingredients: cake 
+
+2 cups granulated sugar
+Quantifiers: 2 cups 
+Ingredients: granulated_sugar 
+
+1 1/3 cups vegetable oil
+Quantifiers: 1 1/3 cups 
+Ingredients: vegetable_oil 
+
+3 extra-large eggs, at room temperature
+Quantifiers: 3 at room_temperature 
+Ingredients: eggs 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+2 1/2 cups plus 1 tablespoon all-purpose flour, divided
+Quantifiers: 2 1/2 cups 1 tablespoon 
+Ingredients: flour 
+
+2 teaspoons ground cinnamon
+Quantifiers: 2 teaspoons ground 
+Ingredients: cinnamon 
+
+2 teaspoons baking soda
+Quantifiers: 2 teaspoons 
+Ingredients: soda 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 cup raisins
+Quantifiers: 1 cup 
+Ingredients: raisins 
+
+1 cup chopped walnuts
+Quantifiers: 1 cup 
+Ingredients: walnuts 
+
+1 pound carrots, grated
+Quantifiers: 1 pound 
+Ingredients: carrots 
+
+1/2 cup diced fresh pineapple
+Quantifiers: 1/2 cup 
+Ingredients: pineapple 
+
+For the frosting:
+Quantifiers: 
+Ingredients: 
+
+3/4 pound cream cheese, at room temperature
+Quantifiers: 3/4 pound at room_temperature 
+Ingredients: cream_cheese 
+
+1/2 pound unsalted butter, at room temperature
+Quantifiers: 1/2 pound at room_temperature 
+Ingredients: butter 
+
+1 teaspoon pure vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 pound confectioners' sugar, sifted
+Quantifiers: 1 pound 
+Ingredients: sugar 
+
+For the decoration:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup diced fresh pineapple
+Quantifiers: 1/2 cup 
+Ingredients: pineapple 
+

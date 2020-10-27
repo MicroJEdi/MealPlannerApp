@@ -1,0 +1,64 @@
+1 large Vidalia or other sweet onion, sliced
+Quantifiers: 1 
+Ingredients: sweet onion 
+
+3 pounds pork butt, rinsed and patted dry
+Quantifiers: 3 pounds butt 
+Ingredients: pork 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 cup barbeque sauce
+Quantifiers: 1 cup 
+Ingredients: barbeque sauce 
+
+1/2 cup yellow mustard
+Quantifiers: 1/2 cup 
+Ingredients: mustard 
+
+3 tablespoons tomato paste
+Quantifiers: 3 tablespoons 
+Ingredients: tomato_paste 
+
+1 cup chicken broth
+Quantifiers: 1 cup 
+Ingredients: chicken_broth 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+White hamburger buns, for serving
+Quantifiers: serving 
+Ingredients: White hamburger_buns 
+
+Spicy Coleslaw:
+Quantifiers: 
+Ingredients: Coleslaw 
+
+1/4 cup sour cream
+Quantifiers: 1/4 cup 
+Ingredients: sour_cream 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+1 (16-ounce) package coleslaw mix (recommended: Dole)
+Quantifiers: 1 package 
+Ingredients: coleslaw mix 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

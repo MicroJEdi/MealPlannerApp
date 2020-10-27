@@ -1,0 +1,44 @@
+8 ounces unsalted butter
+Quantifiers: 8 ounces 
+Ingredients: butter 
+
+12 ounces bread flour
+Quantifiers: 12 ounces 
+Ingredients: bread flour 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+2 ounces granulated sugar
+Quantifiers: 2 ounces 
+Ingredients: granulated_sugar 
+
+8 ounces light brown sugar
+Quantifiers: 8 ounces light 
+Ingredients: brown_sugar 
+
+1 large egg
+Quantifiers: 1 
+Ingredients: egg 
+
+1 large egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1 ounce whole milk
+Quantifiers: 1 ounce 
+Ingredients: whole_milk 
+
+1 1/2 teaspoons vanilla extract
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vanilla_extract 
+
+12 ounces semisweet chocolate chips
+Quantifiers: 12 ounces 
+Ingredients: chocolate chips 
+

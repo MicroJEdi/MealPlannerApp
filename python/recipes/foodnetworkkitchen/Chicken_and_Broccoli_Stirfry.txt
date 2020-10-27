@@ -1,0 +1,68 @@
+1 pound chicken breast (about 2 breasts), cubed
+Quantifiers: 1 pound breast 2 breasts 
+Ingredients: chicken 
+
+3 scallions, whites only, thinly sliced on an angle
+Quantifiers: 3 
+Ingredients: scallions whites 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1-inch piece peeled fresh ginger, minced
+Quantifiers: piece 
+Ingredients: ginger 
+
+1 tablespoon soy sauce
+Quantifiers: 1 tablespoon 
+Ingredients: soy_sauce 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+1 tablespoon, plus 1 teaspoon cornstarch
+Quantifiers: 1 tablespoon 1 teaspoon 
+Ingredients: 
+
+1 1/4 teaspoons salt
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: salt 
+
+1 tablespoon dry sherry
+Quantifiers: 1 tablespoon 
+Ingredients: sherry 
+
+1 tablespoon dark sesame oil
+Quantifiers: 1 tablespoon dark 
+Ingredients: sesame_oil 
+
+About 1/3 cup water
+Quantifiers: 1/3 cup 
+Ingredients: water 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+5 to 6 cups broccoli, trimmed sliced stalks and medium florets (keep the 2 cuts separate)
+Quantifiers: 5 6 cups medium 2 
+Ingredients: broccoli cuts 
+
+3/4 to 1 teaspoon red chili flakes, optional
+Quantifiers: 3/4 1 teaspoon 
+Ingredients: chili 
+
+1 tablespoon hoisin sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hoisin_sauce 
+
+Garnish: toasted sesame seeds, optional
+Quantifiers: 
+Ingredients: sesame_seeds 
+
+Serving suggestion: Jasmine rice
+Quantifiers: Serving suggestion 
+Ingredients: rice 
+

@@ -1,0 +1,36 @@
+Nonstick cooking spray, for baking dish
+Quantifiers: spray dish 
+Ingredients: 
+
+1 1/2 cups confectioners' sugar 
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+1 1/2 cups graham cracker crumbs 
+Quantifiers: 1 1/2 cups cracker_crumbs 
+Ingredients: graham_
+
+1 cup creamy peanut butter 
+Quantifiers: 1 cup 
+Ingredients: peanut_butter 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 stick (8 tablespoons) unsalted butter, melted 
+Quantifiers: 1 stick 8 tablespoons 
+Ingredients: butter 
+
+8 ounces semisweet baking chocolate, chopped into small pieces 
+Quantifiers: 8 ounces pieces 
+Ingredients: baking_chocolate 
+
+1 cup heavy cream 
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 teaspoon flaky sea salt, optional
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+

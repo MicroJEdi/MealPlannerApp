@@ -1,0 +1,40 @@
+3 (8-ounce) bottles clam juice
+Quantifiers: 3 bottles clam 
+Ingredients: juice 
+
+3 tablespoons Achiote Oil, recipe follows
+Quantifiers: 3 tablespoons 
+Ingredients: Oil 
+
+4 cloves garlic, sliced thin
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1/3 cup finely diced Serrano or prosciutto ham
+Quantifiers: 1/3 cup 
+Ingredients: prosciutto ham 
+
+1 pound orzo (rice-shaped pasta)
+Quantifiers: 1 pound 
+Ingredients: orzo pasta 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Chopped parsley leaves, for garnish
+Quantifiers: leaves 
+Ingredients: parsley 
+
+Achiote Oil:
+Quantifiers: 
+Ingredients: Oil 
+
+1 cup olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+2 tablespoons achiote (annatto) seeds, see Cook's Note*
+Quantifiers: 2 tablespoons Note 
+Ingredients: seeds 
+

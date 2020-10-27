@@ -1,0 +1,28 @@
+4 tablespoons extra-virgin olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+3/4 cup chopped red onion
+Quantifiers: 3/4 cup 
+Ingredients: red_onion 
+
+1/2 pound bacon, chopped
+Quantifiers: 1/2 pound 
+Ingredients: bacon 
+
+1/2 cup balsamic vinegar
+Quantifiers: 1/2 cup 
+Ingredients: vinegar 
+
+3 heads romaine lettuce, cut in 1/2 lengthwise
+Quantifiers: 3 heads lettuce in 1/2 
+Ingredients: romaine_lettuce cut 
+
+1/2 cup crumbled blue cheese
+Quantifiers: 1/2 cup 
+Ingredients: blue_cheese 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

@@ -1,0 +1,44 @@
+12 tablespoons (1 1/2 sticks) unsalted butter, at room temperature
+Quantifiers: 12 tablespoons 1 1/2 sticks at room_temperature 
+Ingredients: butter 
+
+1 1/2 cups sugar
+Quantifiers: 1 1/2 cups 
+Ingredients: sugar 
+
+3 extra-large eggs, at room temperature
+Quantifiers: 3 at room_temperature 
+Ingredients: eggs 
+
+1 1/2 teaspoons pure vanilla extract
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: vanilla_extract 
+
+8 ounces (about 1 cup) sour cream
+Quantifiers: 8 ounces 1 cup 
+Ingredients: sour_cream 
+
+1/4 cup milk
+Quantifiers: 1/4 cup 
+Ingredients: milk 
+
+2 1/2 cups all-purpose flour
+Quantifiers: 2 1/2 cups 
+Ingredients: flour 
+
+2 teaspoons baking powder
+Quantifiers: 2 teaspoons 
+Ingredients: baking_powder 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+2 half-pints fresh blueberries, picked through for stems
+Quantifiers: 2 
+Ingredients: blueberries 
+

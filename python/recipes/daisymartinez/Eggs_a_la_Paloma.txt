@@ -1,0 +1,72 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+2 tablespoons grated onion
+Quantifiers: 2 tablespoons 
+Ingredients: onion 
+
+1 clove garlic
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 1/4 teaspoon chili powder
+Quantifiers: 1 1/4 teaspoon 
+Ingredients: chili_powder 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1 (8-ounce can) Spanish style tomato sauce
+Quantifiers: 1 can style 
+Ingredients: tomato_sauce 
+
+1/4 cup vegetable stock or water
+Quantifiers: 1/4 cup 
+Ingredients: vegetable stock water 
+
+1 1/2 cups (removed from casing and crumbled) Mexican chorizo
+Quantifiers: 1 1/2 cups 
+Ingredients: chorizo 
+
+2 Hass avocados
+Quantifiers: 2 
+Ingredients: avocados 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Vegetable oil cooking spray
+Quantifiers: spray 
+Ingredients: Vegetable_oil 
+
+1 dozen eggs
+Quantifiers: 1 dozen 
+Ingredients: eggs 
+
+1 cup shredded Oaxaca cheese (see Cook's Notes) or mozzarella cheese
+Quantifiers: 1 cup Notes 
+Ingredients: cheese mozzarella cheese 
+
+1/2 cup crema Mexicana (see Cook's Notes) or sour cream
+Quantifiers: 1/2 cup Notes 
+Ingredients: sour_cream 
+
+Minced fresh cilantro leaves, for garnish
+Quantifiers: leaves 
+Ingredients: cilantro 
+
+Special Equipment: 6 (5 1/2 by 1-inch or similar size) flameproof casseroles
+Quantifiers: Equipment 6 5 1/2 
+Ingredients: Special casseroles 
+

@@ -1,0 +1,68 @@
+1 tablespoon olive oil, plus extra for pan
+Quantifiers: 1 tablespoon pan 
+Ingredients: olive_oil 
+
+1 pound ground beef or turkey
+Quantifiers: 1 pound 
+Ingredients: ground_beef turkey 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+One 14.5-ounce can stewed tomatoes, chopped
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 8-ounce jar tomato sauce
+Quantifiers: One jar 
+Ingredients: tomato_sauce 
+
+One 6-ounce can tomato paste
+Quantifiers: One can 
+Ingredients: tomato_paste 
+
+One 8-ounce box no-boil lasagna noodles
+Quantifiers: One box 
+Ingredients: lasagna noodles 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+2 cups cottage cheese
+Quantifiers: 2 cups 
+Ingredients: cottage_cheese 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+2 teaspoons freshly chopped parsley leaves
+Quantifiers: 2 teaspoons leaves 
+Ingredients: parsley 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+1 teaspoon seasoning salt
+Quantifiers: 1 teaspoon 
+Ingredients: seasoning salt 
+
+One 8-ounce bag shredded mozzarella
+Quantifiers: One bag 
+Ingredients: mozzarella 
+
+One 8-ounce bag shredded Cheddar
+Quantifiers: One bag 
+Ingredients: Cheddar 
+

@@ -1,0 +1,52 @@
+1 large eggplant
+Quantifiers: 1 
+Ingredients: eggplant 
+
+3 tablespoons extra-virgin olive oil, divided
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1/2 pound ground beef
+Quantifiers: 1/2 pound 
+Ingredients: ground_beef 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 onion, small diced
+Quantifiers: 1 
+Ingredients: onion 
+
+1 red pepper, small diced
+Quantifiers: 1 
+Ingredients: red_pepper 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/2 cup freshly chopped parsley leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+
+1/2 cup freshly chopped basil leaves, chopped
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+1 1/4 cup grated Pecorino Romano, divided
+Quantifiers: 1 1/4 cup 
+Ingredients: 
+
+1/4 cup bread crumbs
+Quantifiers: 1/4 cup crumbs 
+Ingredients: bread 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+2 chopped tomatoes
+Quantifiers: 2 
+Ingredients: tomatoes 
+

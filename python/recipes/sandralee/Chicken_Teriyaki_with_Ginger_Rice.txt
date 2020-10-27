@@ -1,0 +1,40 @@
+1/2 cup reduced sodium soy sauce
+Quantifiers: 1/2 cup 
+Ingredients: soy_sauce 
+
+1/4 cup brown sugar
+Quantifiers: 1/4 cup 
+Ingredients: brown_sugar 
+
+1 tablespoon chopped garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 (1-inch) piece peeled, fresh ginger, divided use, 1/2 grated the other half thinly sliced
+Quantifiers: 1 piece 1/2 half 
+Ingredients: ginger 
+
+2 pounds skin-on boneless chicken thighs
+Quantifiers: 2 pounds thighs 
+Ingredients: chicken 
+
+1 tablespoon canola oil
+Quantifiers: 1 tablespoon 
+Ingredients: canola_oil 
+
+2 cups conventional white rice
+Quantifiers: 2 cups 
+Ingredients: white_rice 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+3 1/2 cups water
+Quantifiers: 3 1/2 cups 
+Ingredients: water 
+
+2 bunches scallions, ends removed
+Quantifiers: 2 ends 
+Ingredients: scallions 
+

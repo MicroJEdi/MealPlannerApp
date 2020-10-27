@@ -1,0 +1,60 @@
+1/4 cup plus 2 tablespoons extra-virgin olive oil
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: olive_oil 
+
+4 teaspoons (about 6 cloves) chopped garlic
+Quantifiers: 4 teaspoons 6 
+Ingredients: cloves garlic 
+
+2 medium onions, diced
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+2 red peppers, seeded, small diced
+Quantifiers: 2 
+Ingredients: red_peppers 
+
+1/2 cup chopped basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+2 tablespoons chopped parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+
+2 cups grated Parmesan
+Quantifiers: 2 cups 
+Ingredients: Parmesan 
+
+1 1/2 cups breadcrumbs
+Quantifiers: 1 1/2 cups breadcrumbs 
+Ingredients: 
+
+3 pounds ground beef
+Quantifiers: 3 pounds 
+Ingredients: ground_beef 
+
+2 tablespoons Worcestershire sauce
+Quantifiers: 2 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+2 tablespoons balsamic vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: vinegar 
+
+1 cup marinara sauce
+Quantifiers: 1 cup 
+Ingredients: marinara sauce 
+

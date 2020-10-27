@@ -1,0 +1,60 @@
+2 tablespoons Ginger-Garlic Paste, recipe follows, or 2 teaspoons grated ginger
+Quantifiers: 2 tablespoons 2 teaspoons 
+Ingredients: Paste ginger 
+
+1 tablespoon ground coriander
+Quantifiers: 1 tablespoon ground 
+Ingredients: coriander 
+
+1/4 teaspoon turmeric
+Quantifiers: 1/4 teaspoon 
+Ingredients: turmeric 
+
+1 cup water, divided
+Quantifiers: 1 cup 
+Ingredients: water 
+
+2 tablespoons peanut oil
+Quantifiers: 2 tablespoons 
+Ingredients: peanut_oil 
+
+1 large serrano pepper, split down the middle leaving halves attached
+Quantifiers: 1 split middle halves 
+Ingredients: pepper 
+
+1 teaspoon cumin seeds
+Quantifiers: 1 teaspoon 
+Ingredients: cumin_seeds 
+
+1 small head cauliflower, cut into small florets
+Quantifiers: 1 head 
+Ingredients: cauliflower cut 
+
+1 russet potato, peeled and cut into 1/2-inch cubes (similar size to cauliflower)
+Quantifiers: 1 cubes 
+Ingredients: potato cut cauliflower 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 tablespoons freshly minced cilantro leaves, to garnish
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+Ginger-Garlic Paste:
+Quantifiers: 
+Ingredients: Paste 
+
+1/2 cup cloves garlic, whole
+Quantifiers: 1/2 cup 
+Ingredients: cloves garlic 
+
+1/2 cup fresh ginger, peeled, cut into 1/2-inch slices
+Quantifiers: 1/2 cup slices 
+Ingredients: ginger cut 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+

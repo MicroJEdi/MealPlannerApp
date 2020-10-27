@@ -1,0 +1,32 @@
+4 (4-ounce) boneless pork chops
+Quantifiers: 4 
+Ingredients: pork chops 
+
+Salt and ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1 teaspoon salt-free garlic and herb seasoning
+Quantifiers: 1 teaspoon 
+Ingredients: garlic herb seasoning 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/2 cup reduced-sodium beef broth
+Quantifiers: 1/2 cup 
+Ingredients: beef_broth 
+
+1/2 cup chopped pickled jalapenos
+Quantifiers: 1/2 cup 
+Ingredients: jalapenos 
+
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+

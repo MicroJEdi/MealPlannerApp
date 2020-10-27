@@ -1,0 +1,84 @@
+4 boneless, skinless chicken breasts, pounded thin
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+2 cups all-purpose flour, seasoned with salt and pepper
+Quantifiers: 2 cups 
+Ingredients: flour salt pepper 
+
+4 large eggs, beaten with 2 tablespoons water and seasoned with salt and pepper
+Quantifiers: 4 2 tablespoons 
+Ingredients: eggs water salt pepper 
+
+2 cups panko bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+
+1 cup vegetable oil or pure olive oil
+Quantifiers: 1 cup 
+Ingredients: vegetable_oil olive_oil 
+
+Tomato Sauce, recipe follows
+Quantifiers: 
+Ingredients: Tomato_Sauce 
+
+1 pound fresh mozzarella, thinly sliced
+Quantifiers: 1 pound 
+Ingredients: mozzarella 
+
+1/4 cup freshly grated Parmesan
+Quantifiers: 1/4 cup 
+Ingredients: Parmesan 
+
+Fresh basil or parsley leaves, for garnish
+Quantifiers: leaves 
+Ingredients: basil parsley 
+
+Tomato Sauce:
+Quantifiers: 
+Ingredients: Tomato_Sauce 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 large Spanish onion, finely chopped
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+4 cloves garlic, smashed with some kosher salt to make a paste
+Quantifiers: 4 a 
+Ingredients: cloves garlic kosher salt paste 
+
+Two 28-ounce cans plum tomatoes and their juices, pureed in a blender
+Quantifiers: Two cans in a blender 
+Ingredients: plum tomatoes juices 
+
+One 16-ounce can crushed tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+1 small can tomato paste
+Quantifiers: 1 can 
+Ingredients: tomato_paste 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+1 small bunch Italian parsley
+Quantifiers: 1 
+Ingredients: parsley 
+
+1 Cubano chile pepper, chopped
+Quantifiers: 1 
+Ingredients: chile pepper 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+

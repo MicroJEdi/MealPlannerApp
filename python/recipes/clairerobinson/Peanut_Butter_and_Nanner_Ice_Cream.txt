@@ -1,0 +1,12 @@
+2 to 3 ripe bananas
+Quantifiers: 2 3 
+Ingredients: bananas 
+
+1 tablespoon creamy peanut butter
+Quantifiers: 1 tablespoon 
+Ingredients: peanut_butter 
+
+1 to 2 tablespoons honey (test banana sweetness)
+Quantifiers: 1 2 tablespoons test 
+Ingredients: honey banana 
+

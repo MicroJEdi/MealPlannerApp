@@ -1,0 +1,56 @@
+1 tablespoon grapeseed oil
+Quantifiers: 1 tablespoon 
+Ingredients: oil 
+
+2 (1 1/2-inch) pork chops
+Quantifiers: 2 1 
+Ingredients: pork chops 
+
+Salt and coarsely ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Madeira Sauce, recipe follows
+Quantifiers: 
+Ingredients: Madeira Sauce 
+
+Madeira Sauce:
+Quantifiers: 
+Ingredients: Madeira Sauce 
+
+2 tablespoons butter, divided
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 tablespoon minced shallots
+Quantifiers: 1 tablespoon 
+Ingredients: shallots 
+
+1 tablespoon minced garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+5 to 6 cremini mushrooms, sliced
+Quantifiers: 5 6 
+Ingredients: mushrooms 
+
+1 tablespoon all-purpose flour
+Quantifiers: 1 tablespoon 
+Ingredients: flour 
+
+1/2 cup Madeira wine
+Quantifiers: 1/2 cup 
+Ingredients: Madeira wine 
+
+1/4 cup beef broth
+Quantifiers: 1/4 cup 
+Ingredients: beef_broth 
+
+1 teaspoon chopped fresh thyme leaves
+Quantifiers: 1 teaspoon leaves 
+Ingredients: thyme 
+
+1 tablespoon chopped fresh parsley leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: parsley 
+

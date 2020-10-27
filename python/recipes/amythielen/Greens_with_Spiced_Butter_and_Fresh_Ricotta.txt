@@ -1,0 +1,44 @@
+4 cups (1 quart) whole milk, preferably not homogenized
+Quantifiers: 4 cups 1 quart 
+Ingredients: whole_milk 
+
+1 1/2 teaspoons salt 
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: salt 
+
+1 1/2 tablespoons white distilled vinegar or rice wine vinegar 
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: white vinegar rice wine_vinegar 
+
+6 tablespoons butter 
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+2 teaspoons whole black peppercorns, plus 1/4 teaspoon freshly ground
+Quantifiers: 2 teaspoons black 1/4 teaspoon ground 
+Ingredients: peppercorns 
+
+1/2 teaspoon cumin 
+Quantifiers: 1/2 teaspoon 
+Ingredients: cumin 
+
+4 whole cloves 
+Quantifiers: 4 
+Ingredients: cloves 
+
+3 dried bay leaves 
+Quantifiers: 3 leaves 
+Ingredients: bay_leaves 
+
+3 thin slices fresh ginger root, plus 2 tablespoons minced
+Quantifiers: 3 slices root 2 tablespoons 
+Ingredients: ginger 
+
+1/2 stick soft-stick cinnamon, crumbled 
+Quantifiers: 1/2 stick 
+Ingredients: cinnamon 
+
+2 bunches collard greens, leaves stripped from the stems and cut into 1-inch pieces (12 cups chopped)
+Quantifiers: 2 leaves pieces 12 cups 
+Ingredients: collard_greens cut 
+

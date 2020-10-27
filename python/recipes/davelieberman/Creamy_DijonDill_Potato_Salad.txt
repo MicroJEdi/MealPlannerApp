@@ -1,0 +1,36 @@
+3 pounds Yukon gold potatoes, peeled
+Quantifiers: 3 pounds 
+Ingredients: potatoes 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 stalks celery
+Quantifiers: 2 
+Ingredients: celery 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+1 small red onion, finely chopped (about 1/2 cup)
+Quantifiers: 1 1/2 cup 
+Ingredients: red_onion 
+
+1/4 cup tightly packed chopped fresh dill
+Quantifiers: 1/4 cup 
+Ingredients: dill 
+
+1 to 2 tablespoons vinegar
+Quantifiers: 1 2 tablespoons 
+Ingredients: vinegar 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1 tablespoon grainy or regular Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+

@@ -1,0 +1,48 @@
+1 (5.8-ounce) box instant couscous
+Quantifiers: 1 box instant 
+Ingredients: couscous 
+
+3/4 cup sweetened dried cranberries
+Quantifiers: 3/4 cup 
+Ingredients: cranberries 
+
+1 tablespoon curry powder
+Quantifiers: 1 tablespoon 
+Ingredients: curry_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 teaspoon sugar
+Quantifiers: 1 teaspoon 
+Ingredients: sugar 
+
+1/2 orange, juiced
+Quantifiers: 1/2 
+Ingredients: orange 
+
+2 to 3 tablespoons extra-virgin olive oil
+Quantifiers: 2 3 tablespoons 
+Ingredients: olive_oil 
+
+3 to 4 scallions, trimmed and thinly sliced on an angle
+Quantifiers: 3 4 
+Ingredients: scallions 
+
+2 tablespoons chopped fresh Italian parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+
+1/2 lemon, juiced
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+3/4 cup chopped walnuts, toasted
+Quantifiers: 3/4 cup 
+Ingredients: walnuts 
+
+Freshly ground pepper
+Quantifiers: ground 
+Ingredients: pepper 
+

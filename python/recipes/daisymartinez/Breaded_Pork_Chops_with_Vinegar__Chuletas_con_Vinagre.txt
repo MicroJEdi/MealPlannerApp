@@ -1,0 +1,64 @@
+8 (1-inch thick) loin pork chops (about 4 pounds)
+Quantifiers: 8 4 pounds 
+Ingredients: loin pork chops 
+
+Fine sea or kosher salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: kosher salt black_pepper 
+
+4 eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+2 cups seasoned bread crumbs
+Quantifiers: 2 cups crumbs 
+Ingredients: bread 
+
+Canola or vegetable oil
+Quantifiers: 
+Ingredients: Canola vegetable_oil 
+
+Spicy Pineapple Vinegar, recipe follows
+Quantifiers: 
+Ingredients: Pineapple Vinegar 
+
+Spicy Pineapple Vinegar - Vinagre:
+Quantifiers: 
+Ingredients: Pineapple Vinegar 
+
+2 ripe pineapples
+Quantifiers: 2 
+Ingredients: pineapples 
+
+1/2 large Spanish onion, thinly sliced
+Quantifiers: 1/2 
+Ingredients: Spanish_onion 
+
+1 tablespoon smashed fresh oregano leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: oregano 
+
+1 teaspoon black peppercorns
+Quantifiers: 1 teaspoon black 
+Ingredients: peppercorns 
+
+20 garlic cloves, crushed
+Quantifiers: 20 
+Ingredients: garlic_cloves 
+
+6 habanero peppers or chile peppers of choice, stems removed, peppers coarsely chopped
+Quantifiers: 6 
+Ingredients: peppers chile peppers peppers 
+
+1 tablespoon cider vinegar, or as needed
+Quantifiers: 1 tablespoon as 
+Ingredients: cider_vinegar 
+
+1/2 teaspoon salt, or as needed
+Quantifiers: 1/2 teaspoon as 
+Ingredients: salt 
+

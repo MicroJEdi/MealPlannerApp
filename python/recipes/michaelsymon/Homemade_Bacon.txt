@@ -1,0 +1,32 @@
+5 pounds pork belly, skin on
+Quantifiers: 5 pounds skin 
+Ingredients: pork_belly 
+
+1/4 cup kosher salt
+Quantifiers: 1/4 cup 
+Ingredients: kosher salt 
+
+2 teaspoons pink curing salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1/4 cup packed dark brown sugar
+Quantifiers: 1/4 cup dark 
+Ingredients: brown_sugar 
+
+1/4 cup honey (preferably chestnut honey)
+Quantifiers: 1/4 cup 
+Ingredients: honey chestnut honey 
+
+2 tablespoons red pepper flakes
+Quantifiers: 2 tablespoons 
+Ingredients: red_pepper 
+
+2 tablespoons smoked sweet paprika
+Quantifiers: 2 tablespoons 
+Ingredients: sweet paprika 
+
+1 teaspoon cumin seeds
+Quantifiers: 1 teaspoon 
+Ingredients: cumin_seeds 
+

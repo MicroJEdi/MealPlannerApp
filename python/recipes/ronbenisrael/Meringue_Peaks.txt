@@ -1,0 +1,12 @@
+3 large egg whites, at room temperature
+Quantifiers: 3 at room_temperature 
+Ingredients: egg_whites 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1/2 teaspoon vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+

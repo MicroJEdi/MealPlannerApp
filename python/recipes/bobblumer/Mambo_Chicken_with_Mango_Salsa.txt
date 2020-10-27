@@ -1,0 +1,48 @@
+Chicken:
+Quantifiers: 
+Ingredients: Chicken 
+
+8 boneless, skinless, chicken thighs (or 4 skinless, boneless chicken breasts)
+Quantifiers: 8 thighs 4 breasts 
+Ingredients: chicken chicken 
+
+3 garlic cloves, minced
+Quantifiers: 3 
+Ingredients: garlic_cloves 
+
+2 tablespoons freshly grated ginger
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+
+1/4 cup tamari sauce or soy sauce
+Quantifiers: 1/4 cup 
+Ingredients: sauce soy_sauce 
+
+1/4 cup freshly squeezed lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+Mango Salsa:
+Quantifiers: 
+Ingredients: Mango Salsa 
+
+2 mangos, peeled, pitted, and cut into 1/4-inch cubes
+Quantifiers: 2 cubes 
+Ingredients: mangos cut 
+
+3 tablespoons freshly squeezed lime juice
+Quantifiers: 3 tablespoons 
+Ingredients: lime_juice 
+
+1 to 2 jalapeno chilies, seeds and membranes removed, minced
+Quantifiers: 1 2 
+Ingredients: jalapeno seeds 
+
+3 green onions, finely sliced
+Quantifiers: 3 
+Ingredients: green_onions 
+
+2/3 cup lightly packed fresh cilantro leaves, stems discarded, coarsely chopped
+Quantifiers: 2/3 cup leaves 
+Ingredients: cilantro 
+

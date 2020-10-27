@@ -1,0 +1,32 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 pound russet potatoes
+Quantifiers: 1 pound 
+Ingredients: potatoes 
+
+3 to 4 large egg yolks
+Quantifiers: 3 4 
+Ingredients: egg_yolks 
+
+1/2 cup freshly grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1/4 teaspoon freshly grated nutmeg
+Quantifiers: 1/4 teaspoon 
+Ingredients: nutmeg 
+
+1/2 teaspoon gray salt
+Quantifiers: 1/2 teaspoon gray 
+Ingredients: salt 
+
+1/4 teaspoon freshly ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+1 cup all-purpose flour, plus more for dusting board and dough
+Quantifiers: 1 cup 
+Ingredients: flour board dough 
+

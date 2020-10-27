@@ -1,0 +1,48 @@
+1 1/2 cups prepared mayonnaise
+Quantifiers: 1 1/2 cups 
+Ingredients: mayonnaise 
+
+1/4 cup Dijon mustard
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 tablespoons fresh lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+2 tablespoons chipotle pepper puree
+Quantifiers: 2 tablespoons 
+Ingredients: chipotle pepper puree 
+
+1 large ripe tomato, seeded and diced
+Quantifiers: 1 
+Ingredients: tomato 
+
+1/4 cup chopped cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+3 scallions, chopped, white and green parts
+Quantifiers: 3 
+Ingredients: scallions white green 
+
+1 medium red onion, thinly sliced
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+1/2 teaspoon cayenne
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+4 cloves garlic, finely chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+16 new potatoes, about 3 to 4 pounds, cooked, drained and sliced 1/2-inch thick
+Quantifiers: 16 3 4 pounds 
+Ingredients: potatoes 
+

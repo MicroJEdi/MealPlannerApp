@@ -1,0 +1,56 @@
+2 slices soft white sandwich bread, torn into small pieces (about 2 cups)
+Quantifiers: 2 slices pieces 2 cups 
+Ingredients: white sandwich bread 
+
+1/2 cup whole milk
+Quantifiers: 1/2 cup 
+Ingredients: whole_milk 
+
+1 1/2 pounds ground turkey
+Quantifiers: 1 1/2 pounds ground 
+Ingredients: turkey 
+
+2 large eggs, lightly beaten
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/4 cup grated Parmigiano-Reggiano cheese
+Quantifiers: 1/4 cup 
+Ingredients: cheese 
+
+8 thin slices pancetta, finely chopped
+Quantifiers: 8 slices 
+Ingredients: 
+
+1/2 onion, finely chopped
+Quantifiers: 1/2 
+Ingredients: onion 
+
+3 cloves garlic, chopped
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/4 cup ketchup, plus more for drizzling
+Quantifiers: 1/4 cup 
+Ingredients: ketchup 
+
+1 cup loosely packed flat-leaf parsley leaves, chopped
+Quantifiers: 1 cup leaves 
+Ingredients: parsley 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/4 cup Italian-seasoned dry breadcrumbs
+Quantifiers: 1/4 cup breadcrumbs 
+Ingredients: 
+
+1/4 teaspoon kosher salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

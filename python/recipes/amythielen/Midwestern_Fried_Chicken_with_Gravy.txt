@@ -1,0 +1,52 @@
+One 4- to 4 1/2-pound chicken, cut into 10 pieces
+Quantifiers: One 4 10 pieces 
+Ingredients: chicken cut 
+
+1 cup buttermilk 
+Quantifiers: 1 cup 
+Ingredients: buttermilk 
+
+Fine sea salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+Fine sea salt and freshly ground black pepper 
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+2 teaspoons minced fresh thyme 
+Quantifiers: 2 teaspoons 
+Ingredients: thyme 
+
+7 cloves garlic, smashed 
+Quantifiers: 7 
+Ingredients: cloves garlic 
+
+1 1/2 cups plus 5 teaspoons all-purpose flour 
+Quantifiers: 1 1/2 cups 5 teaspoons 
+Ingredients: flour 
+
+1 cup finely ground butter crackers, such as Ritz or Club (about 1 sleeve) 
+Quantifiers: 1 cup ground as Club 1 sleeve 
+Ingredients: butter crackers 
+
+2 teaspoons sweet paprika
+Quantifiers: 2 teaspoons 
+Ingredients: sweet paprika 
+
+About 2 cups lard or canola oil, for frying 
+Quantifiers: 2 cups 
+Ingredients: lard canola_oil 
+
+1 small bunch fresh sage 
+Quantifiers: 1 
+Ingredients: sage 
+
+2 1/2 cups chicken stock, low-sodium store-bought or homemade 
+Quantifiers: 2 1/2 cups 
+Ingredients: chicken_stock 
+
+Mashed potatoes, for serving
+Quantifiers: serving 
+Ingredients: potatoes 
+

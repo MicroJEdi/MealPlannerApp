@@ -1,0 +1,48 @@
+4 (5-ounce) boneless, skinless chicken breasts
+Quantifiers: 4 breasts 
+Ingredients: chicken 
+
+1 cup blackening spice (recommended: Paul Prudhomme's Chicken)
+Quantifiers: 1 cup 
+Ingredients: spice Chicken 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+3 tablespoons minced garlic
+Quantifiers: 3 tablespoons 
+Ingredients: garlic 
+
+1 cup roughly chopped marinated sun-dried tomatoes
+Quantifiers: 1 cup 
+Ingredients: tomatoes 
+
+1/4 cup white wine
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+3 cups heavy cream
+Quantifiers: 3 cups 
+Ingredients: heavy_cream 
+
+3/4 cup grated Parmesan
+Quantifiers: 3/4 cup 
+Ingredients: Parmesan 
+
+1 teaspoon sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1 pound cooked fettuccine
+Quantifiers: 1 pound 
+Ingredients: fettuccine 
+
+1/2 cup sliced scallions
+Quantifiers: 1/2 cup 
+Ingredients: scallions 
+

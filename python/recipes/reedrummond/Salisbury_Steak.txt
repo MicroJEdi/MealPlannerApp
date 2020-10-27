@@ -1,0 +1,72 @@
+Meat Mixture:
+Quantifiers: 
+Ingredients: Meat Mixture 
+
+1 1/2 pounds lean ground beef
+Quantifiers: 1 1/2 pounds 
+Ingredients: ground_beef 
+
+1/2 cup seasoned breadcrumbs
+Quantifiers: 1/2 cup breadcrumbs 
+Ingredients: 
+
+1 tablespoon ketchup
+Quantifiers: 1 tablespoon 
+Ingredients: ketchup 
+
+2 teaspoons dry mustard
+Quantifiers: 2 teaspoons 
+Ingredients: mustard 
+
+4 dashes Worcestershire sauce
+Quantifiers: 4 
+Ingredients: Worcestershire_sauce 
+
+1 cube beef bouillon, crumbled (or powdered beef base)
+Quantifiers: 1 cube base 
+Ingredients: beef bouillon beef 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 tablespoon butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+Gravy:
+Quantifiers: 
+Ingredients: Gravy 
+
+1 whole onion, halved and thinly sliced (or diced if you prefer)
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cups beef broth, more if needed for thinning
+Quantifiers: 2 cups 
+Ingredients: beef_broth 
+
+1 tablespoon ketchup
+Quantifiers: 1 tablespoon 
+Ingredients: ketchup 
+
+1 teaspoon seasoning sauce, such as Kitchen Bouquet, optional
+Quantifiers: 1 teaspoon as 
+Ingredients: seasoning sauce 
+
+4 dashes Worcestershire
+Quantifiers: 4 
+Ingredients: Worcestershire 
+
+1 teaspoon cornstarch, optional
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

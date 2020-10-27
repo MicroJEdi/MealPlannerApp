@@ -1,0 +1,92 @@
+Barbecue Sauce
+Quantifiers: 
+Ingredients: Barbecue_Sauce 
+
+1 cup store-bought spicy barbecue sauce, such as Rattler BBQ Sauce
+Quantifiers: 1 cup as Rattler 
+Ingredients: barbecue_sauce Sauce 
+
+1 cup tomato ketchup
+Quantifiers: 1 cup 
+Ingredients: tomato_ketchup 
+
+1/4 cup molasses (not blackstrap)
+Quantifiers: 1/4 cup 
+Ingredients: molasses 
+
+1/2 cup bourbon, preferably Maker's Mark
+Quantifiers: 1/2 cup Mark 
+Ingredients: bourbon 
+
+1/2 cup honey
+Quantifiers: 1/2 cup 
+Ingredients: honey 
+
+2 tablespoons cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: cider_vinegar 
+
+Smoky Rub
+Quantifiers: 
+Ingredients: 
+
+1/3 cup packed light brown sugar
+Quantifiers: 1/3 cup light 
+Ingredients: brown_sugar 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+1 tablespoon ground coriander seeds
+Quantifiers: 1 tablespoon ground 
+Ingredients: coriander_seeds 
+
+1 tablespoon sweet smoked paprika
+Quantifiers: 1 tablespoon 
+Ingredients: sweet paprika 
+
+1 1/2 teaspoons ground cumin
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: cumin 
+
+1 1/2 teaspoons dried thyme
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: thyme 
+
+1/2 teaspoon ground allspice
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: allspice 
+
+1/2 teaspoon ground ginger
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1/2 teaspoon hot red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+3/4 teaspoon celery salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: celery_salt 
+
+3/4 teaspoon freshly ground black pepper
+Quantifiers: 3/4 teaspoon ground 
+Ingredients: black_pepper 
+
+3/4 teaspoon cayenne pepper
+Quantifiers: 3/4 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/4 teaspoon dry mustard
+Quantifiers: 1/4 teaspoon 
+Ingredients: mustard 
+
+1/4 teaspoon garlic powder
+Quantifiers: 1/4 teaspoon 
+Ingredients: garlic 
+
+5 1/2 pounds chicken wingettes (see Cook's Note)
+Quantifiers: 5 1/2 pounds Note 
+Ingredients: chicken 
+

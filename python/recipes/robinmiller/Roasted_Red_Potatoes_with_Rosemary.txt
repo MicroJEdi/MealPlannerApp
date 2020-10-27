@@ -1,0 +1,20 @@
+6 to 8 small red potatoes, quartered into 1/2-inch pieces
+Quantifiers: 6 8 pieces 
+Ingredients: potatoes 
+
+1 tablespoon olive oil or garlic-flavored olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil olive_oil 
+
+1 tablespoon minced fresh rosemary leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+

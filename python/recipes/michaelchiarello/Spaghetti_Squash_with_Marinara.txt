@@ -1,0 +1,16 @@
+2 whole spaghetti squash
+Quantifiers: 2 
+Ingredients: spaghetti_squash 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Gray salt and freshly ground black pepper
+Quantifiers: Gray ground 
+Ingredients: salt black_pepper 
+
+4 cups prepared (jarred) marinara sauce
+Quantifiers: 4 cups 
+Ingredients: marinara sauce 
+

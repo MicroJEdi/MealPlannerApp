@@ -1,0 +1,68 @@
+Crouton Collars:
+Quantifiers: 
+Ingredients: Crouton 
+
+1 (4-inch thick) sourdough or French baguette, cut into 2-inch thick slices
+Quantifiers: 1 slices 
+Ingredients: sourdough baguette cut 
+
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+Caesar Salad:
+Quantifiers: 
+Ingredients: Caesar_Salad 
+
+1 egg yolk, coddled
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1/4 teaspoon salt
+Quantifiers: 1/4 teaspoon 
+Ingredients: salt 
+
+1 teaspoon coarsely ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+4 garlic cloves, minced
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 anchovies (or 1 teaspoon anchovy paste)
+Quantifiers: 2 1 teaspoon 
+Ingredients: anchovies anchovy_paste 
+
+2 teaspoons Dijon mustard (the real stuff, not the dried stuff)
+Quantifiers: 2 teaspoons real 
+Ingredients: mustard 
+
+1 1/2 tablespoons freshly squeezed lemon juice
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: lemon_juice 
+
+1 teaspoon Worcestershire sauce
+Quantifiers: 1 teaspoon 
+Ingredients: Worcestershire_sauce 
+
+1/4 cup safflower oil, or olive oil
+Quantifiers: 1/4 cup 
+Ingredients: safflower_oil olive_oil 
+
+1 1/2 teaspoons red wine vinegar
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: red_wine_vinegar 
+
+2 large heads romaine lettuce, outer leaves discarded, remaining inner leaves washed and thoroughly dried
+Quantifiers: 2 heads lettuce leaves leaves 
+Ingredients: romaine_lettuce 
+
+4 crouton collars
+Quantifiers: 4 
+Ingredients: crouton 
+
+1/2 cup freshly grated imported Italian Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+

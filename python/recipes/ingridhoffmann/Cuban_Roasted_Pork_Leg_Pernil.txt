@@ -1,0 +1,68 @@
+12 garlic cloves
+Quantifiers: 12 
+Ingredients: garlic_cloves 
+
+1 tablespoon coarse salt
+Quantifiers: 1 tablespoon 
+Ingredients: salt 
+
+6 sprigs fresh oregano leaves
+Quantifiers: 6 leaves 
+Ingredients: oregano 
+
+1/2 cup Delicioso Adobo, recipe follows
+Quantifiers: 1/2 cup 
+Ingredients: Adobo 
+
+1 cup store-bought Mojo sauce
+Quantifiers: 1 cup 
+Ingredients: sauce 
+
+2 cups orange juice
+Quantifiers: 2 cups 
+Ingredients: orange_juice 
+
+4 limes, juiced
+Quantifiers: 4 
+Ingredients: limes 
+
+1 (14 to 16-pound) bone-in whole fresh pork leg
+Quantifiers: 1 14 leg 
+Ingredients: pork 
+
+Delicioso Adobo:
+Quantifiers: 
+Ingredients: Adobo 
+
+1 tablespoon lemon pepper
+Quantifiers: 1 tablespoon 
+Ingredients: lemon pepper 
+
+1 tablespoon garlic powder
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1 tablespoon onion powder or flakes
+Quantifiers: 1 tablespoon 
+Ingredients: onion 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1 tablespoon dried parsley flakes
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+1 tablespoon achiote powder
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+1/2 tablespoon ground cumin
+Quantifiers: 1/2 tablespoon ground 
+Ingredients: cumin 
+
+1 tablespoon salt
+Quantifiers: 1 tablespoon 
+Ingredients: salt 
+

@@ -1,0 +1,52 @@
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+1 tablespoon kosher salt plus 1 1/2 teaspoons
+Quantifiers: 1 tablespoon 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+3/4 pound linguine
+Quantifiers: 3/4 pound 
+Ingredients: linguine 
+
+3 tablespoons unsalted butter
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 1/2 tablespoons good olive oil
+Quantifiers: 2 1/2 tablespoons 
+Ingredients: olive_oil 
+
+1 1/2 tablespoons minced garlic (4 cloves)
+Quantifiers: 1 1/2 tablespoons 4 
+Ingredients: garlic cloves 
+
+1 pound large shrimp (about 16 shrimp), peeled and deveined
+Quantifiers: 1 pound 16 
+Ingredients: shrimp shrimp 
+
+1/4 teaspoon freshly ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+1/3 cup chopped fresh parsley leaves
+Quantifiers: 1/3 cup leaves 
+Ingredients: parsley 
+
+1/2 lemon, zest grated
+Quantifiers: 1/2 
+Ingredients: lemon 
+
+1/4 cup freshly squeezed lemon juice (2 lemons)
+Quantifiers: 1/4 cup 2 
+Ingredients: lemon_juice lemons 
+
+1/4 lemon, thinly sliced in half-rounds
+Quantifiers: 1/4 in 
+Ingredients: lemon 
+
+1/8 teaspoon hot red pepper flakes
+Quantifiers: 1/8 teaspoon 
+Ingredients: red_pepper 
+

@@ -1,0 +1,80 @@
+1/4 cup rice wine vinegar
+Quantifiers: 1/4 cup 
+Ingredients: rice wine_vinegar 
+
+2 tablespoons smooth peanut butter
+Quantifiers: 2 tablespoons 
+Ingredients: peanut_butter 
+
+1 tablespoon chopped fresh ginger
+Quantifiers: 1 tablespoon 
+Ingredients: ginger 
+
+2 teaspoons chipotle pepper puree
+Quantifiers: 2 teaspoons 
+Ingredients: chipotle pepper puree 
+
+1 tablespoon soy sauce
+Quantifiers: 1 tablespoon 
+Ingredients: soy_sauce 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+2 teaspoons toasted sesame oil
+Quantifiers: 2 teaspoons 
+Ingredients: sesame_oil 
+
+1/2 cup canola oil
+Quantifiers: 1/2 cup 
+Ingredients: canola_oil 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+1/2 head Napa cabbage, shredded
+Quantifiers: 1/2 head 
+Ingredients: cabbage 
+
+1/2 head romaine lettuce, shredded
+Quantifiers: 1/2 head lettuce 
+Ingredients: romaine_lettuce 
+
+2 carrots, shredded
+Quantifiers: 2 
+Ingredients: carrots 
+
+1/4 pound snow peas, julienned
+Quantifiers: 1/4 pound 
+Ingredients: snow_peas 
+
+1/4 cup coarsely chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1/4 cup thinly sliced green onion
+Quantifiers: 1/4 cup 
+Ingredients: green_onion 
+
+2 cups shredded rotisserie chicken
+Quantifiers: 2 cups 
+Ingredients: chicken 
+
+1/2 cup chopped roasted peanuts
+Quantifiers: 1/2 cup 
+Ingredients: peanuts 
+
+1/4 cup chopped fresh mint leaves
+Quantifiers: 1/4 cup mint leaves 
+Ingredients: 
+
+Chili oil, optional
+Quantifiers: 
+Ingredients: Chili oil 
+
+Grilled lime halves, for garnish
+Quantifiers: halves 
+Ingredients: lime 
+

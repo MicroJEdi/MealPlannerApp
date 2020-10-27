@@ -1,0 +1,44 @@
+2/3 cup regular olive oil, plus more for greasing
+Quantifiers: 2/3 cup 
+Ingredients: olive_oil 
+
+6 tablespoons good-quality unsweetened cocoa powder, sifted
+Quantifiers: 6 tablespoons 
+Ingredients: cocoa_powder 
+
+1/2 cup boiling water
+Quantifiers: 1/2 cup 
+Ingredients: water 
+
+2 teaspoons best vanilla extract
+Quantifiers: 2 teaspoons 
+Ingredients: vanilla_extract 
+
+1 1/2 cups almond meal (flour) or 3/4 cup plus 1 tablespoon all-purpose flour
+Quantifiers: 1 1/2 cups 3/4 cup 1 tablespoon 
+Ingredients: almond meal flour flour 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+pinch salt
+Quantifiers: pinch 
+Ingredients: salt 
+
+1 cup superfine sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 X 9-inch springform
+Quantifiers: 1 X 
+Ingredients: 
+
+cake pan
+Quantifiers: pan 
+Ingredients: cake 
+

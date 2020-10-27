@@ -1,0 +1,44 @@
+Cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+12 ounces cooked chicken, cut into 1-inch cubes (about 3 cups)
+Quantifiers: 12 ounces cubes 3 cups 
+Ingredients: chicken cut 
+
+1 cup sour cream (regular or low-fat)
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+1 cup shredded Monterey Jack cheese (regular or low-fat), divided
+Quantifiers: 1 cup Jack 
+Ingredients: cheese 
+
+1 cup shredded Cheddar (regular or low-fat), divided
+Quantifiers: 1 cup 
+Ingredients: Cheddar 
+
+1/2 cup mild, medium or hot salsa
+Quantifiers: 1/2 cup medium 
+Ingredients: salsa 
+
+1 (4-ounce) can chopped green chiles
+Quantifiers: 1 can 
+Ingredients: green chiles 
+
+2 tablespoons chopped fresh cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+1 teaspoon ground chili powder
+Quantifiers: 1 teaspoon ground 
+Ingredients: chili_powder 
+
+1/4 teaspoon cayenne pepper, or to taste
+Quantifiers: 1/4 teaspoon taste 
+Ingredients: cayenne_pepper 
+
+8 (6-inch) corn tortillas, cut into 6 wedges
+Quantifiers: 8 6 
+Ingredients: corn tortillas cut wedges 
+

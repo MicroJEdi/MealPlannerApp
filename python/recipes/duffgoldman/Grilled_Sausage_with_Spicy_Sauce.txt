@@ -1,0 +1,68 @@
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+2 pounds good-quality kielbasa or other smoked sausage, cut into bite-size pieces
+Quantifiers: 2 pounds pieces 
+Ingredients: sausage cut 
+
+3/4 cup ketchup
+Quantifiers: 3/4 cup 
+Ingredients: ketchup 
+
+3/4 cup spicy brown mustard
+Quantifiers: 3/4 cup 
+Ingredients: mustard 
+
+1 tablespoon hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+Serving suggestion: Tangy Corn Relish, recipe follows
+Quantifiers: Serving suggestion 
+Ingredients: Corn Relish 
+
+Tangy Corn Relish:
+Quantifiers: 
+Ingredients: Corn Relish 
+
+2 ears corn
+Quantifiers: 2 
+Ingredients: ears corn 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon ground cumin
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1/2 cup chopped sweet piquante peppers
+Quantifiers: 1/2 cup 
+Ingredients: sweet peppers 
+
+1/2 small red onion, chopped
+Quantifiers: 1/2 
+Ingredients: red_onion 
+
+1/4 cup finely chopped sweet gherkins
+Quantifiers: 1/4 cup 
+Ingredients: sweet gherkins 
+
+1/4 cup chopped fresh parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1 red jalapeno pepper, seeded and minced
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+
+1/2 teaspoon sugar
+Quantifiers: 1/2 teaspoon 
+Ingredients: sugar 
+

@@ -1,0 +1,52 @@
+2 pounds stew beef, cut into 1-inch cubes
+Quantifiers: 2 pounds cubes 
+Ingredients: stew beef cut 
+
+3 beef bouillon cubes
+Quantifiers: 3 cubes 
+Ingredients: beef bouillon_cubes 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1/2 teaspoon crushed red pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 teaspoon chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+1 tablespoon chili flakes
+Quantifiers: 1 tablespoon 
+Ingredients: chili 
+
+2 tablespoons curry powder
+Quantifiers: 2 tablespoons 
+Ingredients: curry_powder 
+
+4 cups water
+Quantifiers: 4 cups 
+Ingredients: water 
+
+4 slices bacon
+Quantifiers: 4 slices 
+Ingredients: bacon 
+
+2 pounds collard greens, washed, drained, and thinly sliced
+Quantifiers: 2 pounds 
+Ingredients: collard_greens 
+
+1 cup chopped onions
+Quantifiers: 1 cup 
+Ingredients: onions 
+
+One 28-ounce can tomato puree
+Quantifiers: One can 
+Ingredients: tomato puree 
+
+1/2 cup peanut butter
+Quantifiers: 1/2 cup 
+Ingredients: peanut_butter 
+

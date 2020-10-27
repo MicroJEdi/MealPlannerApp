@@ -1,0 +1,56 @@
+3 tablespoons butter, plus extra for casserole dish
+Quantifiers: 3 tablespoons dish 
+Ingredients: butter casserole 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+1/2 pound shiitake or baby bella mushrooms, sliced
+Quantifiers: 1/2 pound 
+Ingredients: mushrooms 
+
+1/4 cup onions, chopped
+Quantifiers: 1/4 cup 
+Ingredients: onions 
+
+2 cloves garlic, finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 teaspoon garlic powder
+Quantifiers: 1/2 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1 1/2 cups heavy cream
+Quantifiers: 1 1/2 cups 
+Ingredients: heavy_cream 
+
+1/2 cup chicken stock
+Quantifiers: 1/2 cup 
+Ingredients: chicken_stock 
+
+1 (10-ounce) box frozen chopped broccoli, thawed and drained
+Quantifiers: 1 box 
+Ingredients: broccoli 
+
+2 cups shredded Cheddar-Monterey blend
+Quantifiers: 2 cups 
+Ingredients: 
+
+3 cups cooked rice
+Quantifiers: 3 cups 
+Ingredients: rice 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Special equipment: 1 1/8-quart oval casserole dish
+Quantifiers: equipment 1 dish 
+Ingredients: Special casserole 
+

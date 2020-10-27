@@ -1,0 +1,52 @@
+4 slices bacon, sliced to 1/4-inch pieces
+Quantifiers: 4 slices pieces 
+Ingredients: bacon 
+
+1 tablespoon butter 
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+3 cloves garlic, roughly chopped 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+2 stalks celery, medium dice 
+Quantifiers: 2 medium 
+Ingredients: celery 
+
+1 medium carrot, medium dice 
+Quantifiers: 1 medium medium 
+Ingredients: carrot 
+
+1 onion, medium dice 
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1/4 cup all-purpose flour 
+Quantifiers: 1/4 cup 
+Ingredients: flour 
+
+4 cups homemade or low-sodium chicken stock
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+4 ears corn, kernels removed or 12 ounces frozen corn kernels
+Quantifiers: 4 12 ounces 
+Ingredients: ears corn kernels corn kernels 
+
+1 medium baseball-size red potato, medium dice 
+Quantifiers: 1 medium medium 
+Ingredients: potato 
+
+1 teaspoon chopped fresh thyme
+Quantifiers: 1 teaspoon 
+Ingredients: thyme 
+
+2 cups whole milk
+Quantifiers: 2 cups 
+Ingredients: whole_milk 
+

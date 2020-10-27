@@ -1,0 +1,40 @@
+6 small russet potatoes (6 to 8 ounces each)
+Quantifiers: 6 6 8 ounces 
+Ingredients: potatoes 
+
+1 tablespoon olive oil 
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+6 ounces kielbasa, diced 
+Quantifiers: 6 ounces 
+Ingredients: 
+
+1 tablespoon vegetable oil 
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+4 cups coleslaw salad mix 
+Quantifiers: 4 cups 
+Ingredients: coleslaw salad mix 
+
+2 tablespoons unsalted butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+4 scallions, chopped, 3 tablespoons of the sliced greens reserved for garnish 
+Quantifiers: 4 3 tablespoons 
+Ingredients: scallions greens 
+
+2 cups shredded mozzarella 
+Quantifiers: 2 cups 
+Ingredients: mozzarella 
+
+About 1/2 cup barbecue sauce
+Quantifiers: 1/2 cup 
+Ingredients: barbecue_sauce 
+

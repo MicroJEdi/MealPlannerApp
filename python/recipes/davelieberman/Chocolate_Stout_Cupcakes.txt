@@ -1,0 +1,52 @@
+3/4 cup unsweetened cocoa, plus more for dusting finished cupcakes
+Quantifiers: 3/4 cup 
+Ingredients: cocoa cupcakes 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+Pinch fine salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1 bottle stout beer (recommended: Guinness)
+Quantifiers: 1 bottle 
+Ingredients: stout beer Guinness 
+
+1 stick butter, melted
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+3/4 cup sour cream
+Quantifiers: 3/4 cup 
+Ingredients: sour_cream 
+
+1 (8-ounce) package cream cheese, softened at room temperature
+Quantifiers: 1 package at room_temperature 
+Ingredients: cream_cheese 
+
+3/4 to 1 cup heavy cream
+Quantifiers: 3/4 1 cup 
+Ingredients: heavy_cream 
+
+1 (1-pound) box confectioners' sugar
+Quantifiers: 1 box 
+Ingredients: sugar 
+

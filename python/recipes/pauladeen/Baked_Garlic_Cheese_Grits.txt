@@ -1,0 +1,36 @@
+6 cups chicken broth
+Quantifiers: 6 cups 
+Ingredients: chicken_broth 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/4 teaspoon pepper
+Quantifiers: 1/4 teaspoon 
+Ingredients: pepper 
+
+2 cups regular grits
+Quantifiers: 2 cups 
+Ingredients: grits 
+
+Three 6-ounce rolls cheese with garlic, or any garlic-cheddar spread, diced (recommended: Kraft)
+Quantifiers: Three rolls 
+Ingredients: cheese garlic spread 
+
+1/2 cup milk
+Quantifiers: 1/2 cup 
+Ingredients: milk 
+
+4 eggs, beaten
+Quantifiers: 4 
+Ingredients: eggs 
+
+1/2 cup butter
+Quantifiers: 1/2 cup 
+Ingredients: butter 
+
+1 cup grated sharp Cheddar
+Quantifiers: 1 cup sharp 
+Ingredients: Cheddar 
+

@@ -1,0 +1,68 @@
+For the Souvlaki:
+Quantifiers: 
+Ingredients: Souvlaki 
+
+2 shallots, minced
+Quantifiers: 2 
+Ingredients: shallots 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 tablespoons chopped fresh oregano
+Quantifiers: 2 tablespoons 
+Ingredients: oregano 
+
+1 jalapeno pepper, seeded and minced
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+2 pounds pork tenderloin, trimmed and cut into 1 1/2-to-2-inch chunks
+Quantifiers: 2 pounds 1 chunks 
+Ingredients: pork_tenderloin cut 
+
+For the Apricots:
+Quantifiers: 
+Ingredients: Apricots 
+
+Juice of 3 limes
+Quantifiers: 3 
+Ingredients: Juice limes 
+
+3/4 cup dry rose or white wine
+Quantifiers: 3/4 cup 
+Ingredients: rose white_wine 
+
+1/4 cup honey
+Quantifiers: 1/4 cup 
+Ingredients: honey 
+
+1 shallot, minced
+Quantifiers: 1 
+Ingredients: shallot 
+
+12 plump dried apricots
+Quantifiers: 12 
+Ingredients: dried_apricots 
+
+1 tablespoon chopped fresh mint
+Quantifiers: 1 tablespoon mint 
+Ingredients: 
+
+1 tablespoon pine nuts, toasted
+Quantifiers: 1 tablespoon 
+Ingredients: pine_nuts 
+
+Greek yogurt, for serving
+Quantifiers: serving 
+Ingredients: yogurt 
+

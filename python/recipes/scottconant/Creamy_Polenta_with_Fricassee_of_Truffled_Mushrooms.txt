@@ -1,0 +1,104 @@
+Creamy Polenta:
+Quantifiers: 
+Ingredients: Polenta 
+
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+2 cups milk
+Quantifiers: 2 cups 
+Ingredients: milk 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+3 ounces cornmeal, preferably coarse ground (about 2/3 cup)
+Quantifiers: 3 ounces ground 2/3 cup 
+Ingredients: cornmeal 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+2 tablespoons freshly grated grana padano or Parmigiano-Reggiano
+Quantifiers: 2 tablespoons 
+Ingredients: 
+
+1 teaspoon chopped fresh chives, optional
+Quantifiers: 1 teaspoon 
+Ingredients: chives 
+
+Fricassee of Truffled Mushrooms:
+Quantifiers: 
+Ingredients: Fricassee Mushrooms 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 medium shallots, thinly sliced
+Quantifiers: 2 medium 
+Ingredients: shallots 
+
+8 ounces mixed domestic and wild mushrooms, sliced or cut into naturally occurring pieces (about 2 cups)
+Quantifiers: 8 ounces pieces 2 cups 
+Ingredients: mushrooms cut 
+
+Crushed red pepper
+Quantifiers: 
+Ingredients: red_pepper 
+
+1/2 cup homemade chicken reduction, recipe follows, or purchased chicken reduction, diluted with water until a little thicker than chicken stock
+Quantifiers: 1/2 cup a little 
+Ingredients: water chicken_stock 
+
+1 tablespoon snipped fresh chives
+Quantifiers: 1 tablespoon 
+Ingredients: chives 
+
+1 teaspoon preserved truffles
+Quantifiers: 1 teaspoon 
+Ingredients: truffles 
+
+Chicken Reduction:
+Quantifiers: 
+Ingredients: Chicken 
+
+About 6 pounds chicken bones
+Quantifiers: 6 pounds bones 
+Ingredients: chicken 
+
+3 to 4 tablespoons olive oil
+Quantifiers: 3 4 tablespoons 
+Ingredients: olive_oil 
+
+2 stalks celery, coarsely chopped
+Quantifiers: 2 
+Ingredients: celery 
+
+1 carrot, coarsely chopped
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 clove garlic, coarsely chopped
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 medium onion, coarsely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+2 cups dry white wine
+Quantifiers: 2 cups 
+Ingredients: white_wine 
+
+4 whole canned tomatoes (about 4 ounces), coarsely chopped
+Quantifiers: 4 4 ounces 
+Ingredients: tomatoes 
+
+4 sprigs fresh rosemary, bruised with the dull side of a chef's knife
+Quantifiers: 4 a knife 
+Ingredients: rosemary side 
+

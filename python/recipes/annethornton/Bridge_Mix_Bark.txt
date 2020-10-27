@@ -1,0 +1,20 @@
+4 cups milk chocolate chips
+Quantifiers: 4 cups 
+Ingredients: milk_chocolate chips 
+
+1 1/2 cups roasted, salted peanuts
+Quantifiers: 1 1/2 cups 
+Ingredients: peanuts 
+
+1 1/2 cups chopped pretzels
+Quantifiers: 1 1/2 cups 
+Ingredients: pretzels 
+
+1 cup raisins
+Quantifiers: 1 cup 
+Ingredients: raisins 
+
+3 cups semisweet chocolate chips
+Quantifiers: 3 cups 
+Ingredients: chocolate chips 
+

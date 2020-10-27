@@ -1,0 +1,40 @@
+3 large Yukon gold potatoes (about 1 1/4 pounds), peeled and cut into 1-inch cubes
+Quantifiers: 3 1 1/4 pounds cubes 
+Ingredients: potatoes cut 
+
+3 large eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1/2 cup diced onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+1/2 cup diced celery
+Quantifiers: 1/2 cup 
+Ingredients: celery 
+
+2 tablespoons sweet relish
+Quantifiers: 2 tablespoons 
+Ingredients: sweet relish 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon hot sauce
+Quantifiers: 1 teaspoon 
+Ingredients: hot_sauce 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 scallions, thinly sliced
+Quantifiers: 2 
+Ingredients: scallions 
+

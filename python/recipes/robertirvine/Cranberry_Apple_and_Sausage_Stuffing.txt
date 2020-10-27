@@ -1,0 +1,56 @@
+8 tablespoons (1/2 cup or 1 stick) butter, unsalted
+Quantifiers: 8 tablespoons 1/2 cup 1 stick 
+Ingredients: butter 
+
+2 medium onions, finely diced
+Quantifiers: 2 medium 
+Ingredients: onions 
+
+3 cups chopped celery, (about 6 large stalks)
+Quantifiers: 3 cups 6 
+Ingredients: celery 
+
+6 cups coarsely chopped leeks, (about 12)
+Quantifiers: 6 cups 12 
+Ingredients: leeks 
+
+4 apples, peeled, cored and chopped
+Quantifiers: 4 
+Ingredients: apples 
+
+1 pound breakfast sausage or Italian sausage, casings removed
+Quantifiers: 1 pound 
+Ingredients: breakfast sausage sausage 
+
+6 teaspoons poultry seasoning
+Quantifiers: 6 teaspoons 
+Ingredients: poultry seasoning 
+
+2 teaspoons chopped fresh rosemary leaves, (about 4 sprigs)
+Quantifiers: 2 teaspoons leaves 4 
+Ingredients: rosemary 
+
+2 teaspoons chopped fresh sage leaves, (about 6 leaves)
+Quantifiers: 2 teaspoons leaves 6 leaves 
+Ingredients: sage 
+
+2 teaspoons chopped fresh parsley leaves, (about 4 to 6 sprigs)
+Quantifiers: 2 teaspoons leaves 4 6 
+Ingredients: parsley 
+
+2 cups dried cranberries
+Quantifiers: 2 cups 
+Ingredients: cranberries 
+
+1 box stuffing mix (not cornbread) (recommended: Pepperidge Farm)
+Quantifiers: 1 box 
+Ingredients: stuffing mix cornbread 
+
+2 cups (1 pint) vegetable stock
+Quantifiers: 2 cups 1 pint 
+Ingredients: vegetable stock 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

@@ -1,0 +1,32 @@
+2 heads garlic
+Quantifiers: 2 heads 
+Ingredients: garlic 
+
+2 teaspoons honey
+Quantifiers: 2 teaspoons 
+Ingredients: honey 
+
+1 teaspoon plus 1 tablespoon extra-virgin olive oil
+Quantifiers: 1 teaspoon 1 tablespoon 
+Ingredients: olive_oil 
+
+3 tablespoons salted butter 
+Quantifiers: 3 tablespoons 
+Ingredients: butter 
+
+2 tablespoons pine nuts 
+Quantifiers: 2 tablespoons 
+Ingredients: pine_nuts 
+
+2 bunches (almost 2 pounds) Swiss chard, stripped of stems and cut into 1-inch pieces (10 cups)
+Quantifiers: 2 2 pounds pieces 10 cups 
+Ingredients: Swiss_chard cut 
+
+Fine sea salt and freshly ground black pepper 
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+
+Fine sea salt and freshly ground black pepper
+Quantifiers: sea ground 
+Ingredients: salt black_pepper 
+

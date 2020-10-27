@@ -1,0 +1,56 @@
+2 pounds red snapper fillets
+Quantifiers: 2 pounds 
+Ingredients: red_snapper fillets 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+1 teaspoon black pepper
+Quantifiers: 1 teaspoon 
+Ingredients: black_pepper 
+
+2 scallions, chopped
+Quantifiers: 2 
+Ingredients: scallions 
+
+2 tablespoons curry powder
+Quantifiers: 2 tablespoons 
+Ingredients: curry_powder 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 to 2 Scotch bonnet peppers, seeded and chopped
+Quantifiers: 1 2 
+Ingredients: Scotch peppers 
+
+1 clove garlic, crushed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+2 cups coconut milk
+Quantifiers: 2 cups 
+Ingredients: coconut_milk 
+
+1 cup water
+Quantifiers: 1 cup 
+Ingredients: water 
+
+2 tomatoes, roughly chopped
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+2 onions, sliced 1/4-inch thick
+Quantifiers: 2 
+Ingredients: onions 
+
+10 cilantro sprigs
+Quantifiers: 10 
+Ingredients: cilantro 
+

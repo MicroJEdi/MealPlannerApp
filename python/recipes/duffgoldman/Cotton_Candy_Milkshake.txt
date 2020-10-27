@@ -1,0 +1,40 @@
+Store-bought vanilla frosting, for serving
+Quantifiers: serving 
+Ingredients: vanilla 
+
+Blue raspberry-flavored popping candy, for serving
+Quantifiers: serving 
+Ingredients: candy 
+
+Red cherry-flavored popping candy, for serving
+Quantifiers: serving 
+Ingredients: candy 
+
+1 cup blue cotton candy, plus more for garnish
+Quantifiers: 1 cup 
+Ingredients: cotton_candy 
+
+2 pints vanilla ice cream
+Quantifiers: 2 pints 
+Ingredients: vanilla ice_cream 
+
+1/2 cup whole milk, cold
+Quantifiers: 1/2 cup cold 
+Ingredients: whole_milk 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+1 cup pink cotton candy, plus more for garnish
+Quantifiers: 1 cup 
+Ingredients: cotton_candy 
+
+2 pink and blue swirl lollipops
+Quantifiers: 2 
+Ingredients: lollipops 
+
+2 pink rock candy lollipops
+Quantifiers: 2 
+Ingredients: rock_candy lollipops 
+

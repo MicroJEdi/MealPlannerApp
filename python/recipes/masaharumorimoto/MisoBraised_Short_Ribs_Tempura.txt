@@ -1,0 +1,68 @@
+8 meaty short ribs on the bone, cut 3 to 4 inches long (about 3 pounds)
+Quantifiers: 8 ribs 3 4 inches 3 pounds 
+Ingredients: short_ribs cut 
+
+3 quarts water
+Quantifiers: 3 quarts 
+Ingredients: water 
+
+1 teaspoon black peppercorns
+Quantifiers: 1 teaspoon black 
+Ingredients: peppercorns 
+
+1 teaspoon white peppercorns
+Quantifiers: 1 teaspoon 
+Ingredients: white peppercorns 
+
+1 teaspoon Szechuan peppercorns
+Quantifiers: 1 teaspoon 
+Ingredients: peppercorns 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+2 sprigs fresh thyme, or 1/2 teaspoon dried
+Quantifiers: 2 1/2 teaspoon 
+Ingredients: thyme 
+
+2 quarts Shanton Broth (rich meat-flavored broth)
+Quantifiers: 2 quarts 
+Ingredients: Broth broth 
+
+1/4 cup red miso
+Quantifiers: 1/4 cup 
+Ingredients: miso 
+
+Vegetable oil, for deep-frying
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+Small-Batch Tempura Batter, recipes follows
+Quantifiers: 
+Ingredients: Tempura Batter 
+
+Small-Batch Tempura Batter:
+Quantifiers: 
+Ingredients: Tempura Batter 
+
+1 egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+3/4 cup chilled club soda
+Quantifiers: 3/4 cup 
+Ingredients: club_soda 
+
+1 cup all-purpose flour
+Quantifiers: 1 cup 
+Ingredients: flour 
+

@@ -1,0 +1,20 @@
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+3 skin-on bone-in chicken breast halves
+Quantifiers: 3 breast halves 
+Ingredients: chicken 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1/2 cup frozen orange juice concentrate
+Quantifiers: 1/2 cup 
+Ingredients: orange_juice concentrate 
+
+4 tablespoons honey
+Quantifiers: 4 tablespoons 
+Ingredients: honey 
+

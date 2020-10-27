@@ -1,0 +1,40 @@
+12 ounces Gruyere cheese, grated
+Quantifiers: 12 ounces 
+Ingredients: Gruyere cheese 
+
+8 ounces Emmental or other imported Swiss cheese, grated 
+Quantifiers: 8 ounces 
+Ingredients: Emmental Swiss_cheese 
+
+3 tablespoons all-purpose flour 
+Quantifiers: 3 tablespoons 
+Ingredients: flour 
+
+1 1/4 cups dry white wine 
+Quantifiers: 1 1/4 cups 
+Ingredients: white_wine 
+
+1 clove garlic, finely grated or minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 teaspoon powdered mustard 
+Quantifiers: 1/2 teaspoon 
+Ingredients: mustard 
+
+1/4 teaspoon freshly grated nutmeg 
+Quantifiers: 1/4 teaspoon 
+Ingredients: nutmeg 
+
+1 tablespoon cherry brandy, such as kirsch, optional 
+Quantifiers: 1 tablespoon as 
+Ingredients: cherry brandy kirsch 
+
+For serving: cubed baguette, assorted sliced raw vegetables such as celery and bell pepper and assorted sliced fruit such as apples, figs and pears 
+Quantifiers: serving as as 
+Ingredients: baguette raw_vegetables celery bell_pepper fruit apples figs pears 
+
+For serving: cubed baguette, assorted sliced raw vegetables such as celery and bell pepper and assorted sliced fruit such as apples, figs and pears
+Quantifiers: serving as as 
+Ingredients: baguette raw_vegetables celery bell_pepper fruit apples figs pears 
+

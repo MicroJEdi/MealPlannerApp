@@ -1,0 +1,28 @@
+8 (4-ounce) lamb chops
+Quantifiers: 8 
+Ingredients: lamb_chops 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 teaspoons minced garlic
+Quantifiers: 2 teaspoons 
+Ingredients: garlic 
+
+1 tablespoon finely chopped rosemary leaves
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1 lemon, halved
+Quantifiers: 1 
+Ingredients: lemon 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+

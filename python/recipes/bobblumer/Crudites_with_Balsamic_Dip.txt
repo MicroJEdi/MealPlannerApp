@@ -1,0 +1,64 @@
+Balsamic Dip:
+Quantifiers: 
+Ingredients: Dip 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon honey
+Quantifiers: 1 tablespoon 
+Ingredients: honey 
+
+1 shallot, minced
+Quantifiers: 1 
+Ingredients: shallot 
+
+2 tablespoons balsamic vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: vinegar 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 tablespoon freshly squeezed lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1/8 teaspoon salt
+Quantifiers: 1/8 teaspoon 
+Ingredients: salt 
+
+1/8 teaspoon freshly ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+Crudites:
+Quantifiers: 
+Ingredients: Crudites 
+
+4 carrots, peeled and sliced
+Quantifiers: 4 
+Ingredients: carrots 
+
+2 Belgian endives, separated
+Quantifiers: 2 
+Ingredients: Belgian_endives 
+
+1 red pepper, membranes and seeds removed, sliced into 1/4-inch strips
+Quantifiers: 1 
+Ingredients: red_pepper seeds 
+
+1 fennel bulb, trimmed, cored and sliced into bite-size pieces
+Quantifiers: 1 bulb pieces 
+Ingredients: fennel 
+
+1 bunch radishes, trimmed
+Quantifiers: 1 
+Ingredients: radishes 
+
+1 cup teardrop tomatoes, stemmed
+Quantifiers: 1 cup teardrop 
+Ingredients: tomatoes 
+

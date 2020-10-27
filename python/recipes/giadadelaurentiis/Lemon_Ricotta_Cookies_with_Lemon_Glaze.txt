@@ -1,0 +1,56 @@
+Cookies:
+Quantifiers: 
+Ingredients: Cookies 
+
+2 1/2 cups all-purpose flour
+Quantifiers: 2 1/2 cups 
+Ingredients: flour 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1 stick unsalted butter, softened
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 (15-ounce) container whole milk ricotta cheese
+Quantifiers: 1 container 
+Ingredients: whole_milk ricotta cheese 
+
+3 tablespoons lemon juice
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+
+Glaze:
+Quantifiers: 
+Ingredients: 
+
+1 1/2 cups powdered sugar
+Quantifiers: 1 1/2 cups 
+Ingredients: powdered_sugar 
+
+3 tablespoons lemon juice
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+1 lemon, zested
+Quantifiers: 1 
+Ingredients: lemon 
+

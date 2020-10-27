@@ -1,0 +1,32 @@
+1/4 cup plus 2/3 cup sugar
+Quantifiers: 1/4 cup 2/3 cup 
+Ingredients: sugar 
+
+1/4 cup fresh lemon juice
+Quantifiers: 1/4 cup 
+Ingredients: lemon_juice 
+
+1/4 teaspoon almond extract
+Quantifiers: 1/4 teaspoon 
+Ingredients: almond_extract 
+
+1 premade angel food cake, cut into 1-inch slices
+Quantifiers: 1 slices 
+Ingredients: food cake cut 
+
+1 pound cream cheese, at room temperature
+Quantifiers: 1 pound at room_temperature 
+Ingredients: cream_cheese 
+
+2 cups heavy cream, at room temperature
+Quantifiers: 2 cups at room_temperature 
+Ingredients: heavy_cream 
+
+2 pints blueberries
+Quantifiers: 2 pints 
+Ingredients: blueberries 
+
+2 pints strawberries, hulled and sliced
+Quantifiers: 2 pints 
+Ingredients: strawberries 
+

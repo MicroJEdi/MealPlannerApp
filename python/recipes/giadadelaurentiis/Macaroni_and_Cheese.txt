@@ -1,0 +1,48 @@
+Butter, for greasing dish
+Quantifiers: dish 
+Ingredients: Butter 
+
+12 ounces wide egg noodles
+Quantifiers: 12 ounces 
+Ingredients: egg_noodles 
+
+2 cups heavy cream
+Quantifiers: 2 cups 
+Ingredients: heavy_cream 
+
+2 1/2 cups whole milk
+Quantifiers: 2 1/2 cups 
+Ingredients: whole_milk 
+
+2 teaspoons all-purpose flour
+Quantifiers: 2 teaspoons 
+Ingredients: flour 
+
+1/2 teaspoon salt, plus more for pasta water
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt pasta water 
+
+1/4 teaspoon freshly ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+2 cups (packed) grated Fontina
+Quantifiers: 2 cups 
+Ingredients: 
+
+3/4 cup (packed) finely grated Parmesan
+Quantifiers: 3/4 cup 
+Ingredients: Parmesan 
+
+3/4 cup (packed) grated mozzarella
+Quantifiers: 3/4 cup 
+Ingredients: mozzarella 
+
+4 ounces cooked ham, diced, optional
+Quantifiers: 4 ounces 
+Ingredients: ham 
+
+2 tablespoons finely chopped fresh Italian parsley leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: parsley 
+

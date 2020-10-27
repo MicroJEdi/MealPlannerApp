@@ -1,0 +1,32 @@
+6 fresh poblano chiles* (or canned, peeled)
+Quantifiers: 6 
+Ingredients: chiles 
+
+3 tablespoons vegetable oil
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+1 medium white onion, thinly sliced
+Quantifiers: 1 medium 
+Ingredients: white onion 
+
+2 ears corn, kernels removed
+Quantifiers: 2 
+Ingredients: ears corn kernels 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+1/4 cup Mexican crema or creme fraiche
+Quantifiers: 1/4 cup 
+Ingredients: 
+
+1/2 cup, shredded Monterrey jack cheese
+Quantifiers: 1/2 cup jack 
+Ingredients: cheese 
+
+Kosher salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+

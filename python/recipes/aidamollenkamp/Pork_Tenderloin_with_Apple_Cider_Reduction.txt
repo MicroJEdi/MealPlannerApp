@@ -1,0 +1,24 @@
+2 (1 pound) pork tenderloins, cut in 1/2 crosswise
+Quantifiers: 2 1 pound in 1/2 
+Ingredients: pork_tenderloins cut 
+
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 1/2 cups apple cider
+Quantifiers: 1 1/2 cups 
+Ingredients: apple cider 
+
+1/2 cup apple cider vinegar
+Quantifiers: 1/2 cup 
+Ingredients: apple cider_vinegar 
+
+1/4 cup maple syrup
+Quantifiers: 1/4 cup 
+Ingredients: maple_syrup 
+

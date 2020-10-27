@@ -1,0 +1,64 @@
+4 cups canola oil or peanut oil
+Quantifiers: 4 cups 
+Ingredients: canola_oil peanut_oil 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+3 tablespoons sun-dried tomatoes
+Quantifiers: 3 tablespoons 
+Ingredients: tomatoes 
+
+1/4 cup red bell peppers, roasted
+Quantifiers: 1/4 cup 
+Ingredients: bell_peppers 
+
+1 tablespoon lime juice
+Quantifiers: 1 tablespoon 
+Ingredients: lime_juice 
+
+1 1/2 teaspoons pepper, fresh cracked
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: pepper 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+3 tablespoons white wine
+Quantifiers: 3 tablespoons 
+Ingredients: white_wine 
+
+1 tablespoon garlic, minced
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+2 yellow onions, sweeter the better, Vidalia or Texas sweets
+Quantifiers: 2 
+Ingredients: onions sweets 
+
+2 cups buttermilk
+Quantifiers: 2 cups 
+Ingredients: buttermilk 
+
+2 cups all-purpose flour, divided
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon garlic, granulated
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+12 ounces beer, medium body
+Quantifiers: 12 ounces medium body 
+Ingredients: beer 
+
+3 tablespoons grated Parmesan
+Quantifiers: 3 tablespoons 
+Ingredients: Parmesan 
+

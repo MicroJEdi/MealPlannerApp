@@ -1,0 +1,60 @@
+For the dry rub:
+Quantifiers: 
+Ingredients: 
+
+2 tablespoons salt
+Quantifiers: 2 tablespoons 
+Ingredients: salt 
+
+About 40 grinds black pepper
+Quantifiers: 40 
+Ingredients: black_pepper 
+
+2 tablespoons chili powder
+Quantifiers: 2 tablespoons 
+Ingredients: chili_powder 
+
+1 tablespoon garlic powder
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+2 teaspoons ground coriander
+Quantifiers: 2 teaspoons ground 
+Ingredients: coriander 
+
+2 teaspoons ground mustard seed
+Quantifiers: 2 teaspoons ground 
+Ingredients: mustard_seed 
+
+12 ounces good ale or dark beer, such as Bass
+Quantifiers: 12 ounces dark as 
+Ingredients: ale beer Bass 
+
+4 cloves garlic, chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+One 5-pound pork butt (shoulder of the animal)
+Quantifiers: One butt 
+Ingredients: pork shoulder 
+
+For the BBQ Pork Butt:
+Quantifiers: Butt 
+Ingredients: Pork 
+
+1/2 cup ketchup
+Quantifiers: 1/2 cup 
+Ingredients: ketchup 
+
+2 tablespoons whole grain Dijon mustard
+Quantifiers: 2 tablespoons 
+Ingredients: grain mustard 
+
+3 tablespoons Worcestershire sauce
+Quantifiers: 3 tablespoons 
+Ingredients: Worcestershire_sauce 
+
+1/3 cup dark brown sugar
+Quantifiers: 1/3 cup dark 
+Ingredients: brown_sugar 
+

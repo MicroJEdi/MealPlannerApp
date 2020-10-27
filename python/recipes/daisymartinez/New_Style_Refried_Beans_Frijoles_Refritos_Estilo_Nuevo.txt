@@ -1,0 +1,40 @@
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 small Spanish onion, cut into medium dice
+Quantifiers: 1 medium 
+Ingredients: Spanish_onion cut 
+
+2 cloves garlic, whacked with the side of a knife and peeled
+Quantifiers: 2 a knife 
+Ingredients: cloves garlic side 
+
+1 pound dried black beans
+Quantifiers: 1 pound 
+Ingredients: black_beans 
+
+1 smoked ham hock or smoked turkey wing
+Quantifiers: 1 turkey_wing 
+Ingredients: ham_hock 
+
+1 bunch cilantro, washed
+Quantifiers: 1 
+Ingredients: cilantro 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Good quality tortilla chips, for serving
+Quantifiers: serving 
+Ingredients: tortilla_chips 
+
+Thinly sliced red radishes, for serving, optional
+Quantifiers: serving 
+Ingredients: radishes 
+

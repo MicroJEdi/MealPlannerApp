@@ -1,0 +1,24 @@
+1 3/4 cups warm water
+Quantifiers: 1 3/4 cups 
+Ingredients: water 
+
+1 package active dry yeast
+Quantifiers: 1 package 
+Ingredients: yeast 
+
+1 tablespoon sugar
+Quantifiers: 1 tablespoon 
+Ingredients: sugar 
+
+5 cups all-purpose flour, plus additional for kneading
+Quantifiers: 5 cups 
+Ingredients: flour 
+
+1 tablespoon kosher salt, plus coarse sea salt, for sprinkling
+Quantifiers: 1 tablespoon sea sprinkling 
+Ingredients: kosher salt salt 
+
+1 cup extra-virgin olive oil, divided
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+

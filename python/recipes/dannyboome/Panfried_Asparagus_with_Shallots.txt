@@ -1,0 +1,16 @@
+1 pound asparagus, thinly sliced on a bias
+Quantifiers: 1 pound a 
+Ingredients: asparagus 
+
+1 large shallot, thinly sliced
+Quantifiers: 1 
+Ingredients: shallot 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+

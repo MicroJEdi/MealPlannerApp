@@ -1,0 +1,136 @@
+Vinaigrette: 
+Quantifiers: 
+Ingredients: Vinaigrette 
+
+1 cup fresh orange juice
+Quantifiers: 1 cup 
+Ingredients: orange_juice 
+
+1 big sprig fresh tarragon
+Quantifiers: 1 
+Ingredients: tarragon 
+
+2 tablespoons white wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white_wine_vinegar 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 teaspoon finely chopped garlic
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1/2 cup grapeseed oil
+Quantifiers: 1/2 cup 
+Ingredients: oil 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Gastrique:
+Quantifiers: 
+Ingredients: 
+
+1/2 cup granulated sugar
+Quantifiers: 1/2 cup 
+Ingredients: granulated_sugar 
+
+1/2 cup apple cider vinegar
+Quantifiers: 1/2 cup 
+Ingredients: apple cider_vinegar 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 fresh mango
+Quantifiers: 1/2 
+Ingredients: mango 
+
+Lobster:
+Quantifiers: 
+Ingredients: Lobster 
+
+2 tablespoons white vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: white vinegar 
+
+2 lobster tails
+Quantifiers: 2 tails 
+Ingredients: lobster_tails 
+
+1 1/2 cups unsalted butter
+Quantifiers: 1 1/2 cups 
+Ingredients: butter 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 shallot, minced
+Quantifiers: 1 
+Ingredients: shallot 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Crostini:
+Quantifiers: 
+Ingredients: 
+
+1 clove garlic
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+8 slices baguette, sliced diagonally about 1/4-inch thick
+Quantifiers: 8 slices 
+Ingredients: baguette 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 tablespoon herbes de Provence
+Quantifiers: 1 tablespoon 
+Ingredients: 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Assembly:
+Quantifiers: Assembly 
+Ingredients: 
+
+4 large scallops
+Quantifiers: 4 
+Ingredients: scallops 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Grapeseed oil
+Quantifiers: 
+Ingredients: oil 
+
+1 1/2 cups microgreens
+Quantifiers: 1 1/2 cups 
+Ingredients: 
+
+8 whole fresh chives
+Quantifiers: 8 
+Ingredients: chives 
+

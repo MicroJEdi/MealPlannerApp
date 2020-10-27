@@ -1,0 +1,64 @@
+Argentinian Chimichurri Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+1 cup lightly packed chopped parsley (ideally, flat leaf "Italian" parsley)
+Quantifiers: 1 cup flat 
+Ingredients: parsley parsley 
+
+3 to 5 cloves garlic, minced
+Quantifiers: 3 5 
+Ingredients: cloves garlic 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+1/2 teaspoon freshly ground pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: pepper 
+
+1/2 teaspoon chili pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: chili_pepper 
+
+2 tablespoons fresh oregano leaves (optional)
+Quantifiers: 2 tablespoons leaves 
+Ingredients: oregano 
+
+2 tablespoons shallot or onion, minced
+Quantifiers: 2 tablespoons 
+Ingredients: shallot onion 
+
+3/4 cup vegetable or olive oil
+Quantifiers: 3/4 cup 
+Ingredients: vegetable olive_oil 
+
+3 tablespoons sherry wine vinegar, or red wine vinegar
+Quantifiers: 3 tablespoons 
+Ingredients: sherry wine_vinegar red_wine_vinegar 
+
+3 tablespoons lemon juice
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+Steak:
+Quantifiers: 
+Ingredients: Steak 
+
+1 tablespoon cayenne pepper
+Quantifiers: 1 tablespoon 
+Ingredients: cayenne_pepper 
+
+3 tablespoons salt
+Quantifiers: 3 tablespoons 
+Ingredients: salt 
+
+2 1/2 pounds rib-eye, New York strip, or sirloin steak, 1 1/2 inches thick
+Quantifiers: 2 1/2 pounds 1 1/2 inches 
+Ingredients: sirloin_steak 
+
+2 baguettes, sliced into 1/4-inch-thick slices
+Quantifiers: 2 slices 
+Ingredients: baguettes 
+

@@ -1,0 +1,60 @@
+4 tablespoons olive oil
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+1 medium onion, roughly chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+4 large cloves garlic, roughly chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+2 jalapenos, seeded and sliced
+Quantifiers: 2 
+Ingredients: jalapenos 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1 teaspoon dried cumin
+Quantifiers: 1 teaspoon 
+Ingredients: cumin 
+
+1 (28-ounce) can chopped tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+3 cups shredded cooked chicken
+Quantifiers: 3 cups 
+Ingredients: chicken 
+
+Few dashes Worcestershire sauce
+Quantifiers: 
+Ingredients: Worcestershire_sauce 
+
+3 to 4 cups chicken stock
+Quantifiers: 3 4 cups 
+Ingredients: chicken_stock 
+
+1 lime
+Quantifiers: 1 
+Ingredients: lime 
+
+1 cup cooked white rice
+Quantifiers: 1 cup 
+Ingredients: white_rice 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Sour cream, for garnish
+Quantifiers: 
+Ingredients: Sour_cream 
+
+Fresh cilantro leaves, for garnish
+Quantifiers: leaves 
+Ingredients: cilantro 
+

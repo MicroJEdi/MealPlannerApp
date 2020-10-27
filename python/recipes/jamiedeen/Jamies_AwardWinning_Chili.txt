@@ -1,0 +1,84 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 large red onion, diced
+Quantifiers: 1 
+Ingredients: red_onion 
+
+1 medium red bell pepper, diced
+Quantifiers: 1 medium 
+Ingredients: bell_pepper 
+
+1 medium yellow bell pepper, diced
+Quantifiers: 1 medium 
+Ingredients: bell_pepper 
+
+4 cloves garlic, chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 pound lean ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+8 ounces Italian sausage, casing removed
+Quantifiers: 8 ounces 
+Ingredients: sausage 
+
+1/4 cup chili powder
+Quantifiers: 1/4 cup 
+Ingredients: chili_powder 
+
+1 tablespoon ground cumin
+Quantifiers: 1 tablespoon ground 
+Ingredients: cumin 
+
+1 tablespoon dried oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+One 4-ounce can tomato paste
+Quantifiers: One can 
+Ingredients: tomato_paste 
+
+One 12-ounce bottle beer
+Quantifiers: One bottle 
+Ingredients: beer 
+
+One 28-ounce can diced tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 14-ounce can diced tomatoes
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+One 15-ounce can black beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: black_beans 
+
+One 15-ounce can kidney beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: kidney_beans 
+
+One 15-ounce can pinto beans, drained and rinsed
+Quantifiers: One can 
+Ingredients: pinto_beans 
+
+Garnishes:
+Quantifiers: 
+Ingredients: 
+
+Shredded Cheddar
+Quantifiers: 
+Ingredients: Cheddar 
+
+Sour cream
+Quantifiers: 
+Ingredients: Sour_cream 
+
+Chopped green onions
+Quantifiers: 
+Ingredients: green_onions 
+

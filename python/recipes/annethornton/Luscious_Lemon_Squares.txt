@@ -1,0 +1,60 @@
+Crust:
+Quantifiers: 
+Ingredients: 
+
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 sticks unsalted butter, at room temperature
+Quantifiers: 2 sticks at room_temperature 
+Ingredients: butter 
+
+2/3 cup granulated sugar
+Quantifiers: 2/3 cup 
+Ingredients: granulated_sugar 
+
+1/2 teaspoon almond extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: almond_extract 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1/4 teaspoon fine sea salt
+Quantifiers: 1/4 teaspoon sea 
+Ingredients: salt 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+6 eggs, at room temperature
+Quantifiers: 6 at room_temperature 
+Ingredients: eggs 
+
+2 2/3 cups granulated sugar
+Quantifiers: 2 2/3 cups 
+Ingredients: granulated_sugar 
+
+3 tablespoons grated lemon zest
+Quantifiers: 3 tablespoons 
+Ingredients: lemon 
+
+3/4 cup fresh lemon juice
+Quantifiers: 3/4 cup 
+Ingredients: lemon_juice 
+
+3/4 cup all-purpose flour
+Quantifiers: 3/4 cup 
+Ingredients: flour 
+
+Confectioners' sugar, for dusting
+Quantifiers: 
+Ingredients: sugar 
+
+Raspberries, for garnish, optional
+Quantifiers: 
+Ingredients: Raspberries 
+

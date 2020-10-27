@@ -1,0 +1,36 @@
+Fig Spread:
+Quantifiers: 
+Ingredients: Fig Spread 
+
+2 cups dried figs, stems removed and halved
+Quantifiers: 2 cups 
+Ingredients: figs 
+
+3/4 cups balsamic vinegar
+Quantifiers: 3/4 cups 
+Ingredients: vinegar 
+
+1 teaspoon sugar
+Quantifiers: 1 teaspoon 
+Ingredients: sugar 
+
+Sandwich Build:
+Quantifiers: 
+Ingredients: Sandwich 
+
+4 squares focaccia bread
+Quantifiers: 4 squares 
+Ingredients: bread 
+
+8 ounces Italian sharp cheese, such as Fontinella, or asiago, sliced
+Quantifiers: 8 ounces sharp as 
+Ingredients: cheese 
+
+1 pound mortadella, thinly sliced
+Quantifiers: 1 pound 
+Ingredients: 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+

@@ -1,0 +1,124 @@
+1 cup minced shallots
+Quantifiers: 1 cup 
+Ingredients: shallots 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 teaspoons honey
+Quantifiers: 2 teaspoons 
+Ingredients: honey 
+
+1 cup canned chopped tomatoes, such as Bel Aria
+Quantifiers: 1 cup as Bel 
+Ingredients: tomatoes 
+
+1/2 cup corn syrup
+Quantifiers: 1/2 cup 
+Ingredients: corn_syrup 
+
+1/2 cup sherry vinegar
+Quantifiers: 1/2 cup 
+Ingredients: sherry vinegar 
+
+2 tablespoons light brown sugar
+Quantifiers: 2 tablespoons light 
+Ingredients: brown_sugar 
+
+2 teaspoons chipotle puree
+Quantifiers: 2 teaspoons 
+Ingredients: chipotle puree 
+
+Vegetable stock, if needed
+Quantifiers: 
+Ingredients: Vegetable stock 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Mustard Aioli:
+Quantifiers: 
+Ingredients: Mustard Aioli 
+
+1/2 teaspoon lemon juice
+Quantifiers: 1/2 teaspoon 
+Ingredients: lemon_juice 
+
+1 egg yolk
+Quantifiers: 1 
+Ingredients: egg_yolk 
+
+1/2 cup canola oil
+Quantifiers: 1/2 cup 
+Ingredients: canola_oil 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1 tablespoon yellow mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 teaspoon mustard powder, such as Coleman's
+Quantifiers: 1 teaspoon as 
+Ingredients: mustard 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+Burger:
+Quantifiers: 
+Ingredients: Burger 
+
+12 slices bacon
+Quantifiers: 12 slices 
+Ingredients: bacon 
+
+4 ounces very soft unsalted butter, melted 
+Quantifiers: 4 ounces 
+Ingredients: butter 
+
+3 pounds ground beef (or mixture of ground beef, ground brisket and ground lamb)
+Quantifiers: 3 pounds ground ground 
+Ingredients: ground_beef mixture ground_beef brisket lamb 
+
+3 tablespoons paprika
+Quantifiers: 3 tablespoons 
+Ingredients: paprika 
+
+1 tablespoon cumin
+Quantifiers: 1 tablespoon 
+Ingredients: cumin 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+6 brioche buns
+Quantifiers: 6 
+Ingredients: brioche buns 
+
+Olive oil, for brushing
+Quantifiers: 
+Ingredients: Olive_oil 
+
+6 thick slices artisanal American cheese (found at your local cheese shop)
+Quantifiers: 6 slices at local 
+Ingredients: American_cheese 
+

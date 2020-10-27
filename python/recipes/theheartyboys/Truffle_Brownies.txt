@@ -1,0 +1,44 @@
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 cup sugar
+Quantifiers: 1 cup 
+Ingredients: sugar 
+
+1 tablespoon pure vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+1 stick margarine
+Quantifiers: 1 stick 
+Ingredients: margarine 
+
+3 ounces unsweetened chocolate chopped
+Quantifiers: 3 ounces 
+Ingredients: chocolate 
+
+1/2 cup all-purpose flour
+Quantifiers: 1/2 cup 
+Ingredients: flour 
+
+Chocolate ganache for topping, recipe follows
+Quantifiers: 
+Ingredients: Chocolate 
+
+Chocolate Ganache:
+Quantifiers: 
+Ingredients: Chocolate 
+
+1/2 cup (4 ounces) semisweet chocolate chips
+Quantifiers: 1/2 cup 4 ounces 
+Ingredients: chocolate chips 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+

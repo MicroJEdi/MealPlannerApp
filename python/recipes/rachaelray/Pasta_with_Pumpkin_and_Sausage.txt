@@ -1,0 +1,104 @@
+1 tablespoon extra-virgin olive oil, plus 1 tablespoon
+Quantifiers: 1 tablespoon 1 tablespoon 
+Ingredients: olive_oil 
+
+1 pound bulk sweet Italian sausage
+Quantifiers: 1 pound bulk 
+Ingredients: sweet sausage 
+
+4 cloves garlic, cracked and chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 medium onion, finely chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 bay leaf, fresh or dried
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+4 to 6 sprigs sage leaves, cut into chiffonade, about 2 tablespoons
+Quantifiers: 4 6 leaves 2 tablespoons 
+Ingredients: sage cut 
+
+1 cup dry white wine
+Quantifiers: 1 cup 
+Ingredients: white_wine 
+
+1 cup chicken stock, canned or paper container
+Quantifiers: 1 cup paper container 
+Ingredients: chicken_stock 
+
+1 cup canned pumpkin
+Quantifiers: 1 cup 
+Ingredients: pumpkin 
+
+1/2 cup (3 turns around the pan) heavy cream
+Quantifiers: 1/2 cup 3 turns pan 
+Ingredients: heavy_cream 
+
+1/8 teaspoon ground cinnamon
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: cinnamon 
+
+1/2 teaspoon ground nutmeg, ground or freshly grated
+Quantifiers: 1/2 teaspoon ground ground 
+Ingredients: nutmeg 
+
+Coarse salt and black pepper
+Quantifiers: 
+Ingredients: salt black_pepper 
+
+1 pound penne rigate, cooked to al dente
+Quantifiers: 1 pound 
+Ingredients: penne 
+
+Romano or Parmigiano, for grating
+Quantifiers: grating 
+Ingredients: 
+
+Pumpernickel or whole grain bread, as an accompaniment
+Quantifiers: as 
+Ingredients: Pumpernickel grain bread 
+
+Spinach Salad with Apple and Red Onion, as an accompaniment, recipe follows
+Quantifiers: as 
+Ingredients: Spinach Salad Apple Red_Onion 
+
+Spinach Salad with Apple and Red Onion:
+Quantifiers: 
+Ingredients: Spinach Salad Apple Red_Onion 
+
+1 pound triple-washed spinach, de-stemmed
+Quantifiers: 1 pound 
+Ingredients: spinach 
+
+1 small Golden Delicious apple, quartered, cored, and sliced
+Quantifiers: 1 
+Ingredients: Golden_Delicious apple 
+
+1/4 small red onion, thinly sliced
+Quantifiers: 1/4 
+Ingredients: red_onion 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 1/2 tablespoons (a couple of splashes) apple cider vinegar
+Quantifiers: 1 1/2 tablespoons a couple splashes 
+Ingredients: apple cider_vinegar 
+
+1 teaspoon grain mustard
+Quantifiers: 1 teaspoon 
+Ingredients: grain mustard 
+
+1 tablespoon (a good drizzle) honey
+Quantifiers: 1 tablespoon a 
+Ingredients: honey 
+
+Coarse salt and black pepper
+Quantifiers: 
+Ingredients: salt black_pepper 
+

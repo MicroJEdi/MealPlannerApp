@@ -1,0 +1,72 @@
+Salad:
+Quantifiers: 
+Ingredients: Salad 
+
+1 pound farfalle pasta
+Quantifiers: 1 pound 
+Ingredients: farfalle pasta 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 tablespoon olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1 yellow squash, sliced into 1/4-inch thick discs
+Quantifiers: 1 discs 
+Ingredients: yellow_squash 
+
+1 zucchini squash, sliced into 1/4-inch thick discs
+Quantifiers: 1 discs 
+Ingredients: zucchini squash 
+
+1 cup diced sun-dried tomatoes
+Quantifiers: 1 cup 
+Ingredients: tomatoes 
+
+1 cup packed fresh basil leaves
+Quantifiers: 1 cup leaves 
+Ingredients: basil 
+
+1/2 cup fresh packed parsley leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+
+Dressing:
+Quantifiers: 
+Ingredients: Dressing 
+
+2 tablespoons apple cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: apple cider_vinegar 
+
+2 garlic cloves, lightly crushed with the side of a knife blade, and quartered
+Quantifiers: 2 a knife_blade 
+Ingredients: garlic_cloves side 
+
+1 teaspoon stone ground mustard
+Quantifiers: 1 teaspoon stone ground 
+Ingredients: mustard 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+1 teaspoon dried basil
+Quantifiers: 1 teaspoon 
+Ingredients: basil 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/8 teaspoon ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 cup extra-virgin olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+

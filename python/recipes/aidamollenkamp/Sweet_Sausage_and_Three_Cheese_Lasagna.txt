@@ -1,0 +1,68 @@
+For the Meat Sauce:
+Quantifiers: 
+Ingredients: Meat Sauce 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+4 medium garlic cloves, thinly sliced
+Quantifiers: 4 medium 
+Ingredients: garlic_cloves 
+
+1/2 medium yellow onion, finely chopped (about 1 cup)
+Quantifiers: 1/2 medium 1 cup 
+Ingredients: onion 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 pound sweet Italian sausage, removed from casings and crumbled
+Quantifiers: 1 pound 
+Ingredients: sweet sausage 
+
+8 ounces lean ground pork
+Quantifiers: 8 ounces ground 
+Ingredients: pork 
+
+1/3 cup dry white wine
+Quantifiers: 1/3 cup 
+Ingredients: white_wine 
+
+Two 28-ounce containers crushed tomatoes
+Quantifiers: Two containers 
+Ingredients: tomatoes 
+
+1 teaspoon dried basil
+Quantifiers: 1 teaspoon 
+Ingredients: basil 
+
+1 teaspoon dried oregano
+Quantifiers: 1 teaspoon 
+Ingredients: oregano 
+
+2 medium dried bay leaves
+Quantifiers: 2 medium leaves 
+Ingredients: bay_leaves 
+
+For the Lasagna:
+Quantifiers: 
+Ingredients: Lasagna 
+
+One 9-ounce box no-boil lasagna noodles
+Quantifiers: One box 
+Ingredients: lasagna noodles 
+
+24 ounces ricotta cheese
+Quantifiers: 24 ounces 
+Ingredients: ricotta cheese 
+
+1 pound mozzarella cheese, low-moisture or fresh, thinly sliced
+Quantifiers: 1 pound 
+Ingredients: mozzarella cheese 
+
+2 cups finely grated Parmigiano-Reggiano (about 2 ounces)
+Quantifiers: 2 cups 2 ounces 
+Ingredients: 
+

@@ -1,0 +1,64 @@
+2 (14.5-ounce) cans white beans
+Quantifiers: 2 cans 
+Ingredients: white_beans 
+
+1 tablespoon canola oil
+Quantifiers: 1 tablespoon 
+Ingredients: canola_oil 
+
+1 medium jalapeno pepper, minced
+Quantifiers: 1 medium 
+Ingredients: jalapeno_pepper 
+
+2 medium poblano peppers, chopped
+Quantifiers: 2 medium 
+Ingredients: peppers 
+
+1 large onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+4 garlic cloves, minced
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 tablespoon ground cumin
+Quantifiers: 1 tablespoon ground 
+Ingredients: cumin 
+
+1 1/2 teaspoons ground coriander
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: coriander 
+
+1 teaspoon ancho chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+4 cups low-sodium chicken broth
+Quantifiers: 4 cups 
+Ingredients: chicken_broth 
+
+2 limes, juiced, plus lime wedges, for serving
+Quantifiers: 2 serving 
+Ingredients: limes lime wedges 
+
+1 rotisserie chicken, skin removed and meat shredded
+Quantifiers: 1 skin 
+Ingredients: chicken meat 
+
+1/4 cup chopped cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Sour cream, for topping
+Quantifiers: 
+Ingredients: Sour_cream 
+
+Tortilla chips, coarsely crushed, for topping
+Quantifiers: 
+Ingredients: Tortilla_chips 
+

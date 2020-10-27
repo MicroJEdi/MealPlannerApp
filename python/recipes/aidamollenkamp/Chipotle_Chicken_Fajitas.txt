@@ -1,0 +1,52 @@
+1 pound (about 6) boneless, skinless chicken thighs, cut lengthwise into strips about 1-inch wide
+Quantifiers: 1 pound 6 thighs 
+Ingredients: chicken cut 
+
+1 chipotle en adobo, minced (about 1 tablespoon)
+Quantifiers: 1 en 1 tablespoon 
+Ingredients: chipotle adobo 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1 tablespoon vegetable oil
+Quantifiers: 1 tablespoon 
+Ingredients: vegetable_oil 
+
+1 medium red onion, quartered and sliced crosswise 1/2-inch thick
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+3 medium cloves garlic, thinly sliced (about 2 tablespoons)
+Quantifiers: 3 medium 2 tablespoons 
+Ingredients: cloves garlic 
+
+2 medium bell peppers, stemmed, seeded, quartered lengthwise, and sliced into 1/2-inch strips
+Quantifiers: 2 medium 
+Ingredients: bell_peppers 
+
+1/2 cup low-sodium chicken broth or water
+Quantifiers: 1/2 cup 
+Ingredients: chicken_broth water 
+
+2 teaspoons roughly chopped fresh oregano
+Quantifiers: 2 teaspoons 
+Ingredients: oregano 
+
+6 to 8 flour tortillas, warmed, for serving
+Quantifiers: 6 8 serving 
+Ingredients: flour tortillas 
+
+Pico de Gallo salsa, optional for serving
+Quantifiers: serving 
+Ingredients: salsa 
+
+Guacamole, optional for serving
+Quantifiers: serving 
+Ingredients: Guacamole 
+
+Sour cream, optional for serving
+Quantifiers: serving 
+Ingredients: Sour_cream 
+

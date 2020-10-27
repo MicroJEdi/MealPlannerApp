@@ -1,0 +1,44 @@
+One 3-pound free-range chicken
+Quantifiers: One 
+Ingredients: chicken 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 carrot, peeled and quartered
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 leek, cleaned and quartered
+Quantifiers: 1 
+Ingredients: leek 
+
+2/3 cup arborio rice
+Quantifiers: 2/3 cup 
+Ingredients: rice 
+
+1/2 cup fresh lemon juice
+Quantifiers: 1/2 cup 
+Ingredients: lemon_juice 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon salt
+Quantifiers: 1 tablespoon 
+Ingredients: salt 
+
+1 teaspoon ground pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: pepper 
+

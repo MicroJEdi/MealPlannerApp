@@ -1,0 +1,32 @@
+Ground beef
+Quantifiers: 
+Ingredients: Ground_beef 
+
+Potatoes, diced
+Quantifiers: 
+Ingredients: Potatoes 
+
+Peas
+Quantifiers: 
+Ingredients: Peas 
+
+Green peppers, chopped
+Quantifiers: 
+Ingredients: Green_peppers 
+
+2 slices Velveeta cheese, diced
+Quantifiers: 2 slices 
+Ingredients: Velveeta cheese 
+
+3 eggs, slightly beaten
+Quantifiers: 3 
+Ingredients: eggs 
+
+Cooked pasta
+Quantifiers: 
+Ingredients: pasta 
+
+Fish sticks, as an accompaniment
+Quantifiers: sticks as 
+Ingredients: Fish_sticks 
+

@@ -1,0 +1,32 @@
+10 to 12 pounds (about 100) littleneck or Manila clams, scrubbed
+Quantifiers: 10 12 pounds 100 clams 
+Ingredients: littleneck 
+
+4 shallots, thinly sliced
+Quantifiers: 4 
+Ingredients: shallots 
+
+8 cloves garlic, thinly sliced
+Quantifiers: 8 
+Ingredients: cloves garlic 
+
+1/2 cup chopped fresh parsley
+Quantifiers: 1/2 cup 
+Ingredients: parsley 
+
+2 cups white wine
+Quantifiers: 2 cups 
+Ingredients: white_wine 
+
+2 1/2 sticks unsalted butter, sliced
+Quantifiers: 2 1/2 sticks 
+Ingredients: butter 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+Thyme sprigs, for garnish
+Quantifiers: 
+Ingredients: Thyme 
+

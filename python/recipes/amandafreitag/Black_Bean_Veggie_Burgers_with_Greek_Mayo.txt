@@ -1,0 +1,80 @@
+Black Bean Veggie Burgers:
+Quantifiers: 
+Ingredients: Black_Bean Veggie Burgers 
+
+Two 15-ounce cans black beans, drained and rinsed
+Quantifiers: Two cans 
+Ingredients: black_beans 
+
+1/2 cup panko breadcrumbs 
+Quantifiers: 1/2 cup breadcrumbs 
+Ingredients: 
+
+3 tablespoons freshly squeezed lemon juice 
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+2 teaspoons dried oregano 
+Quantifiers: 2 teaspoons 
+Ingredients: oregano 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+3 to 4 large cloves garlic, minced
+Quantifiers: 3 4 
+Ingredients: cloves garlic 
+
+2 eggs, beaten 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 small onion, finely chopped 
+Quantifiers: 1 
+Ingredients: onion 
+
+2 tablespoons extra-virgin olive oil 
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+6 whole-grain hamburger buns 
+Quantifiers: 6 
+Ingredients: hamburger_buns 
+
+Serving suggestions: lettuce, tomato slices and red onion slices
+Quantifiers: Serving suggestions lettuce slices slices 
+Ingredients: tomato red_onion 
+
+Greek Mayo:
+Quantifiers: 
+Ingredients: Mayo 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+2 teaspoons dried oregano 
+Quantifiers: 2 teaspoons 
+Ingredients: oregano 
+
+1 teaspoon freshly ground black pepper 
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+2 cloves garlic, grated 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+

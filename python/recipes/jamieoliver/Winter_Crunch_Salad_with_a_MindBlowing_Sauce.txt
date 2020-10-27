@@ -1,0 +1,60 @@
+For the vegetables
+Quantifiers: 
+Ingredients: vegetables 
+
+A few young carrots, peeled and finely sliced
+Quantifiers: A 
+Ingredients: carrots 
+
+A few small raw beets, peeled and finely sliced
+Quantifiers: A 
+Ingredients: beets 
+
+A few sticks celery, trimmed and thinly sliced, yellow leaves reserved
+Quantifiers: A sticks leaves 
+Ingredients: celery 
+
+1/2 small Romanesco or white cauliflower, broken into florets
+Quantifiers: 1/2 
+Ingredients: white cauliflower 
+
+1 bulb fennel, trimmed and finely sliced, herby tops reserved
+Quantifiers: 1 bulb 
+Ingredients: fennel 
+
+1 handful small beet leaves, if available, washed
+Quantifiers: 1 handful leaves 
+Ingredients: beet 
+
+1 bunch radishes, trimmed and washed
+Quantifiers: 1 
+Ingredients: radishes 
+
+1/2 a celeriac, peeled and finely sliced
+Quantifiers: 1/2 a 
+Ingredients: celeriac 
+
+For the sauce:
+Quantifiers: 
+Ingredients: sauce 
+
+6 cloves garlic, peeled
+Quantifiers: 6 
+Ingredients: cloves garlic 
+
+1 cup plus 1 tablespoon milk
+Quantifiers: 1 cup 1 tablespoon 
+Ingredients: milk 
+
+10 anchovy fillets in oil
+Quantifiers: 10 in 
+Ingredients: anchovy fillets oil 
+
+2/3 cup good extra-virgin olive oil, plus extra for drizzling
+Quantifiers: 2/3 cup 
+Ingredients: olive_oil 
+
+2 or 3 tablespoons good white wine vinegar
+Quantifiers: 2 3 tablespoons 
+Ingredients: white_wine_vinegar 
+

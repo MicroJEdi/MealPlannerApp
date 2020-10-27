@@ -1,0 +1,24 @@
+1 (3-pound) butternut squash
+Quantifiers: 1 
+Ingredients: butternut_squash 
+
+Extra-virgin olive oil, for roasting, plus 2 tablespoons
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: Kosher salt black_pepper 
+
+2 shallots, chopped
+Quantifiers: 2 
+Ingredients: shallots 
+
+1 quart low-sodium chicken stock
+Quantifiers: 1 quart 
+Ingredients: chicken_stock 
+
+2 teaspoons curry powder (mild or spicy)
+Quantifiers: 2 teaspoons 
+Ingredients: curry_powder 
+

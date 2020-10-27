@@ -1,0 +1,52 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 pound penne or farfalle
+Quantifiers: 1 pound 
+Ingredients: penne farfalle 
+
+1 pound asparagus spears, stems trimmed, cut into 1 1/2-inch lengths
+Quantifiers: 1 pound spears 1 
+Ingredients: asparagus cut 
+
+1 large carrot, cut into matchsticks
+Quantifiers: 1 matchsticks 
+Ingredients: carrot cut 
+
+1 cup snap peas
+Quantifiers: 1 cup 
+Ingredients: snap_peas 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+8 ounces sliced prosciutto, jamon iberico or other high-quality ham, diced
+Quantifiers: 8 ounces 
+Ingredients: prosciutto ham 
+
+1 large shallot, sliced 1/8 inch thick
+Quantifiers: 1 1/8 inch 
+Ingredients: shallot 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/2 teaspoon red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 cup chicken stock, preferably homemade or low-sodium store-bought
+Quantifiers: 1 cup 
+Ingredients: chicken_stock 
+
+3 tablespoons dijon mustard
+Quantifiers: 3 tablespoons 
+Ingredients: mustard 
+

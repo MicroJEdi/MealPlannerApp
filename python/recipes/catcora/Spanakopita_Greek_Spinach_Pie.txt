@@ -1,0 +1,72 @@
+For the dough:
+Quantifiers: 
+Ingredients: dough 
+
+2 cups all-purpose flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+2/3 cup shortening, plus more for the baking pan
+Quantifiers: 2/3 cup pan 
+Ingredients: shortening 
+
+1/3 cup ice water
+Quantifiers: 1/3 cup 
+Ingredients: ice_water 
+
+Dried beans, for pie weights
+Quantifiers: weights 
+Ingredients: beans pie 
+
+For the spinach filling:
+Quantifiers: 
+Ingredients: spinach filling 
+
+1/2 cup extra-virgin olive oil, plus additional for greasing the baking pan
+Quantifiers: 1/2 cup pan 
+Ingredients: olive_oil 
+
+6 cups chopped onion (about 3 medium onions)
+Quantifiers: 6 cups 3 medium 
+Ingredients: onion onions 
+
+3/4 cup uncooked long-grain white rice
+Quantifiers: 3/4 cup 
+Ingredients: white_rice 
+
+4 1/2 pounds fresh spinach (about 3 bunches), stemmed
+Quantifiers: 4 1/2 pounds 3 
+Ingredients: spinach 
+
+2 1/4 teaspoons kosher salt
+Quantifiers: 2 1/4 teaspoons 
+Ingredients: kosher salt 
+
+1/2 teaspoon freshly ground pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: pepper 
+
+3/4 cup finely chopped flat-leaf parsley
+Quantifiers: 3/4 cup 
+Ingredients: parsley 
+
+1/4 cup plus 2 tablespoons finely chopped fresh dill
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: dill 
+
+3 scallions (white and green), chopped
+Quantifiers: 3 
+Ingredients: scallions white green 
+
+1 1/2 cups crumbled feta
+Quantifiers: 1 1/2 cups 
+Ingredients: 
+
+1 egg beaten with 1 teaspoon water, for egg wash
+Quantifiers: 1 1 teaspoon 
+Ingredients: egg water egg 
+

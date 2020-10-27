@@ -1,0 +1,36 @@
+5 cloves garlic
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+
+1/4 cup plus 2 tablespoons extra-virgin olive oil, divided
+Quantifiers: 1/4 cup 2 tablespoons 
+Ingredients: olive_oil 
+
+1 large onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+3 carrots, peeled and diced
+Quantifiers: 3 
+Ingredients: carrots 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 cup fresh basil leaves
+Quantifiers: 1 cup leaves 
+Ingredients: basil 
+
+2 tablespoons freshly picked oregano leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: oregano 
+
+1 (28-ounce) can crushed tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+

@@ -1,0 +1,68 @@
+1 pound dried red beans
+Quantifiers: 1 pound 
+Ingredients: beans 
+
+1/2 pound andouille sausage, chopped 
+Quantifiers: 1/2 pound 
+Ingredients: sausage 
+
+3 ribs celery, chopped 
+Quantifiers: 3 ribs 
+Ingredients: celery 
+
+1 smoked ham shank 
+Quantifiers: 1 
+Ingredients: ham shank 
+
+1 medium onion, chopped 
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 large green bell pepper, chopped 
+Quantifiers: 1 
+Ingredients: green bell_pepper 
+
+1 tablespoon chili powder 
+Quantifiers: 1 tablespoon 
+Ingredients: chili_powder 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+1 teaspoon garlic powder 
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1/2 teaspoon cayenne 
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1/2 teaspoon onion powder 
+Quantifiers: 1/2 teaspoon 
+Ingredients: onion 
+
+1/2 teaspoon paprika 
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon brown sugar 
+Quantifiers: 1/2 teaspoon 
+Ingredients: brown_sugar 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+4 cups chicken stock 
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+8 cups cooked long-grain white rice, for serving 
+Quantifiers: 8 cups serving 
+Ingredients: white_rice 
+
+4 scallions, chopped
+Quantifiers: 4 
+Ingredients: scallions 
+

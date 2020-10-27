@@ -1,0 +1,60 @@
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 cups ricotta cheese 
+Quantifiers: 2 cups 
+Ingredients: ricotta cheese 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+1 1/2 tablespoons extra-virgin olive oil 
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: olive_oil 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 1/4 cups all-purpose flour, plus more for dusting 
+Quantifiers: 1 1/4 cups 
+Ingredients: flour 
+
+Semolina flour, for dusting
+Quantifiers: 
+Ingredients: Semolina flour 
+
+Pancetta Tomato Sauce, recipe follows, for serving
+Quantifiers: serving 
+Ingredients: Tomato_Sauce 
+
+Pancetta Tomato Sauce:
+Quantifiers: 
+Ingredients: Tomato_Sauce 
+
+6 ounces thick-cut pancetta (about 3 1/4-inch slices), diced
+Quantifiers: 6 ounces 3 slices 
+Ingredients: 
+
+1/2 cup diced onions 
+Quantifiers: 1/2 cup 
+Ingredients: onions 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 cloves garlic, minced 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+One 28-ounce can crushed San Marzano tomatoes 
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+5 fresh basil leaves, cut into chiffonade
+Quantifiers: 5 leaves 
+Ingredients: basil cut 
+

@@ -1,0 +1,60 @@
+1 stick butter, at room temperature, plus more for loaf pan
+Quantifiers: 1 stick at room_temperature pan 
+Ingredients: butter loaf 
+
+1 1/2 cups all-purpose flour, plus more for pan
+Quantifiers: 1 1/2 cups pan 
+Ingredients: flour 
+
+1 teaspoon baking soda
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+3 large very ripe bananas*
+Quantifiers: 3 
+Ingredients: bananas 
+
+1 cup granulated sugar
+Quantifiers: 1 cup 
+Ingredients: granulated_sugar 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1 teaspoon vanilla extract
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+3/4 cup chopped pecans
+Quantifiers: 3/4 cup 
+Ingredients: pecans 
+
+Honey Butter, for serving, recipe follows
+Quantifiers: serving 
+Ingredients: Honey Butter 
+
+Honey Butter:
+Quantifiers: 
+Ingredients: Honey Butter 
+
+1 stick salted butter, softened
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+2 tablespoons honey
+Quantifiers: 2 tablespoons 
+Ingredients: honey 
+

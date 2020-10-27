@@ -1,0 +1,56 @@
+For the soup:
+Quantifiers: 
+Ingredients: soup 
+
+12 large (about 4 pounds) tomatoes, stemmed and quartered
+Quantifiers: 12 4 pounds 
+Ingredients: tomatoes 
+
+1/2 cup extra-virgin olive oil, divided
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+1/4 cup good-quality balsamic vinegar
+Quantifiers: 1/4 cup 
+Ingredients: vinegar 
+
+12 large garlic cloves, peeled
+Quantifiers: 12 
+Ingredients: garlic_cloves 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 teaspoon freshly ground black pepper
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: black_pepper 
+
+1 cup chopped yellow onions
+Quantifiers: 1 cup 
+Ingredients: onions 
+
+2 cups lightly packed fresh basil leaves, plus few leaves torn for garnish
+Quantifiers: 2 cups leaves leaves 
+Ingredients: basil 
+
+2 cups cold water
+Quantifiers: 2 cups cold 
+Ingredients: water 
+
+For the bruschetta:
+Quantifiers: 
+Ingredients: 
+
+1 loaf country-style bread
+Quantifiers: 1 
+Ingredients: loaf bread 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+

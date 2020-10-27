@@ -1,0 +1,44 @@
+1 cup plus 2 tbsp/4 1/2oz/125g confectioners' sugar
+Quantifiers: 1 cup 2 
+Ingredients: sugar 
+
+generous 1 1/3 cups/125g/4 1/2oz ground almonds
+Quantifiers: 1 1/3 ground 
+Ingredients: almonds 
+
+1 1/2oz/40g egg whites
+Quantifiers: 1 
+Ingredients: egg_whites 
+
+2 tbsp water
+Quantifiers: 2 
+Ingredients: water 
+
+generous 1/2cup/4oz/110g superfine sugar
+Quantifiers: 
+Ingredients: sugar 
+
+2oz/50g egg whites
+Quantifiers: 
+Ingredients: egg_whites 
+
+Food coloring (optional)
+Quantifiers: 
+Ingredients: Food_coloring 
+
+Shredded coconut, for sprinkling (optional)
+Quantifiers: sprinkling 
+Ingredients: coconut 
+
+2/3 cup/5floz/150ml heavy or whipped cream, whipped
+Quantifiers: 2/3 
+Ingredients: cream 
+
+Equipment:
+Quantifiers: Equipment 
+Ingredients: 
+
+Pastry bag fitted with a 1/2in (1cm) tip
+Quantifiers: bag a 
+Ingredients: Pastry 
+

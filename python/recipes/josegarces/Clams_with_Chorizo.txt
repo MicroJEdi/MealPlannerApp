@@ -1,0 +1,48 @@
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+8 ounces Spanish-style dried chorizo, sliced into thin rounds
+Quantifiers: 8 ounces rounds 
+Ingredients: chorizo 
+
+1 small Spanish onion, diced
+Quantifiers: 1 
+Ingredients: Spanish_onion 
+
+Pinch of red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+24 cockles or other small clams, cleaned
+Quantifiers: 24 clams 
+Ingredients: cockles 
+
+1/4 cup bottled clam juice
+Quantifiers: 1/4 cup clam 
+Ingredients: juice 
+
+1/2 cup dry white wine
+Quantifiers: 1/2 cup 
+Ingredients: white_wine 
+
+1 tablespoon unsalted butter
+Quantifiers: 1 tablespoon 
+Ingredients: butter 
+
+1 tablespoon finely chopped fresh parsley
+Quantifiers: 1 tablespoon 
+Ingredients: parsley 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+Crusty bread, for serving
+Quantifiers: serving 
+Ingredients: bread 
+

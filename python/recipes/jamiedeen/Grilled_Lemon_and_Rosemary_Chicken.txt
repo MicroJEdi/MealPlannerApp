@@ -1,0 +1,36 @@
+1/4 cup freshly squeezed lemon juice (about 2 lemons)
+Quantifiers: 1/4 cup 2 
+Ingredients: lemon_juice lemons 
+
+1/4 cup olive oil, plus more for grill grates and drizzling
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+1 tablespoon finely chopped fresh rosemary
+Quantifiers: 1 tablespoon 
+Ingredients: rosemary 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 3/4 pounds chicken cutlets (8 thin cutlets)
+Quantifiers: 1 3/4 pounds cutlets 8 cutlets 
+Ingredients: chicken 
+
+1 lemon, sliced in half, optional
+Quantifiers: 1 in half 
+Ingredients: lemon 
+
+2 large handfuls baby arugula
+Quantifiers: 2 handfuls 
+Ingredients: 
+

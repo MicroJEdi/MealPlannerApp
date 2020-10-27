@@ -1,0 +1,36 @@
+2 cups leftover mashed potatoes
+Quantifiers: 2 cups 
+Ingredients: potatoes 
+
+1 cup leftover stuffing
+Quantifiers: 1 cup 
+Ingredients: stuffing 
+
+1 cup left over turkey meat, diced
+Quantifiers: 1 cup 
+Ingredients: turkey meat 
+
+3 tablespoons vegetable oil, divided
+Quantifiers: 3 tablespoons 
+Ingredients: vegetable_oil 
+
+2 cups leftover corn
+Quantifiers: 2 cups 
+Ingredients: corn 
+
+1 cup vegetable stock
+Quantifiers: 1 cup 
+Ingredients: vegetable stock 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 cups baby spinach
+Quantifiers: 4 cups 
+Ingredients: spinach 
+
+Leftover cranberry sauce, for dipping
+Quantifiers: 
+Ingredients: cranberry_sauce 
+

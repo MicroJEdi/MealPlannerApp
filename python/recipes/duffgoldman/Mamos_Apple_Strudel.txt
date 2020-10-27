@@ -1,0 +1,40 @@
+10 to 12 Granny Smith apples, peeled, cored and cut into thin strips
+Quantifiers: 10 12 
+Ingredients: Granny_Smith apples cut 
+
+Juice of 1 lemon
+Quantifiers: 1 
+Ingredients: Juice lemon 
+
+1 large can pineapple, drained and diced
+Quantifiers: 1 can 
+Ingredients: pineapple 
+
+3/4 cup sugar
+Quantifiers: 3/4 cup 
+Ingredients: sugar 
+
+Pinch salt
+Quantifiers: Pinch 
+Ingredients: salt 
+
+1/2 cup finely chopped nuts
+Quantifiers: 1/2 cup 
+Ingredients: nuts 
+
+2 sticks unsalted butter
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+1/4 cup vegetable oil
+Quantifiers: 1/4 cup 
+Ingredients: vegetable_oil 
+
+1 pound package phyllo dough
+Quantifiers: 1 pound package 
+Ingredients: phyllo dough 
+
+Mixture of 1 large freshly ground cinnamon stick, 1/3 cup sugar and 1 cup plain breadcrumbs
+Quantifiers: 1 ground stick 1/3 cup 1 cup breadcrumbs 
+Ingredients: Mixture cinnamon sugar 
+

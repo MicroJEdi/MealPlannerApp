@@ -1,0 +1,32 @@
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 to 1 1/2 pounds carrots, all a similar size and thickness, peeled and quartered lengthwise, tops reserved for garnish
+Quantifiers: 1 1 1/2 pounds a 
+Ingredients: carrots 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+2 tablespoons dark brown sugar
+Quantifiers: 2 tablespoons dark 
+Ingredients: brown_sugar 
+
+1 tablespoon molasses
+Quantifiers: 1 tablespoon 
+Ingredients: molasses 
+
+1/2 to 1 cup water
+Quantifiers: 1/2 1 cup 
+Ingredients: water 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+1 sprig rosemary
+Quantifiers: 1 
+Ingredients: rosemary 
+

@@ -1,0 +1,44 @@
+1 teaspoon active dry yeast
+Quantifiers: 1 teaspoon 
+Ingredients: yeast 
+
+2 teaspoons sugar
+Quantifiers: 2 teaspoons 
+Ingredients: sugar 
+
+2 cups all-purpose flour, plus more for rolling, see Cook's Note*
+Quantifiers: 2 cups Note 
+Ingredients: flour 
+
+1 teaspoon fine sea salt
+Quantifiers: 1 teaspoon sea 
+Ingredients: salt 
+
+1/8 teaspoon baking powder
+Quantifiers: 1/8 teaspoon 
+Ingredients: baking_powder 
+
+3 tablespoons plain yogurt
+Quantifiers: 3 tablespoons 
+Ingredients: yogurt 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 teaspoon kalonji (nigella seeds), optional, see Cook's Note**
+Quantifiers: 1 teaspoon Note 
+Ingredients: seeds 
+
+1 teaspoon fennel seeds, optional, see Cook's Note**
+Quantifiers: 1 teaspoon Note 
+Ingredients: fennel_seeds 
+
+Melted butter for slathering on the finished naans
+Quantifiers: 
+Ingredients: butter naans 
+
+Coarse sea salt for sprinkling
+Quantifiers: sea sprinkling 
+Ingredients: salt 
+

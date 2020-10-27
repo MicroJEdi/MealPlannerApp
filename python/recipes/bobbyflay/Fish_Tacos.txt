@@ -1,0 +1,108 @@
+Tacos:
+Quantifiers: 
+Ingredients: Tacos 
+
+1 pound white flaky fish, such as mahi mahi or orata
+Quantifiers: 1 pound as 
+Ingredients: white fish 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+1 lime, juiced
+Quantifiers: 1 
+Ingredients: lime 
+
+1 tablespoons ancho chili powder
+Quantifiers: 1 tablespoons 
+Ingredients: chili_powder 
+
+1 jalapeno, coarsely chopped
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+8 flour tortillas
+Quantifiers: 8 
+Ingredients: flour tortillas 
+
+Garnish:
+Quantifiers: 
+Ingredients: 
+
+Shredded white cabbage
+Quantifiers: 
+Ingredients: white cabbage 
+
+Hot sauce
+Quantifiers: 
+Ingredients: Hot_sauce 
+
+Crema or sour cream
+Quantifiers: 
+Ingredients: sour_cream 
+
+Thinly sliced red onion
+Quantifiers: 
+Ingredients: red_onion 
+
+Thinly sliced green onion
+Quantifiers: 
+Ingredients: green_onion 
+
+Chopped cilantro leaves
+Quantifiers: leaves 
+Ingredients: cilantro 
+
+Pureed Tomato Salsa, recipe follows
+Quantifiers: 
+Ingredients: Tomato Salsa 
+
+Pureed Tomato Salsa:
+Quantifiers: 
+Ingredients: Tomato Salsa 
+
+2 tablespoon peanut oil
+Quantifiers: 2 tablespoon 
+Ingredients: peanut_oil 
+
+1 small red onion, coarsely chopped
+Quantifiers: 1 
+Ingredients: red_onion 
+
+4 cloves garlic, coarsely chopped
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+4 large ripe tomatoes, chopped
+Quantifiers: 4 
+Ingredients: tomatoes 
+
+1 serrano chile
+Quantifiers: 1 
+Ingredients: chile 
+
+1 jalapeno, sliced
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1 tablespoon chipotle hot sauce
+Quantifiers: 1 tablespoon 
+Ingredients: chipotle hot_sauce 
+
+1 tablespoon Mexican oregano
+Quantifiers: 1 tablespoon 
+Ingredients: oregano 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+

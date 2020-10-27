@@ -1,0 +1,96 @@
+Farro:
+Quantifiers: 
+Ingredients: 
+
+3/4 cup semi-pearled (semi-perlato) farro
+Quantifiers: 3/4 cup 
+Ingredients: 
+
+1 tablespoon kosher salt
+Quantifiers: 1 tablespoon 
+Ingredients: kosher salt 
+
+Scallion Pesto:
+Quantifiers: 
+Ingredients: Scallion Pesto 
+
+4 scallions
+Quantifiers: 4 
+Ingredients: scallions 
+
+1/2 cup fresh basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+Splash red wine vinegar
+Quantifiers: Splash 
+Ingredients: red_wine_vinegar 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1/2 cup olive oil
+Quantifiers: 1/2 cup 
+Ingredients: olive_oil 
+
+Vegetables:
+Quantifiers: 
+Ingredients: Vegetables 
+
+4 green zucchini, cut in half lengthwise and ends trimmed
+Quantifiers: 4 in half ends 
+Ingredients: green zucchini cut 
+
+2 yellow squash, cut in half lengthwise and ends trimmed
+Quantifiers: 2 in half ends 
+Ingredients: yellow_squash cut 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+3 red bell peppers
+Quantifiers: 3 
+Ingredients: bell_peppers 
+
+1/2 cup fresh basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+Scallops:
+Quantifiers: 
+Ingredients: Scallops 
+
+16 sea scallops, muscles removed
+Quantifiers: 16 
+Ingredients: sea_scallops 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+Herbes de Provence, for sprinkling
+Quantifiers: sprinkling 
+Ingredients: 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

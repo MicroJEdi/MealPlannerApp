@@ -1,0 +1,48 @@
+4 ears fresh or 3 cups frozen, thawed corn kernels
+Quantifiers: 4 3 cups 
+Ingredients: ears corn kernels 
+
+2 medium tomatoes, roughly chopped
+Quantifiers: 2 medium 
+Ingredients: tomatoes 
+
+2 cups chicken broth
+Quantifiers: 2 cups 
+Ingredients: chicken_broth 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+4 slices thick cut bacon
+Quantifiers: 4 slices 
+Ingredients: cut bacon 
+
+1/2 onion, chopped (about 1 cup)
+Quantifiers: 1/2 1 cup 
+Ingredients: onion 
+
+2 cloves garlic, finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+Coarse salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+
+1/2 cup heavy cream, optional
+Quantifiers: 1/2 cup 
+Ingredients: heavy_cream 
+
+3 tablespoons chopped fresh flat-leaf parsley
+Quantifiers: 3 tablespoons 
+Ingredients: parsley 
+
+1/2 cup queso fresco, fresh farmer's cheese, feta cheese, or sour cream, optional
+Quantifiers: 1/2 cup 
+Ingredients: cheese cheese sour_cream 
+
+Tortilla chips or fried tortilla strips, optional
+Quantifiers: 
+Ingredients: Tortilla_chips tortilla 
+

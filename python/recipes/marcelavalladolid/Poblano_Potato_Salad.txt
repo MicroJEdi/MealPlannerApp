@@ -1,0 +1,32 @@
+2 pounds baby red or new potatoes, cut into 1/2 to 1-inch pieces
+Quantifiers: 2 pounds 1/2 pieces 
+Ingredients: potatoes cut 
+
+3 ears fresh corn, husks and silks removed
+Quantifiers: 3 
+Ingredients: ears corn 
+
+2 poblano chiles, charred, peeled, stemmed, seeded, and chopped (see Cook's Note)
+Quantifiers: 2 Note 
+Ingredients: chiles 
+
+1 cup chopped scallions (white and pale green parts only)
+Quantifiers: 1 cup 
+Ingredients: scallions white green 
+
+1/2 cup sour cream
+Quantifiers: 1/2 cup 
+Ingredients: sour_cream 
+
+1/4 cup mayonnaise
+Quantifiers: 1/4 cup 
+Ingredients: mayonnaise 
+
+1/4 cup chopped fresh cilantro leaves
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+

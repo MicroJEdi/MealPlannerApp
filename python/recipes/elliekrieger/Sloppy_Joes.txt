@@ -1,0 +1,60 @@
+1 pound extra-lean ground beef
+Quantifiers: 1 pound 
+Ingredients: ground_beef 
+
+1 onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+4 cloves garlic, minced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 jalapeno, minced
+Quantifiers: 1 
+Ingredients: jalapeno 
+
+1 red pepper, diced
+Quantifiers: 1 
+Ingredients: red_pepper 
+
+1 can small red beans or pinto beans, preferably low sodium drained and rinsed
+Quantifiers: 1 can low 
+Ingredients: beans pinto_beans 
+
+1 1/2 cups no-salt-added tomato sauce
+Quantifiers: 1 1/2 cups 
+Ingredients: tomato_sauce 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 tablespoon red wine vinegar
+Quantifiers: 1 tablespoon 
+Ingredients: red_wine_vinegar 
+
+1 tablespoon molasses
+Quantifiers: 1 tablespoon 
+Ingredients: molasses 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon mustard powder
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+8 whole-wheat burger buns
+Quantifiers: 8 
+Ingredients: burger buns 
+

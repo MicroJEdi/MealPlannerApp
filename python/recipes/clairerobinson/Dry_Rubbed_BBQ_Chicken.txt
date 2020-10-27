@@ -1,0 +1,24 @@
+8 cups water, plus 2 tablespoons
+Quantifiers: 8 cups 2 tablespoons 
+Ingredients: water 
+
+3/4 cup kosher salt, plus 1 teaspoon
+Quantifiers: 3/4 cup 1 teaspoon 
+Ingredients: kosher salt 
+
+3/4 cup light brown sugar, plus 1 tablespoon
+Quantifiers: 3/4 cup light 1 tablespoon 
+Ingredients: brown_sugar 
+
+3/4 cup white vinegar
+Quantifiers: 3/4 cup 
+Ingredients: white vinegar 
+
+1 tablespoon dry BBQ seasoning, plus 2 tablespoons
+Quantifiers: 1 tablespoon 2 tablespoons 
+Ingredients: seasoning 
+
+2 large bone-in, skin-on chicken breast halves
+Quantifiers: 2 breast halves 
+Ingredients: chicken 
+

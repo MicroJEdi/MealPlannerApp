@@ -1,0 +1,104 @@
+7 tablespoons olive oil
+Quantifiers: 7 tablespoons 
+Ingredients: olive_oil 
+
+1 lemon, zest grated and juiced (about 2 to 3 tablespoons juice) plus 2 lemons, quartered, for garnish
+Quantifiers: 1 2 3 tablespoons 2 
+Ingredients: lemon juice lemons 
+
+1 teaspoon harissa
+Quantifiers: 1 teaspoon 
+Ingredients: 
+
+4 skinless chicken thighs, (about 2 pounds)
+Quantifiers: 4 thighs 2 pounds 
+Ingredients: chicken 
+
+1/2 cup chicken broth
+Quantifiers: 1/2 cup 
+Ingredients: chicken_broth 
+
+Pinch saffron strands
+Quantifiers: Pinch 
+Ingredients: saffron 
+
+1 large onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+3 medium zucchini, cut into 1/2-inch half moons or chunks
+Quantifiers: 3 medium half moons chunks 
+Ingredients: zucchini cut 
+
+3 yellow squash, cut into 1/2-inch half moons or chunks
+Quantifiers: 3 half moons chunks 
+Ingredients: yellow_squash cut 
+
+3 medium plum tomatoes, quartered
+Quantifiers: 3 medium 
+Ingredients: plum tomatoes 
+
+1/2 cup dried pitted prunes (about 10)
+Quantifiers: 1/2 cup 10 
+Ingredients: prunes 
+
+1/4 cup black olives, pitted
+Quantifiers: 1/4 cup 
+Ingredients: black_olives 
+
+Coarse salt and freshly cracked black pepper
+Quantifiers: 
+Ingredients: salt black_pepper 
+
+1/4 cup almonds
+Quantifiers: 1/4 cup 
+Ingredients: almonds 
+
+2 tablespoons chopped fresh flat-leaf parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+
+Serving Suggestion: flatbread
+Quantifiers: Serving Suggestion 
+Ingredients: flatbread 
+
+Spice Mixture, recipe follows
+Quantifiers: 
+Ingredients: Spice Mixture 
+
+Spice Mixture:
+Quantifiers: 
+Ingredients: Spice Mixture 
+
+1 teaspoon ground cinnamon
+Quantifiers: 1 teaspoon ground 
+Ingredients: cinnamon 
+
+1 teaspoon ground cardamom
+Quantifiers: 1 teaspoon ground 
+Ingredients: cardamom 
+
+1/4 teaspoon ground turmeric
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: turmeric 
+
+1/2 teaspoon ground cumin
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon sweet paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: sweet paprika 
+
+1/2 teaspoon ground ginger
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: ginger 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1/2 teaspoon cracked black pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: black_pepper 
+

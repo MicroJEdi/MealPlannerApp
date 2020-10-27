@@ -1,0 +1,44 @@
+3/4 cup dark rum
+Quantifiers: 3/4 cup dark 
+Ingredients: rum 
+
+3 tablespoons fresh lime juice, plus wedges for serving
+Quantifiers: 3 tablespoons serving 
+Ingredients: lime_juice wedges 
+
+3 tablespoons soy sauce
+Quantifiers: 3 tablespoons 
+Ingredients: soy_sauce 
+
+3 tablespoons packed brown sugar
+Quantifiers: 3 tablespoons 
+Ingredients: brown_sugar 
+
+5 large cloves garlic, minced
+Quantifiers: 5 
+Ingredients: cloves garlic 
+
+3 scallions, finely chopped, plus more for topping
+Quantifiers: 3 
+Ingredients: scallions 
+
+1 to 2 habanero chile peppers, seeded and minced
+Quantifiers: 1 2 
+Ingredients: chile peppers 
+
+2 tablespoons minced fresh ginger
+Quantifiers: 2 tablespoons 
+Ingredients: ginger 
+
+1 1/2 teaspoons ground allspice
+Quantifiers: 1 1/2 teaspoons ground 
+Ingredients: allspice 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+12 jumbo chicken wings, split at the joints, tips removed
+Quantifiers: 12 chicken_wings split at 
+Ingredients: joints 
+

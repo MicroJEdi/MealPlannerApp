@@ -1,0 +1,252 @@
+6 Pastrami Dogs, recipe follows
+Quantifiers: 6 
+Ingredients: Pastrami Dogs 
+
+6 tablespoons salted butter
+Quantifiers: 6 tablespoons 
+Ingredients: butter 
+
+6 Rye Split Top Hot Dog Buns, recipe follows
+Quantifiers: 6 Split 
+Ingredients: Rye Hot_Dog Buns 
+
+6 ounces gruyere, sliced or shredded
+Quantifiers: 6 ounces 
+Ingredients: gruyere 
+
+3/4 cup 1000 Island Dressing, recipe follows
+Quantifiers: 3/4 cup 1000 
+Ingredients: Dressing 
+
+3 cups Celebration Slaw, recipe follows
+Quantifiers: 3 cups 
+Ingredients: Slaw 
+
+Pastrami Dogs:
+Quantifiers: 
+Ingredients: Pastrami Dogs 
+
+3 pounds beef short rib meat or chuck, cut into 1/2-inch cubes (at least 20-percent fat content)
+Quantifiers: 3 pounds short rib cubes at content 
+Ingredients: beef meat chuck cut 
+
+Ice, for placing in a bowl
+Quantifiers: in a bowl 
+Ingredients: Ice 
+
+1 1/4 cups ice water
+Quantifiers: 1 1/4 cups 
+Ingredients: ice_water 
+
+1 1/2 tablespoons kosher salt
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: kosher salt 
+
+1 tablespoon powdered dextrose, or 2 teaspoons fine sugar
+Quantifiers: 1 tablespoon 2 teaspoons 
+Ingredients: sugar 
+
+1 tablespoon ground pickling spice
+Quantifiers: 1 tablespoon ground 
+Ingredients: spice 
+
+1 tablespoon light brown sugar
+Quantifiers: 1 tablespoon light 
+Ingredients: brown_sugar 
+
+1 1/4 teaspoons pink salt, such as InstaCure or Prague Powder 1, used for red color, or 2 tablespoons kosher salt
+Quantifiers: 1 1/4 teaspoons as 1 2 tablespoons 
+Ingredients: salt kosher salt 
+
+1 1/2 tablespoons crushed garlic
+Quantifiers: 1 1/2 tablespoons 
+Ingredients: garlic 
+
+1 tablespoon coarsely ground toasted coriander seeds
+Quantifiers: 1 tablespoon ground 
+Ingredients: coriander_seeds 
+
+1 tablespoon coarsely ground toasted black peppercorns
+Quantifiers: 1 tablespoon ground black 
+Ingredients: peppercorns 
+
+1/4 teaspoon ground juniper berries
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: juniper_berries 
+
+2/3 cup nonfat milk powder or textured soy protein
+Quantifiers: 2/3 cup 
+Ingredients: milk_powder soy 
+
+1 tablespoon liquid smoke, use if poaching, not smoking, the dogs
+Quantifiers: 1 tablespoon 
+Ingredients: dogs 
+
+Rye Split Top Hot Dog Buns:
+Quantifiers: Split 
+Ingredients: Rye Hot_Dog Buns 
+
+3/4 cup rye flour
+Quantifiers: 3/4 cup 
+Ingredients: rye flour 
+
+3/4 cup warm milk (110 degrees F)
+Quantifiers: 3/4 cup degrees F 
+Ingredients: milk 
+
+1/4 cup onion, pulverized like an onion smoothie
+Quantifiers: 1/4 cup 
+Ingredients: onion onion smoothie 
+
+3 tablespoons honey
+Quantifiers: 3 tablespoons 
+Ingredients: honey 
+
+2 tablespoons unsalted butter, at room temperature
+Quantifiers: 2 tablespoons at room_temperature 
+Ingredients: butter 
+
+1 tablespoon instant yeast
+Quantifiers: 1 tablespoon instant 
+Ingredients: yeast 
+
+3 cups bread flour or all-purpose flour, plus more as needed
+Quantifiers: 3 cups as 
+Ingredients: bread flour flour 
+
+3/4 cup warm water (110 degrees F)
+Quantifiers: 3/4 cup degrees F 
+Ingredients: water 
+
+1 tablespoon caraway seeds, slightly smashed
+Quantifiers: 1 tablespoon 
+Ingredients: caraway_seeds 
+
+2 teaspoons kosher salt
+Quantifiers: 2 teaspoons 
+Ingredients: kosher salt 
+
+Nonstick spray
+Quantifiers: spray 
+Ingredients: 
+
+1 egg white
+Quantifiers: 1 
+Ingredients: egg_white 
+
+1000 Island Dressing:
+Quantifiers: 1000 
+Ingredients: Dressing 
+
+1 cup Garlic Mayo, recipe follows
+Quantifiers: 1 cup 
+Ingredients: Garlic Mayo 
+
+1/2 cup chopped garlic dill pickles
+Quantifiers: 1/2 cup 
+Ingredients: garlic dill_pickles 
+
+1/4 cup ketchup
+Quantifiers: 1/4 cup 
+Ingredients: ketchup 
+
+3 tablespoons chili sauce, such as Heinz
+Quantifiers: 3 tablespoons as 
+Ingredients: chili_sauce 
+
+2 teaspoons Worcestershire sauce
+Quantifiers: 2 teaspoons 
+Ingredients: Worcestershire_sauce 
+
+1 teaspoon fresh lemon juice
+Quantifiers: 1 teaspoon 
+Ingredients: lemon_juice 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+Garlic Mayo:
+Quantifiers: 
+Ingredients: Garlic Mayo 
+
+2 teaspoons fresh lemon juice
+Quantifiers: 2 teaspoons 
+Ingredients: lemon_juice 
+
+1 teaspoon Dijon mustard
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 large egg yolks
+Quantifiers: 2 
+Ingredients: egg_yolks 
+
+1 cup extra-virgin olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+Celebration Slaw:
+Quantifiers: 
+Ingredients: Slaw 
+
+1/2 cup Garlic Mayo, recipe above
+Quantifiers: 1/2 cup 
+Ingredients: Garlic Mayo 
+
+2 tablespoons Creole mustard, such as Zatarain's
+Quantifiers: 2 tablespoons as 
+Ingredients: mustard 
+
+2 tablespoons light brown sugar
+Quantifiers: 2 tablespoons light 
+Ingredients: brown_sugar 
+
+2 tablespoons apple cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: apple cider_vinegar 
+
+1 tablespoon fresh lemon juice
+Quantifiers: 1 tablespoon 
+Ingredients: lemon_juice 
+
+1 tablespoon minced fresh scallion
+Quantifiers: 1 tablespoon 
+Ingredients: scallion 
+
+2 teaspoons buttermilk
+Quantifiers: 2 teaspoons 
+Ingredients: buttermilk 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1/2 teaspoon hot sauce, such as Crystal or Frank's
+Quantifiers: 1/2 teaspoon as 
+Ingredients: hot_sauce Franks 
+
+1/4 teaspoon freshly ground black pepper
+Quantifiers: 1/4 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 small jalapeno pepper, minced but not deseeded
+Quantifiers: 1/2 
+Ingredients: jalapeno_pepper 
+
+4 cups store-bought coleslaw mix
+Quantifiers: 4 cups 
+Ingredients: coleslaw mix 
+
+1 fresh jalapeno, seeded and julienned
+Quantifiers: 1 
+Ingredients: jalapeno 
+

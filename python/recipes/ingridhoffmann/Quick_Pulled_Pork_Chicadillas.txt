@@ -1,0 +1,76 @@
+2 to 3-pound pork tenderloin, cut in 1 1/2-inch slices, quartered
+Quantifiers: 2 in 1 slices 
+Ingredients: pork_tenderloin cut 
+
+1 (12-ounce) bottle beer
+Quantifiers: 1 bottle 
+Ingredients: beer 
+
+2 tablespoons papaya nectar or juice
+Quantifiers: 2 tablespoons 
+Ingredients: papaya nectar juice 
+
+1/4 cup Worcestershire sauce
+Quantifiers: 1/4 cup 
+Ingredients: Worcestershire_sauce 
+
+1/4 cup ketchup
+Quantifiers: 1/4 cup 
+Ingredients: ketchup 
+
+1 cup regular barbecue sauce
+Quantifiers: 1 cup 
+Ingredients: barbecue_sauce 
+
+2 chipotle peppers in adobo, seeded and chopped
+Quantifiers: 2 in 
+Ingredients: chipotle peppers adobo 
+
+2 teaspoons Delicioso Adobo, recipe follows
+Quantifiers: 2 teaspoons 
+Ingredients: Adobo 
+
+20 flour tortillas
+Quantifiers: 20 
+Ingredients: flour tortillas 
+
+2 cups grated queso fresco or farmer's cheese
+Quantifiers: 2 cups 
+Ingredients: cheese 
+
+3 avocados, thinly sliced
+Quantifiers: 3 
+Ingredients: avocados 
+
+Cilantro leaves
+Quantifiers: leaves 
+Ingredients: Cilantro 
+
+Delicioso Adobo:
+Quantifiers: 
+Ingredients: Adobo 
+
+1 teaspoon parsley flakes
+Quantifiers: 1 teaspoon 
+Ingredients: parsley 
+
+1 teaspoon onion powder
+Quantifiers: 1 teaspoon 
+Ingredients: onion 
+
+1 teaspoon garlic powder
+Quantifiers: 1 teaspoon 
+Ingredients: garlic 
+
+1 teaspoon cumin powder
+Quantifiers: 1 teaspoon 
+Ingredients: cumin 
+
+1 teaspoon achiote powder from annatto seed
+Quantifiers: 1 teaspoon 
+Ingredients: seed 
+
+1 teaspoon lemon pepper
+Quantifiers: 1 teaspoon 
+Ingredients: lemon pepper 
+

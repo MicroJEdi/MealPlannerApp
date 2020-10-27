@@ -1,0 +1,48 @@
+1 package dry form crab boil (recommended: Zatarain's)
+Quantifiers: 1 package form boil 
+Ingredients: crab 
+
+3 pounds red potatoes
+Quantifiers: 3 pounds 
+Ingredients: potatoes 
+
+1 pound thick-cut bacon, diced
+Quantifiers: 1 pound 
+Ingredients: bacon 
+
+1 cup diced red onion
+Quantifiers: 1 cup 
+Ingredients: red_onion 
+
+1 tablespoon minced garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+1/4 pound butter, at room temperature
+Quantifiers: 1/4 pound at room_temperature 
+Ingredients: butter 
+
+1/4 pound finely shredded Cheddar
+Quantifiers: 1/4 pound 
+Ingredients: Cheddar 
+
+1 green onion, chopped
+Quantifiers: 1 
+Ingredients: green_onion 
+
+1/2 teaspoon cayenne pepper
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne_pepper 
+
+1/2 teaspoon paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: paprika 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+3/4 cup sour cream
+Quantifiers: 3/4 cup 
+Ingredients: sour_cream 
+

@@ -1,0 +1,112 @@
+Stuffing:
+Quantifiers: 
+Ingredients: Stuffing 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+1/2 cup finely diced pancetta
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1 large onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Pinch crushed red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+2 cups day old Italian bread, crusts removed, cut into 1-inch chunks
+Quantifiers: 2 cups day chunks 
+Ingredients: Italian_bread cut 
+
+1 cup milk
+Quantifiers: 1 cup 
+Ingredients: milk 
+
+2 cloves garlic, smashed and finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1/2 pound button or cremini mushrooms, sliced
+Quantifiers: 1/2 pound button 
+Ingredients: mushrooms 
+
+1/2 pound spinach, stems removed and cut into chiffonade
+Quantifiers: 1/2 pound 
+Ingredients: spinach cut 
+
+1/2 cup toasted pine nuts
+Quantifiers: 1/2 cup 
+Ingredients: pine_nuts 
+
+1/2 cup grated provolone
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+1/2 cup grated Parmigiano-Reggiano
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+2 pounds top round, cut into 1/2-inch thick slices (about 12)
+Quantifiers: 2 pounds round slices 12 
+Ingredients: top_round cut 
+
+Sauce:
+Quantifiers: 
+Ingredients: Sauce 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+1 large onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+Pinch crushed red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 cloves garlic, smashed and finely chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+4 tablespoons tomato paste
+Quantifiers: 4 tablespoons 
+Ingredients: tomato_paste 
+
+1 cup red wine
+Quantifiers: 1 cup 
+Ingredients: red_wine 
+
+1 (32-ounce) can San Marzano tomatoes, passed through the food mill
+Quantifiers: 1 can mill 
+Ingredients: tomatoes food 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+Grated Parmigiano-Reggiano, for garnish
+Quantifiers: 
+Ingredients: 
+
+Chopped parsley leaves, for garnish
+Quantifiers: leaves 
+Ingredients: parsley 
+
+Special equipment: toothpicks
+Quantifiers: equipment toothpicks 
+Ingredients: Special 
+

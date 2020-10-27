@@ -1,0 +1,76 @@
+Shrimp and Artichokes:
+Quantifiers: 
+Ingredients: Shrimp Artichokes 
+
+10 jumbo shrimp (U12), peeled and cleaned, cut in half lengthwise
+Quantifiers: 10 in half 
+Ingredients: shrimp cut 
+
+6 tablespoons extra-virgin olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+3 tablespoons lemon juice 
+Quantifiers: 3 tablespoons 
+Ingredients: lemon_juice 
+
+2 tablespoons butter, melted 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 artichokes, cleaned and chokes removed, cut into wedges 
+Quantifiers: 3 chokes 
+Ingredients: artichokes cut wedges 
+
+3 cloves garlic, sliced 
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1/4 cup white wine 
+Quantifiers: 1/4 cup 
+Ingredients: white_wine 
+
+1/4 cup chicken stock 
+Quantifiers: 1/4 cup 
+Ingredients: chicken_stock 
+
+Pasta:
+Quantifiers: 
+Ingredients: Pasta 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 pound fresh tagliatelle 
+Quantifiers: 1 pound 
+Ingredients: tagliatelle 
+
+2/3 cup grated Pecorino Romano cheese
+Quantifiers: 2/3 cup 
+Ingredients: cheese 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+Zest of 1 lemon 
+Quantifiers: 1 
+Ingredients: lemon 
+
+2 tablespoons butter 
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 tablespoons lemon juice 
+Quantifiers: 2 tablespoons 
+Ingredients: lemon_juice 
+
+2 tablespoons roughly chopped fresh parsley
+Quantifiers: 2 tablespoons 
+Ingredients: parsley 
+

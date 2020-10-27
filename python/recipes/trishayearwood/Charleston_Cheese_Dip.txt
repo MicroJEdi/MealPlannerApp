@@ -1,0 +1,36 @@
+1/2 cup mayonnaise
+Quantifiers: 1/2 cup 
+Ingredients: mayonnaise 
+
+One 8-ounce package cream cheese, softened
+Quantifiers: One package 
+Ingredients: cream_cheese 
+
+1 cup grated sharp Cheddar cheese
+Quantifiers: 1 cup sharp 
+Ingredients: Cheddar_cheese 
+
+1/2 cup grated Monterey Jack cheese
+Quantifiers: 1/2 cup Jack 
+Ingredients: cheese 
+
+2 green onions, finely chopped
+Quantifiers: 2 
+Ingredients: green_onions 
+
+1 dash cayenne pepper
+Quantifiers: 1 
+Ingredients: cayenne_pepper 
+
+8 butter crackers, crushed, such as Ritz
+Quantifiers: 8 as 
+Ingredients: butter crackers 
+
+Corn chips, crackers or bagel chips, for serving
+Quantifiers: serving 
+Ingredients: Corn_chips crackers bagel 
+
+8 slices bacon, cooked and crumbled
+Quantifiers: 8 slices 
+Ingredients: bacon 
+

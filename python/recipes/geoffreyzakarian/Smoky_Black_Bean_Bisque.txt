@@ -1,0 +1,56 @@
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1/2 cup chopped carrot
+Quantifiers: 1/2 cup 
+Ingredients: carrot 
+
+1/2 cup fresh or frozen corn kernels (if fresh, from about 1 ear of corn) 
+Quantifiers: 1/2 cup 1 
+Ingredients: corn kernels ear corn 
+
+1/2 cup chopped onion
+Quantifiers: 1/2 cup 
+Ingredients: onion 
+
+Kosher salt 
+Quantifiers: 
+Ingredients: Kosher salt 
+
+2 cloves garlic, finely chopped 
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 teaspoons chile powder 
+Quantifiers: 2 teaspoons 
+Ingredients: chile 
+
+1 teaspoon ground cumin 
+Quantifiers: 1 teaspoon ground 
+Ingredients: cumin 
+
+Two 15-ounce cans black beans, rinsed and drained 
+Quantifiers: Two cans 
+Ingredients: black_beans 
+
+1 canned chipotle pepper in adobo sauce, chopped, plus 2 tablespoons adobo sauce 
+Quantifiers: 1 in 2 tablespoons 
+Ingredients: chipotle pepper adobo sauce adobo sauce 
+
+1 quart (4 cups) hot vegetable or chicken stock 
+Quantifiers: 1 quart 4 cups 
+Ingredients: vegetable chicken_stock 
+
+2 tablespoons fresh lime juice 
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+Fresh cilantro leaves, for garnish 
+Quantifiers: leaves 
+Ingredients: cilantro 
+
+Sour cream, for garnish
+Quantifiers: 
+Ingredients: Sour_cream 
+

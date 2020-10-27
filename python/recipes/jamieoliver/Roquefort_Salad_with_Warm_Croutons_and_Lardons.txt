@@ -1,0 +1,56 @@
+Olive oil
+Quantifiers: 
+Ingredients: Olive_oil 
+
+8 ounces (1/2 pound)/250 g piece smoked bacon, the best quality you can afford, rind removed
+Quantifiers: 8 ounces 1/2 g piece can 
+Ingredients: bacon 
+
+2 thick slices sourdough bread, cut into 1/2-inch/1 cm pieces
+Quantifiers: 2 slices cm pieces 
+Ingredients: sourdough_bread cut 
+
+For the dressing
+Quantifiers: 
+Ingredients: dressing 
+
+6 tablespoons extra-virgin olive oil
+Quantifiers: 6 tablespoons 
+Ingredients: olive_oil 
+
+2 tablespoons red wine vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: red_wine_vinegar 
+
+1 tablespoon Dijon mustard
+Quantifiers: 1 tablespoon 
+Ingredients: mustard 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+For the salad
+Quantifiers: 
+Ingredients: salad 
+
+4 large handfuls lamb's lettuce (mache), watercress, or rocket, washed and spun dry
+Quantifiers: 4 handfuls lettuce rocket 
+Ingredients: lambs watercress 
+
+2 large handfuls radicchio, washed and spun dry
+Quantifiers: 2 handfuls 
+Ingredients: radicchio 
+
+A large handful shelled walnut halves, sliced
+Quantifiers: A handful halves 
+Ingredients: walnut 
+
+A bunch fresh chives, finely chopped
+Quantifiers: A 
+Ingredients: chives 
+
+3 1/2 ounces/100 g Roquefort cheese
+Quantifiers: 3 1/2 g 
+Ingredients: Roquefort cheese 
+

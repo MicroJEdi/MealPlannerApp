@@ -1,0 +1,56 @@
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+1 pound sweet Italian turkey sausage
+Quantifiers: 1 pound 
+Ingredients: sweet turkey sausage 
+
+2 red bell peppers, sliced
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 yellow onions, sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+1 teaspoon kosher salt
+Quantifiers: 1 teaspoon 
+Ingredients: kosher salt 
+
+1 teaspoon freshly ground black pepper
+Quantifiers: 1 teaspoon ground 
+Ingredients: black_pepper 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/2 cup chopped fresh basil leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: basil 
+
+4 garlic cloves, chopped
+Quantifiers: 4 
+Ingredients: garlic_cloves 
+
+2 tablespoons tomato paste
+Quantifiers: 2 tablespoons 
+Ingredients: tomato_paste 
+
+1 cup Marsala wine
+Quantifiers: 1 cup 
+Ingredients: Marsala wine 
+
+1 (15-ounce) can diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1/4 teaspoon red pepper flakes, optional
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+4 to 6 fresh Italian sandwich rolls, optional
+Quantifiers: 4 6 rolls 
+Ingredients: Italian_sandwich 
+

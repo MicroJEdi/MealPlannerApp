@@ -1,0 +1,76 @@
+8 cups chicken broth
+Quantifiers: 8 cups 
+Ingredients: chicken_broth 
+
+1 turkey carcass, all meat removed
+Quantifiers: 1 
+Ingredients: turkey meat 
+
+1 carrot, halved lengthwise, plus 1 carrot, minced
+Quantifiers: 1 1 
+Ingredients: carrot carrot 
+
+1 whole stalk celery, plus 1 stalk, minced
+Quantifiers: 1 1 
+Ingredients: celery 
+
+1 onion, halved, plus 1 onion, minced
+Quantifiers: 1 1 
+Ingredients: onion onion 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+3 cups dark turkey meat
+Quantifiers: 3 cups dark 
+Ingredients: turkey meat 
+
+2 cloves garlic, smashed
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+3 cups leftover cooked Thanksgiving side vegetables (Brussels sprouts, sweet potatoes, green beans)
+Quantifiers: 3 cups Thanksgiving 
+Ingredients: side vegetables Brussels_sprouts sweet potatoes green_beans 
+
+1 tablespoon chopped fresh sage
+Quantifiers: 1 tablespoon 
+Ingredients: sage 
+
+Mashed Potato Polpetti (Patties), for serving, recipe following
+Quantifiers: serving 
+Ingredients: Mashed_Potato Patties 
+
+Mashed Potato Polpetti (Patties):
+Quantifiers: 
+Ingredients: Mashed_Potato Patties 
+
+3 cups mashed potatoes
+Quantifiers: 3 cups 
+Ingredients: potatoes 
+
+Grey salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: salt black_pepper 
+
+1/2 cup grated Parmesan
+Quantifiers: 1/2 cup 
+Ingredients: Parmesan 
+
+All-purpose flour, for dredging
+Quantifiers: 
+Ingredients: flour 
+
+1/4 cup extra-virgin olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+Leftover gravy, for serving
+Quantifiers: serving 
+Ingredients: gravy 
+

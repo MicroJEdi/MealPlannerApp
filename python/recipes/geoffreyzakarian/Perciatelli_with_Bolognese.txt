@@ -1,0 +1,84 @@
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+4 ounces pancetta, minced
+Quantifiers: 4 ounces 
+Ingredients: 
+
+1/2 cup dried porcini, soaked, drained and chopped fine 
+Quantifiers: 1/2 cup 
+Ingredients: 
+
+4 cloves garlic, finely minced
+Quantifiers: 4 
+Ingredients: cloves garlic 
+
+1 medium onion, finely diced
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+1 large carrot, finely diced
+Quantifiers: 1 
+Ingredients: carrot 
+
+1 celery stalk, finely diced
+Quantifiers: 1 
+Ingredients: celery 
+
+1 pound ground pork
+Quantifiers: 1 pound ground 
+Ingredients: pork 
+
+1 pound ground skirt steak
+Quantifiers: 1 pound ground 
+Ingredients: steak 
+
+Salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+4 tablespoons tomato paste
+Quantifiers: 4 tablespoons 
+Ingredients: tomato_paste 
+
+2 cups red wine
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+2 cups chicken stock
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+1 cup milk
+Quantifiers: 1 cup 
+Ingredients: milk 
+
+1 large can San Marzano crushed tomatoes (28 ounces)
+Quantifiers: 1 can 28 ounces 
+Ingredients: tomatoes 
+
+2 cheese rinds from Parmesan or Pecorino Romano (roughly 1/2 cup total in large chunks)
+Quantifiers: 2 1/2 cup in chunks 
+Ingredients: cheese Parmesan 
+
+2 teaspoons minced fresh basil, plus torn leaves for garnish
+Quantifiers: 2 teaspoons leaves 
+Ingredients: basil 
+
+2 teaspoons fresh thyme leaves, minced
+Quantifiers: 2 teaspoons leaves 
+Ingredients: thyme 
+
+2 pounds dry perciatelli pasta
+Quantifiers: 2 pounds 
+Ingredients: pasta 
+
+1/2 cup ground Pecorino Romano cheese
+Quantifiers: 1/2 cup ground 
+Ingredients: cheese 
+

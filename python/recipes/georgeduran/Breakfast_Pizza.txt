@@ -1,0 +1,32 @@
+1 prepared thin pizza crust (about 10 ounces), such as Boboli
+Quantifiers: 1 10 ounces as 
+Ingredients: pizza 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+8 large eggs
+Quantifiers: 8 
+Ingredients: eggs 
+
+1 (10-ounce) package frozen chopped spinach, cooked and squeezed dry, reserving 1 tablespoon of the liquid
+Quantifiers: 1 package 1 tablespoon 
+Ingredients: spinach 
+
+1 cup chopped onion, about 1 medium onion
+Quantifiers: 1 cup 1 medium 
+Ingredients: onion onion 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1/2 cup shredded Cheddar
+Quantifiers: 1/2 cup 
+Ingredients: Cheddar 
+

@@ -1,0 +1,76 @@
+Doufu:
+Quantifiers: 
+Ingredients: 
+
+8 ounces foie gras
+Quantifiers: 8 ounces 
+Ingredients: foie_gras 
+
+3 eggs
+Quantifiers: 3 
+Ingredients: eggs 
+
+1 1/2 cups chicken stock
+Quantifiers: 1 1/2 cups 
+Ingredients: chicken_stock 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 duck breast
+Quantifiers: 1 duck breast 
+Ingredients: 
+
+Cornstarch
+Quantifiers: 
+Ingredients: 
+
+Light teriyaki sauce:
+Quantifiers: Light 
+Ingredients: teriyaki sauce 
+
+7 ounces dashi broth, recipe follows
+Quantifiers: 7 ounces 
+Ingredients: broth 
+
+1 ounce mirin
+Quantifiers: 1 ounce 
+Ingredients: 
+
+1/2 ounce light soy sauce
+Quantifiers: 1/2 ounce light 
+Ingredients: soy_sauce 
+
+1/2 ounce regular soy sauce
+Quantifiers: 1/2 ounce 
+Ingredients: soy_sauce 
+
+1/2 ounce sugar
+Quantifiers: 1/2 ounce 
+Ingredients: sugar 
+
+2 to 3 ounces cornstarch, mixed with water to make a slurry
+Quantifiers: 2 3 ounces a 
+Ingredients: water 
+
+2 teaspoons fresh wasabi
+Quantifiers: 2 teaspoons 
+Ingredients: wasabi 
+
+Dashi broth:
+Quantifiers: 
+Ingredients: broth 
+
+1 (1 1/2-inch) piece kombu (dried kelp)
+Quantifiers: 1 1 piece 
+Ingredients: 
+
+4 cups water
+Quantifiers: 4 cups 
+Ingredients: water 
+
+1/4 cup katsuo (dried bonito flake)
+Quantifiers: 1/4 cup 
+Ingredients: bonito 
+

@@ -1,0 +1,60 @@
+5 sprigs rosemary, picked and finely chopped, about 2 tablespoons
+Quantifiers: 5 2 tablespoons 
+Ingredients: rosemary 
+
+10 sage leaves, picked and finely chopped, about 2 tablespoons
+Quantifiers: 10 leaves 2 tablespoons 
+Ingredients: sage 
+
+3 cloves garlic, smashed and finely chopped
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+Pinch red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+4 tablespoons extra-virgin olive oil, plus more for drizzling
+Quantifiers: 4 tablespoons 
+Ingredients: olive_oil 
+
+2 (3 to 3 1/2-pound) whole chickens
+Quantifiers: 2 3 3 
+Ingredients: chickens 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+1 large or 2 small onions, cut into 1/2-inch dice
+Quantifiers: 1 2 
+Ingredients: onions cut 
+
+1 large or 2 small carrots, peeled and cut into 1/2-inch dice
+Quantifiers: 1 2 
+Ingredients: carrots cut 
+
+3 ribs celery, cut into 1/2-inch dice
+Quantifiers: 3 ribs 
+Ingredients: celery cut 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+1 bundle thyme, about 10 sprigs tied together with string
+Quantifiers: 1 bundle 10 string 
+Ingredients: thyme 
+
+4 cups rich chicken stock
+Quantifiers: 4 cups 
+Ingredients: chicken_stock 
+
+1 1/2 cups dry white wine
+Quantifiers: 1 1/2 cups 
+Ingredients: white_wine 
+
+Preheat oven to 450 degrees F.
+Quantifiers: degrees F 
+Ingredients: 
+

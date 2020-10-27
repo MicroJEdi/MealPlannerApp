@@ -1,0 +1,36 @@
+1 pound center-cut wild king salmon fillet, skin removed
+Quantifiers: 1 pound skin 
+Ingredients: king_salmon fillet 
+
+2 cups kosher salt
+Quantifiers: 2 cups 
+Ingredients: kosher salt 
+
+2 tablespoons chopped fresh dill
+Quantifiers: 2 tablespoons 
+Ingredients: dill 
+
+1 tablespoon fennel seeds
+Quantifiers: 1 tablespoon 
+Ingredients: fennel_seeds 
+
+1 tablespoon coriander seeds
+Quantifiers: 1 tablespoon 
+Ingredients: coriander_seeds 
+
+1 tablespoon cracked white peppercorns
+Quantifiers: 1 tablespoon 
+Ingredients: white peppercorns 
+
+1 cup packed light brown sugar
+Quantifiers: 1 cup light 
+Ingredients: brown_sugar 
+
+2 medium red onions, thinly sliced
+Quantifiers: 2 medium 
+Ingredients: red_onions 
+
+1/2 cup fresh lime juice (from about 8 limes)
+Quantifiers: 1/2 cup 8 
+Ingredients: lime_juice limes 
+

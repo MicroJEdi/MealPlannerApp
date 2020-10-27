@@ -1,0 +1,80 @@
+Tomato Relish:
+Quantifiers: 
+Ingredients: Tomato Relish 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+1 onion, finely diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 garlic cloves, minced
+Quantifiers: 2 
+Ingredients: garlic_cloves 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+2 red bell peppers, cored, seeded, and finely diced
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 tomatoes, halved, seeded, and finely diced
+Quantifiers: 2 
+Ingredients: tomatoes 
+
+1/4 cup chopped fresh flat-leaf parsley
+Quantifiers: 1/4 cup 
+Ingredients: parsley 
+
+1 (12-ounce) bottle ketchup
+Quantifiers: 1 bottle 
+Ingredients: ketchup 
+
+1 tablespoon Worcestershire sauce
+Quantifiers: 1 tablespoon 
+Ingredients: Worcestershire_sauce 
+
+Sea salt and freshly ground black pepper
+Quantifiers: Sea ground 
+Ingredients: salt black_pepper 
+
+Meatloaf:
+Quantifiers: 
+Ingredients: Meatloaf 
+
+3 slices white bread, crusts removed, torn into chunks by hand
+Quantifiers: 3 slices chunks hand 
+Ingredients: white_bread 
+
+1/4 cup whole milk
+Quantifiers: 1/4 cup 
+Ingredients: whole_milk 
+
+1 1/2 pounds ground beef
+Quantifiers: 1 1/2 pounds 
+Ingredients: ground_beef 
+
+1 pound ground pork
+Quantifiers: 1 pound ground 
+Ingredients: pork 
+
+2 eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+Leaves from 2 fresh thyme sprigs
+Quantifiers: Leaves 2 
+Ingredients: thyme 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 to 4 bacon slices
+Quantifiers: 3 4 slices 
+Ingredients: bacon 
+

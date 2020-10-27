@@ -1,0 +1,44 @@
+2 cups fresh parsley leaves, chopped
+Quantifiers: 2 cups leaves 
+Ingredients: parsley 
+
+8 large sprigs fresh thyme, chopped
+Quantifiers: 8 
+Ingredients: thyme 
+
+4 large sprigs fresh rosemary, chopped
+Quantifiers: 4 
+Ingredients: rosemary 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 small shallot, diced
+Quantifiers: 1 
+Ingredients: shallot 
+
+2 tablespoons cracked black peppercorns
+Quantifiers: 2 tablespoons black 
+Ingredients: peppercorns 
+
+2 tablespoons cracked pink peppercorns
+Quantifiers: 2 tablespoons 
+Ingredients: peppercorns 
+
+1 1/4 cups extra-virgin olive oil
+Quantifiers: 1 1/4 cups 
+Ingredients: olive_oil 
+
+8 skin-on chicken thighs
+Quantifiers: 8 thighs 
+Ingredients: chicken 
+
+Flaky salt, such as Maldon, for seasoning
+Quantifiers: as 
+Ingredients: salt seasoning 
+
+Salad, for serving
+Quantifiers: serving 
+Ingredients: Salad 
+

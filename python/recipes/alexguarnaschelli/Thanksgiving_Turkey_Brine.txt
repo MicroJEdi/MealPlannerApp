@@ -1,0 +1,52 @@
+6 quarts tap water
+Quantifiers: 6 quarts tap 
+Ingredients: water 
+
+1 pound kosher salt
+Quantifiers: 1 pound 
+Ingredients: kosher salt 
+
+1 cup molasses
+Quantifiers: 1 cup 
+Ingredients: molasses 
+
+2 cups honey
+Quantifiers: 2 cups 
+Ingredients: honey 
+
+1 cup soy sauce
+Quantifiers: 1 cup 
+Ingredients: soy_sauce 
+
+1 tablespoon dried red pepper flakes
+Quantifiers: 1 tablespoon 
+Ingredients: red_pepper 
+
+1 tablespoon dried sage
+Quantifiers: 1 tablespoon 
+Ingredients: sage 
+
+Large bunch fresh thyme
+Quantifiers: 
+Ingredients: thyme 
+
+2 heads garlic broken into individual cloves, unpeeled
+Quantifiers: 2 heads 
+Ingredients: garlic cloves 
+
+5 pounds ice cubes
+Quantifiers: 5 pounds cubes 
+Ingredients: ice 
+
+14 to 18-pound turkey, cleaned, innards removed
+Quantifiers: 14 
+Ingredients: turkey 
+
+1 pound unsalted butter, softened
+Quantifiers: 1 pound 
+Ingredients: butter 
+
+2 lemons, zested
+Quantifiers: 2 
+Ingredients: lemons 
+

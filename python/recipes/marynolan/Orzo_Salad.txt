@@ -1,0 +1,44 @@
+1 cup whole-wheat orzo pasta
+Quantifiers: 1 cup 
+Ingredients: orzo pasta 
+
+3 ears corn, shucked and kernels removed from cob (about 1 1/2 cups)
+Quantifiers: 3 1 1/2 cups 
+Ingredients: ears corn kernels cob 
+
+2 tablespoons fresh lime juice
+Quantifiers: 2 tablespoons 
+Ingredients: lime_juice 
+
+1 avocado, diced
+Quantifiers: 1 
+Ingredients: avocado 
+
+1/4 cup olive oil
+Quantifiers: 1/4 cup 
+Ingredients: olive_oil 
+
+2 tablespoons cider vinegar
+Quantifiers: 2 tablespoons 
+Ingredients: cider_vinegar 
+
+2 tablespoons sugar
+Quantifiers: 2 tablespoons 
+Ingredients: sugar 
+
+3/4 teaspoon ground cumin
+Quantifiers: 3/4 teaspoon ground 
+Ingredients: cumin 
+
+1/2 teaspoon salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 pint grape tomatoes, halved
+Quantifiers: 1 pint 
+Ingredients: grape tomatoes 
+
+1/4 cup chopped flat leaf parsley
+Quantifiers: 1/4 cup flat 
+Ingredients: parsley 
+

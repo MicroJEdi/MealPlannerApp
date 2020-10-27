@@ -1,0 +1,56 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+1/4 cup chopped pecans 
+Quantifiers: 1/4 cup 
+Ingredients: pecans 
+
+3/4 cup plus 2 tablespoons packed brown sugar 
+Quantifiers: 3/4 cup 2 tablespoons 
+Ingredients: brown_sugar 
+
+1/2 teaspoon ground cinnamon 
+Quantifiers: 1/2 teaspoon ground 
+Ingredients: cinnamon 
+
+1 cup all-purpose flour 
+Quantifiers: 1 cup 
+Ingredients: flour 
+
+1 cup whole wheat pastry flour 
+Quantifiers: 1 cup 
+Ingredients: wheat pastry flour 
+
+1 teaspoon baking soda 
+Quantifiers: 1 teaspoon 
+Ingredients: soda 
+
+1/2 teaspoon fine salt 
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1/4 cup canola oil 
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+
+2 large eggs 
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 cup natural applesauce 
+Quantifiers: 1 cup 
+Ingredients: applesauce 
+
+1 teaspoon vanilla extract 
+Quantifiers: 1 teaspoon 
+Ingredients: vanilla_extract 
+
+3/4 cup low fat buttermilk 
+Quantifiers: 3/4 cup low 
+Ingredients: buttermilk 
+
+1 Golden Delicious apple, peeled, cored and cut into 1/4-inch pieces
+Quantifiers: 1 pieces 
+Ingredients: Golden_Delicious apple cut 
+

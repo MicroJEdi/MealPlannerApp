@@ -1,0 +1,80 @@
+1 stick butter, softened
+Quantifiers: 1 stick 
+Ingredients: butter 
+
+1/2 cup creamy peanut butter
+Quantifiers: 1/2 cup 
+Ingredients: peanut_butter 
+
+1/2 cup sugar
+Quantifiers: 1/2 cup 
+Ingredients: sugar 
+
+1/4 cup light brown sugar, lightly packed
+Quantifiers: 1/4 cup light 
+Ingredients: brown_sugar 
+
+1/2 teaspoon pure vanilla extract
+Quantifiers: 1/2 teaspoon 
+Ingredients: vanilla_extract 
+
+1 egg
+Quantifiers: 1 
+Ingredients: egg 
+
+3/4 cup all-purpose flour
+Quantifiers: 3/4 cup 
+Ingredients: flour 
+
+1/2 teaspoon baking soda
+Quantifiers: 1/2 teaspoon 
+Ingredients: soda 
+
+1/4 teaspoon baking powder
+Quantifiers: 1/4 teaspoon 
+Ingredients: baking_powder 
+
+1 cup quick oats
+Quantifiers: 1 cup 
+Ingredients: oats 
+
+Peanut Butter Molasses Buttercream, recipe follows
+Quantifiers: 
+Ingredients: Peanut_Butter Molasses 
+
+Peanut Butter Molasses Buttercream:
+Quantifiers: 
+Ingredients: Peanut_Butter Molasses 
+
+1 stick butter, at room temperature
+Quantifiers: 1 stick at room_temperature 
+Ingredients: butter 
+
+1/2 cup peanut butter
+Quantifiers: 1/2 cup 
+Ingredients: peanut_butter 
+
+3/4 cup powdered sugar
+Quantifiers: 3/4 cup 
+Ingredients: powdered_sugar 
+
+2 tablespoons molasses
+Quantifiers: 2 tablespoons 
+Ingredients: molasses 
+
+1 tablespoon heavy cream
+Quantifiers: 1 tablespoon 
+Ingredients: heavy_cream 
+
+Peanut Butter and Strawberry Jam Filling:
+Quantifiers: 
+Ingredients: Peanut_Butter Strawberry_Jam Filling 
+
+3/4 cup creamy peanut butter
+Quantifiers: 3/4 cup 
+Ingredients: peanut_butter 
+
+3/4 cup strawberry jam
+Quantifiers: 3/4 cup 
+Ingredients: strawberry_jam 
+

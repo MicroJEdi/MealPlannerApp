@@ -1,0 +1,32 @@
+1 loaf ficelle or thin French baguette
+Quantifiers: 1 
+Ingredients: loaf baguette 
+
+3 tablespoons olive oil, plus 1/4 cup
+Quantifiers: 3 tablespoons 1/4 cup 
+Ingredients: olive_oil 
+
+1 Meyer lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+Salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 yellow pepper, seeds removed and diced
+Quantifiers: 1 
+Ingredients: pepper seeds 
+
+1 avocado, halved, pitted and flesh diced
+Quantifiers: 1 
+Ingredients: avocado 
+
+1 shallot, finely diced
+Quantifiers: 1 
+Ingredients: shallot 
+
+8 ounces lump crabmeat
+Quantifiers: 8 ounces 
+Ingredients: crabmeat 
+

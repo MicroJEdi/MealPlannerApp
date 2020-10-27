@@ -1,0 +1,52 @@
+Nonstick cooking spray
+Quantifiers: spray 
+Ingredients: 
+
+2 3/4 cups all-purpose flour
+Quantifiers: 2 3/4 cups 
+Ingredients: flour 
+
+1 1/4 teaspoons baking soda
+Quantifiers: 1 1/4 teaspoons 
+Ingredients: soda 
+
+1/2 teaspoon fine salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: salt 
+
+1 cup smooth peanut butter (not natural)
+Quantifiers: 1 cup 
+Ingredients: peanut_butter 
+
+12 tablespoons (1 1/2 sticks) unsalted butter, at room temperature
+Quantifiers: 12 tablespoons 1 1/2 sticks at room_temperature 
+Ingredients: butter 
+
+1/4 cup vegetable shortening
+Quantifiers: 1/4 cup 
+Ingredients: vegetable shortening 
+
+1 3/4 cups packed light brown sugar
+Quantifiers: 1 3/4 cups light 
+Ingredients: brown_sugar 
+
+2 large eggs
+Quantifiers: 2 
+Ingredients: eggs 
+
+1 tablespoon vanilla extract
+Quantifiers: 1 tablespoon 
+Ingredients: vanilla_extract 
+
+2 cups peanut butter chips
+Quantifiers: 2 cups 
+Ingredients: peanut_butter chips 
+
+Your favorite jelly thinned with a splash of liqueur (optional)
+Quantifiers: a splash 
+Ingredients: jelly liqueur 
+
+48 to 60 chocolate kiss candies
+Quantifiers: 60 
+Ingredients: chocolate_kiss candies 
+

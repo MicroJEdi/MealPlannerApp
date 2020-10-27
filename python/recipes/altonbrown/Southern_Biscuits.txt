@@ -1,0 +1,28 @@
+2 cups flour
+Quantifiers: 2 cups 
+Ingredients: flour 
+
+4 teaspoons baking powder
+Quantifiers: 4 teaspoons 
+Ingredients: baking_powder 
+
+1/4 teaspoon baking soda
+Quantifiers: 1/4 teaspoon 
+Ingredients: soda 
+
+3/4 teaspoon salt
+Quantifiers: 3/4 teaspoon 
+Ingredients: salt 
+
+2 tablespoons butter
+Quantifiers: 2 tablespoons 
+Ingredients: butter 
+
+2 tablespoons shortening
+Quantifiers: 2 tablespoons 
+Ingredients: shortening 
+
+1 cup buttermilk, chilled
+Quantifiers: 1 cup 
+Ingredients: buttermilk 
+

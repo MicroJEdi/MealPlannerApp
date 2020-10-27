@@ -1,0 +1,56 @@
+One 15-ounce can whole peeled tomatoes, undrained
+Quantifiers: One can 
+Ingredients: tomatoes 
+
+1/4 cup fresh cilantro leaves, plus more for garnish
+Quantifiers: 1/4 cup leaves 
+Ingredients: cilantro 
+
+1/4 cup diced yellow onion
+Quantifiers: 1/4 cup 
+Ingredients: onion 
+
+1 large clove garlic, peeled and smashed
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1 jalapeno pepper (seeded if desired)
+Quantifiers: 1 
+Ingredients: jalapeno_pepper 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+
+5 ounces cured chorizo, casings removed, diced
+Quantifiers: 5 ounces 
+Ingredients: chorizo 
+
+Vegetable oil
+Quantifiers: 
+Ingredients: Vegetable_oil 
+
+Four 6-inch corn tortillas, plus more for serving, optional
+Quantifiers: Four serving 
+Ingredients: corn tortillas 
+
+One 16-ounce can refried beans, optional
+Quantifiers: One can 
+Ingredients: refried_beans 
+
+4 large eggs
+Quantifiers: 4 
+Ingredients: eggs 
+
+1 avocado, pitted, peeled and diced, for garnish
+Quantifiers: 1 
+Ingredients: avocado 
+
+3/4 cup (3 ounces) crumbled queso fresco or grated Monterey Jack, for serving
+Quantifiers: 3/4 cup 3 ounces Jack serving 
+Ingredients: 
+
+Sour cream, for serving
+Quantifiers: serving 
+Ingredients: Sour_cream 
+

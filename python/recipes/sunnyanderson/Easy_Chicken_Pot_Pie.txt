@@ -1,0 +1,56 @@
+1 1/2 pounds chicken tenders (about 10 tenders)
+Quantifiers: 1 1/2 pounds tenders 10 tenders 
+Ingredients: chicken 
+
+1/2 teaspoon sweet paprika
+Quantifiers: 1/2 teaspoon 
+Ingredients: sweet paprika 
+
+1/2 teaspoon dried sage
+Quantifiers: 1/2 teaspoon 
+Ingredients: sage 
+
+1/4 teaspoon dried oregano
+Quantifiers: 1/4 teaspoon 
+Ingredients: oregano 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 tablespoons extra-virgin olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+1 cup frozen pearl onions
+Quantifiers: 1 cup 
+Ingredients: onions 
+
+1 cup frozen peas and diced carrots
+Quantifiers: 1 cup 
+Ingredients: peas carrots 
+
+2 cloves garlic, minced
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+2 tablespoons all-purpose flour
+Quantifiers: 2 tablespoons 
+Ingredients: flour 
+
+2 cups low-sodium chicken stock
+Quantifiers: 2 cups 
+Ingredients: chicken_stock 
+
+1 cup heavy cream
+Quantifiers: 1 cup 
+Ingredients: heavy_cream 
+
+1 store bought pie crust, unbaked and thawed if frozen
+Quantifiers: 1 
+Ingredients: pie_crust 
+
+1 egg, lightly beaten
+Quantifiers: 1 
+Ingredients: egg 
+

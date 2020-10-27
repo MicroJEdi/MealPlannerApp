@@ -1,0 +1,64 @@
+HAM:
+Quantifiers: 
+Ingredients: HAM 
+
+1 lightly salted ham, approximately 4 pounds
+Quantifiers: 1 4 pounds 
+Ingredients: ham 
+
+2 bay leaves
+Quantifiers: 2 leaves 
+Ingredients: bay_leaves 
+
+2 carrots
+Quantifiers: 2 
+Ingredients: carrots 
+
+2 onions
+Quantifiers: 2 
+Ingredients: onions 
+
+2 juniper berries
+Quantifiers: 2 
+Ingredients: juniper_berries 
+
+2 cloves
+Quantifiers: 2 
+Ingredients: cloves 
+
+1 tablespoons dried thyme
+Quantifiers: 1 tablespoons 
+Ingredients: thyme 
+
+MUSTARD MIX:
+Quantifiers: 
+Ingredients: MUSTARD MIX 
+
+3 cup bread crumbs
+Quantifiers: 3 cup crumbs 
+Ingredients: bread 
+
+1 cup syrup
+Quantifiers: 1 cup 
+Ingredients: syrup 
+
+1/2 cup brown sugar
+Quantifiers: 1/2 cup 
+Ingredients: brown_sugar 
+
+2 tablespoons soy sauce
+Quantifiers: 2 tablespoons 
+Ingredients: soy_sauce 
+
+1 teaspoon ginger powder
+Quantifiers: 1 teaspoon 
+Ingredients: ginger 
+
+2 pounds mustard
+Quantifiers: 2 pounds 
+Ingredients: mustard 
+
+1 tablespoon Garam Masala
+Quantifiers: 1 tablespoon 
+Ingredients: 
+

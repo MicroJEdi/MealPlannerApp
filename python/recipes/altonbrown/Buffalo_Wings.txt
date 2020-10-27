@@ -1,0 +1,20 @@
+12 whole chicken wings
+Quantifiers: 12 chicken_wings 
+Ingredients: 
+
+3 ounces unsalted butter
+Quantifiers: 3 ounces 
+Ingredients: butter 
+
+1 small clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+1/4 cup hot sauce
+Quantifiers: 1/4 cup 
+Ingredients: hot_sauce 
+
+1/2 teaspoon kosher salt
+Quantifiers: 1/2 teaspoon 
+Ingredients: kosher salt 
+

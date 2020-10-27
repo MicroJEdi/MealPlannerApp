@@ -1,0 +1,64 @@
+16 chicken tenders or 4 boneless chicken breasts cut into 4 equal strips
+Quantifiers: 16 tenders 4 breasts 4 
+Ingredients: chicken chicken cut 
+
+The Lady and Sons house seasoning, recipe follows
+Quantifiers: 
+Ingredients: seasoning 
+
+2 cups buttermilk
+Quantifiers: 2 cups 
+Ingredients: buttermilk 
+
+3 cups self-rising flour
+Quantifiers: 3 cups 
+Ingredients: self-rising_flour 
+
+Peanut oil or lard
+Quantifiers: 
+Ingredients: Peanut_oil lard 
+
+The Lady and Sons house seasoning:
+Quantifiers: 
+Ingredients: seasoning 
+
+1 cup salt
+Quantifiers: 1 cup 
+Ingredients: salt 
+
+1/4 cup black pepper
+Quantifiers: 1/4 cup 
+Ingredients: black_pepper 
+
+1/4 cup garlic powder
+Quantifiers: 1/4 cup 
+Ingredients: garlic 
+
+Honey mustard dressing:
+Quantifiers: 
+Ingredients: Honey mustard dressing 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+3 tablespoons honey
+Quantifiers: 3 tablespoons 
+Ingredients: honey 
+
+2 tablespoons yellow prepared mustard
+Quantifiers: 2 tablespoons 
+Ingredients: mustard 
+
+1 tablespoon lemon juice or juice form 1/2 a lemon
+Quantifiers: 1 tablespoon form 1/2 a 
+Ingredients: lemon_juice lemon 
+
+Horseradish, to taste
+Quantifiers: taste 
+Ingredients: Horseradish 
+
+2 tablespoons orange juice
+Quantifiers: 2 tablespoons 
+Ingredients: orange_juice 
+

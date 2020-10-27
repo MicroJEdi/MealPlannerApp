@@ -1,0 +1,88 @@
+Vegetables:
+Quantifiers: 
+Ingredients: Vegetables 
+
+3 tablespoons dry white wine
+Quantifiers: 3 tablespoons 
+Ingredients: white_wine 
+
+2 tablespoons extra-virgin olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+3 cloves garlic, minced
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+12 ounces jarred artichoke hearts, drained
+Quantifiers: 12 ounces 
+Ingredients: artichoke_hearts 
+
+8 ounces haricot vert, trimmed and cut in half 
+Quantifiers: 8 ounces in half 
+Ingredients: haricot_vert cut 
+
+1 pint grape tomatoes 
+Quantifiers: 1 pint 
+Ingredients: grape tomatoes 
+
+1/3 cup kalamata olives, pitted and coarsely chopped 
+Quantifiers: 1/3 cup 
+Ingredients: olives 
+
+2 tablespoons capers, drained and coarsely chopped 
+Quantifiers: 2 tablespoons 
+Ingredients: capers 
+
+1 red onion, cut into chunks 
+Quantifiers: 1 chunks 
+Ingredients: red_onion cut 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Shrimp:
+Quantifiers: 
+Ingredients: Shrimp 
+
+1 tablespoon extra-virgin olive oil
+Quantifiers: 1 tablespoon 
+Ingredients: olive_oil 
+
+1/2 teaspoon dried oregano 
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+1/4 teaspoon crushed red pepper 
+Quantifiers: 1/4 teaspoon 
+Ingredients: red_pepper 
+
+1 clove garlic, minced
+Quantifiers: 1 
+Ingredients: clove garlic 
+
+Grated zest and juice of 1 lemon 
+Quantifiers: 1 
+Ingredients: juice lemon 
+
+1 pound cleaned large shrimp 
+Quantifiers: 1 pound 
+Ingredients: shrimp 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+1 baguette, cut in half lengthwise and then crosswise into 4 pieces total
+Quantifiers: 1 in half then 4 pieces 
+Ingredients: baguette cut 
+
+Extra-virgin olive oil, for drizzling
+Quantifiers: 
+Ingredients: olive_oil 
+
+4 ounces crumbled feta cheese
+Quantifiers: 4 ounces 
+Ingredients: cheese 
+

@@ -1,0 +1,56 @@
+1 pound ham hocks, smoked turkey wings, or smoked neck bones
+Quantifiers: 1 pound turkey_wings bones 
+Ingredients: ham_hocks neck 
+
+1 teaspoon House Seasoning, plus more for seasoning, recipe follows
+Quantifiers: 1 teaspoon 
+Ingredients: Seasoning seasoning 
+
+1 teaspoon seasoned salt
+Quantifiers: 1 teaspoon 
+Ingredients: seasoned_salt 
+
+1 tablespoon hot sauce (recommended: Texas Pete)
+Quantifiers: 1 tablespoon 
+Ingredients: hot_sauce 
+
+Olive oil, for drizzling
+Quantifiers: 
+Ingredients: Olive_oil 
+
+1/2 large bunch collard greens
+Quantifiers: 1/2 
+Ingredients: collard_greens 
+
+4 tablespoons (1/2 stick) butter
+Quantifiers: 4 tablespoons 1/2 stick 
+Ingredients: butter 
+
+1 (8-ounce) package cream cheese, softened
+Quantifiers: 1 package 
+Ingredients: cream_cheese 
+
+70 wonton wrappers, approximately
+Quantifiers: 70 
+Ingredients: wonton 
+
+Peanut oil, for frying
+Quantifiers: 
+Ingredients: Peanut_oil 
+
+House Seasoning:
+Quantifiers: 
+Ingredients: Seasoning 
+
+1 cup table salt
+Quantifiers: 1 cup 
+Ingredients: table_salt 
+
+1/4 cup pepper
+Quantifiers: 1/4 cup 
+Ingredients: pepper 
+
+1/4 cup garlic powder
+Quantifiers: 1/4 cup 
+Ingredients: garlic 
+

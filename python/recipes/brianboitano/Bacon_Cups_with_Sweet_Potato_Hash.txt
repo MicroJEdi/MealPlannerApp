@@ -1,0 +1,48 @@
+Bacon Cups:
+Quantifiers: Cups 
+Ingredients: Bacon 
+
+24 slices pancetta, sliced 1/16-inch thick
+Quantifiers: 24 slices 
+Ingredients: 
+
+Sweet Potato Hash:
+Quantifiers: 
+Ingredients: Sweet_Potato Hash 
+
+4 strips bacon
+Quantifiers: 4 
+Ingredients: bacon 
+
+1 large sweet potato, small diced
+Quantifiers: 1 
+Ingredients: sweet_potato 
+
+4 stalks celery, diced
+Quantifiers: 4 
+Ingredients: celery 
+
+1 small yellow onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 teaspoon paprika
+Quantifiers: 1 teaspoon 
+Ingredients: paprika 
+
+1/2 teaspoon red pepper flakes
+Quantifiers: 1/2 teaspoon 
+Ingredients: red_pepper 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+24 fresh parsley leaves
+Quantifiers: 24 leaves 
+Ingredients: parsley 
+

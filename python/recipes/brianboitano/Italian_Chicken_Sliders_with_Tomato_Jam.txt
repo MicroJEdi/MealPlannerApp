@@ -1,0 +1,76 @@
+Tomato Jam:
+Quantifiers: 
+Ingredients: Tomato Jam 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 small onion, diced
+Quantifiers: 1 
+Ingredients: onion 
+
+2 cloves garlic, chopped
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 (15-ounce) can diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+1/4 cup balsamic vinegar
+Quantifiers: 1/4 cup 
+Ingredients: vinegar 
+
+1/2 teaspoon dried oregano
+Quantifiers: 1/2 teaspoon 
+Ingredients: oregano 
+
+2 tablespoons brown sugar
+Quantifiers: 2 tablespoons 
+Ingredients: brown_sugar 
+
+Pinch salt and freshly ground black pepper
+Quantifiers: Pinch ground 
+Ingredients: salt black_pepper 
+
+3 tablespoons chopped fresh parsley leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: parsley 
+
+Sliders:
+Quantifiers: 
+Ingredients: 
+
+1 pound boneless skinless chicken breast, about 2 large breasts
+Quantifiers: 1 pound breast 2 breasts 
+Ingredients: chicken 
+
+Salt and fresh ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+12 slices pancetta
+Quantifiers: 12 slices 
+Ingredients: 
+
+1 (8-ounce) piece fresh mozzarella, sliced into 12 slices
+Quantifiers: 1 piece 12 slices 
+Ingredients: mozzarella 
+
+12 small crusty dinner rolls, cut in half with a fork
+Quantifiers: 12 rolls in half a fork 
+Ingredients: dinner cut 
+
+Tomato jam
+Quantifiers: 
+Ingredients: Tomato jam 
+
+12 fresh basil leaves
+Quantifiers: 12 leaves 
+Ingredients: basil 
+

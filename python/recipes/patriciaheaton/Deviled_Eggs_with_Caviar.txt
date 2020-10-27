@@ -1,0 +1,32 @@
+8 large eggs
+Quantifiers: 8 
+Ingredients: eggs 
+
+3 tablespoons mayonnaise 
+Quantifiers: 3 tablespoons 
+Ingredients: mayonnaise 
+
+1 tablespoon creme fraiche or sour cream, plus more for topping 
+Quantifiers: 1 tablespoon 
+Ingredients: sour_cream 
+
+1 teaspoon Dijon mustard 
+Quantifiers: 1 teaspoon 
+Ingredients: mustard 
+
+1/4 teaspoon paprika 
+Quantifiers: 1/4 teaspoon 
+Ingredients: paprika 
+
+Kosher salt and freshly ground black pepper 
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+4 tablespoons orange tobiko (flying fish roe) or other caviar (about 1/4 ounce) 
+Quantifiers: 4 tablespoons 1/4 ounce 
+Ingredients: orange fish roe caviar 
+
+Sixteen 1/2-inch-long pieces fresh chive
+Quantifiers: Sixteen pieces 
+Ingredients: 
+

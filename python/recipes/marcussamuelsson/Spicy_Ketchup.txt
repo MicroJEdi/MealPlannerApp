@@ -1,0 +1,44 @@
+2 red bell peppers
+Quantifiers: 2 
+Ingredients: bell_peppers 
+
+2 poblano peppers
+Quantifiers: 2 
+Ingredients: peppers 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+1 cup ketchup
+Quantifiers: 1 cup 
+Ingredients: ketchup 
+
+1/4 cup Dijon mustard
+Quantifiers: 1/4 cup 
+Ingredients: mustard 
+
+2 teaspoons horseradish
+Quantifiers: 2 teaspoons 
+Ingredients: horseradish 
+
+2 teaspoons smoked paprika
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+
+1 teaspoon chili powder
+Quantifiers: 1 teaspoon 
+Ingredients: chili_powder 
+
+1/8 teaspoon freshly ground black pepper
+Quantifiers: 1/8 teaspoon ground 
+Ingredients: black_pepper 
+
+1/8 teaspoon garlic powder
+Quantifiers: 1/8 teaspoon 
+Ingredients: garlic 
+
+8 drops hot sauce, such as Tabasco
+Quantifiers: 8 drops as 
+Ingredients: hot_sauce Tabasco 
+

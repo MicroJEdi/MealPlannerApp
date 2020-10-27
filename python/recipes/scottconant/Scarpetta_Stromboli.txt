@@ -1,0 +1,128 @@
+Dough:
+Quantifiers: 
+Ingredients: Dough 
+
+1 tablespoon dry yeast
+Quantifiers: 1 tablespoon 
+Ingredients: yeast 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+5 1/2 cups bread flour
+Quantifiers: 5 1/2 cups 
+Ingredients: bread flour 
+
+2 teaspoons salt
+Quantifiers: 2 teaspoons 
+Ingredients: salt 
+
+Filling:
+Quantifiers: 
+Ingredients: Filling 
+
+2 cups grated smoked mozzarella
+Quantifiers: 2 cups 
+Ingredients: mozzarella 
+
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1/2 bunch fresh basil, leaves chopped
+Quantifiers: 1/2 leaves 
+Ingredients: basil 
+
+1 tablespoon chopped garlic
+Quantifiers: 1 tablespoon 
+Ingredients: garlic 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+4 ounces salami, sliced thin
+Quantifiers: 4 ounces 
+Ingredients: salami 
+
+Extra-virgin olive oil
+Quantifiers: 
+Ingredients: olive_oil 
+
+Toppings:
+Quantifiers: 
+Ingredients: 
+
+1 tablespoon fresh rosemary leaves, chopped
+Quantifiers: 1 tablespoon leaves 
+Ingredients: rosemary 
+
+1 teaspoon sea salt, such as Maldon
+Quantifiers: 1 teaspoon sea as 
+Ingredients: salt 
+
+1/4 pint cherry tomatoes, halved
+Quantifiers: 1/4 pint 
+Ingredients: cherry tomatoes 
+
+Citrus Herb Oil, for serving, recipe follows
+Quantifiers: serving 
+Ingredients: Citrus Herb Oil 
+
+Mascarpone Butter, for serving, recipe follows
+Quantifiers: serving 
+Ingredients: Mascarpone Butter 
+
+Citrus Herb Oil:
+Quantifiers: 
+Ingredients: Citrus Herb Oil 
+
+3 cups blended oil
+Quantifiers: 3 cups 
+Ingredients: oil 
+
+1 cup extra-virgin olive oil
+Quantifiers: 1 cup 
+Ingredients: olive_oil 
+
+2 cloves garlic
+Quantifiers: 2 
+Ingredients: cloves garlic 
+
+1 lemon, zested, white removed
+Quantifiers: 1 
+Ingredients: lemon white 
+
+1 lime, zested, white removed
+Quantifiers: 1 
+Ingredients: lime white 
+
+1 orange, zested, white removed
+Quantifiers: 1 
+Ingredients: orange white 
+
+1 sprig fresh rosemary
+Quantifiers: 1 
+Ingredients: rosemary 
+
+1 sprig fresh thyme
+Quantifiers: 1 
+Ingredients: thyme 
+
+Pinch red pepper flakes
+Quantifiers: Pinch 
+Ingredients: red_pepper 
+
+Mascarpone Butter:
+Quantifiers: 
+Ingredients: Mascarpone Butter 
+
+2 sticks unsalted butter
+Quantifiers: 2 sticks 
+Ingredients: butter 
+
+3 ounces mascarpone
+Quantifiers: 3 ounces 
+Ingredients: mascarpone 
+

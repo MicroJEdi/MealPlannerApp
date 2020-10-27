@@ -1,0 +1,40 @@
+2 large russet potatoes
+Quantifiers: 2 
+Ingredients: potatoes 
+
+4 tablespoons butter, melted
+Quantifiers: 4 tablespoons 
+Ingredients: butter 
+
+Salt and pepper
+Quantifiers: 
+Ingredients: Salt pepper 
+
+1 cup shredded Cheddar
+Quantifiers: 1 cup 
+Ingredients: Cheddar 
+
+6 slices bacon, cooked and crumbled
+Quantifiers: 6 slices 
+Ingredients: bacon 
+
+1 cup sour cream
+Quantifiers: 1 cup 
+Ingredients: sour_cream 
+
+2 tablespoons prepared horseradish
+Quantifiers: 2 tablespoons 
+Ingredients: horseradish 
+
+3 tablespoons sliced green onions
+Quantifiers: 3 tablespoons 
+Ingredients: green_onions 
+
+1/2 cup chopped tomatoes
+Quantifiers: 1/2 cup 
+Ingredients: tomatoes 
+
+Chopped chives, for garnish
+Quantifiers: 
+Ingredients: chives 
+

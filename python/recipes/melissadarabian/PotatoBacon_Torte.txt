@@ -1,0 +1,52 @@
+4 strips bacon
+Quantifiers: 4 
+Ingredients: bacon 
+
+3 sprigs fresh thyme
+Quantifiers: 3 
+Ingredients: thyme 
+
+2/3 cup heavy cream
+Quantifiers: 2/3 cup 
+Ingredients: heavy_cream 
+
+2 Pie Crusts, recipe follows
+Quantifiers: 2 
+Ingredients: Pie_Crusts 
+
+3 medium baking potatoes, peeled
+Quantifiers: 3 medium 
+Ingredients: potatoes 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1/4 cup grated Gruyere cheese
+Quantifiers: 1/4 cup 
+Ingredients: Gruyere cheese 
+
+1 egg yolk, whisked with a splash of water
+Quantifiers: 1 a splash 
+Ingredients: egg_yolk water 
+
+Pie Crust:
+Quantifiers: 
+Ingredients: Pie_Crust 
+
+1 cup butter (2 sticks), cubed and chilled
+Quantifiers: 1 cup 2 sticks 
+Ingredients: butter 
+
+2 1/4 cups all-purpose flour
+Quantifiers: 2 1/4 cups 
+Ingredients: flour 
+
+1 teaspoon salt
+Quantifiers: 1 teaspoon 
+Ingredients: salt 
+
+8 to 10 tablespoons ice water
+Quantifiers: 8 10 tablespoons 
+Ingredients: ice_water 
+

@@ -1,0 +1,48 @@
+Salt
+Quantifiers: 
+Ingredients: Salt 
+
+1 pound ziti
+Quantifiers: 1 pound 
+Ingredients: ziti 
+
+1 pound hot Italian turkey sausage, casing removed
+Quantifiers: 1 pound 
+Ingredients: turkey sausage 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+3 cloves garlic, chopped
+Quantifiers: 3 
+Ingredients: cloves garlic 
+
+1 (28-ounce) can diced tomatoes
+Quantifiers: 1 can 
+Ingredients: tomatoes 
+
+6 ounces pesto
+Quantifiers: 6 ounces 
+Ingredients: pesto 
+
+15 ounces ricotta cheese
+Quantifiers: 15 ounces 
+Ingredients: ricotta cheese 
+
+1 (9-ounce) package washed spinach
+Quantifiers: 1 package 
+Ingredients: spinach 
+
+Butter, for baking dish
+Quantifiers: dish 
+Ingredients: Butter 
+
+2 cups shredded mozzarella, plus more for topping
+Quantifiers: 2 cups 
+Ingredients: mozzarella 
+
+1 1/2 cups grated Parmesan, plus more for topping
+Quantifiers: 1 1/2 cups 
+Ingredients: Parmesan 
+

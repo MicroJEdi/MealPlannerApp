@@ -1,0 +1,44 @@
+36 ounces sake
+Quantifiers: ounces 
+Ingredients: sake 
+
+1 (7-ounce) black cod fillet
+Quantifiers: 1 black 
+Ingredients: cod fillet 
+
+6 slices peeled ginger root, plus shredded ginger, for garnish
+Quantifiers: 6 slices root 
+Ingredients: ginger ginger 
+
+3 thick pieces burdock root
+Quantifiers: 3 pieces root 
+Ingredients: 
+
+3 thick pieces Japanese mountain potato
+Quantifiers: 3 pieces mountain 
+Ingredients: potato 
+
+3 ounces regular soy sauce
+Quantifiers: 3 ounces 
+Ingredients: soy_sauce 
+
+Pinch Japanese premium white sugar
+Quantifiers: Pinch premium 
+Ingredients: white sugar 
+
+1 ounce mirin
+Quantifiers: 1 ounce 
+Ingredients: 
+
+1 ounce tamari soy sauce
+Quantifiers: 1 ounce 
+Ingredients: soy_sauce 
+
+White scallion, for garnish
+Quantifiers: 
+Ingredients: White scallion 
+
+Kinome (available at Japanese markets), watercress or mint leaves could be substituted
+Quantifiers: at mint leaves 
+Ingredients: watercress 
+

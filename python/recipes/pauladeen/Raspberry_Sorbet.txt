@@ -1,0 +1,20 @@
+2 cups sugar
+Quantifiers: 2 cups 
+Ingredients: sugar 
+
+2 cups water
+Quantifiers: 2 cups 
+Ingredients: water 
+
+2 quarts raspberries, hulled and sliced
+Quantifiers: 2 quarts 
+Ingredients: raspberries 
+
+1/4 cup fresh lime juice
+Quantifiers: 1/4 cup 
+Ingredients: lime_juice 
+
+1/2 cup white corn syrup
+Quantifiers: 1/2 cup 
+Ingredients: white corn_syrup 
+

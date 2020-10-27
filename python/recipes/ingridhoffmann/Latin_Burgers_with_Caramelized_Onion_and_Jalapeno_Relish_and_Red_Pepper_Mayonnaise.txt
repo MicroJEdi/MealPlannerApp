@@ -1,0 +1,60 @@
+3/4 pound ground sirloin
+Quantifiers: 3/4 pound ground 
+Ingredients: sirloin 
+
+3/4 pound ground chuck
+Quantifiers: 3/4 pound ground 
+Ingredients: chuck 
+
+1/2 pound raw chorizo, casings removed and crumbled
+Quantifiers: 1/2 pound 
+Ingredients: chorizo 
+
+1 tablespoon adobo seasoning
+Quantifiers: 1 tablespoon 
+Ingredients: adobo seasoning 
+
+1 large onion, grated
+Quantifiers: 1 
+Ingredients: onion 
+
+1/2 cup dry bread crumbs
+Quantifiers: 1/2 cup crumbs 
+Ingredients: bread 
+
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 large yellow onions, finely sliced
+Quantifiers: 2 
+Ingredients: onions 
+
+Kosher salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Kosher salt pepper 
+
+1/2 cup bottled and sliced jalapeno chiles, drained
+Quantifiers: 1/2 cup 
+Ingredients: jalapeno chiles 
+
+1/2 cup dark brown sugar
+Quantifiers: 1/2 cup dark 
+Ingredients: brown_sugar 
+
+2 medium jarred roasted red bell peppers, drained
+Quantifiers: 2 medium 
+Ingredients: bell_peppers 
+
+3/4 cup mayonnaise
+Quantifiers: 3/4 cup 
+Ingredients: mayonnaise 
+
+6 slices Oaxaca cheese or mozzarella
+Quantifiers: 6 slices 
+Ingredients: cheese mozzarella 
+
+6 hamburger rolls
+Quantifiers: 6 rolls 
+Ingredients: hamburger_rolls 
+

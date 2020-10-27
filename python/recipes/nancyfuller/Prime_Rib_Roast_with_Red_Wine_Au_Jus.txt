@@ -1,0 +1,28 @@
+One 6- to 7-pound bone-in prime rib roast
+Quantifiers: One prime 
+Ingredients: rib_roast 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Coarsely ground black pepper 
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+1 stick (8 tablespoons) unsalted butter 
+Quantifiers: 1 stick 8 tablespoons 
+Ingredients: butter 
+
+4 cups beef stock 
+Quantifiers: 4 cups 
+Ingredients: beef_stock 
+
+2 cups red wine 
+Quantifiers: 2 cups 
+Ingredients: red_wine 
+
+1 sprig fresh rosemary, leaves removed from stem and chopped
+Quantifiers: 1 leaves 
+Ingredients: rosemary 
+

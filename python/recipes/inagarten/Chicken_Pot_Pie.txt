@@ -1,0 +1,92 @@
+3 whole (6 split) chicken breasts, bone-in, skin-on
+Quantifiers: 3 6 split breasts 
+Ingredients: chicken 
+
+3 tablespoons olive oil
+Quantifiers: 3 tablespoons 
+Ingredients: olive_oil 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+
+5 cups chicken stock, preferably homemade
+Quantifiers: 5 cups 
+Ingredients: chicken_stock 
+
+2 chicken bouillon cubes
+Quantifiers: 2 cubes 
+Ingredients: chicken bouillon_cubes 
+
+12 tablespoons (1 1/2 sticks) unsalted butter
+Quantifiers: 12 tablespoons 1 1/2 sticks 
+Ingredients: butter 
+
+2 cups yellow onions, chopped (2 onions)
+Quantifiers: 2 cups 2 
+Ingredients: onions onions 
+
+3/4 cup all-purpose flour
+Quantifiers: 3/4 cup 
+Ingredients: flour 
+
+1/4 cup heavy cream
+Quantifiers: 1/4 cup 
+Ingredients: heavy_cream 
+
+2 cups medium-diced carrots, blanched for 2 minutes
+Quantifiers: 2 cups 2 minutes 
+Ingredients: carrots 
+
+1 (10-ounce) package frozen peas (2 cups)
+Quantifiers: 1 package 2 cups 
+Ingredients: peas 
+
+1 1/2 cups frozen small whole onions
+Quantifiers: 1 1/2 cups 
+Ingredients: onions 
+
+1/2 cup minced fresh parsley leaves
+Quantifiers: 1/2 cup leaves 
+Ingredients: parsley 
+
+For the pastry:
+Quantifiers: 
+Ingredients: pastry 
+
+3 cups all-purpose flour
+Quantifiers: 3 cups 
+Ingredients: flour 
+
+1 1/2 teaspoons kosher salt
+Quantifiers: 1 1/2 teaspoons 
+Ingredients: kosher salt 
+
+1 teaspoon baking powder
+Quantifiers: 1 teaspoon 
+Ingredients: baking_powder 
+
+1/2 cup vegetable shortening
+Quantifiers: 1/2 cup 
+Ingredients: vegetable shortening 
+
+1/4 pound cold unsalted butter, diced
+Quantifiers: 1/4 pound cold 
+Ingredients: butter 
+
+1/2 to 2/3 cup ice water
+Quantifiers: 1/2 2/3 cup 
+Ingredients: ice_water 
+
+1 egg beaten with 1 tablespoon water, for egg wash
+Quantifiers: 1 1 tablespoon 
+Ingredients: egg water egg 
+
+Flaked sea salt and cracked black pepper
+Quantifiers: sea 
+Ingredients: salt black_pepper 
+

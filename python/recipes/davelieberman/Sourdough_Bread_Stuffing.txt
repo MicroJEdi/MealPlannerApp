@@ -1,0 +1,40 @@
+1-pound loaf sourdough bread
+Quantifiers: 
+Ingredients: loaf sourdough_bread 
+
+8 tablespoons butter
+Quantifiers: 8 tablespoons 
+Ingredients: butter 
+
+10 ounces cremini mushrooms, sliced 1/2-inch thick in both directions
+Quantifiers: 10 ounces in 
+Ingredients: mushrooms 
+
+Salt and freshly ground pepper
+Quantifiers: ground 
+Ingredients: Salt pepper 
+
+2 to 4 stalks celery with leaves, halved lengthwise and sliced
+Quantifiers: 2 4 leaves 
+Ingredients: celery 
+
+1 medium onion, chopped
+Quantifiers: 1 medium 
+Ingredients: onion 
+
+About 10 sprigs fresh thyme, leaves stripped from the stems
+Quantifiers: 10 leaves 
+Ingredients: thyme 
+
+10 to 12 fresh sage leaves, chopped
+Quantifiers: 10 12 leaves 
+Ingredients: sage 
+
+3 1/2 cups low-sodium chicken broth
+Quantifiers: 3 1/2 cups 
+Ingredients: chicken_broth 
+
+3 tablespoons chopped Italian parsley leaves
+Quantifiers: 3 tablespoons leaves 
+Ingredients: parsley 
+

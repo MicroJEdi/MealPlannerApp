@@ -1,0 +1,76 @@
+Wet Masala (Spice Blend):
+Quantifiers: 
+Ingredients: Spice 
+
+1 teaspoon cumin seeds
+Quantifiers: 1 teaspoon 
+Ingredients: cumin_seeds 
+
+2 (1-inch) pieces cinnamon bark
+Quantifiers: 2 pieces bark 
+Ingredients: cinnamon 
+
+6 whole cloves
+Quantifiers: 6 
+Ingredients: cloves 
+
+4 whole black peppercorns
+Quantifiers: 4 black 
+Ingredients: peppercorns 
+
+1 teaspoon ground turmeric
+Quantifiers: 1 teaspoon ground 
+Ingredients: turmeric 
+
+2 teaspoons paprika
+Quantifiers: 2 teaspoons 
+Ingredients: paprika 
+
+1/2 teaspoon cayenne (more if you're feeling feisty!)
+Quantifiers: 1/2 teaspoon 
+Ingredients: cayenne 
+
+1 heaping tablespoon Ginger Garlic Paste, recipe follows, or 6 cloves garlic, peeled and roughly chopped and 1-inch thumb fresh ginger, peeled and roughly chopped
+Quantifiers: 1 tablespoon 6 
+Ingredients: Ginger Garlic Paste cloves garlic ginger 
+
+1/2 cup apple cider vinegar
+Quantifiers: 1/2 cup 
+Ingredients: apple cider_vinegar 
+
+3 tablespoons canola oil
+Quantifiers: 3 tablespoons 
+Ingredients: canola_oil 
+
+1 medium red onion, sliced very thinly
+Quantifiers: 1 medium 
+Ingredients: red_onion 
+
+1 serrano pepper, sliced in half
+Quantifiers: 1 in half 
+Ingredients: pepper 
+
+2 pounds boneless beef top sirloin, trimmed of all excess fat, cut into 1-inch cubes
+Quantifiers: 2 pounds cubes 
+Ingredients: beef sirloin cut 
+
+Kosher salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Kosher salt black_pepper 
+
+Ginger-Garlic Paste:
+Quantifiers: 
+Ingredients: Paste 
+
+1/2 cup cloves garlic, whole
+Quantifiers: 1/2 cup 
+Ingredients: cloves garlic 
+
+1/2 cup fresh ginger, peeled, 1/2-inch slices
+Quantifiers: 1/2 cup slices 
+Ingredients: ginger 
+
+1/4 cup canola oil
+Quantifiers: 1/4 cup 
+Ingredients: canola_oil 
+

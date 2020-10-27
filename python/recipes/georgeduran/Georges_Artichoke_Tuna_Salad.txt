@@ -1,0 +1,36 @@
+2 (6-ounce) cans solid white tuna in water, drained
+Quantifiers: 2 cans in 
+Ingredients: white tuna water 
+
+1 cup mayonnaise
+Quantifiers: 1 cup 
+Ingredients: mayonnaise 
+
+4 canned artichoke hearts, chopped
+Quantifiers: 4 
+Ingredients: artichoke_hearts 
+
+2 scallions, chopped, white and green parts
+Quantifiers: 2 
+Ingredients: scallions white green 
+
+2 tablespoons chopped cilantro leaves
+Quantifiers: 2 tablespoons leaves 
+Ingredients: cilantro 
+
+1 lemon, juiced
+Quantifiers: 1 
+Ingredients: lemon 
+
+6 dashes hot sauce, or to taste
+Quantifiers: 6 taste 
+Ingredients: hot_sauce 
+
+Kosher salt
+Quantifiers: 
+Ingredients: Kosher salt 
+
+Freshly ground black pepper
+Quantifiers: ground 
+Ingredients: black_pepper 
+

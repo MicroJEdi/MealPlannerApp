@@ -1,0 +1,52 @@
+2 tablespoons olive oil
+Quantifiers: 2 tablespoons 
+Ingredients: olive_oil 
+
+2 stalks celery, cut into bite-size pieces
+Quantifiers: 2 pieces 
+Ingredients: celery cut 
+
+1 carrot, peeled, cut into bite-size pieces
+Quantifiers: 1 pieces 
+Ingredients: carrot cut 
+
+1 small onion, chopped
+Quantifiers: 1 
+Ingredients: onion 
+
+Salt and freshly ground black pepper
+Quantifiers: ground 
+Ingredients: Salt black_pepper 
+
+1 (14 1/2-ounce) can chopped tomatoes
+Quantifiers: 1 14 can 
+Ingredients: tomatoes 
+
+1 (14-ounce) can low-salt chicken broth
+Quantifiers: 1 can 
+Ingredients: chicken_broth 
+
+1/2 cup fresh basil leaves, torn into pieces
+Quantifiers: 1/2 cup leaves pieces 
+Ingredients: basil 
+
+1 tablespoon tomato paste
+Quantifiers: 1 tablespoon 
+Ingredients: tomato_paste 
+
+1 bay leaf
+Quantifiers: 1 
+Ingredients: bay_leaf 
+
+1/2 teaspoon dried thyme leaves
+Quantifiers: 1/2 teaspoon leaves 
+Ingredients: thyme 
+
+2 chicken breast with ribs (about 1 1/2 pounds total)
+Quantifiers: 2 breast ribs 1 1/2 pounds 
+Ingredients: chicken 
+
+1 (15-ounce) can organic kidney beans, drained (rinsed if not organic)
+Quantifiers: 1 can 
+Ingredients: kidney_beans 
+
